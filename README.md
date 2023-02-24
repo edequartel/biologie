@@ -1,4 +1,6 @@
-## Erfelijkheid
+### 2016
+
+## Erfelijkheid (1-4)
 
 ## gen of allel
 Een gen is een stukje DNA op een bepaalde locatie op een chromosoom dat codeert voor een specifieke eigenschap of functie. Genen bepalen de basiskenmerken van een organisme, zoals de kleur van de ogen of de bloedgroep.
@@ -35,7 +37,7 @@ Als de hengst daarentegen heterozygoot is, dan heeft hij één A-allel en één 
 
 Dus om te bepalen of de hengst heterozygoot of homozygoot is, moeten de nakomelingen worden geobserveerd. Als alle nakomelingen het appaloosa-vlekkenpatroon hebben, is de hengst homozygoot dominant voor het allel A. Als slechts de helft van de nakomelingen het appaloosa-vlekkenpatroon heeft, is de hengst heterozygoot voor het gen.
 
-## Symbiose
+## Symbiose (5)
 ymbiose is een term die wordt gebruikt om de nauwe en langdurige samenwerking tussen twee of meer verschillende soorten organismen aan te duiden, waarbij elk van de organismen profiteert van de relatie. Het is een biologisch concept waarbij organismen van verschillende soorten samenleven en wederzijds voordeel halen uit deze relatie.
 
 Er zijn verschillende soorten symbiose. Bij mutualisme hebben beide organismen voordeel van de relatie. Bij commensalisme heeft één organisme voordeel, terwijl de andere neutraal wordt beïnvloed. Bij parasitisme heeft één organisme voordeel, terwijl de andere schade lijdt.
