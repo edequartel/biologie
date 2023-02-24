@@ -44,7 +44,7 @@ Er zijn verschillende soorten symbiose. Bij mutualisme hebben beide organismen v
 
 Symbiose komt veel voor in de natuur en kan variëren van de nauwe samenwerking tussen bepaalde bacteriën en plantenwortels, tot de complexe relatie tussen bijen en bloemen, waarbij de bijen nectar verzamelen en in ruil daarvoor helpen bij de bestuiving van de bloemen. Andere voorbeelden van symbiose zijn de relatie tussen bepaalde vissen en schoonmaakgarnalen, en de relatie tussen bepaalde dieren en hun endosymbionten, zoals de bacteriën in de darmen van herbivoren die helpen bij de vertering van plantaardig materiaal.
 
----
+tot hier 24022023
 
 ## heterotroof vs autotroof (6)
 Het belangrijkste verschil tussen heterotroof en autotroof is de manier waarop organismen hun voedsel verkrijgen.
