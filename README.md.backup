@@ -1,4 +1,4 @@
-### 2016 dag meintje
+### 2016 - examen
 
 ## Erfelijkheid (1-4)
 
@@ -43,3 +43,50 @@ ymbiose is een term die wordt gebruikt om de nauwe en langdurige samenwerking tu
 Er zijn verschillende soorten symbiose. Bij mutualisme hebben beide organismen voordeel van de relatie. Bij commensalisme heeft één organisme voordeel, terwijl de andere neutraal wordt beïnvloed. Bij parasitisme heeft één organisme voordeel, terwijl de andere schade lijdt.
 
 Symbiose komt veel voor in de natuur en kan variëren van de nauwe samenwerking tussen bepaalde bacteriën en plantenwortels, tot de complexe relatie tussen bijen en bloemen, waarbij de bijen nectar verzamelen en in ruil daarvoor helpen bij de bestuiving van de bloemen. Andere voorbeelden van symbiose zijn de relatie tussen bepaalde vissen en schoonmaakgarnalen, en de relatie tussen bepaalde dieren en hun endosymbionten, zoals de bacteriën in de darmen van herbivoren die helpen bij de vertering van plantaardig materiaal.
+
+---
+
+## heterotroof vs autotroof (6)
+Het belangrijkste verschil tussen heterotroof en autotroof is de manier waarop organismen hun voedsel verkrijgen.
+
+Autotrofe organismen zijn in staat om hun eigen voedsel te produceren door middel van fotosynthese of chemosynthese. Fotosynthetische organismen, zoals planten, algen en sommige bacteriën, gebruiken zonlicht om energie te genereren en om koolstofdioxide uit de atmosfeer om te zetten in organische verbindingen, zoals glucose. Organismen die chemosynthese gebruiken, gebruiken chemische energie in plaats van zonlicht om organische verbindingen te produceren. Bijvoorbeeld, sommige bacteriën leven in extreme omgevingen zoals diep in de oceaan of in vulkanische bronnen, waar ze gebruik maken van chemische reacties om energie op te wekken.
+
+Heterotrofe organismen daarentegen kunnen geen eigen voedsel produceren en zijn afhankelijk van andere organismen voor hun voeding. Heterotrofe organismen moeten organische verbindingen uit hun omgeving halen om te overleven en energie te verkrijgen. Dieren, schimmels en de meeste bacteriën zijn voorbeelden van heterotrofe organismen.
+
+Kortom, het belangrijkste verschil tussen heterotrofe en autotrofe organismen is de manier waarop ze hun voedsel verkrijgen: autotrofe organismen zijn in staat om hun eigen voedsel te produceren, terwijl heterotrofe organismen afhankelijk zijn van andere organismen voor hun voeding.
+
+
+## on/geslachtelijke voortplanting (8)
+Geslachtelijke voortplanting en ongeslachtelijke voortplanting zijn twee verschillende manieren waarop organismen nakomelingen kunnen produceren.
+
+Geslachtelijke voortplanting is het proces waarbij twee geslachtscellen, een eicel en een zaadcel, van twee verschillende individuen samenkomen om een bevruchte eicel te vormen. Dit resulteert in een nakomeling die genetische informatie van beide ouders erft. Geslachtelijke voortplanting komt voor bij de meeste dieren, planten en schimmels.
+
+Ongeslachtelijke voortplanting is het proces waarbij een organisme nakomelingen produceert zonder de betrokkenheid van geslachtscellen. Ongeslachtelijke voortplanting kan op verschillende manieren plaatsvinden, zoals door celdeling, fragmentatie of knopvorming. Dit proces resulteert in nakomelingen die genetisch identiek zijn aan het ouderorganisme. Ongeslachtelijke voortplanting komt voor bij sommige dieren, zoals bepaalde reptielen en insecten, maar is veel gebruikelijker bij planten en schimmels.
+
+Het belangrijkste verschil tussen geslachtelijke en ongeslachtelijke voortplanting is dat geslachtelijke voortplanting zorgt voor genetische variatie in de nakomelingen, terwijl ongeslachtelijke voortplanting resulteert in nakomelingen die genetisch identiek zijn aan het ouderorganisme. Dit betekent dat geslachtelijke voortplanting de evolutie van soorten kan bevorderen door nieuwe combinaties van genen te introduceren, terwijl ongeslachtelijke voortplanting de genetische diversiteit binnen een populatie kan verminderen.
+
+## a/biotische factoren (9)
+Biotische factoren en abiotische factoren zijn twee categorieën van omgevingsfactoren die van invloed zijn op de levensomstandigheden van organismen.
+
+Biotische factoren zijn levende of organische factoren in een ecosysteem die van invloed zijn op andere organismen. Dit omvat de interacties tussen verschillende soorten, zoals predatie, competitie en symbiose, evenals de beschikbaarheid van voedselbronnen en de aanwezigheid van ziekteverwekkers. Biotische factoren zijn onder meer planten, dieren, bacteriën, schimmels en alle andere levende organismen in een ecosysteem.
+
+Abiotische factoren zijn niet-levende of anorganische factoren in een ecosysteem die de levensomstandigheden van organismen beïnvloeden. Dit omvat factoren zoals temperatuur, vochtigheid, lichtniveau, bodemsamenstelling en -structuur, lucht- en waterkwaliteit, en de aanwezigheid van fysieke kenmerken zoals bergen, rivieren en andere landschapselementen. Abiotische factoren kunnen van invloed zijn op de overleving, groei en reproductie van organismen in een ecosysteem.
+
+Het is belangrijk om te begrijpen hoe biotische en abiotische factoren op elkaar inwerken en deel uitmaken van een complex ecosysteem. Het beheer van zowel biotische als abiotische factoren is belangrijk voor het behoud en de duurzaamheid van ecosystemen en de vele organismen die erin leven.
+
+
+## ecosysteem/levensgemeenschap
+Een ecosysteem en een levensgemeenschap zijn beide termen die worden gebruikt om verschillende aspecten van een biologisch systeem te beschrijven, maar ze hebben een verschillende betekenis.
+
+Een ecosysteem is een afgebakend gebied waarin levende organismen (biotische componenten) en de fysieke omgeving (abiotische componenten) onderling verbonden zijn en samen functioneren als een ecologisch systeem. Een ecosysteem omvat de biotische gemeenschap van organismen die erin leven, samen met hun interacties met elkaar en met de abiotische componenten van de omgeving. Dit omvat ook de stromen van energie en materie die door het systeem lopen, zoals de voedselketens en kringlopen.
+
+Een levensgemeenschap is daarentegen een term die verwijst naar de groep organismen van verschillende soorten die in een bepaald gebied leven en die met elkaar interacties aangaan. Het beschrijft alleen de biotische componenten van een ecosysteem en omvat niet de abiotische componenten. Met andere woorden, een levensgemeenschap is slechts een onderdeel van een ecosysteem en heeft betrekking op de interacties tussen de organismen van verschillende soorten in dat deel van het ecosysteem.
+
+Kortom, een ecosysteem omvat zowel de biotische als de abiotische componenten van een omgeving en de interacties daartussen, terwijl een levensgemeenschap alleen verwijst naar de gemeenschap van organismen van verschillende soorten die in een bepaald gebied leven en interacties aangaan.
+
+## darmbacterie-en
+Een voorbeeld van extracellulaire vertering bij de mens is de vertering van zetmeel door amylase.
+
+Amylase is een enzym dat wordt geproduceerd in de alvleesklier en in de speekselklieren. Wanneer we voedsel eten, vermengt amylase in ons speeksel zich met het voedsel en begint de afbraak van zetmeel. Het amylase breekt de glycosidische bindingen tussen de glucosemoleculen in de zetmeelketen af, waardoor kortere ketens van glucosemoleculen ontstaan, zoals maltose en maltotriose.
+
+In de dunne darm wordt de afbraak van zetmeel voortgezet door amylase dat door de alvleesklier wordt afgegeven. De maltose en maltotriose worden verder afgebroken tot glucosemoleculen door het enzym maltase, dat wordt afgescheiden door de darmwandcellen. De glucosemoleculen kunnen vervolgens door de darmwand worden opgenomen en in de bloedbaan worden getransporteerd om te worden gebruikt als energiebron door het lichaam.
