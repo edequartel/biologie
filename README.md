@@ -1,5 +1,3 @@
-HAVO examen 2016
-
 ## Erfelijkheid
 
 ## gen of allel
