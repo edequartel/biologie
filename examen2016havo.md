@@ -93,13 +93,25 @@ In de dunne darm wordt de afbraak van zetmeel voortgezet door amylase dat door d
 ## centrale zenuwstelsel  (16)
 Het centraal zenuwstelsel (CZS) is verantwoordelijk voor het ontvangen, integreren en verwerken van sensorische informatie en het initiëren en coördineren van motorische activiteiten in het lichaam. Het bestaat uit verschillende delen, waaronder het ruggenmerg, de hersenstam, de kleine hersenen en de grote hersenen. Hieronder staan de functies van elk van deze delen kort beschreven:
 
-    Ruggenmerg: Het ruggenmerg is een lange, dunne bundel van zenuwweefsel die zich uitstrekt vanaf de hersenstam tot aan de onderrug. Het ontvangt sensorische informatie van de huid, spieren en inwendige organen, en stuurt motorische signalen naar de spieren en klieren. Het is ook betrokken bij reflexen, zoals het terugtrekken van de hand bij aanraking van een heet oppervlak.
+Ruggenmerg: Het ruggenmerg is een lange, dunne bundel van zenuwweefsel die zich uitstrekt vanaf de hersenstam tot aan de onderrug. Het ontvangt sensorische informatie van de huid, spieren en inwendige organen, en stuurt motorische signalen naar de spieren en klieren. Het is ook betrokken bij reflexen, zoals het terugtrekken van de hand bij aanraking van een heet oppervlak.
 
-    Hersenstam: De hersenstam is het deel van het CZS dat zich uitstrekt vanaf de ruggenmerg tot aan de grote hersenen. Het bevat de pons, de medulla oblongata en de midbrain en regelt functies zoals hartslag, ademhaling en bloeddruk.
+Hersenstam: De hersenstam is het deel van het CZS dat zich uitstrekt vanaf de ruggenmerg tot aan de grote hersenen. Het bevat de pons, de medulla oblongata en de midbrain en regelt functies zoals hartslag, ademhaling en bloeddruk.
 
-    Kleine hersenen: De kleine hersenen bevinden zich onderaan de achterkant van de hersenen en zijn betrokken bij de coördinatie van bewegingen, het handhaven van het evenwicht en de spiertonus.
+Kleine hersenen: De kleine hersenen bevinden zich onderaan de achterkant van de hersenen en zijn betrokken bij de coördinatie van bewegingen, het handhaven van het evenwicht en de spiertonus.
 
-    Grote hersenen: De grote hersenen, ook wel de cerebrale cortex genoemd, zijn het grootste deel van de hersenen en zijn betrokken bij de hogere cognitieve functies, zoals denken, redeneren, waarnemen, geheugen, emoties en motorische activiteit. De hersenen zijn verdeeld in verschillende delen, waaronder de frontale kwab, pariëtale kwab, temporele kwab en occipitale kwab, die elk verantwoordelijk zijn voor verschillende taken.
+Grote hersenen: De grote hersenen, ook wel de cerebrale cortex genoemd, zijn het grootste deel van de hersenen en zijn betrokken bij de hogere cognitieve functies, zoals denken, redeneren, waarnemen, geheugen, emoties en motorische activiteit. De hersenen zijn verdeeld in verschillende delen, waaronder de frontale kwab, pariëtale kwab, temporele kwab en occipitale kwab, die elk verantwoordelijk zijn voor verschillende taken.
 
 Kortom, het centraal zenuwstelsel is verantwoordelijk voor het ontvangen, verwerken en coördineren van sensorische informatie en motorische activiteiten in het lichaam. Het omvat het ruggenmerg, de hersenstam, de kleine hersenen en de grote hersenen, die elk een specifieke functie hebben.
 
+## Difussie en Osmose
+Osmose en diffusie zijn beide mechanismen die betrokken zijn bij het transport van stoffen door een semipermeabel membraan, maar er zijn enkele belangrijke verschillen tussen de twee:
+
+Definitie: Diffusie verwijst naar het proces waarbij moleculen zich van een gebied met hoge concentratie naar een gebied met lage concentratie bewegen, totdat er een evenwicht wordt bereikt. Osmose daarentegen is het proces waarbij watermoleculen van een gebied met lage opgeloste stofconcentratie naar een gebied met hoge opgeloste stofconcentratie bewegen, door een semipermeabel membraan.
+
+Richting: Bij diffusie bewegen moleculen in beide richtingen, vanwege de concentratiegradiënt. Bij osmose bewegen watermoleculen alleen in de richting van de hogere opgeloste stofconcentratie.
+
+ Membraanpermeabiliteit: Diffusie kan door elk type membraan plaatsvinden, terwijl osmose alleen door een semipermeabel membraan kan plaatsvinden. Een semipermeabel membraan laat alleen watermoleculen door, maar niet de opgeloste stoffen.
+
+Energie: Diffusie is een passief proces en vereist geen energie. Osmose kan passief zijn als er alleen watermoleculen betrokken zijn, maar actief als er ook energie nodig is om de opgeloste stoffen te verplaatsen.
+
+Kortom, diffusie en osmose zijn twee verschillende mechanismen die betrokken zijn bij het transport van stoffen door een membraan. Diffusie is het proces van het bewegen van moleculen van een gebied met hoge concentratie naar een gebied met lage concentratie, terwijl osmose het proces is van het bewegen van watermoleculen van een gebied met lage opgeloste stofconcentratie naar een gebied met hoge opgeloste stofconcentratie, door een semipermeabel membraan.
