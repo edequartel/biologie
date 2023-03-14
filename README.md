@@ -1,7 +1,10 @@
 # Biologie
 
 
-[examen 2016](examen2016havo.md)
-
+* [examen 2016](examen2016havo.md)
 * [zenuwstelsel](hetzenuwstelsel.md)
 * [het oog](hetoog.md)
+* [thema 6 afweer](afweer.md)
+
+bronnen:
+* [https://chat.openai.com](https://chat.openai.com)
