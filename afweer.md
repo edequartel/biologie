@@ -125,5 +125,28 @@ Als de moeder antistoffen tegen de Rhesus-factor van de baby heeft, kan dit leid
 
 Om dit te voorkomen, krijgen zwangere vrouwen die Rhesus-negatief zijn een injectie met anti-D-immunoglobuline (ook wel bekend als Rhesus-profylaxe) rond de 30e week van de zwangerschap en binnen 72 uur na de bevalling als het kindje Rhesus-positief is. Dit voorkomt dat de moeder antistoffen aanmaakt tegen de Rhesus-factor van de baby.
 
+## afweer bij de mens
+Het afweersysteem van de mens is een complex systeem dat ons beschermt tegen infecties en ziekten. Een belangrijk onderdeel van dit systeem zijn lymfocyten, een type witte bloedcel dat betrokken is bij de immuunrespons.
 
+Lymfocyten zijn onderverdeeld in twee belangrijke types: T-cellen en B-cellen. T-cellen worden geproduceerd in het beenmerg en rijpen in de thymus - zwezerik, terwijl B-cellen in het beenmerg worden geproduceerd en daar ook rijpen.
+
+Wanneer een infectie of ziekteverwekker het lichaam binnendringt, herkennen de lymfocyten deze als vreemd en beginnen ze met de productie van specifieke antilichamen om deze te bestrijden. B-cellen produceren antilichamen die zich binden aan specifieke delen van de ziekteverwekker en deze markeren voor vernietiging door andere cellen van het afweersysteem. T-cellen kunnen direct de geïnfecteerde cellen aanvallen en doden, of ze kunnen andere cellen van het afweersysteem activeren om de ziekteverwekker te bestrijden.
+
+Naast het bestrijden van infecties en ziekten, spelen lymfocyten ook een rol in het onderscheiden van zelf van niet-zelf. Dit betekent dat het afweersysteem onze eigen lichaamscellen niet aanvalt en vernietigt.
+
+Kortom, lymfocyten zijn een belangrijk onderdeel van het afweersysteem van de mens. Ze spelen een cruciale rol in het herkennen en bestrijden van infecties en ziekten, terwijl ze ook zorgen dat het afweersysteem onze eigen lichaamscellen niet aanvalt.
+
+## 
+
+## antiserum, serum en vaccin
+
+Antiserum, serum en vaccin zijn allemaal termen die te maken hebben met het immuunsysteem en bescherming tegen ziekten, maar ze hebben verschillende betekenissen en toepassingen:
+
+Antiserum is een mengsel van antilichamen dat wordt geproduceerd door een dier of mens die is blootgesteld aan een specifieke ziekteverwekker of vaccin. Het wordt gebruikt om mensen die al zijn geïnfecteerd met dezelfde ziekteverwekker te behandelen of om mensen te beschermen die een hoog risico lopen op infectie. Het antiserum kan worden verkregen door bloedplasma van een persoon die al antilichamen heeft tegen de ziekteverwekker te verzamelen en te zuiveren.
+
+Serum is de vloeibare component van het bloed dat overblijft nadat de bloedcellen zijn verwijderd. Het bevat onder andere eiwitten, hormonen, elektrolyten en antilichamen. Serum kan worden gebruikt om te testen op de aanwezigheid van antilichamen tegen een bepaalde ziekteverwekker en kan worden gebruikt om een diagnose te stellen of om de immuunstatus van een persoon te bepalen.
+
+Een vaccin is een stof die het immuunsysteem van het lichaam stimuleert om antilichamen te produceren tegen een specifieke ziekteverwekker zonder dat de persoon daadwerkelijk ziek wordt. Vaccins worden gebruikt om mensen te beschermen tegen infectieziekten door het immuunsysteem te trainen om te reageren op de ziekteverwekker voordat er een infectie optreedt. Vaccins zijn gemaakt van een verzwakte, gedode of delen van de ziekteverwekker zelf of van synthetische stoffen die de ziekteverwekker nabootsen.
+
+Kortom, antiserum en serum zijn beide mengsels van antilichamen die worden gebruikt voor de diagnose of behandeling van ziekten, terwijl een vaccin een stof is die het immuunsysteem traint om zich te beschermen tegen een specifieke ziekteverwekker.
 

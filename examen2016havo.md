@@ -115,3 +115,12 @@ Richting: Bij diffusie bewegen moleculen in beide richtingen, vanwege de concent
 Energie: Diffusie is een passief proces en vereist geen energie. Osmose kan passief zijn als er alleen watermoleculen betrokken zijn, maar actief als er ook energie nodig is om de opgeloste stoffen te verplaatsen.
 
 Kortom, diffusie en osmose zijn twee verschillende mechanismen die betrokken zijn bij het transport van stoffen door een membraan. Diffusie is het proces van het bewegen van moleculen van een gebied met hoge concentratie naar een gebied met lage concentratie, terwijl osmose het proces is van het bewegen van watermoleculen van een gebied met lage opgeloste stofconcentratie naar een gebied met hoge opgeloste stofconcentratie, door een semipermeabel membraan.
+
+## Osmotische waarde
+Osmotische waarde, ook wel osmotische druk genoemd, is de druk die wordt uitgeoefend door de opgeloste deeltjes in een oplossing. Het verwijst naar het vermogen van een oplossing om water aan te trekken door middel van osmose.
+
+Wanneer er twee oplossingen met verschillende osmotische waarden zijn die gescheiden zijn door een semi-permeabel membraan (een membraan dat alleen water doorlaat), zal water diffunderen van de oplossing met lage osmotische waarde naar de oplossing met hoge osmotische waarde totdat er een evenwicht wordt bereikt. Dit komt omdat de oplossing met hoge osmotische waarde meer opgeloste deeltjes bevat en daardoor meer "trekkracht" op water uitoefent.
+
+Osmotische waarde is belangrijk voor verschillende biologische processen, zoals het reguleren van de waterbalans in cellen en het opnemen van voedingsstoffen uit de omgeving.
+
+
