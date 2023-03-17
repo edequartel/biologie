@@ -136,7 +136,16 @@ Naast het bestrijden van infecties en ziekten, spelen lymfocyten ook een rol in 
 
 Kortom, lymfocyten zijn een belangrijk onderdeel van het afweersysteem van de mens. Ze spelen een cruciale rol in het herkennen en bestrijden van infecties en ziekten, terwijl ze ook zorgen dat het afweersysteem onze eigen lichaamscellen niet aanvalt.
 
-## 
+## afweer respons
+Wanneer een ziekteverwekker, zoals een virus of bacterie, ons lichaam binnendringt, start ons immuunsysteem een respons om deze te bestrijden. Er zijn twee soorten witte bloedcellen, genaamd B-lymfocyten en T-lymfocyten, die een belangrijke rol spelen in deze reactie.
+
+De eerste verdedigingslinie: zodra een ziekteverwekker het lichaam binnenkomt, wordt deze gevangen genomen door fagocyten (een soort witte bloedcellen). Deze fagocyten presenteren dan stukjes van de ziekteverwekker (antigenen genoemd) aan de B- en T-lymfocyten, die ze herkennen als gevaarlijke indringers.
+
+B-lymfocyten komen in actie: B-lymfocyten maken antilichamen aan die specifiek gericht zijn tegen de antigenen van de ziekteverwekker. Deze antilichamen circuleren door het bloed en hechten zich aan de ziekteverwekker om deze onschadelijk te maken.
+
+T-lymfocyten dragen bij aan de verdediging: T-lymfocyten kunnen de geïnfecteerde lichaamscellen herkennen en doden. Dit is belangrijk omdat sommige virussen zich verstoppen in onze cellen en zich daar vermenigvuldigen. T-lymfocyten kunnen ook B-lymfocyten helpen bij het aanmaken van antilichamen.
+
+Geheugen B- en T-lymfocyten: na afloop van de infectie blijven er geheugen B- en T-lymfocyten over, die specifiek gericht zijn tegen de ziekteverwekker. Mocht het lichaam later opnieuw besmet raken met dezelfde ziekteverwekker, dan kunnen deze geheugen B- en T-lymfocyten snel reageren en de ziekteverwekker uitschakelen voordat deze zich kan vermenigvuldigen.
 
 ## antiserum, serum en vaccin
 
