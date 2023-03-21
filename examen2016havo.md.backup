@@ -116,11 +116,39 @@ Energie: Diffusie is een passief proces en vereist geen energie. Osmose kan pass
 
 Kortom, diffusie en osmose zijn twee verschillende mechanismen die betrokken zijn bij het transport van stoffen door een membraan. Diffusie is het proces van het bewegen van moleculen van een gebied met hoge concentratie naar een gebied met lage concentratie, terwijl osmose het proces is van het bewegen van watermoleculen van een gebied met lage opgeloste stofconcentratie naar een gebied met hoge opgeloste stofconcentratie, door een semipermeabel membraan.
 
-## Osmotische waarde
+## osmotische waarde
 Osmotische waarde, ook wel osmotische druk genoemd, is de druk die wordt uitgeoefend door de opgeloste deeltjes in een oplossing. Het verwijst naar het vermogen van een oplossing om water aan te trekken door middel van osmose.
 
 Wanneer er twee oplossingen met verschillende osmotische waarden zijn die gescheiden zijn door een semi-permeabel membraan (een membraan dat alleen water doorlaat), zal water diffunderen van de oplossing met lage osmotische waarde naar de oplossing met hoge osmotische waarde totdat er een evenwicht wordt bereikt. Dit komt omdat de oplossing met hoge osmotische waarde meer opgeloste deeltjes bevat en daardoor meer "trekkracht" op water uitoefent.
 
 Osmotische waarde is belangrijk voor verschillende biologische processen, zoals het reguleren van de waterbalans in cellen en het opnemen van voedingsstoffen uit de omgeving.
+
+## de lever
+De lever heeft verschillende functies in het menselijk lichaam, waaronder:
+
+Ontgiften: De lever speelt een belangrijke rol bij het ontgiften van het lichaam door giftige stoffen, zoals alcohol en medicijnen, te filteren en te verwijderen.
+
+Eiwitproductie: De lever produceert eiwitten die nodig zijn voor verschillende lichaamsfuncties, zoals bloedstolling en het transport van stoffen door het lichaam.
+
+Opslag: De lever slaat voedingsstoffen, zoals glucose, op en geeft deze af wanneer het lichaam ze nodig heeft.
+
+Galproductie: De lever produceert gal, een stof die nodig is voor de vertering van vetten.
+
+## genetische modificatie
+Genetische modificatie is het proces waarbij het DNA van een organisme wordt aangepast, door het introduceren, verwijderen of veranderen van specifieke genen. Dit kan op verschillende manieren worden gedaan, bijvoorbeeld door het gebruik van recombinant DNA-technologie, waarbij genen van het ene organisme worden ingebracht in het DNA van een ander organisme.
+
+Genetische modificatie wordt gebruikt om gewenste eigenschappen of eigenschappen die afwezig zijn in een organisme te introduceren, zoals het vermogen om een bepaalde ziekte te bestrijden of om een hogere opbrengst van een gewas te produceren. Genetische modificatie wordt ook gebruikt voor onderzoek naar genetische ziekten en om geneesmiddelen te produceren.
+
+Hoewel genetische modificatie voordelen heeft, zijn er ook zorgen over de veiligheid en ethische aspecten van deze technologie. Er zijn zorgen over de impact van genetisch gemodificeerde organismen op het milieu en de mogelijke gezondheidsrisico's voor mensen die genetisch gemodificeerd voedsel consumeren.
+
+## heide potstalsysteen
+Het heide potstalsysteem is een traditioneel veehouderijsysteem dat al eeuwenlang in gebruik is in heidegebieden, met name in Noord-Europa. Het systeem is ontworpen om vee, meestal runderen of schapen, te laten grazen op de heide en tegelijkertijd de bodem te bemesten om grasgroei te stimuleren.
+
+Bij het heide potstalsysteem worden de dieren 's nachts op stal gezet op een dikke laag heideplaggen, die dienen als absorberende bedding voor de mest van de dieren. De dieren kunnen grazen op de heide gedurende de dag, en keren terug naar de stal 's nachts om te rusten en te herkauwen.
+
+Na verloop van tijd wordt de laag heideplaggen vermengd met mest en urine van de dieren, en ontstaat er een rijke meststof. Deze mest wordt vervolgens gebruikt om de bodem van de heide te bemesten, wat de groei van gras en andere gewassen bevordert.
+
+Het heide potstalsysteem is een duurzaam veehouderijpraktijk die in harmonie werkt met de natuurlijke omgeving. Door gebruik te maken van de natuurlijke processen van bodemvorming en bemesting, kan het systeem bijdragen aan de gezondheid van de bodem en de biodiversiteit van de heide behouden.
+
 
 
