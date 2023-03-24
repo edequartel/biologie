@@ -40,3 +40,7 @@
 [0317/144351.859:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0321/104123.919:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0321/104124.258:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0324/084258.326:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0324/084258.677:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0324/090744.219:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0324/090744.478:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
