@@ -5,7 +5,7 @@
 * [examen 2017](examen2017havo.md)
 
 ## Toetsen
-* [toets T5 gaswisselign](H5T5gaswisseling.md)
+* [toets T5 gaswisseling](H5T5gaswisseling.md)
 
 ## Onderwerpen
 * [zenuwstelsel](hetzenuwstelsel.md)
