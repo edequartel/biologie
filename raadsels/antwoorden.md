@@ -1,0 +1,3 @@
+# Antwoorden
+
+31/03/2023 - Het organel waar het raadsel naar verwijst, is de mitochondrion (meervoud: mitochondria). De belangrijkste functie van de mitochondria is het produceren van ATP (adenosinetrifosfaat), dat dient als energiebron voor de cel. Mitochondria worden beschouwd als de "energiecentrales" van de cel omdat ze betrokken zijn bij de meeste biochemische reacties die energie produceren. Ze zijn aanwezig in zowel dierlijke als plantaardige cellen, maar niet in bacteriën en archaea.

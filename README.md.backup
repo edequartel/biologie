@@ -1,5 +1,8 @@
 # Biologie
 
+## Raadsels
+* [raadsels](../raadsels/havoraadsels.md)
+
 ## Examens
 * [examen 2016](examen2016havo.md)
 * [examen 2017](examen2017havo.md)
