@@ -1,5 +1,5 @@
 ## Raadsels
-* [raadsels](../raadsels/havoraadsels.md)
+* [raadsels](raadsels/havoraadsels.md)
 
 ## Examens
 * [examen 2016](examen2016havo.md)

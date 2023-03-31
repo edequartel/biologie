@@ -1,5 +1,3 @@
-# Biologie
-
 ## Raadsels
 * [raadsels](../raadsels/havoraadsels.md)
 
