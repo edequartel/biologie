@@ -102,3 +102,18 @@ Het inbrengen van genen via transgenese is een proces waarbij genetisch materiaa
 7. Expressie van het nieuwe gen: Als het recombinante DNA is geïntegreerd en bevestigd in het genoom van het organisme, zal het nieuwe gen tot expressie worden gebracht en kunnen de gewenste eigenschappen van het organisme worden verkregen.
 
 Kortom, bij transgenese wordt het gewenste gen geïsoleerd, ingebracht in een drager-DNA en vervolgens geïntroduceerd in de cellen van het organisme, waarbij de getransformeerde cellen worden geselecteerd en het nieuwe gen tot expressie wordt gebracht.
+
+
+**genetische code/codons** (18)
+De genetische code van elk aminozuur wordt bepaald door een sequentie van drie nucleotiden, genaamd codons. In dit geval codeert elke codon voor het aminozuur glycine, dus het veranderen van een van deze codons zal leiden tot een ander RNA-molecuul dat nog steeds codeert voor glycine.
+
+A) GGA GGC GGG GGU GGA verandert het tweede codon van GGA naar GGC, wat nog steeds codeert voor glycine, dus deze verandering leidt niet tot een ander eiwitmolecuul.
+
+B) GGA GGA GUG GGU GGA verandert het vierde codon van GGU naar GUG, wat codeert voor het aminozuur valine in plaats van glycine. Dit zal dus leiden tot een ander eiwitmolecuul.
+
+C) GGA GGA GGG GGA GGA verandert het vijfde codon van GGU naar GGA, wat nog steeds codeert voor glycine, dus deze verandering leidt niet tot een ander eiwitmolecuul.
+
+D) GGG GGA GGG GGU GGA verandert het eerste codon van GGA naar GGG, wat codeert voor het aminozuur glycine, dus deze verandering zal ook niet leiden tot een ander eiwitmolecuul.
+
+Dus alleen optie B, GGA GGA GUG GGU GGA, leidt tot een ander eiwitmolecuul omdat het een ander aminozuur codeert dan glycine.
+
