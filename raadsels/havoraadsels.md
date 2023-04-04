@@ -10,3 +10,9 @@ Wat is dit organel en wat is zijn belangrijkste functie?
 
 Het organel waar het raadsel naar verwijst, is de mitochondrion (meervoud: mitochondria). De belangrijkste functie van de mitochondria is het produceren van ATP (adenosinetrifosfaat), dat dient als energiebron voor de cel. Mitochondria worden beschouwd als de "energiecentrales" van de cel omdat ze betrokken zijn bij de meeste biochemische reacties die energie produceren. Ze zijn aanwezig in zowel dierlijke als plantaardige cellen, maar niet in bacteriën en archaea.
 
+28/03/2023 - Waarom is o neg een universele donor?  O-negatief bloed wordt beschouwd als de "universele donor" omdat het compatibel is met mensen van alle bloedgroepen, inclusief mensen met A, B, AB en O-bloedgroepen.
+Dit komt omdat O-negatief bloed geen specifieke eiwitten op het oppervlak van de rode bloedcellen heeft die door het immuunsysteem van de ontvanger kunnen worden herkend als vreemd en aangevallen kunnen worden.
+Andere bloedgroepen hebben specifieke eiwitten op het oppervlak van de rode bloedcellen, waardoor het immuunsysteem van de ontvanger kan reageren en antilichamen kan produceren tegen deze vreemde eiwitten.
+Dus als iemand O-negatief bloed doneert aan iemand met een andere bloedgroep, zal het immuunsysteem van de ontvanger het bloed niet als vreemd herkennen en zal er geen afweerreactie optreden.
+Dit maakt O-negatief bloed zeer waardevol voor noodsituaties, omdat het snel kan worden gegeven aan patiënten zonder dat er tijd wordt verspild aan het bepalen van hun bloedgroep.
+
