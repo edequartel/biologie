@@ -117,3 +117,36 @@ D) GGG GGA GGG GGU GGA verandert het eerste codon van GGA naar GGG, wat codeert 
 
 Dus alleen optie B, GGA GGA GUG GGU GGA, leidt tot een ander eiwitmolecuul omdat het een ander aminozuur codeert dan glycine.
 
+**drommedaris** (23)
+Het vrijkomen van water uit vetreserves gebeurt bij de aerobe dissimilatie. Tijdens dit proces worden vetten afgebroken door reactie met zuurstof om energie vrij te maken voor de dromedaris. Een bijproduct van deze reactie is water, dat beschikbaar komt voor de dromedaris om te gebruiken.
+Bij emulgeren wordt het vetmolecuul fysiek verdeeld in kleinere druppeltjes die gemakkelijker kunnen worden verteerd en opgenomen. Dit gebeurt bijvoorbeeld in de maag en darmen van de dromedaris met behulp van galzouten en enzymen. Emulgeren zelf leidt echter niet tot het vrijkomen van water uit vet.
+Bij gisting wordt organisch materiaal zoals suikers omgezet in energie zonder zuurstof, waarbij melkzuur of alcohol wordt geproduceerd. Dit proces vindt plaats in de darmen van sommige dieren, zoals herkauwers, waar bacteriën helpen bij de fermentatie van vezels uit planten. Gisting leidt niet tot het vrijkomen van water uit vet.
+Bij vertering wordt voedsel afgebroken tot kleinere moleculen die vervolgens door het lichaam kunnen worden opgenomen en gebruikt. In het geval van vetten worden deze afgebroken door enzymen die worden geproduceerd door de alvleesklier en in de darmen. Het vrijkomen van water uit vet gebeurt echter niet tijdens het proces van vertering zelf, maar tijdens de aerobe dissimilatie die plaatsvindt nadat het vet is afgebroken en opgenomen door het lichaam.
+
+
+**nieren** Het deel van de niereenheid dat het vochtverlies via urine tot een minimum beperkt, is het kapsel van Bowman (nierkapsel). Dit is het begin van de nierfilteringsproces en bestaat uit een holle, bolvormige structuur die de glomerulus (haarvatkluwen) omringt. De glomerulus filtert bloedplasma en laat water, zouten, suikers en afvalstoffen door. Het kapsel van Bowman vangt deze gefilterde vloeistof op en begint de urinevorming. Het heeft een membraan met kleine gaatjes die het doorlaten van water en zouten mogelijk maken, maar de eiwitten en bloedcellen tegenhouden. Het is een belangrijk onderdeel van het nierfiltratieproces omdat het ervoor zorgt dat belangrijke stoffen zoals eiwitten niet verloren gaan tijdens de urineproductie.
+
+**bouw van de nier** Een nier bestaat uit verschillende onderdelen die samenwerken om de urineproductie en filtratie van bloed te reguleren. Hieronder volgt een korte beschrijving van de opbouw van een nier:
+
+Nierschors: dit is het buitenste deel van de nier en bevat de glomeruli (haarvatkluwen) en de kapsels van Bowman (nierkapsels). Hier vindt de eerste stap van de urineproductie plaats.
+
+Niermerg: dit is het binnenste deel van de nier en bestaat uit meerdere kegelvormige gebieden die ook wel de nierpyramides worden genoemd. Het niermerg bevat de tubuli (nierkanalen) waarin de urine wordt geconcentreerd voordat deze wordt afgevoerd naar de nierbekken.
+
+Nierbekken: dit is het verzamelreservoir voor de urine die wordt geproduceerd in de niermerg. Het nierbekken is een brede trechtervormige structuur die de urine van de niermerg verzamelt en doorstuurt naar de urineleider.
+
+Urineleider: dit is een spierbuis die urine van de nieren naar de blaas transporteert. De urineleider begint bij het nierbekken en eindigt bij de blaas.
+
+Blaas: dit is een holle spierzak die urine opslaat totdat het wordt uitgescheiden uit het lichaam.
+
+Urethra: dit is een buisje dat urine van de blaas naar buiten het lichaam transporteert.
+
+De nieren zijn ook voorzien van bloedvaten, waaronder de nierslagader en -ader, die bloed aanvoeren en afvoeren van de nieren. Dit bloed wordt gefilterd door de nierfilteringsproces, waarbij afvalstoffen en overtollig water worden uitgescheiden en belangrijke stoffen worden teruggewonnen door het lichaam.
+
+**mycorrhiza** (28) Op voedselarme heidegronden is de beschikbaarheid van voedingsstoffen, zoals stikstof, beperkt. Berkensymbiose met mycorrhiza-schimmels zorgt ervoor dat de boom beter in staat is om deze beperkte voedingsstoffen op te nemen. De schimmel kan namelijk via zijn wortelsysteem extra stikstofverbindingen uit de bodem halen en deze aan de berk leveren. In ruil daarvoor levert de berk suikers aan de schimmel, die de schimmel nodig heeft als energiebron. Zo ontstaat er een wederzijds voordelige samenwerking tussen de berk en de mycorrhiza-schimmel.
+
+**X-chromosomaal** (35) Aangezien het gen X-chromosomaal is en de variant recessief is, betekent dit dat mannen (met XY chromosomen) dyslexie kunnen hebben als ze het afwijkende gen hebben, terwijl vrouwen (met XX chromosomen) alleen dyslexie zullen hebben als beide X-chromosomen het afwijkende gen hebben. Daarom komt dyslexie vaker voor bij mannen dan bij vrouwen.
+
+
+
+
+

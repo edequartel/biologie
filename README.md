@@ -15,6 +15,7 @@
 * [thema 6 afweer](afweer.md)
 * [fotosynthese, assimilatie en dissimilatie](assimilatie.md)
 * [cel](cel.md)
+* 
 
 
 bronnen:  [https://chat.openai.com](https://chat.openai.com)
