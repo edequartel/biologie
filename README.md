@@ -2,6 +2,7 @@
 * [raadsels](raadsels/havoraadsels.md)
 
 ## Examens
+* [examen 2013](examen2013havo.md)
 * [examen 2016](examen2016havo.md)
 * [examen 2017](examen2017havo.md)
 
@@ -15,7 +16,5 @@
 * [thema 6 afweer](afweer.md)
 * [fotosynthese, assimilatie en dissimilatie](assimilatie.md)
 * [cel](cel.md)
-* 
-
 
 bronnen:  [https://chat.openai.com](https://chat.openai.com)
