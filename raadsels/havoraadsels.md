@@ -1,6 +1,10 @@
 # Raadsels
 
-14/04/20 -
+14/04/20 - Bij Drosophila - fruitvlieg - komt onder andere het allel ‘vleugels zonder dwarsaders’ voor. Dit allel is X-
+chromosomaal en recessief. Een vrouwtje met vleugels zonder dwarsaders wordt gekruist met 
+een mannetje met normale vleugels. De F1-individuen die hieruit ontstaan, worden onderling 
+gekruist en er ontstaan een F2. 
+ Hoeveel % van de vrouwtjes uit de F2 heeft vleugels zonder dwarsaders? 
 
 11/04/2023 - In het centrale zenuwstelsel zijn er zenuwcellen die informatie van de ene naar de andere plaats sturen. Dit wordt gedaan via impulsen die door de axonen van de zenuwcellen worden verstuurd. Bij sommige zenuwcellen zijn deze axonen bedekt met een witte stof die een belangrijke functie heeft bij de snelheid van de impulsgeleiding.
 Wat is de naam van deze witte stof en wat is de functie ervan?
