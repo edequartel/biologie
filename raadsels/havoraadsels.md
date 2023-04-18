@@ -3,7 +3,8 @@
 14/04/20 - Bij Drosophila - fruitvlieg - komt onder andere het allel ‘vleugels zonder dwarsaders’ voor. Dit allel is X-chromosomaal en recessief. Een vrouwtje met vleugels zonder dwarsaders wordt gekruist met 
 een mannetje met normale vleugels. De F1-individuen die hieruit ontstaan, worden onderling gekruist en er ontstaan een F2.  Hoeveel % van de vrouwtjes uit de F2 heeft vleugels zonder dwarsaders? 
 
-> F1 XvXv x XY = XvX : XvY : XvX : XvY = XvX : XvY
+> De mogelijke kruisingen in de F1-generatie zijn dan:
+.. XvXv x XY = XvX : XvY : XvX : XvY = XvX : XvY
  
 > De mogelijke kruisingen in de F2-generatie zijn dan:
 .. XvX x XvY = XvXv : XvY : XXv : XY
