@@ -5,8 +5,10 @@ een mannetje met normale vleugels. De F1-individuen die hieruit ontstaan, worden
  
  > De mogelijke kruisingen in de F2-generatie zijn dan:
     **XvXv vrouwtje x XvY mannetje**: 50% van de nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv) en de andere 50% zullen mannetjes zijn met normale vleugels (XvY).
-   ** XvXv vrouwtje x XvXv mannetje**: alle nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv).
-    **XvY vrouwtje x XvY mannetje**: 25% van de nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv), 50% zullen mannetjes zijn met normale vleugels (XvY) en de resterende 25% zullen vrouwtjes zijn met normale vleugels (XvXv).
+ 
+ > **XvXv vrouwtje x XvXv mannetje**: alle nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv).
+ 
+ > **XvY vrouwtje x XvY mannetje**: 25% van de nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv), 50% zullen mannetjes zijn met normale vleugels (XvY) en de resterende 25% zullen vrouwtjes zijn met normale vleugels (XvXv).
   
 > Dus van de totale F2-vrouwtjespopulatie heeft 50% het allel voor vleugels zonder dwarsaders, afkomstig uit de eerste kruising, plus 25% van de tweede kruising, die een XvXv allel ontvangt van elk van de ouders, wat resulteert in 75% van de F2-vrouwtjes met een XvXv-genotype. Daarom heeft 75% van de F2-vrouwtjes vleugels zonder dwarsaders.
 
