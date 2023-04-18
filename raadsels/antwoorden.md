@@ -1,20 +1,26 @@
 # Antwoorden
 
-14/04/20 - Bij Drosophila - fruitvlieg - komt onder andere het allel ‘vleugels zonder dwarsaders’ voor. Dit allel is X-
-chromosomaal en recessief. Een vrouwtje met vleugels zonder dwarsaders wordt gekruist met 
-een mannetje met normale vleugels. De F1-individuen die hieruit ontstaan, worden onderling 
-gekruist en er ontstaan een F2. 
- Hoeveel % van de vrouwtjes uit de F2 heeft vleugels zonder dwarsaders? 
- 
- > Als het allel voor vleugels zonder dwarsaders op het X-chromosoom ligt, dan betekent dit dat mannetjes slechts één allel hebben (XvY) en vrouwtjes twee (XvXv). Een vrouwtje met één allel voor vleugels zonder dwarsaders zal dus het fenotype vertonen, terwijl een mannetje met één allel normale vleugels heeft.
-De kruising van een vrouw met vleugels zonder dwarsaders (XvXv) en een man met normale vleugels (XvY) resulteert in F1-vrouwtjes die allemaal het allel voor vleugels zonder dwarsaders hebben en F1-mannetjes die normale vleugels hebben.
-De F1-vrouwtjes (XvXv) worden dan gekruist met F1-mannetjes (XvY) om de F2-generatie te creëren. De gameten van de vrouwtjes zijn allemaal Xv, terwijl de gameten van de mannetjes Xv en Y zijn in een verhouding van 1:1.
+**bloedsomloop**
+a) Het hart is het centrale orgaan van de bloedsomloop. Het pompt het bloed door het lichaam en zorgt ervoor dat zuurstof en voedingsstoffen naar de cellen worden vervoerd en afvalstoffen worden afgevoerd. Het hart bestaat uit vier kamers: de rechter atrium en ventrikel en de linker atrium en ventrikel. De atria ontvangen bloed en de ventrikels pompen bloed weg. De rechterkant van het hart pompt zuurstofarm bloed naar de longen voor zuurstofopname, terwijl de linkerkant van het hart zuurstofrijk bloed pompt naar de rest van het lichaam.
 
-> De mogelijke kruisingen in de F2-generatie zijn dan:
-    XvXv vrouwtje x XvY mannetje: 50% van de nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv) en de andere 50% zullen mannetjes zijn met normale vleugels (XvY).
-    XvXv vrouwtje x XvXv mannetje: alle nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv).
-    XvY vrouwtje x XvY mannetje: 25% van de nakomelingen zullen vrouwtjes zijn met vleugels zonder dwarsaders (XvXv), 50% zullen mannetjes zijn met normale vleugels (XvY) en de resterende 25% zullen vrouwtjes zijn met normale vleugels (XvXv).
-Dus van de totale F2-vrouwtjespopulatie heeft 50% het allel voor vleugels zonder dwarsaders, afkomstig uit de eerste kruising, plus 25% van de tweede kruising, die een XvXv allel ontvangt van elk van de ouders, wat resulteert in 75% van de F2-vrouwtjes met een XvXv-genotype. Daarom heeft 75% van de F2-vrouwtjes vleugels zonder dwarsaders.
+b) De belangrijkste bloedvaten in het menselijk lichaam zijn de slagaders, aders en haarvaten. Slagaders vervoeren bloed van het hart naar de organen en weefsels van het lichaam, terwijl aders bloed terugvoeren van de organen en weefsels naar het hart. De haarvaten zijn kleine bloedvaten die de slagaders en aders verbinden en bloed leveren aan de individuele cellen van het lichaam.
+
+c) De bloeddruk wordt gereguleerd door verschillende mechanismen in het lichaam, waaronder het autonome zenuwstelsel, hormonen en het renine-angiotensine-aldosteron systeem. Lichaamsbeweging kan de bloeddruk verhogen als gevolg van een toename van het hartminuutvolume en de vasodilatatie van de bloedvaten in de spieren. Stress kan ook de bloeddruk verhogen door de afgifte van hormonen zoals adrenaline en noradrenaline. Wanneer de bloeddruk te hoog is, kan dit leiden tot gezondheidsproblemen zoals hoge bloeddruk, hartziekte en beroertes.
+
+**erfelijkheid** 
+Hieronder vindt u het antwoord op het HAVO-examenvraagstuk over een dihybride kruising en erfelijkheid:
+
+a) De heterozygote plant wordt weergegeven als AaBb en de homozygoot recessieve plant als aabb.
+De genotypen van hun nakomelingen kunnen worden voorspeld door gebruik te maken van de wetten van Mendel en een vierkant van Punnett. De mogelijke genotypen van de nakomelingen zijn AaBb en aabb.
+
+b) Het vierkant van Punnett voor deze kruising ziet er als volgt uit:
+
+AB	Ab	aB	ab
+AaBb	Aabb	aaBb	aabb
+AaBb	Aabb	aaBb	aabb
+Uit het vierkant van Punnett kunnen de fenotypische verhoudingen van de nakomelingen worden afgeleid. In dit geval zijn er twee mogelijke fenotypen: 50% van de nakomelingen heeft het dominante fenotype voor beide genen (A_B_) en 50% heeft het recessieve fenotype voor beide genen (aabb).
+
+c) Deze dihybride kruising kan worden verklaard door de wetten van Mendel. De wet van segregatie stelt dat de allelen van een gen tijdens de vorming van de geslachtscellen worden gescheiden en dus slechts één allel aan elk nageslacht wordt doorgegeven. De wet van onafhankelijke assortiment stelt dat de genen die op verschillende chromosomen liggen onafhankelijk van elkaar worden overgeërfd. Dit betekent dat de overerving van gen A niet afhankelijk is van de overerving van gen B en vice versa. Deze wetten kunnen worden gebruikt om de genotypische en fenotypische verhoudingen van de nakomelingen te voorspellen.
 
 **vraag** - Hoe werken de verschillende enzymen en organen in het spijsverteringsstelsel samen om de vertering van koolhydraten, eiwitten en vetten mogelijk te maken en wat zijn de specifieke functies en locaties van deze organen en enzymen?
 
