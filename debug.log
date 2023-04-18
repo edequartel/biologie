@@ -74,3 +74,5 @@
 [0411/115732.689:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0414/085628.973:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
 [0414/085629.217:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0418/113004.588:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
+[0418/113004.844:WARNING:resource_bundle_qt.cpp(115)] locale_file_path.empty() for locale 
