@@ -159,3 +159,4 @@ Een vaccin is een stof die het immuunsysteem van het lichaam stimuleert om antil
 
 Kortom, antiserum en serum zijn beide mengsels van antilichamen die worden gebruikt voor de diagnose of behandeling van ziekten, terwijl een vaccin een stof is die het immuunsysteem traint om zich te beschermen tegen een specifieke ziekteverwekker.
 
+
