@@ -1,3 +1,7 @@
+## Casus
+* [regeling](casus/regeling.md)
+* [zintuigen, het oog](casus/regeling.md)
+
 ## Raadsels
 * [raadsels](raadsels/havoraadsels.md)
 
