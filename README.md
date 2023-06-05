@@ -1,6 +1,7 @@
 ## Casus
 * [regeling](casus/regeling.md)
 * [zintuigen, het oog](casus/regeling.md)
+* [erfelijkheid, geslachtsverbonden overerving](casus/erfelijkheid.md)
 
 ## Raadsels
 * [raadsels](raadsels/havoraadsels.md)
