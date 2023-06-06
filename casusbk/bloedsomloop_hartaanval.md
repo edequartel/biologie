@@ -1,4 +1,4 @@
-#Casus: Hartaanval en de rol van de bloedsomloop
+# Casus: Hartaanval en de rol van de bloedsomloop
 
 Casus:
 
@@ -13,7 +13,7 @@ Vragen:
 5. Welke mogelijke behandelingen kan Joris in het ziekenhuis ontvangen om zijn hart te helpen herstellen na de hartaanval?
 
 -
-#antwoorden
+# antwoorden
 
 1. Tijdens een hartaanval, ook wel een hartinfarct genoemd, wordt de bloedtoevoer naar een deel van het hart geblokkeerd. Dit gebeurt meestal door een bloedstolsel dat een kransslagader (een bloedvat dat zuurstofrijk bloed naar het hart transporteert) verstopt. Als gevolg hiervan ontvangt het getroffen deel van het hart niet voldoende zuurstof en voedingsstoffen, wat kan leiden tot beschadiging van de hartspier.
 

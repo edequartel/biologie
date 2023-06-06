@@ -1,6 +1,6 @@
 ## Casus HAVO
 * [regeling](casus/regeling.md)
-* [zintuigen, het oog](casus/regeling.md)
+* [zintuigen, het oog](casus/oog.md)
 * [erfelijkheid, geslachtsverbonden overerving](casus/erfelijkheid.md)
 
 ## Casus VMBO-BK
