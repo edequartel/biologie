@@ -1,7 +1,10 @@
-## Casus
+## Casus HAVO
 * [regeling](casus/regeling.md)
 * [zintuigen, het oog](casus/regeling.md)
 * [erfelijkheid, geslachtsverbonden overerving](casus/erfelijkheid.md)
+
+## Casus VMBO-BK
+* [hartaanval, bloedsomloop](casusbk/bloedsomloop_hartaanval.md)
 
 ## Raadsels
 * [raadsels](raadsels/havoraadsels.md)
