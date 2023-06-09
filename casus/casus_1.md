@@ -1,4 +1,4 @@
-#Vier liter water per dag kan al te veel zijn 
+# Vier liter water per dag kan al te veel zijn 
  
 Twee doden vielen er te betreuren op de Nijmeegse vierdaagse en ongeveer 
 driehonderd mensen werden onwel. Hitte en gebrek aan vocht speelden de 
@@ -24,6 +24,8 @@ hun lichaam te negeren om een prestatie neer te zetten. Met alle gevolgen van di
 ## Vragen
 Onderstaande vragen zijn voorbeelden van wat gevraagd kan worden. Ze geven onder 
 andere aan welke onderwerpen aan bod komen.   
+
+
 1.	Geef in een paar zinnen weer waar het artikel over gaat. Gebruik daarbij de titel.   
 2. Water is van belang voor je lichaam, zeker als het warm is. Beschrijf welke weg het 
 water dat je drinkt aflegt in je lichaam op een hete, zonnige dag vanaf je slokdarm 
@@ -40,17 +42,10 @@ BiNaS
 
 ## Antwoorden
 1. Het artikel, getiteld "Gevaren van te veel water drinken tijdens extreme hitte", beschrijft de incidenten van twee doden en honderden mensen die onwel werden tijdens de Nijmeegse Vierdaagse als gevolg van hitte en uitdroging. Het benadrukt het belang van het in evenwicht houden van waterinname met de juiste hoeveelheid suikers en zouten, en waarschuwt voor de risico's van te veel water drinken zonder voldoende voedselinname.
-
 2. Op een hete, zonnige dag volgt het water dat je drinkt de volgende weg in je lichaam: nadat je water doorslikt, gaat het via je slokdarm naar de maag, waar het wordt gemengd met maagsappen. Vervolgens wordt het water in de dunne darm opgenomen in de bloedbaan, waar het wordt getransporteerd naar verschillende delen van het lichaam, waaronder de nieren. In de nieren wordt water gefilterd en overtollig water wordt uitgescheiden als urine.
-
 3. Met "in evenwicht komen" bedoelt de schrijver dat de cellen in het lichaam proberen een balans te vinden tussen de concentratie van water in de cellen en de concentratie van water in het omringende bloed. Wanneer de cellen opzwellen door een teveel aan waterinname, proberen ze het verdunnende effect van het water in het bloed te compenseren.
-
 4. Zweten leidt tot veranderingen in de samenstelling van het bloed. Twee manieren waarop dit gebeurt zijn:
-
 - Verlies van water: Zweten resulteert in vochtverlies, waardoor het bloedvolume kan afnemen. Dit kan leiden tot een dikkere consistentie van het bloed.
-
 - Verlies van elektrolyten: Zweten gaat gepaard met het verlies van zouten, zoals natrium, kalium en chloride, die essentieel zijn voor de juiste balans en functie van het lichaam. Dit kan de elektrolytenbalans in het bloed verstoren.
-
 5. Het drinken van een sportdrank is verstandiger dan alleen veel water drinken omdat een sportdrank elektrolyten bevat, zoals natrium en kalium, die verloren gaan door zweten. Deze elektrolyten helpen het lichaam om de juiste vochtbalans en zenuwfunctie te behouden. Daarnaast bevatten sportdranken vaak ook suikers, die energie leveren tijdens fysieke activiteit. Door het combineren van water, elektrolyten en suikers kan een sportdrank helpen om de hydratatie en energieniveaus op peil te houden tijdens intensieve activiteiten.
-
 6. Urine wordt gevormd in de nieren door een proces dat urinevorming of urineproductie wordt genoemd. Dit proces omvat verschillende stappen, waaronder filtratie, reabsorptie en secretie. In de nieren wordt bloed gefilterd door kleine haarvaten in de nefronen, de functionele eenheden van de nieren. Tijdens de filtratie worden afvalstoffen, overtollig water en opgeloste stoff
