@@ -5,6 +5,8 @@
 [antwoord](casus/oog_antwoord.md)
 * [erfelijkheid, geslachtsverbonden overerving](casus/erfelijkheid.md), [antwoord](casus/erfelijkheid_antwoord.md)
 
+* [homeostase](casus/homeostase.md)
+* [elektrolyt](casus/elektrolyt.md)
 
 ## Casus VMBO-BK
 * [hartaanval, bloedsomloop](casusbk/bloedsomloop_hartaanval.md)
