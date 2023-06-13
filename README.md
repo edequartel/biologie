@@ -1,4 +1,8 @@
 ## Casus HAVO
+
+* [parthenogense](casus/voortplanting.md)
+* [evolutie](casus/evolutie.md)
+
 * [casus met antwoorden](casus/casus_1.md)
 * [regeling](casus/regeling.md),  	[antwoord](casus/regeling_antwoord.md)
 * [zintuigen, het oog](casus/oog.md),
