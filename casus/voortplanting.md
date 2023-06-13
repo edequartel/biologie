@@ -51,4 +51,16 @@ Mutaties daarentegen zijn spontane veranderingen in het genetisch materiaal, zoa
 
 In het kort: recombinatie is het proces waarbij genetisch materiaal van beide ouders wordt gemengd tijdens geslachtelijke voortplanting, terwijl mutaties spontane veranderingen zijn in het genetisch materiaal. Recombinatie leidt tot nieuwe combinaties van genen en vergroot genetische diversiteit, terwijl mutaties veranderingen in het genetisch materiaal zelf veroorzaken en ook kunnen bijdragen aan genetische variatie.
 
+-
+
+Bij krokodillen en andere reptielen is het geslachtschromosoomsysteem anders dan het XY-systeem dat typisch is voor zoogdieren, waaronder mensen. 
+Krokodillen hebben een **ZW-geslachtschromosoomsysteem**.
+
+In het ZW-systeem hebben vrouwelijke krokodillen twee verschillende geslachtschromosomen, namelijk ZW, terwijl mannelijke krokodillen twee identieke geslachtschromosomen hebben, namelijk ZZ. Hierbij is de letter Z vergelijkbaar met het mannelijke geslachtschromosoom (zoals het X-chromosoom bij zoogdieren) en de letter W vergelijkbaar met het vrouwelijke geslachtschromosoom (zoals het Y-chromosoom bij zoogdieren).
+
+In het ZW-systeem dragen de vrouwtjes de geslachtsbepalende chromosomen ZW en kunnen ze zowel een Z-chromosoom doorgeven aan hun nakomelingen (wat resulteert in mannelijke nakomelingen) als een W-chromosoom (wat resulteert in vrouwelijke nakomelingen). De mannetjes dragen de geslachtsbepalende chromosomen ZZ en geven altijd een Z-chromosoom door aan hun nakomelingen (wat betekent dat mannelijke nakomelingen ZZ zullen hebben).
+
+Het ZW-systeem van geslachtschromosomen wordt aangetroffen bij veel reptielen, waaronder krokodillen, schildpadden en sommige hagedissen. Het is belangrijk op te merken dat het geslachtschromosoomsysteem kan variëren tussen verschillende soorten en dat er uitzonderingen kunnen zijn op het algemene patroon.
+
+[artikel Nemo nageslacht](https://www.nemokennislink.nl/publicaties/verbouwen-voor-beter-nageslacht)
 
