@@ -1,3 +1,8 @@
+## Janneke op dinsdag
+
+[oog, impulsgeleiding](casus/hetoog_uitgebreider.md)
+[voor Janneke uit interesse periodiek systeem](periodieksysteem.md)
+
 ## Casus HAVO
 
 * [parthenogense](casus/voortplanting.md)
