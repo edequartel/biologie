@@ -35,11 +35,12 @@
 ### 6. Tabellen en grafieken:
    - Maak een grafiek met de kooktijd op de x-as en de toestand van de dooier en het eiwit op de y-as.
 
-### Extra informatie om te lezen
 
-[kijk wetenschappelijke kijk op het koken van een ei](https://www.kijkmagazine.nl/nieuws/wetenschap-perfect-gekookt-eitje/)
-
-7. Conclusie:
+### 7. Conclusie:
    - Analyseer de verzamelde gegevens en trek een conclusie over de optimale kooktijd voor een kippenei met een zachte binnenkant en stevig eiwit.
 
 Vergeet niet om tijdens het experiment nauwkeurige waarnemingen te noteren en zorg ervoor dat het experiment onder gecontroleerde omstandigheden wordt uitgevoerd. Veel succes met je onderzoek!
+
+### Extra informatie om te lezen
+
+[kijk wetenschappelijke kijk op het koken van een ei](https://www.kijkmagazine.nl/nieuws/wetenschap-perfect-gekookt-eitje/)
