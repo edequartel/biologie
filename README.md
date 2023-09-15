@@ -1,5 +1,6 @@
 ## Onderzoek kooktijd ei
-[werkblad - onderzoek kooktijd van een ei](wbkokenvan een ei.md)
+
+[werkblad - onderzoek kooktijd van een ei](wbkokenvaneenei.md)
 
 
 ## Janneke op dinsdag
