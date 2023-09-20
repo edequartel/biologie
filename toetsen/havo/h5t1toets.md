@@ -14,7 +14,7 @@ C door anaerobe dissimilatie, waarbij alcohol en koolstofdioxide worden gevormd
 
 D door anaerobe dissimilatie, waarbij water en koolstofdioxide worden gevormd
 
-Evy weegt de ingrediënten voor het maken van het deeg. Na het bakken weegt zij het brood. Het gewicht is met 115 gram afgenomen.
+Evy weegt de ingrediÃŽnten voor het maken van het deeg. Na het bakken weegt zij het brood. Het gewicht is met 115 gram afgenomen.
 
 2p **2** Welk proces draagt het meest bij aan deze gewichtsafname?
 
@@ -30,19 +30,19 @@ Als Evy en haar vriendinnen Carine en Veerle op internet informatie zoeken over 
 
 _Recept voor zuurdesem_
 
-_De kweek van zuurdesem neemt een week in beslag, maar als je eenmaal een kweek hebt, kun je hiermee elke dag opnieuw brood bakken zonder gist te gebruiken. Je begint op de eerste dag je kweek van zuurdesem met roggemeel, omdat daar de benodigde wilde gist en bacteriën, zoals melkzuurbacteriën, al in aanwezig zijn. Na toevoegen van water zet je dit mengsel een tijdje weg. Na een aantal dagen kun je het zuurdesem dat dan ontstaan is gebruiken om aan je deeg toe te voegen._
+_De kweek van zuurdesem neemt een week in beslag, maar als je eenmaal een kweek hebt, kun je hiermee elke dag opnieuw brood bakken zonder gist te gebruiken. Je begint op de eerste dag je kweek van zuurdesem met roggemeel, omdat daar de benodigde wilde gist en bacteriÃŽn, zoals melkzuurbacteriÃŽn, al in aanwezig zijn. Na toevoegen van water zet je dit mengsel een tijdje weg. Na een aantal dagen kun je het zuurdesem dat dan ontstaan is gebruiken om aan je deeg toe te voegen._
 
 Er volgt een gesprek over de verwachting dat het met zuurdesem bereide brood nog smakelijker kan zijn dan het zojuist gebakken brood.
 
 Carine: "Het brood zal niet rijzen want er is alleen melkzuurgisting en daarbij ontstaat geen koolstofdioxide."
 
-Evy: "Door bacteriën in het zuurdesem zal er melkzuur ontstaan en zal het brood iets zurig smaken."
+Evy: "Door bacteriÃŽn in het zuurdesem zal er melkzuur ontstaan en zal het brood iets zurig smaken."
 
 Veerle: "Doordat er meer soorten micro-organismen in het zuurdesem zitten, zullen er ook andere stoffen ontstaan bij het rijzen van het deeg."
 
 2p **3** Noteer voor elk van de drie meisjes of ze een juiste of een onjuiste uitspraak doen.
 
-De oma van Evy volgt vanwege haar hoge bloeddruk een zoutarm dieet. Evy vraagt zich af of het zoutgehalte het rijzen van het deeg beïnvloedt. De meisjes voeren een experiment uit om dit te onderzoeken. Ze bereiden een deeg van tarweroggemeel, gist en water. Ze delen dit deeg in vier gelijke stukken en voegen aan elk deel een andere hoeveelheid zout toe. Na een halfuur meten ze hoeveel het deeg is gerezen. Ze presenteren hun resultaten in een tabel (afbeelding 1).
+De oma van Evy volgt vanwege haar hoge bloeddruk een zoutarm dieet. Evy vraagt zich af of het zoutgehalte het rijzen van het deeg beÃ”nvloedt. De meisjes voeren een experiment uit om dit te onderzoeken. Ze bereiden een deeg van tarweroggemeel, gist en water. Ze delen dit deeg in vier gelijke stukken en voegen aan elk deel een andere hoeveelheid zout toe. Na een halfuur meten ze hoeveel het deeg is gerezen. Ze presenteren hun resultaten in een tabel (afbeelding 1).
 
 x-as;y-as
 
@@ -112,7 +112,7 @@ Lactose-intolerantie
 
 Met behulp van het enzym lactase kan lactose (melksuiker) worden verteerd tot de suikers glucose en galactose. Lactose kan in de darm van de mens niet worden opgenomen, glucose en galactose wel.
 
-Kinderen produceren in het algemeen voldoende lactase. Op latere leeftijd komt het voor dat er nauwelijks nog lactase wordt gevormd. Na het drinken van melk blijft dan lactose onverteerd in de darm achter. De bacteriën in de darm zetten de lactose om in melkzuur. Het gevolg daarvan is diarree, een van de symptomen van lactose-intolerantie.
+Kinderen produceren in het algemeen voldoende lactase. Op latere leeftijd komt het voor dat er nauwelijks nog lactase wordt gevormd. Na het drinken van melk blijft dan lactose onverteerd in de darm achter. De bacteriÃŽn in de darm zetten de lactose om in melkzuur. Het gevolg daarvan is diarree, een van de symptomen van lactose-intolerantie.
 
 2p **18** Tot welke groep van stoffen behoort lactose? En tot welke groep behoort lactase?
 

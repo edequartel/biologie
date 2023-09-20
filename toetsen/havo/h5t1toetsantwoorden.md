@@ -60,23 +60,20 @@ Bij ongeveer 40 meter daalt het percentage van de totale verlichtingssterkte voo
 
 2p **16** Voorbeelden van juiste redenen (per juiste reden 1p, max. 2p):
 
-– Vet bevat per gram meer energie dan eiwit.
+Ã± Vet bevat per gram meer energie dan eiwit.
 
-– Er zijn veel grotere vetreserves dan eiwitreserves.
+Ã± Er zijn veel grotere vetreserves dan eiwitreserves.
 
-– Vet kan volledig worden verbrand, van eiwit blijft het afbraakproduct ammoniak over.
+Ã± Vet kan volledig worden verbrand, van eiwit blijft het afbraakproduct ammoniak over.
 
-– Eiwit is eigenlijk geen brandstof, maar een bouwstof.
+Ã± Eiwit is eigenlijk geen brandstof, maar een bouwstof.
 
 2p **17** Voorbeelden van juiste antwoorden (per juist antwoord 1p, max. 2p):
 
-– fotosynthese / koolstofassimilatie
-
-– stikstofassimilatie
-
-– vorming van zetmeel
-
-– vorming van cellulose
+* fotosynthese / koolstofassimilatie
+* stikstofassimilatie
+* vorming van zetmeel
+* vorming van cellulose
 
 **18** B
 
@@ -84,7 +81,7 @@ Bij ongeveer 40 meter daalt het percentage van de totale verlichtingssterkte voo
 
 2p **20** Vetten bestaan net als koolhydraten alleen uit koolstof, waterstof en zuurstof. 1p
 
-Eiwitten bevatten ook stikstof en dat kunnen dieren niet zelf inbouwen. 1p_._
+Eiwitten bevatten ook stikstof en dat kunnen dieren niet zelf inbouwen. 1p
 
 1p **21** glycogeen
 
@@ -94,4 +91,4 @@ Eiwitten bevatten ook stikstof en dat kunnen dieren niet zelf inbouwen. 1p_._
 
 _De leerling kan maximaal 36 punten behalen._
 
-Cijfer = 1 + (score × 9)/aantal te behalen punten.
+Cijfer = 1 + (score â—Š 9)/aantal te behalen punten.
