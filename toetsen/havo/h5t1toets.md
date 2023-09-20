@@ -72,10 +72,10 @@ Fotosynthese
 
 Vier leerlingen doen elk een bewering over de opname van stoffen door planten met bladgroen ten behoeve van de koolstofassimilatie.   
  
-_- Gijs zegt dat deze planten hiervoor alleen anorganische stoffen opnemen.  
-- Ilse zegt dat deze planten hiervoor alleen organische stoffen opnemen.  
-- Lineke zegt dat deze planten hiervoor zowel anorganische als organische stoffen opnemen.  
-- Tom zegt dat deze planten hiervoor alleen water opnemen._
+_* Gijs zegt dat deze planten hiervoor alleen anorganische stoffen opnemen.  
+* Ilse zegt dat deze planten hiervoor alleen organische stoffen opnemen.  
+* Lineke zegt dat deze planten hiervoor zowel anorganische als organische stoffen opnemen.  
+* Tom zegt dat deze planten hiervoor alleen water opnemen._
 
 2p **11** Welke leerling doet een juiste bewering?
 
