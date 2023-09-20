@@ -1,29 +1,18 @@
-## Onderzoek kooktijd ei
-
-[werkblad - onderzoek kooktijd van een ei](wbkokenvaneenei.md)
-
-
-## Janneke op dinsdag
-
-[oog, impulsgeleiding](casus/hetoog_uitgebreider.md)
-[voor Janneke uit interesse periodiek systeem](periodieksysteem.md)
+## HAVO
 
 ## Casus HAVO
 
 * [parthenogense](casus/voortplanting.md)
 * [evolutie](casus/evolutie.md)
-
 * [casus met antwoorden](casus/casus_1.md)
 * [regeling](casus/regeling.md),  	[antwoord](casus/regeling_antwoord.md)
 * [zintuigen, het oog](casus/oog.md),
 [antwoord](casus/oog_antwoord.md)
 * [erfelijkheid, geslachtsverbonden overerving](casus/erfelijkheid.md), [antwoord](casus/erfelijkheid_antwoord.md)
-
 * [homeostase](casus/homeostase.md)
 * [elektrolyt](casus/elektrolyt.md)
-
-## Casus VMBO-BK
-* [hartaanval, bloedsomloop](casusbk/bloedsomloop_hartaanval.md)
+* [oog, impulsgeleiding](casus/hetoog_uitgebreider.md)
+* [NASK periodiek systeem](periodieksysteem.md)
 
 ## Raadsels
 * [raadsels](raadsels/havoraadsels.md)

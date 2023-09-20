@@ -4,4 +4,6 @@
 
 
 ## Biologie VMBO
-- [werkblad - onderzoek kooktijd van een ei](wbkokenvaneenei.md)
+- [biologie VMBO](biologievmbo.md)
+
+
