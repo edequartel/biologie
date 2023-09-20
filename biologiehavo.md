@@ -2,7 +2,6 @@
 
 ## TOETSEN
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
-* [hhhh](toetsen/toets.md)
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets antwoorden](toetsen/havo/h5t1toetsantwoorden.md)
 
 ## Casus HAVO
