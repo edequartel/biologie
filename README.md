@@ -1,3 +1,8 @@
+## Onderzoek kooktijd ei
+
+[werkblad - onderzoek kooktijd van een ei](wbkokenvaneenei.md)
+
+
 ## Janneke op dinsdag
 
 [oog, impulsgeleiding](casus/hetoog_uitgebreider.md)
