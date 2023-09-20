@@ -1,5 +1,8 @@
 ## HAVO
 
+## TOETSEN
+* [HAVO5 Thema 1 Toets](havo/toetsen/HAVO5thema1toets)
+
 ## Casus HAVO
 
 * [parthenogense](casus/voortplanting.md)
