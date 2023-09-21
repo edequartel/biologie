@@ -41,7 +41,11 @@ aabb (1/4)
 
 > Dit betekent dat de nakomelingen 25% kans hebben om elk van deze genotypen te hebben.
 
-> Uit het vierkant van Punnett kunnen de fenotypische verhoudingen van de nakomelingen worden afgeleid. In dit geval zijn er twee mogelijke fenotypen: 50% van de nakomelingen heeft het dominante fenotype voor beide genen (A_B_) en 50% heeft het recessieve fenotype voor beide genen (aabb).
+> Uit het vierkant van Punnett kunnen de fenotypische verhoudingen van de nakomelingen worden afgeleid. In dit geval zijn de mogelijke fenotypen:
+A_B_
+A_b_
+a_B_
+a_b_
 
 c) Leg uit hoe de wetten van Mendel van toepassing zijn op deze dihybride kruising en hoe deze gebruikt kunnen worden om de genetische samenstelling van de nakomelingen te voorspellen.
 > Deze dihybride kruising kan worden verklaard door de wetten van Mendel. De wet van segregatie stelt dat de allelen van een gen tijdens de vorming van de geslachtscellen worden gescheiden en dus slechts één allel aan elk nageslacht wordt doorgegeven. De wet van onafhankelijke assortiment stelt dat de genen die op verschillende chromosomen liggen onafhankelijk van elkaar worden overgeërfd. Dit betekent dat de overerving van gen A niet afhankelijk is van de overerving van gen B en vice versa. Deze wetten kunnen worden gebruikt om de genotypische en fenotypische verhoudingen van de nakomelingen te voorspellen.
