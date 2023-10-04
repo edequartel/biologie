@@ -1,8 +1,9 @@
-## Biologie VMBO
+# Biologie VMBO
 
-## Onderzoek kooktijd ei
+## K4T4
+[T2 Ecologie](themas/K4T4ecologie.md)
 
-- [werkblad - onderzoek kooktijd van een ei](wbkokenvaneenei.md)
+## K3T3
+### T2 voortplanting
+[T2 Voortplanting](themas/K3T3voorplanting.md)
 
-## Casus VMBO-BK
-* [hartaanval, bloedsomloop](casusbk/bloedsomloop_hartaanval.md)
