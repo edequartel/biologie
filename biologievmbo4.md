@@ -3,7 +3,6 @@
 
 ## K4T4
 - [T2 Ecologie](themas/K4T4ecologie.md)
-- [T2 Ecologie Samenvatting](samenvattingen/tl/T_ecologie.pdf)
 
 ## Joost
 - [Afspeellijst ecologie](https://youtube.com/playlist?list=PLr1tx9agautHiXZ_Nv5KhEhJMzU9QLfCz&si=t1I8Evy4OUySoWud)
