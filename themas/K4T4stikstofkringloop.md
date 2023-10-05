@@ -27,6 +27,9 @@ De stikstofkringloop omvat verschillende stappen:
 
 De stikstofkringloop is van cruciaal belang voor het behoud van een evenwichtige leefomgeving op aarde. Echter, door menselijke activiteiten zoals landbouw en industriële processen, is er een overschot aan stikstofverbindingen in de atmosfeer gekomen, wat kan leiden tot negatieve milieueffecten zoals verzuring van bodem en water, vermesting en veranderingen in biodiversiteit. Daarom is het belangrijk om de stikstofkringloop goed te begrijpen en te beheren.
 
+
+![stikstofkringloop](../pictures/stikstofkringloop.jpg)
+
 --
 
 1. **Wat is de stikstofkringloop en waarom is het belangrijk voor de natuur?**
