@@ -8,9 +8,10 @@
 - [M B3 reductiedeling](https://www.youtube.com/watch?v=_txMOrnOdsw)
 - [M B4 geslchtskenmerken, hormonen en menstruatiecyclus](themas/K3T3voorplanting.md)
 
+## Samenvatting thema
 - [K T2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
-- [T T2 Voortplanting samenvatting](samenvattingen/t/T_voortplanting.pdf)
-- [Tbr T2 Voortplanting samenvatting](samenvattingen/t/T_voortplanting.pdf)
+- [T T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
+- [Tbr T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
 
 ## Samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
