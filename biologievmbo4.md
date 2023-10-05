@@ -3,7 +3,7 @@
 
 ## K4T4
 - [T2 Ecologie](themas/K4T4ecologie.md)
-- [T2 Ecologie Samenvatting](samenvattingen/tl/t_ecologie.pdf)
+- [T2 Ecologie Samenvatting](samenvattingen/tl/T_ecologie.pdf)
 
 ## Samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
