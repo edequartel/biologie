@@ -1,5 +1,11 @@
 ## HAVO
 
+## Samenvattingen
+- [Biologie HAVO handboek](samenvattingen/h/p002-308_BVJ_5e_ed_havo_Zakboek.docx)
+- [Biologie HAVO handboek deel 1 pdf](samenvattingen/h/p0001-0178_BVJ_5e_ed_havo_Zakboek.pdf)
+- [Biologie HAVO handboek deel 2 pdf](samenvattingen/h/p0179-0320_BVJ_5e_ed_havo_Zakboek.pdf)
+
+
 ## TOETSEN
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets antwoorden](toetsen/havo/h5t1toetsantwoorden.md)
