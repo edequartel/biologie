@@ -1,6 +1,6 @@
 # K3T3 voortplanting
 
-## Reductiedeling
+## Reductiedeling (Meiose)
 
 Reductiedeling, ook bekend als meiose, is een speciaal soort celdeling die plaatsvindt in geslachtscellen (sperma en eicellen) en resulteert in de vorming van vier haploïde dochtercellen, elk met de helft van het oorspronkelijke aantal chromosomen. Deze cellen zijn genetisch divers en spelen een cruciale rol in de voortplanting en de genetische variatie binnen een populatie.
 

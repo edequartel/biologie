@@ -19,6 +19,3 @@
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theorie](samenvattingen/tl/SV3T4T.pdf)
-
-
-
