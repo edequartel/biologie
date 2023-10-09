@@ -1,7 +1,7 @@
 ## HAVO
 
 ## Joost
-* (Alle)[https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV]
+* [Alle](https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV)
 
 ## TOETSEN
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
