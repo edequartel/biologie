@@ -1,10 +1,13 @@
 ## HAVO
 
+## Joost
+* (Alle)[https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV]
+
 ## TOETSEN
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets antwoorden](toetsen/havo/h5t1toetsantwoorden.md)
 
-## Casus HAVO
+<!-- ## Casus HAVO
 
 * [parthenogense](casus/voortplanting.md)
 * [evolutie](casus/evolutie.md)
@@ -38,3 +41,4 @@
 * [cel](cel.md)
 
 bronnen:  [https://chat.openai.com](https://chat.openai.com)
+-->
