@@ -1,7 +1,8 @@
 ## HAVO
 
 ## Joost
-* [Alle](https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV)
+* [Thema 2 - DNA - Afspeellijst](https://www.youtube.com/watch?v=27EcQMZX4G4&list=PLr1tx9agautFyfTCyaLleigYs6B7iXmFb)
+* [Alle afspeellijsten](https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV)
 
 ## TOETSEN
 * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
