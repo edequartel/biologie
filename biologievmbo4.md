@@ -1,6 +1,41 @@
 # Biologie VMBO
 
+## Basisstof 4 Populaties (mondeling)
 
+1. Wat zijn biotische factoren?
+2. Geef een voorbeeld van een abiotische factor.
+3. Wat is het verschil tussen biotische en abiotische factoren?
+4. Wat is een individu in de context van ecologie?
+5. Hoe wordt een populatie gedefinieerd?
+6. Wat omvat een levensgemeenschap?
+7. Wat is een ecosysteem?
+8. Wat wordt bedoeld met het begrip 'biotoop'?
+9. Wanneer zijn omstandigheden optimaal voor een populatie?
+10. Wat is biologisch evenwicht in een ecosysteem?
+11. Waarvan is de grootte van een populatie afhankelijk?
+12. Wat geeft een optimumkromme aan?
+13. Hoe worden individu, populatie, levensgemeenschap en ecosysteem gedefinieerd?
+14. Kun je een voorbeeld geven van een biotische factor?
+15. Noem drie voorbeelden van abiotische factoren.
+
+<!-- ### Antwoorden:
+
+1. Biotische factoren zijn invloeden afkomstig uit de levende natuur, zoals soortgenoten, roofdieren en ziekteverwekkers.
+2. Een voorbeeld van een abiotische factor is temperatuur.
+3. Biotische factoren zijn invloeden uit de levende natuur, terwijl abiotische factoren invloeden zijn uit de levenloze natuur.
+4. Een individu is één enkel organisme.
+5. Een populatie is een groep individuen van dezelfde soort in een bepaald gebied, die zich onderling voortplanten.
+6. Een levensgemeenschap omvat alle populaties die in een ecosysteem leven.
+7. Een ecosysteem is een bepaald gebied waarbinnen de biotische en abiotische factoren een eenheid vormen.
+8. Biotoop verwijst naar de gezamenlijke abiotische factoren in een ecosysteem.
+9. Omstandigheden zijn optimaal wanneer alle biotische en abiotische factoren hun gunstigste waarde hebben.
+10. Biologisch evenwicht is een toestand waarin de grootte van elke populatie in een ecosysteem schommelt rond een bepaalde waarde.
+11. De grootte van een populatie is afhankelijk van zowel biotische als abiotische factoren.
+12. Een optimumkromme is een diagram dat voor één bepaalde abiotische factor aangeeft wat de groei- en voortplantingskansen van een populatie zijn.
+
+13. Individu: één enkel organisme. Populatie: een groep individuen van dezelfde soort in een bepaald gebied, die zich onderling voortplanten. Levensgemeenschap: alle populaties die in een ecosysteem leven. Ecosysteem: een bepaald gebied waarbinnen de biotische en abiotische factoren een eenheid vormen.
+14. Een voorbeeld van een biotische factor is een roofdier.
+15. Drie voorbeelden van abiotische factoren zijn temperatuur, wind en regenval. -->
 <!-- ## K4T4
 - [T2 Ecologie](themas/K4T4ecologie.md) -->
 

@@ -1,12 +1,21 @@
 ## HAVO
 
 ## Joost
-* [Thema 2 - DNA - Afspeellijst](https://www.youtube.com/watch?v=27EcQMZX4G4&list=PLr1tx9agautFyfTCyaLleigYs6B7iXmFb)
-* [Alle afspeellijsten](https://youtube.com/@BiologiemetJoost?si=dLfnjO5j-NDi42CV)
+<!--* [Thema 2 - DNA - Afspeellijst](https://www.youtube.com/watch?v=27EcQMZX4G4&list=PLr1tx9agautFyfTCyaLleigYs6B7iXmFb)-->
+* [Thema 1 - Inleiding in de biologie](https://www.youtube.com/playlist?list=PLr1tx9agautEO9U8QD_26om8SB7G18W47)
+* [Thema 2 - Voortplanting](https://www.youtube.com/playlist?list=PLr1tx9agautG50WDjGRsX7YZr-nIIloQg)
 
-## TOETSEN
-* [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
-* [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets antwoorden](toetsen/havo/h5t1toetsantwoorden.md)
+
+* [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=11)
+
+## Samenvattingen (leerdoelen)
+* [Thema 1 - Inleiding in de biologie](samenvattingen/h/h4t1_inleidingindebiologie.md)
+<!-- * [Alle leerdoeleen als pdf]()-->
+
+
+## Toetsen
+<!-- * [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)
+* [HAVO 5 - Thema 1 - Stofwisseling in de cel - Toets antwoorden](toetsen/havo/h5t1toetsantwoorden.md) -->
 
 <!-- ## Casus HAVO
 
