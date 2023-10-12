@@ -1,9 +1,6 @@
-# Biologie VMBO 3
+# Biologie VMBO 3 - K3T3
 
-## K3T3
-## Mondelinge Toets
-## Basisstof 5
-### Vragen:
+## Mondelinge Toets - Basisstof 5 - Vragen:
 
 1. Wat zijn de veranderingen die in het lichaam van de vrouw plaatsvinden net voor en na de bevruchting?
 2. Hoe lang blijven zaadcellen in leven na een zaadlozing en hoe bewegen ze zich naar de eileiders?
