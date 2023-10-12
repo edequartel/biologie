@@ -53,8 +53,8 @@ Letop! De filmpjes lopen **niet synchroon** met het boek.
 
 
 ## Samenvatting ecologie
-- [Kpdf T2 ecologie samenvatting](samenvattingen/k/K_ecologie.pdf)
-- [Tpdf T2 ecologie samenvatting](samenvattingen/tl/T_ecologie.pdf)
+- [Kader pdf Thema 2 ecologie samenvatting](samenvattingen/k/K_ecologie.pdf)
+- [Theoretisch pdf Thema 2 ecologie samenvatting](samenvattingen/tl/T_ecologie.pdf)
 
 <!--## Samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
