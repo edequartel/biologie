@@ -1,8 +1,5 @@
 ## Actief in natuur
 
-# Wat is kennis overdragen
-
-## opdrachten
 
 ### P1 leren van een filmpje
 - maak foto's van een boom, met blad, bast en foto. Zoek daar ook informatie als tekst bij. Deze informatie plaats je op de padlet.
@@ -11,9 +8,6 @@
 <!-- - [planten]()
 - [dieren]()
 - [bodem]()-->
-
-
-
 
 ### P2 organiseren van een bivak
 
