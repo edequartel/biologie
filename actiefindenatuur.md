@@ -2,8 +2,8 @@
 
 
 ### P1 leren van een filmpje
-- maak foto's van een boom, met blad, bast en foto. Zoek daar ook informatie als tekst bij. Deze informatie plaats je op de padlet.
-- maak een filmpje van 5 dieren / planten in je omgeving, dit hoeft niet langer dan 1 minuut te zijn.
+- maak foto's van een boom of blad. Zoek daar ook informatie voor de tekst bij. Deze informatie plaats je op de padlet. In de titel zet je je naam met de naam van de boom.
+- maak een filmpje van een organisme in je omgeving, dit hoeft niet langer dan 1 minuut te zijn. Daarbij leg je uit wat voor een organisme het is. 
 
 <!-- - [planten]()
 - [dieren]()
@@ -12,7 +12,10 @@
 ### P2 organiseren van een bivak
 
 
-## Naslag etc
-- [padlet](https://padlet.com/ericdequartel/actiefindenatuur)
+### Padlet
+- [padlet - https://padlet.com/ericdequartel/actiefindenatuur](https://padlet.com/ericdequartel/actiefindenatuur)
+
+![QR - code](pictures/qrpadlet.png)
 
 ## PTA - doelstellingen
+[PTA - doelstellingen - Actief in de natuur]()
