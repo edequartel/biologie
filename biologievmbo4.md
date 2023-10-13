@@ -1,6 +1,6 @@
 # Biologie VMBO
 
-## Basisstof 5 Aanpassingen 
+## Basisstof 5 Aanpassingen vam dieren
 
 1. Hoe zijn waterdieren aangepast om de weerstand van het water zo klein mogelijk te maken?
 2. Welke aanpassingen hebben vissen aan hun huid om te helpen bij het verminderen van weerstand in het water?
