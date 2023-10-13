@@ -1,7 +1,53 @@
 # Biologie VMBO 3 - K3T3
 
-## Mondelinge Toets - Basisstof 5 - Vragen:
+## Mondelinge Toets - Basisstof 6 Vragen
 
+### Geboortefasen:
+
+1. Wat is indaling tijdens de geboorte?
+2. Wat zijn weeën en hoe spelen ze een rol bij de geboorte?
+3. Wat gebeurt er tijdens de ontsluitingsfase?
+4. Hoe komen de vruchtvliezen en het vruchtwater naar buiten?
+5. Wat zijn persweeën en hoe verschillen ze van normale weeën?
+6. Wat is uitdrijving bij de geboorte?
+7. Waarom wordt de navelstreng afgeklemd en doorgeknipt na de geboorte?
+8. Wat gebeurt er met de organen van de baby na de geboorte?
+9. Wat is de nageboorte en hoe wordt deze uitgestoten?
+
+### Ontwikkelingsfasen van de Mens:
+
+10. Wat zijn de gemiddelde leeftijden en voorbeelden van ontwikkeling voor baby's?
+11. Wat zijn de gemiddelde leeftijden en voorbeelden van ontwikkeling voor peuters?
+12. Wat zijn de gemiddelde leeftijden en voorbeelden van ontwikkeling voor kleuters?
+13. Wat zijn de gemiddelde leeftijden en de belangrijkste leeractiviteiten voor schoolkinderen?
+14. Wat kenmerkt de puberteit en de adolescentiefase?
+15. Hoe wordt een volwassene gekenmerkt en welke verantwoordelijkheden kunnen ze hebben?
+16. Wat zijn de kenmerken en mogelijke uitdagingen voor bejaarde individuen?
+
+<!--### Antwoorden:
+
+1. Indaling is wanneer het hoofdje van de foetus een paar weken voor de bevalling naar beneden zakt.
+2. Weeën zijn samentrekkingen van de spieren in de baarmoederwand en spelen een centrale rol bij de geboorte.
+3. Tijdens de ontsluitingsfase worden de baarmoederhals en baarmoedermond wijder.
+4. De vruchtvliezen breken en het vruchtwater komt via de vagina naar buiten.
+5. Persweeën zijn krachtige weeën waarbij ook de spieren van de buikwand samentrekken, dit in tegenstelling tot normale weeën.
+6. Uitdrijving is wanneer het kind via de vagina naar buiten komt, meestal met het hoofdje eerst.
+7. De navelstreng wordt afgeklemd en vervolgens doorgeknipt na de geboorte.
+8. Bij de baby beginnen de organen voor ademhaling, vertering en uitscheiding te werken.
+9. De nageboorte is het uitstoten van de placenta, de resten van de navelstreng en de vruchtvliezen via de vagina na de geboorte.
+
+### Levensfasen van de Mens:
+
+10. Baby (0-1,5 jaar): Leert onder andere zitten, staan, lopen, blokjes oppakken en reageren op andere mensen.
+11. Peuter (1,5-4 jaar): Leert onder andere traplopen, tegen een bal schoppen, een torentje bouwen, met een lepel eten en praten.
+12. Kleuter (4-6 jaar): Leert onder andere fietsen, klimmen, tekenen, veters strikken en met andere kinderen spelen.
+13. Schoolkind (6-12 jaar): Leert onder andere lezen, schrijven en rekenen.
+14. Puber (12-16 jaar): In de puberteit beginnen de voortplantingsorganen te functioneren en komen de secundaire geslachtskenmerken tot ontwikkeling.
+15. Adolescent (16-21 jaar): Wordt steeds zelfstandiger.
+16. Volwassene (21-65 jaar): Is volledig zelfstandig. Veel volwassenen krijgen kinderen.
+17. Bejaarde (boven 65 jaar): Krijgt op latere leeftijd vaak lichamelijke of geestelijke gebreken en heeft verzorging nodig.-->
+
+<!--Basisstof 5 - Vragen
 1. Wat zijn de veranderingen die in het lichaam van de vrouw plaatsvinden net voor en na de bevruchting?
 2. Hoe lang blijven zaadcellen in leven na een zaadlozing en hoe bewegen ze zich naar de eileiders?
 3. Waar vindt de bevruchting plaats?
@@ -11,20 +57,20 @@
 7. Wat is innesteling en wanneer vindt dit plaats?
 8. Wanneer wordt een vrouw als zwanger beschouwd?
 9. Wat is de rol van het gele lichaam na de bevruchting?
-10. Wat gebeurt er met het baarmoederslijmvlies en de eierstokken na de bevruchting?
+10. Wat gebeurt er met het baarmoederslijmvlies en de eierstokken na de bevruchting? -->
 
-<!--### Antwoorden:
-1. *Net voor de bevruchting ondergaat het lichaam van de vrouw veranderingen om de baarmoeder klaar te maken voor een mogelijke zwangerschap. Na de bevruchting ondergaan de eicel en zaadcel een fusie, waarbij de kernen samensmelten en een zygote vormen.*
-2. *Zaadcellen blijven ongeveer drie dagen in leven na een zaadlozing. Ze bewegen zich via de baarmoeder naar de eileiders.*
-3. *Bevruchting vindt plaats in een eileider.*
-4. *De vruchtbare periode duurt drie tot vier dagen rondom de ovulatie.*
-5. *Nadat de kop van een zaadcel de eicel is binnengedrongen, vormt de eicel een ondoordringbare laag.*
-6. *Een bevruchte eicel deelt zich een aantal keren, resulterend in een klompje cellen. Er vindt geen groei plaats.*
-7. *Innesteling is het proces waarbij het klompje cellen zich vijf tot zeven dagen na de ovulatie vastzet in het baarmoederslijmvlies.*
-8. *Een vrouw wordt als zwanger beschouwd na succesvolle innesteling.*
-9. *Het gele lichaam blijft in stand en blijft hormonen produceren.*
-10. *Na de bevruchting blijft het baarmoederslijmvlies dik en rijk aan bloedvaten, waardoor er geen menstruatie optreedt. Er rijpen geen nieuwe follikels in de eierstokken en er vindt geen ovulatie plaats.*
--->
+### Basisstof 5 Antwoorden
+1. Net voor de bevruchting ondergaat het lichaam van de vrouw veranderingen om de baarmoeder klaar te maken voor een mogelijke zwangerschap. Na de bevruchting ondergaan de eicel en zaadcel een fusie, waarbij de kernen samensmelten en een zygote vormen.
+2. Zaadcellen blijven ongeveer drie dagen in leven na een zaadlozing. Ze bewegen zich via de baarmoeder naar de eileiders.
+3. Bevruchting vindt plaats in een eileider.
+4. De vruchtbare periode duurt drie tot vier dagen rondom de ovulatie.
+5. Nadat de kop van een zaadcel de eicel is binnengedrongen, vormt de eicel een ondoordringbare laag.
+6. Een bevruchte eicel deelt zich een aantal keren, resulterend in een klompje cellen. Er vindt geen groei plaats.
+7. Innesteling is het proces waarbij het klompje cellen zich vijf tot zeven dagen na de ovulatie vastzet in het baarmoederslijmvlies.
+8. Een vrouw wordt als zwanger beschouwd na succesvolle innesteling.
+9. Het gele lichaam blijft in stand en blijft hormonen produceren.
+10. Na de bevruchting blijft het baarmoederslijmvlies dik en rijk aan bloedvaten, waardoor er geen menstruatie optreedt. Er rijpen geen nieuwe follikels in de eierstokken en er vindt geen ovulatie plaats.
+
 <!-- ### T2 voortplanting
 - [T2 Voortplanting](themas/K3T3voorplanting.md) -->
 
