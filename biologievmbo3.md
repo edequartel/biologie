@@ -1,8 +1,66 @@
 # Biologie VMBO 3 - K3T3
 
-## Mondelinge Toets - Basisstof 6 Vragen
+## Mondelinge Toets - Basisstof 7 Vragen
 
-### Geboortefasen:
+Begrepen, hier zijn de vragen over seksueel overdraagbare aandoeningen (soa's) voor tieners, gevolgd door de antwoorden in markdown format:
+
+### Vraag 1:
+Wat zijn seksueel overdraagbare aandoeningen (soa's) en hoe kun je ze oplopen?
+
+### Vraag 2:
+Hoe kun je voorkomen dat je een soa oploopt?
+
+### Vraag 3:
+Wat zijn de symptomen van chlamydia en waarom hebben sommige mensen geen symptomen?
+
+### Vraag 4:
+Hoe wordt chlamydia behandeld?
+
+### Vraag 5:
+Wat zijn de symptomen van gonorroe en waarom merken vrouwen vaak niets?
+
+### Vraag 6:
+Hoe wordt gonorroe behandeld?
+
+### Vraag 7:
+Wat zijn de symptomen van syfilis?
+
+### Vraag 8:
+Hoe wordt syfilis behandeld?
+
+### Vraag 9:
+Wat zijn de verschijnselen van candida en hoe wordt het behandeld?
+
+### Vraag 10:
+Wat is aids en hoe wordt het veroorzaakt? Is er een genezing mogelijk?
+
+--
+
+*Antwoorden:*
+
+1. Soa's zijn ziekten die je kunt krijgen door contact met penis, vagina, anus of mond van een besmette persoon. Ze worden veroorzaakt door bacteriën, schimmels of virussen.
+
+2. Je kunt soa's voorkomen door een condoom te gebruiken tijdens seksueel contact.
+
+3. Chlamydia kan leiden tot meer of andere afscheiding uit de penis of vagina, en pijn bij het plassen. Niet iedereen vertoont echter symptomen.
+
+4. Chlamydia kan worden behandeld met antibiotica.
+
+5. Gonorroe kan leiden tot meer, andere, en soms etterige afscheiding uit de penis of vagina, en een branderig gevoel bij het plassen. Vrouwen merken vaak niets.
+
+6. Gonorroe kan worden behandeld met antibiotica.
+
+7. Syfilis kan zweertjes of vlekjes veroorzaken op de penis, vagina, anus of mond.
+
+8. Syfilis kan worden behandeld met antibiotica.
+
+9. Candida kan afscheiding en jeuk aan de vagina of penis veroorzaken. Het kan worden behandeld met medicijnen die schimmels doden.
+
+10. Aids is een aantasting van het afweersysteem veroorzaakt door hiv. Er zijn geen specifieke ziekteverschijnselen. Besmetting kan gebeuren via besmet bloed, sperma, vaginaal vocht of voorvocht, vooral door onveilige seks of het delen van naalden. Genezing is niet mogelijk, maar de ziekte kan wel worden geremd met hiv-remmers.
+
+
+<!--### Geboortefasen:
+Basisstof 6 Vragen
 
 1. Wat is indaling tijdens de geboorte?
 2. Wat zijn weeën en hoe spelen ze een rol bij de geboorte?
@@ -22,10 +80,9 @@
 13. Wat zijn de gemiddelde leeftijden en de belangrijkste leeractiviteiten voor schoolkinderen?
 14. Wat kenmerkt de puberteit en de adolescentiefase?
 15. Hoe wordt een volwassene gekenmerkt en welke verantwoordelijkheden kunnen ze hebben?
-16. Wat zijn de kenmerken en mogelijke uitdagingen voor bejaarde individuen?
+16. Wat zijn de kenmerken en mogelijke uitdagingen voor bejaarde individuen?-->
 
-<!--### Antwoorden:
-
+### Basisstof 6 Antwoorden
 1. Indaling is wanneer het hoofdje van de foetus een paar weken voor de bevalling naar beneden zakt.
 2. Weeën zijn samentrekkingen van de spieren in de baarmoederwand en spelen een centrale rol bij de geboorte.
 3. Tijdens de ontsluitingsfase worden de baarmoederhals en baarmoedermond wijder.
@@ -45,7 +102,7 @@
 14. Puber (12-16 jaar): In de puberteit beginnen de voortplantingsorganen te functioneren en komen de secundaire geslachtskenmerken tot ontwikkeling.
 15. Adolescent (16-21 jaar): Wordt steeds zelfstandiger.
 16. Volwassene (21-65 jaar): Is volledig zelfstandig. Veel volwassenen krijgen kinderen.
-17. Bejaarde (boven 65 jaar): Krijgt op latere leeftijd vaak lichamelijke of geestelijke gebreken en heeft verzorging nodig.-->
+17. Bejaarde (boven 65 jaar): Krijgt op latere leeftijd vaak lichamelijke of geestelijke gebreken en heeft verzorging nodig.
 
 <!--Basisstof 5 - Vragen
 1. Wat zijn de veranderingen die in het lichaam van de vrouw plaatsvinden net voor en na de bevruchting?
@@ -59,7 +116,7 @@
 9. Wat is de rol van het gele lichaam na de bevruchting?
 10. Wat gebeurt er met het baarmoederslijmvlies en de eierstokken na de bevruchting? -->
 
-### Basisstof 5 Antwoorden
+<!--### Basisstof 5 Antwoorden
 1. Net voor de bevruchting ondergaat het lichaam van de vrouw veranderingen om de baarmoeder klaar te maken voor een mogelijke zwangerschap. Na de bevruchting ondergaan de eicel en zaadcel een fusie, waarbij de kernen samensmelten en een zygote vormen.
 2. Zaadcellen blijven ongeveer drie dagen in leven na een zaadlozing. Ze bewegen zich via de baarmoeder naar de eileiders.
 3. Bevruchting vindt plaats in een eileider.
@@ -69,7 +126,7 @@
 7. Innesteling is het proces waarbij het klompje cellen zich vijf tot zeven dagen na de ovulatie vastzet in het baarmoederslijmvlies.
 8. Een vrouw wordt als zwanger beschouwd na succesvolle innesteling.
 9. Het gele lichaam blijft in stand en blijft hormonen produceren.
-10. Na de bevruchting blijft het baarmoederslijmvlies dik en rijk aan bloedvaten, waardoor er geen menstruatie optreedt. Er rijpen geen nieuwe follikels in de eierstokken en er vindt geen ovulatie plaats.
+10. Na de bevruchting blijft het baarmoederslijmvlies dik en rijk aan bloedvaten, waardoor er geen menstruatie optreedt. Er rijpen geen nieuwe follikels in de eierstokken en er vindt geen ovulatie plaats. -->
 
 <!-- ### T2 voortplanting
 - [T2 Voortplanting](themas/K3T3voorplanting.md) -->
