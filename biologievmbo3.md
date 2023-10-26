@@ -13,8 +13,10 @@
 - [YT B9 Seksualiteit](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
 
 ## Samenvatting voorplanting
-- [Kpdf T2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
-- [Tpdf T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
-- [Tbr T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
+- [T braille Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
+- [T pdf Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
+- [K pdf Thema 2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
+
+
 
 
