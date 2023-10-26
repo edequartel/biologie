@@ -1,5 +1,23 @@
 # Biologie VMBO 3 - K3T3
 
+## Joost
+- [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
+- [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
+- [YT B2 Het voortplantingsstel van de vrouw](https://youtu.be/sRgaeigjjDA?si=R5xZnN_JqSjvRMCF)
+- [YT B3 reductiedeling](https://www.youtube.com/watch?v=_txMOrnOdsw)
+- [YT B4 geslachtskenmerken, hormonen en menstruatiecyclus](https://youtu.be/S0CulfLs2BI?si=SpO7bPMkXz-Zi-X9)
+- [YT B5 Bevruchting en embryonale ontwikkeling](https://youtu.be/ioUFdUOHaO8?si=WwSvts2KUpEWPw2N)
+- [YT B6 Geboorte en verdere ontwikkeling](https://youtu.be/_hNHioqILmo?si=rQ3H7wBysJ_EUo7P)
+- [YT B7 Seksueel overdraagbare aandoeningen](https://youtu.be/T9uizuzK-48?si=K64ue6vcvKlkSWBz)
+- [YT B8 Geboorteregeling](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
+- [YT B9 Seksualiteit](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
+
+## Samenvatting voorplanting
+- [Kpdf T2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
+- [Tpdf T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
+- [Tbr T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
+
+<!--
 ## Mondelinge Toets - Basisstof 7 Vragen
 
 Begrepen, hier zijn de vragen over seksueel overdraagbare aandoeningen (soa's) voor tieners, gevolgd door de antwoorden in markdown format:
@@ -56,7 +74,7 @@ Wat is aids en hoe wordt het veroorzaakt? Is er een genezing mogelijk?
 
 9. Candida kan afscheiding en jeuk aan de vagina of penis veroorzaken. Het kan worden behandeld met medicijnen die schimmels doden.
 
-10. Aids is een aantasting van het afweersysteem veroorzaakt door hiv. Er zijn geen specifieke ziekteverschijnselen. Besmetting kan gebeuren via besmet bloed, sperma, vaginaal vocht of voorvocht, vooral door onveilige seks of het delen van naalden. Genezing is niet mogelijk, maar de ziekte kan wel worden geremd met hiv-remmers.
+10. Aids is een aantasting van het afweersysteem veroorzaakt door hiv. Er zijn geen specifieke ziekteverschijnselen. Besmetting kan gebeuren via besmet bloed, sperma, vaginaal vocht of voorvocht, vooral door onveilige seks of het delen van naalden. Genezing is niet mogelijk, maar de ziekte kan wel worden geremd met hiv-remmers. -->
 
 
 <!--### Geboortefasen:
@@ -130,21 +148,5 @@ Basisstof 6 Vragen
 
 <!-- ### T2 voortplanting
 - [T2 Voortplanting](themas/K3T3voorplanting.md) -->
-
-## Joost
-- [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
-- [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
-- [YT B2 Het voortplantingsstel van de vrouw](https://youtu.be/sRgaeigjjDA?si=R5xZnN_JqSjvRMCF)
-- [YT B3 reductiedeling](https://www.youtube.com/watch?v=_txMOrnOdsw)
-- [YT B4 geslachtskenmerken, hormonen en menstruatiecyclus](https://youtu.be/S0CulfLs2BI?si=SpO7bPMkXz-Zi-X9)
-- [YT B5 Bevruchting en embryonale ontwikkeling](https://youtu.be/ioUFdUOHaO8?si=WwSvts2KUpEWPw2N)
-- [YT B6 Geboorte en verdere ontwikkeling](https://youtu.be/_hNHioqILmo?si=rQ3H7wBysJ_EUo7P)
-- [YT B7 Seksueel overdraagbare aandoeningen](https://youtu.be/T9uizuzK-48?si=K64ue6vcvKlkSWBz)
-
-## Samenvatting voorplanting
-- [Kpdf T2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
-- [Tpdf T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
-- [Tbr T2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
-
 
 
