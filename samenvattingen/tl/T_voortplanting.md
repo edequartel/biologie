@@ -1,7 +1,6 @@
-#
-THEMA 2 Voortplanting en ontwikkeling SAMENVATTING
 
-# Samenvatting
+# THEMA 2 SAMENVATTING - Voortplanting en ontwikkeling
+
 
 ### doelstelling 1 basisstof 1
 
@@ -377,8 +376,10 @@ overdraagbare aandoeningen.
 
 ### doelstelling 13 basisstof 8
 
+```
 Je kunt methoden van geboorteregeling beschrijven en
 aangeven of ze betrouwbaar zijn of niet.
+```
 
 - Geboorteregeling of anticonceptie: je bepaalt zelf of
     je een kind wilt of niet.
@@ -389,7 +390,7 @@ aangeven of ze betrouwbaar zijn of niet.
     niet precies is vast te stellen.
 - Coïtus interruptus: de man trekt zijn penis net voor
     de zaadlozing terug uit de vagina.
-- Onbetrouwbaar doordat in het voorvocht
+	- Onbetrouwbaar doordat in het voorvocht
     zaadcellen kunnen voorkomen.
 - Condoom: een latex hoesje wordt om de
     penis gerold of in de vagina aangebracht
@@ -439,9 +440,9 @@ aangeven of ze betrouwbaar zijn of niet.
 ### doelstelling 14 basisstof 8
 
 ```
-Je kunt noodmaatregelen tegen ongewenste
-zwangerschap noemen.
+Je kunt noodmaatregelen tegen ongewenste zwangerschap noemen.
 ```
+
 - Bij geen of verkeerd gebruik van een
     voorbehoedmiddel worden noodmaatregelen
     genomen tegen zwangerschap.
