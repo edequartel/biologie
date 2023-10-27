@@ -6,7 +6,6 @@
 
 - [Basisstof 8 - geboorteregeling](lessen/TL3_T2BS8.md)
 
-
 ## Joost
 - [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
 - [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
