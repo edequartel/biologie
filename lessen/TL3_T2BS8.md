@@ -21,3 +21,13 @@
 1. Hoe het werkt?
 2. Of je soa's ermee kan voorkomen
 3. Zou je het mensen aanraden ja of nee, waarom wel of waarom niet 
+
+## Afbeeldingen
+
+![Vrouw en Man](../pictures/voortplantingenontwikkeling/manvrouw.jpg)
+
+
+![Levenscyclus](../pictures/voortplantingenontwikkeling/levenscyclus.png)
+
+
+![Vrouw dwarsdoorsnede](../pictures/voortplantingenontwikkeling/vrouwdoorsnede.svg)
