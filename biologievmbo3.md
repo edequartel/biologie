@@ -17,6 +17,13 @@
 - [T pdf Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
 - [K pdf Thema 2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
 
+## Afbeeldingen
+![Vrouw en Man](pictures/voortplantingenontwikkeling/manvrouw.jpg)
+--
+![Levenscyclus](pictures/voortplantingenontwikkeling/levenscyclus.png)
+--
+![Vrouw dwarsdoorsnede](pictures/voortplantingenontwikkeling/vrouwdoorsnede.svg)
+
 
 
 
