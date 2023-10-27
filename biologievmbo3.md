@@ -2,13 +2,26 @@
 
 [bio4bart](https:/tinyurl.com/bio4bart)
 
-## **Opdracht neem uit de rode koffer een voorbehoedsmiddel.**
+### **Movie Biologie Met Joost**
 
-1. zoek eerst de naam op de verpakking of elders
-2. zoek op internet informatie over dit voorbehoedsmiddel
-1. hoe het werkt?
-2. of je soa's ermee kan voorkomen
-3. zou je het mensen aanraden ja of nee, waarom wel of waarom niet
+- Wat is ovulatie?
+- Wat is menstruatie?
+- Welke zijn 3 meest gebruikte antconceptie of geboorteregeling middelen?
+- Wat zijn de voordelen en de nadelen van elke middel?
+- Wat als je het vergeet, welke maatregelen moet je dan nemen?
+- Welke 2 methodes zijn niet betrouwbaar, waarom niet?
+- Wat is sterilisatie bij de man?
+- Wat is sterilisatie bij de vrouw?
+
+
+### **Opdracht neem uit de rode koffer een voorbehoedsmiddel.**
+
+1. Zoek eerst de naam op de verpakking of elders
+2. Zoek op internet informatie over dit voorbehoedsmiddel
+1. Hoe het werkt?
+2. Of je soa's ermee kan voorkomen
+3. Zou je het mensen aanraden ja of nee, waarom wel of waarom niet 
+
 
 ## Joost
 - [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
