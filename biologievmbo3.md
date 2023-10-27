@@ -1,5 +1,15 @@
 # Biologie VMBO 3 - K3T3
 
+[bio4bart](https:/tinyurl.com/bio4bart)
+
+## **Opdracht neem uit de rode koffer een voorbehoedsmiddel.**
+
+1. zoek eerst de naam op de verpakking of elders
+2. zoek op internet informatie over dit voorbehoedsmiddel
+1. hoe het werkt?
+2. of je soa's ermee kan voorkomen
+3. zou je het mensen aanraden ja of nee, waarom wel of waarom niet
+
 ## Joost
 - [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
 - [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
@@ -18,10 +28,13 @@
 - [K pdf Thema 2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
 
 ## Afbeeldingen
+
 ![Vrouw en Man](pictures/voortplantingenontwikkeling/manvrouw.jpg)
---
+
+
 ![Levenscyclus](pictures/voortplantingenontwikkeling/levenscyclus.png)
---
+
+
 ![Vrouw dwarsdoorsnede](pictures/voortplantingenontwikkeling/vrouwdoorsnede.svg)
 
 
