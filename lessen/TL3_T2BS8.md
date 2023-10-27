@@ -4,16 +4,17 @@
 
 ### **Movie Biologie Met Joost**
 
-- Wat is ovulatie?
-- Wat is menstruatie?
-- Welke zijn 3 meest gebruikte antconceptie of geboorteregeling middelen?
-- Wat zijn de voordelen en de nadelen van elke middel?
-- Welke 2 methodes zijn niet betrouwbaar, waarom niet?
-- Wat is sterilisatie bij de man?
-- Wat is sterilisatie bij de vrouw?
-- Wat als je het vergeet, welke maatregelen kan of moet je dan nemen?
+1. Wat is ovulatie?
+1. Wat is menstruatie?
+1. Welke zijn 3 meest gebruikte antconceptie of geboorteregeling middelen?
+1. Wat zijn de voordelen en de nadelen van elke middel?
+1. Welke 2 methodes zijn niet betrouwbaar, waarom niet?
+1. Wat is sterilisatie bij de man?
+1. Wat is sterilisatie bij de vrouw?
+1. Wat als je het vergeet, welke maatregelen kan of moet je dan nemen?
 
 
+<!--
 ### **Opdracht neem uit de rode koffer een voorbehoedsmiddel.**
 
 1. Zoek eerst de naam op de verpakking of elders
@@ -31,3 +32,4 @@
 
 
 ![Vrouw dwarsdoorsnede](../pictures/voortplantingenontwikkeling/vrouwdoorsnede.svg)
+-->
