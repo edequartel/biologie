@@ -1,12 +1,12 @@
 # Biologie VMBO
 
-## Les
+## Opmerkingen
 
 * wo J 1 nov S tijdens de les basissitof 1 doornemen, lezen en kijken
 * do S 2 nov G tijdens de les basissitof 1 doornemen, lezen en kijken
 * do J+S 2 nov toets doornemen
 
-## Samenvatting en vragen
+## Lessen
 
 * [T3 Basstof 1 - De mens en het milieu](samenvattingen/tl/T_4AT3B1mensenmilieu.md)
 
