@@ -1,5 +1,7 @@
 ## T3 Basisstof 1
 
+## Samenvatting
+
 ### **doelstelling 1 basisstof 1**
 
 Je kunt omschrijven wat een genotype, wat een 
