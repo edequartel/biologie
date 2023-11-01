@@ -26,7 +26,7 @@
 |3 J+S+E| 3 S+E | 2 J|
 |6 J| 6 J+S||
 
-
+<!--
 ## Joost
 Letop! De filmpjes lopen **niet synchroon** met het boek.
 
@@ -39,7 +39,6 @@ Letop! De filmpjes lopen **niet synchroon** met het boek.
 - [YT B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
 - [YT B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
 
-<!--
 - [Afspeellijst Ecologie](https://youtube.com/playlist?list=PLr1tx9agautHiXZ_Nv5KhEhJMzU9QLfCz&si=t1I8Evy4OUySoWud)
 - [YT B1 ivnloeden uit het milieu](https://youtu.be/D709yBBfsEg?si=YpHeKvvN-7t_6kea)
 - [YT B2 voedselrelaties](https://youtu.be/CflK9TW9DAU?si=8KvF4uZp37HsNebW)
@@ -52,10 +51,11 @@ Letop! De filmpjes lopen **niet synchroon** met het boek.
 
 * [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=9)
 
+<!--
 ## Samenvatting ecologie
 - [Kader pdf Thema 2 mens en milieu samenvatting](samenvattingen/k/K_mensenmilieu.pdf)
 - [Theoretisch pdf Thema 2 mens en milieu samenvatting](samenvattingen/tl/T_mensenmilieu.pdf)
-
+-->
 ## Samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theoretisch](samenvattingen/tl/SV3T4T.pdf)
