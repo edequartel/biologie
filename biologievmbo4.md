@@ -9,12 +9,15 @@
 ## Samenvatting en vragen
 
 * [T3 Basstof 1 - De mens en het milieu](samenvattingen/tl/T_4AT3B1mensenmilieu.md)
+
+<!--
 * [T3 Basstof 2 - Voedselproductie](samenvattingen/tl/T_4AT3B2mensenmilieu.md)
 * [T3 Basstof 3 - Landbouw in Nederland](samenvattingen/tl/T_4AT3B3mensenmilieu.md)
 * [T3 Basstof 4 - Energie](samenvattingen/tl/T_4AT3B4mensenmilieu.md)
 * [T3 Basstof 5 - Klimaat](samenvattingen/tl/T_4AT3B5mensenmilieu.md)
 * [T3 Basstof 6 - Het water](samenvattingen/tl/T_4AT3B6mensenmilieu.md)
 * [T3 Basstof 7 - Uitstoot en afval](samenvattingen/tl/T_4AT3B7mensenmilieu.md)
+-->
 
 ## Rooster
 
