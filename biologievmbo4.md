@@ -2,18 +2,36 @@
 
 ## Les
 
-don 2 nov S tijdens de les basissitof 1 doornemen, lezen en kijken
-don 2 nov toets doornemen
-don 2 nov G tijdens de les basissitof 1 doornemen, lezen en kijken
+* wo J 1 nov S tijdens de les basissitof 1 doornemen, lezen en kijken
+* do S 2 nov G tijdens de les basissitof 1 doornemen, lezen en kijken
+* do J+S 2 nov toets doornemen
+
+## Basisstof 1 10 Vragen
+
+
+
+## Rooster
+
+|wo|do|vr|
+|---|---|---|
+|3 J+S+E| 3 S+E | 2 J|
+|6 J| 6 J+S||
 
 
 ## Joost
 Letop! De filmpjes lopen **niet synchroon** met het boek.
 
 - [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
-- [Afspeellijst Ecologie](https://youtube.com/playlist?list=PLr1tx9agautHiXZ_Nv5KhEhJMzU9QLfCz&si=t1I8Evy4OUySoWud)
+- [YT B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)
+- [YT B2 voedselproductie](https://youtu.be/jZXpL6pd8BQ?si=Lv1MynuQzl29mL4K)
+- [YT B3 landbouw in Nederland](https://youtu.be/GXS77aTXgiM?si=bO3NwwlXl2rQNrAS)
+- [YT B4 energie](https://youtu.be/rPdPgG0UP6g?si=Agp1jRNd9TRsnJJF)
+- [YT B5 klimaat](https://youtu.be/kTGTABBNrHs?si=1_pE-CeijyN231st)
+- [YT B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
+- [YT B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
 
 <!--
+- [Afspeellijst Ecologie](https://youtube.com/playlist?list=PLr1tx9agautHiXZ_Nv5KhEhJMzU9QLfCz&si=t1I8Evy4OUySoWud)
 - [YT B1 ivnloeden uit het milieu](https://youtu.be/D709yBBfsEg?si=YpHeKvvN-7t_6kea)
 - [YT B2 voedselrelaties](https://youtu.be/CflK9TW9DAU?si=8KvF4uZp37HsNebW)
 - [YT B3 kringlopen](https://youtu.be/XEzLrjJsf7c?si=nvYAnIjoHNDWbBdD)
@@ -26,8 +44,8 @@ Letop! De filmpjes lopen **niet synchroon** met het boek.
 * [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=9)
 
 ## Samenvatting ecologie
-- [Kader pdf Thema 2 ecologie samenvatting](samenvattingen/k/K_mensenmilieu.pdf)
-- [Theoretisch pdf Thema 2 ecologie samenvatting](samenvattingen/tl/T_mensenmilieu.pdf)
+- [Kader pdf Thema 2 mens en milieu samenvatting](samenvattingen/k/K_mensenmilieu.pdf)
+- [Theoretisch pdf Thema 2 mens en milieu samenvatting](samenvattingen/tl/T_mensenmilieu.pdf)
 
 ## Samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
