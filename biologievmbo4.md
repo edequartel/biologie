@@ -2,7 +2,10 @@
 
 ## Les
 
-donderdag 2 november tijdens de les basissitof 1 doornemen, toets doornemen
+don 2 nov S tijdens de les basissitof 1 doornemen, lezen en kijken
+don 2 nov toets doornemen
+don 2 nov G tijdens de les basissitof 1 doornemen, lezen en kijken
+
 
 ## Joost
 Letop! De filmpjes lopen **niet synchroon** met het boek.
