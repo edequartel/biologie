@@ -1,10 +1,14 @@
-## T3 Basisstof 2
+## 4aT3 Basisstof 1
 
 ## Joost
 
-[b1 mens en mlieu](joost)
+[1 mens en mlieu](joost)
+
+- [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
 
 ## Samenvatting
+
+[Samenvatting PDF]()
 ### *doelstelling 1 basisstof 1*
 
 Je kunt zes manieren noemen waarop de mens afhankelijk is van het milieu.

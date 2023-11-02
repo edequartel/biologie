@@ -1,14 +1,9 @@
 # Biologie VMBO
 
-## Opmerkingen
 
-* wo J 1 nov S tijdens de les basissitof 1 doornemen, kijken, lezen en maken
-* do S 2 nov G tijdens de les basissitof 1 doornemen, kijken, lezen en maken
-* do J+S 2 nov toets doornemen
+## Les
 
-## Lessen
-
-* [T3 Basstof 1 - De mens en het milieu](samenvattingen/tl/T_4AT3B1mensenmilieu.md)
+* [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/T_4AT3B1mensenmilieu.md)
 
 <!--
 * [T3 Basstof 2 - Voedselproductie](samenvattingen/tl/T_4AT3B2mensenmilieu.md)
@@ -19,6 +14,15 @@
 * [T3 Basstof 7 - Uitstoot en afval](samenvattingen/tl/T_4AT3B7mensenmilieu.md)
 -->
 
+## Joost
+
+- [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
+
+## Opmerkingen
+* wo J 1 nov S tijdens de les basissitof 1 doornemen, kijken, lezen en maken
+* do S 2 nov G tijdens de les basissitof 1 doornemen, kijken, lezen en maken
+* do J+S 2 nov toets doornemen
+
 ## Rooster
 
 |wo|do|vr|
@@ -26,10 +30,11 @@
 |3 J+S+E| 3 S+E Joost + Toets geen huiswerk opgeven | (2 J) Joost + Toets geen huiswerk opgeven |
 |6 J| 6 J+S||
 
-<!--
-## Joost
 
-- [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
+
+
+
+<!--
 - [YT B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)
 - [YT B2 voedselproductie](https://youtu.be/jZXpL6pd8BQ?si=Lv1MynuQzl29mL4K)
 - [YT B3 landbouw in Nederland](https://youtu.be/GXS77aTXgiM?si=bO3NwwlXl2rQNrAS)
@@ -46,15 +51,15 @@
 - [YT B5 populaties](https://youtu.be/Jg30ELmtXXI?si=7_NrfjkL0Zjxigh7)
 - [YT B6 aanpassingen bij dieren](https://youtu.be/92iYdmpyugs?si=62_HxPTDH60sa0-x)
 - [YT B7 aanpassingen bij planten](https://youtu.be/CssnfSTPnhc?si=fsDXRjbwvMSJvr2k)
--->
+
 
 * [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=9)
 
-<!--
 ## Samenvatting ecologie
 - [Kader pdf Thema 2 mens en milieu samenvatting](samenvattingen/k/K_mensenmilieu.pdf)
 - [Theoretisch pdf Thema 2 mens en milieu samenvatting](samenvattingen/tl/T_mensenmilieu.pdf)
--->
+- -->
+
 ## Samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theoretisch](samenvattingen/tl/SV3T4T.pdf)

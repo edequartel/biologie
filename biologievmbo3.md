@@ -1,6 +1,6 @@
 # Biologie VMBO 3 - K3T3
 
-[bio4bart](https:/tinyurl.com/bio4bart)
+[link: tinyurl.com/bio4bart](https:/tinyurl.com/bio4bart)
 
 ## Lessen
 
