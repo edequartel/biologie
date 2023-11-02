@@ -2,12 +2,15 @@
 
 [link: tinyurl.com/bio4bart](https:/tinyurl.com/bio4bart)
 
-## Lessen
+## Les
 
-- [Basisstof 8 - geboorteregeling](lessen/TL3_T2BS8.md)
+- [Basisstof 8 - geboorteregeling](lessen/bkt3/3A_T2BS8.md)
+- [Basisstof 9 - geboorteregeling](lessen/bkt3/3A_T2BS9.md)
 
 ## Joost
 - [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
+
+<!--
 - [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
 - [YT B2 Het voortplantingsstel van de vrouw](https://youtu.be/sRgaeigjjDA?si=R5xZnN_JqSjvRMCF)
 - [YT B3 reductiedeling](https://www.youtube.com/watch?v=_txMOrnOdsw)
@@ -18,7 +21,9 @@
 - [YT B8 Geboorteregeling](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
 - [YT B9 Seksualiteit](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
 
-## Samenvatting voorplanting
+-->
+
+## Samenvatting voortplanting
 - [T braille Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
 - [T pdf Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
 - [K pdf Thema 2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)

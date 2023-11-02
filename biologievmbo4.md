@@ -3,20 +3,29 @@
 
 ## Les
 
-* [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/T_4AT3B1mensenmilieu.md)
+* [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/4A_T3B1.md)
 
-<!--
-* [T3 Basstof 2 - Voedselproductie](samenvattingen/tl/T_4AT3B2mensenmilieu.md)
-* [T3 Basstof 3 - Landbouw in Nederland](samenvattingen/tl/T_4AT3B3mensenmilieu.md)
-* [T3 Basstof 4 - Energie](samenvattingen/tl/T_4AT3B4mensenmilieu.md)
-* [T3 Basstof 5 - Klimaat](samenvattingen/tl/T_4AT3B5mensenmilieu.md)
-* [T3 Basstof 6 - Het water](samenvattingen/tl/T_4AT3B6mensenmilieu.md)
-* [T3 Basstof 7 - Uitstoot en afval](samenvattingen/tl/T_4AT3B7mensenmilieu.md)
--->
+
+* [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
+
 
 ## Joost
 
 - [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
+
+<!--
+Certainly! If you want to include an iteration in the markdown list, you can do so by numbering the items. Here's the modified list:
+
+1. [basisstof](https://www.youtube.com/watch?v=_um07B8zs7I)
+2. [basisstof](https://www.youtube.com/watch?v=jZXpL6pd8BQ)
+3. [basisstof](https://www.youtube.com/watch?v=GXS77aTXgiM)
+4. [basisstof](https://www.youtube.com/watch?v=rPdPgG0UP6g)
+5. [basisstof](https://www.youtube.com/watch?v=kTGTABBNrHs)
+6. [basisstof](https://www.youtube.com/watch?v=QJPJ0smpDDw)
+7. [basisstof](https://www.youtube.com/watch?v=Pd66Z-ZzhU8)
+
+This list includes both the term "basisstof" and the corresponding links.
+-->
 
 ## Opmerkingen
 * wo J 1 nov S tijdens de les basissitof 1 doornemen, kijken, lezen en maken
