@@ -1,14 +1,12 @@
 # Biologie voor Bartiméus
 
-
+## Richting
 - [biologie H1H2](biologieH1H2.md)
 - [biologie H3](biologieH3.md)
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
 - [biologie HAVO](biologiehavo.md)
 
-<!-- ## Toets -->
-<!-- [toets HAVO 5 Thema 1 - Stofwisseling in de cel - Toets](toetsen/havo/h5t1toets.md)-->
 
 ## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
