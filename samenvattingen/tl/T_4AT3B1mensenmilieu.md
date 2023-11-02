@@ -45,12 +45,12 @@ Je kunt de voornaamste milieuproblemen noemen, de oorzaken daarvan en de maatreg
 2. Hoe levert het milieu water aan de mens?
 3. Wat zijn de oorzaken van milieuproblemen volgens de tekst?
 4. Wat wordt bedoeld met "veranderde manier van leven" in relatie tot milieuproblemen?
-5. Hoe kunnen mensen het milieu veranderen volgens de tekst?
+5. Hoe kunnen mensen het milieu veranderen ?
 6. Wat is het verschil tussen vervuiling en uitputting zoals beschreven in de tekst?
-7. Welke milieuproblemen worden genoemd in de tekst?
-8. Wat wordt bedoeld met duurzame ontwikkeling en waarom is het belangrijk volgens de tekst?
-9. Welke maatregelen nemen regeringen van landen volgens de tekst om het milieu te beschermen?
-10. Wat is het verband tussen ontbossing en de stijging van koolstofdioxide in de atmosfeer volgens de tekst?
+7. Welke milieuproblemen zijn er?
+8. Wat wordt bedoeld met duurzame ontwikkeling en waarom is het belangrijk volgens?
+9. Welke maatregelen nemen regeringen van landen om het milieu te beschermen?
+10. Wat is het verband tussen ontbossing en de stijging van koolstofdioxide in de atmosfeer?
 
 <!--
 ## Antwoorden

@@ -2,8 +2,8 @@
 
 ## Opmerkingen
 
-* wo J 1 nov S tijdens de les basissitof 1 doornemen, lezen en kijken
-* do S 2 nov G tijdens de les basissitof 1 doornemen, lezen en kijken
+* wo J 1 nov S tijdens de les basissitof 1 doornemen, kijken, lezen en maken
+* do S 2 nov G tijdens de les basissitof 1 doornemen, kijken, lezen en maken
 * do J+S 2 nov toets doornemen
 
 ## Lessen
@@ -23,12 +23,11 @@
 
 |wo|do|vr|
 |---|---|---|
-|3 J+S+E| 3 S+E | 2 J|
+|3 J+S+E| 3 S+E Joost + Toets geen huiswerk opgeven | (2 J) Joost + Toets geen huiswerk opgeven |
 |6 J| 6 J+S||
 
 <!--
 ## Joost
-Letop! De filmpjes lopen **niet synchroon** met het boek.
 
 - [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
 - [YT B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)

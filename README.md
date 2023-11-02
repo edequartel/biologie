@@ -3,6 +3,7 @@
 
 ## Biologie VMBO
 - [biologie H1H2](biologieH1H2.md)
+- [biologie H3](biologieH3.md)
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
 - [biologie HAVO](biologiehavo.md)
