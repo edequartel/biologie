@@ -5,8 +5,9 @@
 
 * [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/4A_T3B1.md)
 
-
+<!--
 * [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
+-->
 
 
 ## Joost
