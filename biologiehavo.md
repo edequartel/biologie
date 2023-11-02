@@ -9,6 +9,14 @@ EK - kijkt Joost, leest basisstof, geef aan wanner je toets is.
 * [Thema 2 - Voortplanting](https://www.youtube.com/playlist?list=PLr1tx9agautG50WDjGRsX7YZr-nIIloQg)
 * [Thema 3 - Genetica](https://www.youtube.com/watch?v=TyqJehlkUbk&list=PLr1tx9agautG-kjrxGLQKtFNIpyZ2BReW) 
 
+Certainly! Here's the updated list:
+
+- [Basisstof 1](https://www.youtube.com/watch?v=KB0pH3BQIpY)
+- [Basisstof 2](https://www.youtube.com/watch?v=4a_pS308jgA)
+- [Basisstof 3](https://www.youtube.com/watch?v=_YUrDKpdBoY)
+- [Basisstof 4](https://www.youtube.com/watch?v=oaeABdDvwxE)
+- [Basisstof 5](https://www.youtube.com/watch?v=1SeelrzD7aE)
+- [Basisstof 6](https://www.youtube.com/watch?v=IrUSDLUEIN8)
 
 * [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=11)
 
