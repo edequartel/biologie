@@ -3,7 +3,7 @@
 
 ## Joost
 
-- [Basisstof 9  Seksualiteit](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
+- geen movie met Joost
 
 ## Samenvatting
 ### doelstelling 15 basisstof 9

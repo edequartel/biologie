@@ -37,11 +37,8 @@ This list includes both the term "basisstof" and the corresponding links.
 
 |wo|do|vr|
 |---|---|---|
-|3 J+S+E| 3 S+E Joost + Toets geen huiswerk opgeven | (2 J) Joost + Toets geen huiswerk opgeven |
-|6 J| 6 J+S||
-
-
-
+|3 J+S:4a E| 3 S oefen E | (2 J) oefen |
+|6 J oefen| 6 J+S: 4a||
 
 
 <!--
