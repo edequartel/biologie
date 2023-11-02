@@ -1,7 +1,6 @@
 # Biologie voor Bartiméus
 
 
-## Biologie VMBO
 - [biologie H1H2](biologieH1H2.md)
 - [biologie H3](biologieH3.md)
 - [biologie VMBO 3](biologievmbo3.md)
