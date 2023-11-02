@@ -5,7 +5,7 @@
 ## Les
 
 - [Basisstof 8 - geboorteregeling](lessen/bkt3/3A_T2BS8.md)
-- [Basisstof 9 - geboorteregeling](lessen/bkt3/3A_T2BS9.md)
+- [Basisstof 9 - seksualiteit](lessen/bkt3/3A_T2BS9.md)
 
 ## Joost
 - [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
