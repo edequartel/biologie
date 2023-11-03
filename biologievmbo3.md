@@ -1,8 +1,6 @@
 # Biologie VMBO 3 - K3T3
 
-[link: tinyurl.com/bio4bart](https:/tinyurl.com/bio4bart)
-
-## Les
+## Lessen
 
 - [Basisstof 8 - geboorteregeling](lessen/bkt3/3A_T2BS8.md)
 - [Basisstof 9 - seksualiteit](lessen/bkt3/3A_T2BS9.md)
