@@ -25,11 +25,13 @@
 |                    | Opbouw van een activiteit                 |          |   |   |   |   |   |
 |                    | Houding en communicatie                   |          |   |   |   |   |   |
 |                    | Omgaan met groepen                        |          |   |   |   |   |   |
+<!--
 | T4                 | Into the wild                             |          |   |   |   |   |   |
 |                    | Locatie scouten                           |          |   |   |   |   |   |
 |                    | Bivak                                     |          |   |   |   |   |   |
 |                    | Subsidies en vergunningen                 |          |   |   |   |   |   |
 |                    | Presenteren                               |          |   |   |   |   |   |
+-->
 | Periode 2          |                                           |          |   |   |   |   |   |
 | Praktijkopdrachten |                                           |          |   |   |   |   |   |
 | P5                 | Weer voorspellen                          |          |   |   |   |   |   |
