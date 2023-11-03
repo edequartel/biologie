@@ -18,4 +18,5 @@
 ![QR - code](pictures/qrpadlet.png)
 
 ## PTA - doelstellingen
-[PTA - doelstellingen - Actief in de natuur]()
+* [checklist - Actief in de natuur](actiefindenatuur/checklist.md)
+* [pta](actiefindenatuur/PTA-Actief-in-de-natuur-2023-2024-basis-kader-leerjaar-3-1.pdf)
