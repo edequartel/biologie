@@ -34,19 +34,7 @@ samenvattingen
 vragen/antwoorden
 
 
-joost
 
-- [Video 1](https://www.youtube.com/watch?v=C1sDMXKy9w8)
-- [Video 2](https://www.youtube.com/watch?v=RYrEC6tvvkg)
-- [Video 3](https://www.youtube.com/watch?v=1wJhcKixw3g)
-- [Video 4](https://www.youtube.com/watch?v=s6GFHnLS5Ro)
-- [Video 5](https://www.youtube.com/watch?v=4PsatvDwvVA)
-- [Video 6](https://www.youtube.com/watch?v=-rt-vYAEIYw)
-- [Video 7](https://www.youtube.com/watch?v=z6KFFW8b3Nc)
-
-samenvatting
-
-vragen/antwoorden
 
 
 
