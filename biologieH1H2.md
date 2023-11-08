@@ -1,22 +1,5 @@
 # Biologie H1 en H2
 
-## Les
-
-1. [Basisstof1](lessen/h1h2h3/)
-
-## Joost
-
-- []()
-
-<!-- alle losse
-
--->
-
-## Samenvattingen
-
-<!--
-pdf/md
--->
 thema 2 voeding
 
 1. [basisstof vara 1](h2a-t2b-1)
@@ -50,20 +33,6 @@ samenvattingen
 
 vragen/antwoorden
 
-havo 4
-
-basisstoffen
-
-1. [basisstof vara 1](h2a-t2b-1)
-2. [basisstof vara 2](h2a-t2b-2)
-3. [basisstof vara 3](h2a-t2b-3)
-4. [basisstof vara 4](h2a-t2b-4)
-5. [basisstof vara 5](h2a-t2b-5)
-6. [basisstof vara 6](h2a-t2b-6)
-7. [basisstof vara 7](h2a-t2b-7)
-8. [basisstof vara 8](h2a-t2b-8)
-9. [basisstof vara 9](h2a-t2b-9)
-10. [basisstof vara 10](h2a-t2b-10)
 
 joost
 
