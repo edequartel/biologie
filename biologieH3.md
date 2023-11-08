@@ -1,8 +1,6 @@
-# Biologie H1 H2
+# Biologie H3/4
 
-## Thema 2 Voeding en vertering
-
-thema 1.
+## Thema 1
 
 havo 3:4
 
