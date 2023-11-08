@@ -240,6 +240,7 @@
 
 - Wortelvlies: bevestigt de tand of kies in de kaak.(De kaak is bedekt met tandvlees.)
 
+
 ### DOELSTELLING 9.
 
 **Je moet de delen van een melkgebit en van een blijvend gebit kunnen noemen met hun functies.**
@@ -330,8 +331,6 @@
 
 - Darmsapklieren produceren darmsap.
 
-**pp76**
-
 - Blindedarm met wormvormig aanhangsel (appendix).
 
 - Bij blindedarmontsteking is het wormvormig aanhangsel ontstoken.
@@ -348,68 +347,3 @@
 
 - Anus: kringspier die de endeldarm afsluit.
 
-### EXTRA DOELSTELLING 12.
-
-**Je moet de verteringssappen kunnen noemen met hun functies.**
-
-- Speeksel: water, slijm en een enzym.
-
-- Functie slijm: de glijbaarheid van het voedsel verhogen.
-
-- Functie enzym: zetmeel voor een deel verteren.
-
-- Maagsap: water, zoutzuur en een enzym.
-
-- Functie zoutzuur: bacteriën in het voedsel doden.
-
-- Functie enzym: eiwitten voor een deel verteren.
-
-- Gal: bevat geen enzym.
-
-- Functie: vetten emulgeren (grote vetdruppels verdelen in kleine vetdruppeltjes), zodat de vetten beter bereikbaar zijn voor enzymen.
-
-- Alvleessap: bevat verschillende enzymen.
-
-- Functie: eiwitten, koolhydraten en vetten verteren.
-
-- Darmsap: bevat verschillende enzymen.
-
-- Functie: de vertering van eiwitten en koolhydraten afmaken.
-
-### EXTRA DOELSTELLING 13.
-
-**Je moet redenen kunnen noemen waarom mensen minder vlees eten. Je moet ook producten kunnen noemen die vlees in de maaltijd kunnen vervangen.**
-
-- Redenen om minder vlees te eten:
-
-- respect voor dieren;
-
-- zorg voor de gezondheid;
-
-- geloofsovertuiging;
-
-- zorg voor het milieu;
-
-- de wereldvoedselsituatie;
-
-- de smaak;
-
-- de prijs.
-
-- Producten die vlees in de maaltijd kunnen vervangen: peulvruchten, tahoe, kaas, eieren en vleesvervangers.
-
-- In deze producten moet extra veel voorkomen:
-
-- ijzer, omdat het lichaam ijzer uit plantaardige voedingsmiddelen minder goed kan opnemen;
-
-- vitamine B12, omdat dit vrijwel niet voorkomt in plantaardige voedingsmiddelen.
-
-### COMPETENTIES/VAARDIGHEDEN
-
-**BASISSTOF**
-
-- Je hebt geleerd het programma 'Eetmeter' te gebruiken.
-
-- Je hebt geleerd hoe je zetmeel aantoont in voedingsmiddelen.
-
-- Je hebt geoefend met het doen van onderzoek.
