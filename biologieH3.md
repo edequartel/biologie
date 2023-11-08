@@ -1,10 +1,10 @@
 # Biologie H3/4
 
-## Thema 1 wat doe je in de biologie
+## Thema 1 Organen en cellen
 
 ## Lessen
 
-1. [basisstof 4](lessen/h4/4A_T1B4.md)
+1. [T1 basisstof 1 Organismen](lessen/bkt3/3A_T1BS1.md)
 
 <!--
 
@@ -22,12 +22,12 @@
 
 ## joost
 
+<!--
+
 - [Basistof 1](https://www.youtube.com/watch?v=C1sDMXKy9w8)
 - [Basistof 2](https://www.youtube.com/watch?v=RYrEC6tvvkg)
 - [Basistof 3](https://www.youtube.com/watch?v=1wJhcKixw3g)
 - [Basistof 4](https://www.youtube.com/watch?v=s6GFHnLS5Ro)
-
-<!--
 - [Basistof 5](https://www.youtube.com/watch?v=4PsatvDwvVA)
 - [Basistof 6](https://www.youtube.com/watch?v=-rt-vYAEIYw)
 - [Vi Basistof deo 7](https://www.youtube.com/watch?v=z6KFFW8b3Nc)
@@ -35,7 +35,7 @@
 
 
 ## Samenvatting 
-- [Samenvatting](samenvattingen/h/voedingenvertering.md)
+- [Samenvatting](samenvattingen/tl/T_organenencellen.pdf)
 
 <!-- 
 [T pdf Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)

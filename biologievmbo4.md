@@ -4,6 +4,7 @@
 ## Les
 
 * [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/4A_T3B1.md)
+* [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
 
 <!--
 * [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
@@ -68,6 +69,10 @@ This list includes both the term "basisstof" and the corresponding links.
 - -->
 
 ## Samenvattingen
+
+- [Samenvatting mens en milieu](samenvattingen/tl/T_mensenmilieu.md)
+
+### alle samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theoretisch](samenvattingen/tl/SV3T4T.pdf)
 
