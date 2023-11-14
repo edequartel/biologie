@@ -1,7 +1,7 @@
 # Biologie VMBO 3 - K3T3
 
 ## Joost
-- [Afspeellijst erfelijkheid](https://www.youtube.com/watch?v=-KA3MghMh0g&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3)
+
 1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
 
 
@@ -49,7 +49,9 @@
 
 -->
 
-## Samenvatting voortplanting
+## Samenvatting erfelijkheid
+- [Afspeellijst erfelijkheid](https://www.youtube.com/watch?v=-KA3MghMh0g&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3)
+
 - [T tekst Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.md)
 - [T pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.pdf)
 - [K pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/k/K_erfelijkheid.pdf)
