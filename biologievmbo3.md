@@ -1,11 +1,8 @@
 # Biologie VMBO 3 - K3T3
 
-## Lessen erfelijkheid
-
-1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
-
 ## Joost
 - [Afspeellijst erfelijkheid](https://www.youtube.com/watch?v=-KA3MghMh0g&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3)
+1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
 
 
 ## Vragen
