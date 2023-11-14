@@ -1,38 +1,45 @@
 # Biologie VMBO
 
 
-## Les
-
-* [4a T3 Basstof 1 - De mens en het milieu](lessen/bkt4/4A_T3B1.md)
-* [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
-
-<!--
-* [4a T3 Basstof 2 - Landbouw in Nederland](lessen/bkt4/4A_T3B2.md)
--->
-
-
 ## Joost
-
 - [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
+- [B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)
+- [B2 voedselproductie](https://youtu.be/jZXpL6pd8BQ?si=Lv1MynuQzl29mL4K)
+- [B3 landbouw in Nederland](https://youtu.be/GXS77aTXgiM?si=bO3NwwlXl2rQNrAS)
+- [B4 energie](https://youtu.be/rPdPgG0UP6g?si=Agp1jRNd9TRsnJJF)
+- [B5 klimaat](https://youtu.be/kTGTABBNrHs?si=1_pE-CeijyN231st)
+- [B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
+- [B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
+
+## Vragen
+
+1. Wat zijn kenmerken van gangbare akkerbouw?
+2. Waarom worden bestrijdingsmiddelen gebruikt in gangbare akkerbouw?
+3. Waarom raakt de bodem snel uitgeput in gangbare akkerbouw?
+4. Hoe proberen bedrijven in gangbare akkerbouw het mineralenverlies te beperken?
+5. Wat is precisielandbouw en hoe verschilt het van gangbare akkerbouw?
+6. Wat kenmerkt de intensieve veehouderij?
+7. Welk probleem komt vaak voor bij intensieve veehouderijbedrijven?
+8. Waarom wordt niet altijd rekening gehouden met het welzijn van dieren in de intensieve veehouderij?
+9. Wat zijn de kenmerken van gangbare tuinbouw?
+10. Wat zijn de verschillen tussen tuinbouw in de open grond en glastuinbouw?
 
 <!--
-Certainly! If you want to include an iteration in the markdown list, you can do so by numbering the items. Here's the modified list:
 
-1. [basisstof](https://www.youtube.com/watch?v=_um07B8zs7I)
-2. [basisstof](https://www.youtube.com/watch?v=jZXpL6pd8BQ)
-3. [basisstof](https://www.youtube.com/watch?v=GXS77aTXgiM)
-4. [basisstof](https://www.youtube.com/watch?v=rPdPgG0UP6g)
-5. [basisstof](https://www.youtube.com/watch?v=kTGTABBNrHs)
-6. [basisstof](https://www.youtube.com/watch?v=QJPJ0smpDDw)
-7. [basisstof](https://www.youtube.com/watch?v=Pd66Z-ZzhU8)
+### Antwoorden:
 
-This list includes both the term "basisstof" and the corresponding links.
+1. Gangbare akkerbouw kenmerkt zich door monoculturen, gebruik van bestrijdingsmiddelen, uitputting van de bodem, en het gebruik van kunstmest.
+2. Bestrijdingsmiddelen worden gebruikt om de kans op (insecten)plagen en ziekten in monoculturen te verminderen.
+3. De bodem raakt snel uitgeput door intensief gebruik en het gebruik van kunstmest.
+4. Bedrijven in gangbare akkerbouw houden een mineralenboekhouding bij om mineralenverlies te beperken.
+5. Precisielandbouw zorgt ervoor dat elk deel van de akker de juiste hoeveelheid kunstmest en bestrijdingsmiddelen ontvangt, in tegenstelling tot gelijkmatige toepassing.
+6. Intensieve veehouderij kenmerkt zich door veel dieren op weinig grond, efficiënte productie, mestoverschot, en soms gebrek aan aandacht voor dierenwelzijn.
+7. Veel intensieve veehouderijbedrijven hebben een mestoverschot.
+8. Niet altijd wordt rekening gehouden met dierenwelzijn in de intensieve veehouderij vanwege efficiëntie en kostenoverwegingen.
+9. Gangbare tuinbouw omvat tuinbouw in de open grond en glastuinbouw, waarbij het hele jaar door gewassen kunnen worden verbouwd in kassen.
+10. Bij glastuinbouw wordt steeds meer biologische bestrijding toegepast, en er wordt zuiniger omgegaan met energie vergeleken met tuinbouw in de open grond.
+
 -->
-
-## Opmerkingen
-* wo J 1 nov S tijdens de les basissitof 1 doornemen, kijken, lezen en maken
-* do S 2 nov G tijdens de les basissitof 1 doornemen, kijken, lezen en maken
-* do J+S 2 nov toets doornemen
 
 ## Rooster
 
@@ -42,35 +49,9 @@ This list includes both the term "basisstof" and the corresponding links.
 |6 J oefen| 6 J+S: 4a||
 
 
-<!--
-- [YT B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)
-- [YT B2 voedselproductie](https://youtu.be/jZXpL6pd8BQ?si=Lv1MynuQzl29mL4K)
-- [YT B3 landbouw in Nederland](https://youtu.be/GXS77aTXgiM?si=bO3NwwlXl2rQNrAS)
-- [YT B4 energie](https://youtu.be/rPdPgG0UP6g?si=Agp1jRNd9TRsnJJF)
-- [YT B5 klimaat](https://youtu.be/kTGTABBNrHs?si=1_pE-CeijyN231st)
-- [YT B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
-- [YT B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
-
-- [Afspeellijst Ecologie](https://youtube.com/playlist?list=PLr1tx9agautHiXZ_Nv5KhEhJMzU9QLfCz&si=t1I8Evy4OUySoWud)
-- [YT B1 ivnloeden uit het milieu](https://youtu.be/D709yBBfsEg?si=YpHeKvvN-7t_6kea)
-- [YT B2 voedselrelaties](https://youtu.be/CflK9TW9DAU?si=8KvF4uZp37HsNebW)
-- [YT B3 kringlopen](https://youtu.be/XEzLrjJsf7c?si=nvYAnIjoHNDWbBdD)
-- [YT B4 piramiden](https://youtu.be/US-1D-NMXBI?si=iVu_ULyKbE9K10In)
-- [YT B5 populaties](https://youtu.be/Jg30ELmtXXI?si=7_NrfjkL0Zjxigh7)
-- [YT B6 aanpassingen bij dieren](https://youtu.be/92iYdmpyugs?si=62_HxPTDH60sa0-x)
-- [YT B7 aanpassingen bij planten](https://youtu.be/CssnfSTPnhc?si=fsDXRjbwvMSJvr2k)
-
-
-* [Alle afspeellijsten](https://www.youtube.com/@BiologiemetJoost/playlists?view=50&sort=dd&shelf_id=9)
-
-## Samenvatting ecologie
-- [Kader pdf Thema 2 mens en milieu samenvatting](samenvattingen/k/K_mensenmilieu.pdf)
-- [Theoretisch pdf Thema 2 mens en milieu samenvatting](samenvattingen/tl/T_mensenmilieu.pdf)
-- -->
-
 ## Samenvattingen
 
-- [Samenvatting mens en milieu](samenvattingen/tl/T_mensenmilieu.md)
+- [Samenvatting mens en milieu](samenvattingen/tl/T_mensenmilieu.pdf)
 
 ### alle samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
