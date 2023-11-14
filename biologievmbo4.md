@@ -10,7 +10,7 @@
 - [B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
 - [B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
 
-## Vragen basisstof 4
+## Vragen basisstof 3
 
 1. Wat zijn kenmerken van gangbare akkerbouw?
 2. Waarom worden bestrijdingsmiddelen gebruikt in gangbare akkerbouw?
