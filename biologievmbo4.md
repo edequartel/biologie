@@ -2,7 +2,6 @@
 
 
 ## Joost
-- [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
 - [B1 de mens en het milieu](https://youtu.be/_um07B8zs7I?si=Z7zrw6IdZ2MIbilG)
 - [B2 voedselproductie](https://youtu.be/jZXpL6pd8BQ?si=Lv1MynuQzl29mL4K)
 - [B3 landbouw in Nederland](https://youtu.be/GXS77aTXgiM?si=bO3NwwlXl2rQNrAS)
@@ -11,7 +10,7 @@
 - [B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
 - [B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
 
-## Vragen
+## Vragen basisstof 4
 
 1. Wat zijn kenmerken van gangbare akkerbouw?
 2. Waarom worden bestrijdingsmiddelen gebruikt in gangbare akkerbouw?
@@ -48,6 +47,9 @@
 |3 J+S:4a E| 3 S oefen E | (2 J) oefen |
 |6 J oefen| 6 J+S: 4a||
 
+## Afspeellijst
+
+- [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
 
 ## Samenvattingen
 
