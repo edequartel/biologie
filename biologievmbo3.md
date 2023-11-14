@@ -1,30 +1,61 @@
 # Biologie VMBO 3 - K3T3
 
-## Lessen
+## Lessen erfelijkheid
 
-- [Basisstof 8 - geboorteregeling](lessen/bkt3/3A_T2BS8.md)
-- [Basisstof 9 - seksualiteit](lessen/bkt3/3A_T2BS9.md)
+1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
 
 ## Joost
-- [Afspeellijst voorplanting](https://youtube.com/playlist?list=PLr1tx9agautGYRFwXjPTb9RPI-Q9j8VzO&si=Bw3I-g_BGJ3mzwbG)
+- [Afspeellijst erfelijkheid](https://www.youtube.com/watch?v=-KA3MghMh0g&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3)
+
+
+## Vragen
+1. Wat is een genotype?
+2. Waar bevindt de informatie voor alle erfelijke eigenschappen zich?
+3. Uit welke componenten bestaat het genotype?
+4. Hoe wordt het fenotype van een organisme omschreven?
+5. Welke factoren beïnvloeden het fenotype?
+6. Wat is een gen?
+7. Waar bevindt een gen zich op?
+8. Hoeveel genen bevat een chromosoom over het algemeen?
+9. Hoe komen chromosomen voor in lichaamscellen?
+10. Hoe komen genen voor in lichaamscellen?
+
+
 
 <!--
-- [YT B1 Het voortplantingsstel van de man](https://youtu.be/O3WQzcfOFNg?si=jOdoYm-uw6LygmZI)
-- [YT B2 Het voortplantingsstel van de vrouw](https://youtu.be/sRgaeigjjDA?si=R5xZnN_JqSjvRMCF)
-- [YT B3 reductiedeling](https://www.youtube.com/watch?v=_txMOrnOdsw)
-- [YT B4 geslachtskenmerken, hormonen en menstruatiecyclus](https://youtu.be/S0CulfLs2BI?si=SpO7bPMkXz-Zi-X9)
-- [YT B5 Bevruchting en embryonale ontwikkeling](https://youtu.be/ioUFdUOHaO8?si=WwSvts2KUpEWPw2N)
-- [YT B6 Geboorte en verdere ontwikkeling](https://youtu.be/_hNHioqILmo?si=rQ3H7wBysJ_EUo7P)
-- [YT B7 Seksueel overdraagbare aandoeningen](https://youtu.be/T9uizuzK-48?si=K64ue6vcvKlkSWBz)
-- [YT B8 Geboorteregeling](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
-- [YT B9 Seksualiteit](https://youtu.be/XG9qEsMbxrc?si=75R23e5LyywSCo0d)
+### Antwoorden:
+1. Het genotype is de verzameling van alle erfelijke informatie van een organisme.
+2. De informatie voor erfelijke eigenschappen ligt in de chromosomen in de kern van elke lichaamscel.
+3. Het genotype bestaat uit alle genen die in een celkern aanwezig zijn.
+4. Het fenotype is het uiterlijk of de zichtbare eigenschappen van een organisme.
+5. Het fenotype komt tot stand door zowel het genotype als invloeden uit het milieu.
+6. Een gen is een deel van een chromosoom dat informatie bevat voor één erfelijke eigenschap.
+7. Een gen bevindt zich op een specifieke locatie op een chromosoom.
+8. Een chromosoom bevat veel genen, vaak honderden of duizenden.
+9. In lichaamscellen komen chromosomen in paren voor.
+10. In lichaamscellen komen genen in paren voor.
+11. -->
+
+
+
+<!--
+
+2. [Basisstof 2](https://www.youtube.com/watch?v=hbjusQ_fuJY)
+3. [Basisstof 3](https://www.youtube.com/watch?v=T-uRoFOLJAI)
+4. [Basisstof 4](https://www.youtube.com/watch?v=JT2qhYV-N-s)
+5. [Basisstof 5](https://www.youtube.com/watch?v=eH7O75OtGUA)
+6. [Basisstof 6](https://www.youtube.com/watch?v=1E9dDJQ7qao)
+7. [Basisstof 7](https://www.youtube.com/watch?v=yEDEGyaspEw)
+8. [Basisstof 8](https://www.youtube.com/watch?v=T3FvxYNmyu4)
+9. [Basisstof 9](https://www.youtube.com/watch?v=jgUsospki_k)
+10. [Basisstof 10](https://www.youtube.com/watch?v=86U2xtFH1Hk)
 
 -->
 
 ## Samenvatting voortplanting
-- [T braille Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.md)
-- [T pdf Thema 2 Voortplanting samenvatting](samenvattingen/tl/T_voortplanting.pdf)
-- [K pdf Thema 2 Voortplanting samenvatting](samenvattingen/k/K_voortplanting.pdf)
+- [T tekst Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.md)
+- [T pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.pdf)
+- [K pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/k/K_erfelijkheid.pdf)
 
 
 
