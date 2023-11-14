@@ -4,6 +4,29 @@
 
 1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
 
+## Samenvatting
+### doelstelling 1 basisstof 1
+
+Je kunt omschrijven wat een genotype, wat een
+fenotype en wat een gen is.
+
+- Genotype: de informatie voor alle erfelijke
+    eigenschappen van een organisme.
+- Deze informatie ligt in de chromosomen in de
+    kern van elke lichaamscel.
+- Het genotype bestaat uit alle genen die in een
+    celkern aanwezig zijn.
+- Fenotype: het uiterlijk (de zichtbare eigenschappen)
+    van een organisme.
+- Het fenotype komt tot stand door het genotype
+    en door invloeden uit het milieu.
+- Gen: een deel van een chromosoom met informatie
+    voor één erfelijke eigenschap.
+- Een chromosoom bevat veel genen.
+- In lichaamscellen komen chromosomen in paren
+    voor.
+- In lichaamscellen komen genen in paren voor.
+
 
 ## Vragen
 1. Wat is een genotype?
