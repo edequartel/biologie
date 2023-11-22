@@ -2,16 +2,19 @@
 
 ## Joost
 
-* [basisstof 1 voedingsmiddelen en voedingsstoffen](lessen/h1h2/2A_T2B1.md)
-* [basisstof 2 Zetmeel aantonen](lessen/h1h2/2A_T2B2.md)
-* [basisstof 3 Gezonde voeding](lessen/h1h2/2A_T2B3.md)
-* [basisstof 4 Hoeveel is gezond?](lessen/h1h2/2A_T2B4.md)
-* [basisstof 5 Het verteringsstelsel](lessen/h1h2/2A_T2B5.md)
-* [basisstof 6 Het gebit](lessen/h1h2/2A_T2B6.md)
-* [basisstof 7 De organen voor vertering](lessen/h1h2/2A_T2B7.md)
+* [basisstof 1 voedingsmiddelen en voedingsstoffen](https://www.youtube.com/watch?v=kwDoL2pJEiU)
+* [basisstof 2 Zetmeel aantonen](https://www.youtube.com/watch?v=7g6pLy7dbhA)
+* [basisstof 3 Gezonde voeding](https://www.youtube.com/watch?v=3e3q5EToKL4)
+* [basisstof 4 Hoeveel is gezond?](https://www.youtube.com/watch?v=5n4BnZsrKYc)
+* [basisstof 5 Het verteringsstelsel](https://www.youtube.com/watch?v=GipxZjvfLvo)
+* [basisstof 6 Het gebit](https://www.youtube.com/watch?v=MxjHhSrzqYc)
+* [basisstof 7 De organen voor de vertering](https://www.youtube.com/watch?v=kW4jcQ8MGYs)
+* [basisstof 8 Verteringssappen](https://www.youtube.com/watch?v=lLmil2OO3C8)
+* [basisstof 9 Vegetarisch eten](https://www.youtube.com/watch?v=38tdsFzW3xw)
+
 
 ## Samenvatting
-
+- [afspeellijst voeding en vertering](https://www.youtube.com/playlist?list=PLr1tx9agautHT07xJ9TDM2o6JoPhsj5_O)
 - [Samenvatting braille](samenvattingen/ho/voedingenvertering.md)
 - [Samenvatting pdf](samenvattingen/ho/Bvj_2hv_th2_samenvatting.pdf)
 
