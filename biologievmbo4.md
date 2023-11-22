@@ -10,6 +10,7 @@
 - [B6 het water](https://youtu.be/QJPJ0smpDDw?si=z9il4QV6N3rKXkw_)
 - [B7 uitstoot en afval](https://youtu.be/Pd66Z-ZzhU8?si=eamx3i99u5d98NI_)
 
+<!--
 ## Vragen basisstof 3
 
 1. Wat zijn kenmerken van gangbare akkerbouw?
@@ -23,7 +24,7 @@
 9. Wat zijn de kenmerken van gangbare tuinbouw?
 10. Wat zijn de verschillen tussen tuinbouw in de open grond en glastuinbouw?
 
-<!--
+
 
 ### Antwoorden:
 
@@ -54,6 +55,7 @@
 ## Samenvattingen
 
 - [Samenvatting mens en milieu](samenvattingen/tl/T_mensenmilieu.pdf)
+- [Samenvatting mens en milieu](samenvattingen/k/K_mensenmilieu.pdf)
 
 ### alle samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
