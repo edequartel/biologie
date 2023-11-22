@@ -3,8 +3,20 @@
 ## Joost
 
 1. [Basisstof 1 - fenotype en genotype](https://www.youtube.com/watch?v=-KA3MghMh0g)
+2. [Basisstof 2 - Geslachtschromosomen](https://www.youtube.com/watch?v=hbjusQ_fuJY)
+3. [Basisstof 3 - Genenparen](https://www.youtube.com/watch?v=T-uRoFOLJAI)
+4. [Basisstof 4 - Kruisingen](https://www.youtube.com/watch?v=JT2qhYV-N-s)
+5. [Basisstof 5 - Stambomen](https://www.youtube.com/watch?v=eH7O75OtGUA)
+6. [Basisstof 6 - Geslachtelijke en ongeslachtelijke voortplanting](https://www.youtube.com/watch?v=1E9dDJQ7qao)
+7. [Basisstof 7 - Mutaties](https://www.youtube.com/watch?v=yEDEGyaspEw)
+8. [Basisstof 8 - Erfelijkheidsonderzoek](https://www.youtube.com/watch?v=T3FvxYNmyu4)
+9. [Basisstof 9 - Biotechnologie](https://www.youtube.com/watch?v=jgUsospki_k)
+10. [Basisstof 10 - De evolutie theorie](https://www.youtube.com/watch?v=86U2xtFH1Hk)
+11. [Basisstof 11 - Argumenten voor de evolutie](https://www.youtube.com/watch?v=xQPr2kF6BPo&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3&index=11)
 
+<!--
 ## Samenvatting
+
 ### doelstelling 1 basisstof 1
 
 Je kunt omschrijven wat een genotype, wat een
@@ -60,7 +72,7 @@ fenotype en wat een gen is.
 
 <!--
 
-2. [Basisstof 2](https://www.youtube.com/watch?v=hbjusQ_fuJY)
+
 3. [Basisstof 3](https://www.youtube.com/watch?v=T-uRoFOLJAI)
 4. [Basisstof 4](https://www.youtube.com/watch?v=JT2qhYV-N-s)
 5. [Basisstof 5](https://www.youtube.com/watch?v=eH7O75OtGUA)
@@ -74,7 +86,6 @@ fenotype en wat een gen is.
 
 ## Samenvatting erfelijkheid
 - [Afspeellijst erfelijkheid](https://www.youtube.com/watch?v=-KA3MghMh0g&list=PLr1tx9agautFgJKHJGJlQJ-BYk6XN63G3)
-
 - [T tekst Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.md)
 - [T pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/tl/T_erfelijkheid.pdf)
 - [K pdf Thema 2 Erfelijkheid samenvatting](samenvattingen/k/K_erfelijkheid.pdf)
