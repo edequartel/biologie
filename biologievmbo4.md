@@ -54,8 +54,8 @@
 
 ## Samenvattingen
 
-- [Samenvatting mens en milieu](samenvattingen/tl/T_mensenmilieu.pdf)
-- [Samenvatting mens en milieu](samenvattingen/k/K_mensenmilieu.pdf)
+- [Samenvatting mens en milieu T](samenvattingen/tl/T_mensenmilieu.pdf)
+- [Samenvatting mens en milieu K](samenvattingen/k/K_mensenmilieu.pdf)
 
 ### alle samenvattingen
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
