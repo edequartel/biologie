@@ -1,157 +1,8 @@
 # H1H2H3
 
-## Quiz
-
-
-**Vraag 1:** Wat is de functie van het bladgroen in een plant?
-
-a) Opslag van water  
-b) Fotosynthese  
-c) Transport van voedingsstoffen  
-d) Bescherming tegen ziektes  
-
-**Vraag 2:** Welk orgaan pompt bloed door het lichaam?
-
-a) Lever  
-b) Longen  
-c) Hart  
-d) Nieren  
-
-**Vraag 3:** Hoe noem je de voortplantingscel van de man?
-
-a) Eicel  
-b) Zaadcel  
-c) Embryo  
-d) Hormoon  
-
-**Vraag 4:** Welk orgaan produceert insuline?
-
-a) Lever  
-b) Alvleesklier  
-c) Maag  
-d) Nieren  
-
-**Vraag 5:** Wat is de belangrijkste functie van de longen?
-
-a) Voedsel verteren  
-b) Zuurstof opnemen  
-c) Bloed filteren  
-d) Afvalstoffen uitscheiden  
-
-**Vraag 6:** Hoe noem je de groep cellen met dezelfde functie?
-
-a) Weefsel  
-b) Orgaan  
-c) Celmembraan  
-d) Chromosoom  
-
-**Vraag 7:** Welke stofwisselingsreactie vindt plaats in de mitochondriën?
-
-a) Fotosynthese  
-b) Verbranding  
-c) Fotosynthese  
-d) Eiwitsynthese  
-
-**Vraag 8:** Wat is de belangrijkste functie van de wortels van een plant?
-
-a) Fotosynthese  
-b) Wateropname  
-c) Voedingsstoffen transporteren  
-d) Zonlicht absorberen  
-
-**Vraag 9:** Welke van de volgende dieren is een herbivoor?
-
-a) Leeuw  
-b) Krokodil  
-c) Olifant  
-d) Adelaar  
-
-**Vraag 10:** Hoe wordt de energie van de zon omgezet in chemische energie in planten?
-
-a) Verbranding  
-b) Fotosynthese  
-c) Ademhaling  
-d) Fermentatie  
-
-**Vraag 11:** Wat is de rol van DNA in een cel?
-
-a) Energieopslag  
-b) Erfelijkheid  
-c) Celstructuur  
-d) Voedselvertering  
-
-**Vraag 12:** Welke planeet staat het dichtst bij de zon?
-
-a) Aarde  
-b) Venus  
-c) Mars  
-d) Mercurius  
-
-**Vraag 13:** Wat is een kenmerk van een zoogdier?
-
-a) Legt eieren  
-b) Heeft veren  
-c) Produceert melk  
-d) Ademt met kieuwen  
-
-**Vraag 14:** Wat is het grootste orgaan van het menselijk lichaam?
-
-a) Lever  
-b) Longen  
-c) Huid  
-d) Hart  
-
-**Vraag 15:** Welk gas nemen planten op tijdens de fotosynthese?
-
-a) Stikstof  
-b) Koolstofdioxide  
-c) Zuurstof  
-d) Waterstof  
-
-**Vraag 16:** Welk orgaan reguleert de bloedsuikerspiegel?
-
-a) Lever  
-b) Nieren  
-c) Alvleesklier  
-d) Hart  
-
-**Vraag 17:** Wat is de levenscyclus van een kikker?
-
-a) Ei - Larve - Pop - Volwassen  
-b) Ei - Rups - Pop - Volwassen  
-c) Ei - Pup - Pop - Volwassen  
-d) Ei - Embryo - Jong - Volwassen  
-
-**Vraag 18:** Welk gas is essentieel voor het verbrandingsproces in cellen?
-
-a) Zuurstof  
-b) Stikstof  
-c) Waterstof  
-d) Koolstofdioxide  
-
-**Vraag 19:** Wat is de functie van het skelet in het menselijk lichaam?
-
-a) Bescherming van organen  
-b) Energieopslag  
-c) Fotosynthese  
-d) Bloedtransport  
-
-**Vraag 20:** Welk dier staat bekend om zijn gevlekte vacht en leeft voornamelijk in bomen?
-
-a) Leeuw  
-b) Cheetah  
-c) Luiaard  
-d) Gorilla  
-
-
-
-<!--
-BHCBBBBAABBCBACBCBAA
-
+## Joost
 
 * [basisstof 1 voedingsmiddelen en voedingsstoffen](lessen/h1h2/2A_T2B1.md)
-
-<!--
 * [basisstof 2 Zetmeel aantonen](lessen/h1h2/2A_T2B2.md)
 * [basisstof 3 Gezonde voeding](lessen/h1h2/2A_T2B3.md)
 * [basisstof 4 Hoeveel is gezond?](lessen/h1h2/2A_T2B4.md)
@@ -159,7 +10,11 @@ BHCBBBBAABBCBACBCBAA
 * [basisstof 6 Het gebit](lessen/h1h2/2A_T2B6.md)
 * [basisstof 7 De organen voor vertering](lessen/h1h2/2A_T2B7.md)
 
--->
+## Samenvatting
+
+- [Samenvatting braille](samenvattingen/ho/voedingenvertering.md)
+- [Samenvatting pdf](samenvattingen/ho/Bvj_2hv_th2_samenvatting.pdf)
+
 
 <!--
 2. [basisstof vara 2](h2a-t2b-2)
