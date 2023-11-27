@@ -2,15 +2,13 @@
 
 ## Richting
 - [biologie H1H2H3](biologieH1H2H3.md)
-
-<!--
-- [biologie H3](biologieH3.md)
-
--->
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
 - [biologie HAVO](biologiehavo.md)
 
+<!--
+- [biologie H3](biologieH3.md)
+-->
 
 ## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
