@@ -279,16 +279,16 @@ beschrijven hoe kanker ontstaat.
     andere lichaamscellen blijft ongewijzigd.
 - Als een mutatie in een geslachtscel optreedt, kan dit
     wel een grote uitwerking hebben.
-- Deze geslachtscel moet dan betrokken zijn bij
+	- Deze geslachtscel moet dan betrokken zijn bij
     bevruchting. Elke lichaamscel van de nakomeling
     bevat dan het gemuteerde gen.
-       - Mutagene invloeden verhogen het aantal mutaties:
+- Mutagene invloeden verhogen het aantal mutaties:
        - straling (bijv. radioactieve straling,
           röntgenstraling of ultraviolette straling in
-          zonlicht);
+          zonlicht)
        - bepaalde chemische stoffen (bijv. stoffen in
-          sigarettenrook, asbest).
-       - Ontstaan van kanker: ergens in het lichaam gaat een
+          sigarettenrook, asbest)
+- Ontstaan van kanker: ergens in het lichaam gaat een
           cel zich ongeremd delen.
        - Oorzaak: waarschijnlijk door opgetreden
           mutaties in deze cel.
