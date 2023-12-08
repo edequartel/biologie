@@ -181,3 +181,68 @@ Natuur en biologie voor VMBO-T en VMBO-K leerjaar 3:
     - B) Afvalverwerking
     - C) Voedselopname
     - D) Immuunrespons
+
+    
+<!--
+Natuur en biologie voor VMBO-T en VMBO-K leerjaar 3:
+
+1. **Antwoord:** C) Alvleesklier
+
+2. **Antwoord:** B) Ademhaling
+
+3. **Antwoord:** A) Maag
+
+4. **Antwoord:** A) Celwand
+
+5. **Antwoord:** B) Bescherming tegen ziekten
+
+6. **Antwoord:** C) Alvleesklier
+
+7. **Antwoord:** A) Transport van zuurstof
+
+8. **Antwoord:** B) Lever
+
+9. **Antwoord:** A) Fotosynthese
+
+10. **Antwoord:** B) Spierweefsel
+
+11. **Antwoord:** A) Eileider
+
+12. **Antwoord:** B) Bloedzuivering
+
+13. **Antwoord:** C) Milt
+
+14. **Antwoord:** C) Koolhydraatvertering
+
+15. **Antwoord:** B) Slak
+
+16. **Antwoord:** C) Galblaas
+
+17. **Antwoord:** B) Ademhaling
+
+18. **Antwoord:** A) Zuurstof
+
+19. **Antwoord:** C) Aanwezigheid van celkern
+
+20. **Antwoord:** D) Gasuitwisseling
+
+21. **Antwoord:** C) Voedsel maken
+
+22. **Antwoord:** B) Stratosfeer
+
+23. **Antwoord:** B) Energieproductie
+
+24. **Antwoord:** B) Spierweefsel
+
+25. **Antwoord:** B) Bescherming tegen ziekten
+
+26. **Antwoord:** C) Pancreas
+
+27. **Antwoord:** A) Eiwitsynthese
+
+28. **Antwoord:** C) Aanwezigheid van celkern
+
+29. **Antwoord:** C) Teken
+
+30. **Antwoord:** A) Zuurstoftransport
+-->
