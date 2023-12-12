@@ -54,7 +54,7 @@
 - [Afspeellijst Mens en milieu](https://www.youtube.com/watch?v=_um07B8zs7I&list=PLr1tx9agautFWIvgfVWZ_ctnioQeIzW3G)
 
 ## Samenvattingen
-
+- [Samenvatting mens en milieu T (tekst)](samenvattingen/tl/T_mensenmilieu.md)
 - [Samenvatting mens en milieu T](samenvattingen/tl/T_mensenmilieu.pdf)
 - [Samenvatting mens en milieu K](samenvattingen/k/K_mensenmilieu.pdf)
 

@@ -1,5 +1,7 @@
 # Biologie voor Bartiméus
 
+- [bij afwezigheid](afwezigheid/afwezigheid.md)
+
 ## Richting
 - [biologie H1H2H3](biologieH1H2H3.md)
 - [biologie VMBO 3](biologievmbo3.md)
