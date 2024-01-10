@@ -1,15 +1,16 @@
-## HAVO
-
-EK - kijkt Joost, leest basisstof, geef aan wanner je toets is.
-
+## HAVO 3, 4 en 5
 
 ## Joost
 <!--* [Thema 2 - DNA - Afspeellijst](https://www.youtube.com/watch?v=27EcQMZX4G4&list=PLr1tx9agautFyfTCyaLleigYs6B7iXmFb)-->
+
+* [Joost H3 H4](http://tinyurl.com/bio4havo34)
+
+
 * [Thema 1 - Inleiding in de biologie](https://www.youtube.com/playlist?list=PLr1tx9agautEO9U8QD_26om8SB7G18W47)
 * [Thema 2 - Voortplanting](https://www.youtube.com/playlist?list=PLr1tx9agautG50WDjGRsX7YZr-nIIloQg)
 * [Thema 3 - Genetica](https://www.youtube.com/watch?v=TyqJehlkUbk&list=PLr1tx9agautG-kjrxGLQKtFNIpyZ2BReW) 
 
-Certainly! Here's the updated list:
+<!--Certainly! Here's the updated list:
 
 - [Basisstof 1](https://www.youtube.com/watch?v=KB0pH3BQIpY)
 - [Basisstof 2](https://www.youtube.com/watch?v=4a_pS308jgA)

@@ -3,10 +3,10 @@
 - [bij afwezigheid](afwezigheid/afwezigheid.md)
 
 ## Richting
-- [biologie H1H2H3](biologieH1H2H3.md)
+- [biologie H1 H2](biologieH1H2H3.md)
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
-- [biologie HAVO](biologiehavo.md)
+- [biologie HAVO 3, 4 en 5](biologiehavo.md)
 
 <!--
 - [biologie H3](biologieH3.md)
