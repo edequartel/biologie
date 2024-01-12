@@ -1,5 +1,8 @@
 # Biologie VMBO 3 - K3T3
 
+We gebruiken de 7e editie
+
+- [Video's Biologie met Joost VMBO 3](https://www.biologiemetjoost.nl/kopie-van-leerjaar-1-1)
 
 ## Joost
 

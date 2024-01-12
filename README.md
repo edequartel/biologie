@@ -1,6 +1,7 @@
 # Biologie voor Bartiméus
 
-- [bij afwezigheid](afwezigheid/afwezigheid.md)
+## Biologie met Joost
+- [Alle videos met Joost](https://www.biologiemetjoost.nl/alles-om-je-te-helpen-met-biologie)
 
 ## Richting
 - [biologie H1 H2](biologieH1H2H3.md)
@@ -11,6 +12,14 @@
 <!--
 - [biologie H3](biologieH3.md)
 -->
+
+## Werkwijze
+1. luister en stel vragen bij de uitleg in de klas
+2. kijk de video die bij de basisstof hoort
+2. lees de samenvatting over de basisstof
+4. begrijp je het niet dan lees je de tekst in je biologieboek no een keer door
+5. leer de samenvatting over de basisstof
+6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
 
 ## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
