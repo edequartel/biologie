@@ -4,6 +4,27 @@
 
 - [Video's havo 4 Biologie met Joost](https://www.biologiemetjoost.nl/kopie-van-vmbo-4)
 
+## Planning Examen
+
+
+
+|    | EK                        |    | week | dag inleveren |
+|-----|---------------------------|----|------|---------------|
+| t1  | Inleiding in de biologie  |    |      |               |
+| t2  | Voortplanting             |    |      |               |
+| t3  | Genetica                  |    | 2    | 8-jan-24      |
+| t4  | Evolutie                  |    | 2    | 15-jan-24     |
+| t5  | Regeling                  |    | 3    | 22-jan-24     |
+| t6  | Waarneming en gedrag      |    | 4    | 29-jan-24     |
+| t7  | Ecologie en milieu        |    | 5    | 5-feb-24      |
+| t1  | Stofwisseling in de cel   |    | 6    | 12-feb-24     |
+| t2  | DNA                       |    | 7    | 19-feb-24     |
+| t3  | Vertering                 |    | 8    | 26-feb-24     |
+| t4  | Transport                 |    | 9    | 4-mrt-24      |
+| t5  | Gaswisseling en uitscheiding | | 10 | 11-mrt-24     |
+| t6  | Afweer                    |    | 11   | 18-mrt-24     |
+
+
 
 <!--* [Thema 2 - DNA - Afspeellijst](https://www.youtube.com/watch?v=27EcQMZX4G4&list=PLr1tx9agautFyfTCyaLleigYs6B7iXmFb)
 * [Joost H3 H4](http://tinyurl.com/bio4havo34)
