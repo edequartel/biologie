@@ -13,7 +13,8 @@ We gebruiken de 7e editie
 |3 J+S:4a E| 3 S oefen E | (2 J) oefen |
 
 ## Planning T3
-|           | 25/Dec/23 | Owami |       |
+
+|           | | OVT |       |
 |-----------|-----------|-------|-------|
 | week      |           |       |       |
 | t1        | Organen en cellen | x     |       |
@@ -34,7 +35,8 @@ We gebruiken de 7e editie
 
 
 ## Planning T4
-|           | 25/Dec/23 | S |       | GVO |       |
+
+|           | | S |       | GVO |       |
 |-----------|-----------|-------|-------|--------|-------|
 | week      |           |       |       |        |       |
 | t1        | Organen en cellen | x     |       | 5      | 29/Jan/24 |
