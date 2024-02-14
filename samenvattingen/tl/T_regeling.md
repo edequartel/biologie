@@ -11,10 +11,10 @@ noemen.
     kleine hersenen, hersenstam en ruggenmerg;
 - zenuwen.
 - Functies van het zenuwstelsel:
-- Verwerken van impulsen (een soort elektrische
+	- Verwerken van impulsen (een soort elektrische
     signalen). Impulsen ontstaan in zintuigcellen
     onder invloed van prikkels (bijv. geuren).
-- De werking regelen van spieren en klieren.
+	- De werking regelen van spieren en klieren.
 
 ## doelstelling 2 basisstof 2
 ```
@@ -22,11 +22,11 @@ Je kunt in een afbeelding van een zenuwcel de delen
 benoemen.
 ```
 - Bouw van een zenuwcel:
-- cellichaam met celkern;
-- uitlopers die impulsen naar het cellichaam toe
-    geleiden;
-- uitlopers die impulsen van het cellichaam af
-    geleiden.
+	- cellichaam met celkern;
+	- uitlopers die impulsen naar het cellichaam toe
+	    geleiden;
+	- uitlopers die impulsen van het cellichaam af
+	    geleiden.
 
 ## doelstelling 3 basisstof 2
 ```
@@ -34,26 +34,26 @@ Je kunt drie typen zenuwcellen noemen met hun
 functies en kenmerken.
 ```
 - Gevoelszenuwcellen.
-- Functie: impulsen geleiden van zintuigen naar
-    het centrale zenuwstelsel.
-- De cellichamen liggen vlak bij het centrale
-    zenuwstelsel.
-- Ze hebben één lange uitloper die impulsen
-    naar het cellichaam toe geleidt.
+	- Functie: impulsen geleiden van zintuigen naar
+	    het centrale zenuwstelsel.
+	- De cellichamen liggen vlak bij het centrale
+	    zenuwstelsel.
+	- Ze hebben één lange uitloper die impulsen
+	    naar het cellichaam toe geleidt.
 - Bewegingszenuwcellen.
-- Functie: impulsen geleiden van het centrale
-    zenuwstelsel naar spieren of klieren.
-- De cellichamen liggen in het centrale
-    zenuwstelsel.
-- Ze hebben één lange uitloper die impulsen van
-    het cellichaam af geleidt.
+	- Functie: impulsen geleiden van het centrale
+	    zenuwstelsel naar spieren of klieren.
+	- De cellichamen liggen in het centrale
+	    zenuwstelsel.
+	- Ze hebben één lange uitloper die impulsen van
+	    het cellichaam af geleidt.
 - Schakelcellen.
-- Functie: impulsen geleiden binnen het centrale
-    zenuwstelsel (o.a. van gevoelszenuwcellen
-    naar bewegingszenuwcellen).
-- Ze liggen in hun geheel in het centrale
-    zenuwstelsel (in grote hersenen, kleine
-    hersenen, hersenstam en ruggenmerg).
+	- Functie: impulsen geleiden binnen het centrale
+	    zenuwstelsel (o.a. van gevoelszenuwcellen
+	    naar bewegingszenuwcellen).
+	- Ze liggen in hun geheel in het centrale
+	    zenuwstelsel (in grote hersenen, kleine
+	    hersenen, hersenstam en ruggenmerg).
 
 ## doelstelling 4 basisstof 2
 
@@ -64,18 +64,18 @@ typen zenuwen noemen met hun kenmerken.
 - Zenuw: een bundel uitlopers van zenuwcellen,
     omgeven door een laag bindweefsel (een stevige
     laag die zorgt voor bescherming).
-- Elke uitloper is omgeven door een isolerend
-    laagje.
-- Zenuwen verbinden het centrale zenuwstelsel met
-    alle lichaamsdelen.
+	- Elke uitloper is omgeven door een isolerend
+	    laagje.
+	- Zenuwen verbinden het centrale zenuwstelsel met
+	    alle lichaamsdelen.
 - Typen zenuwen:
 - Gevoelszenuwen bevatten alleen uitlopers van
-    gevoelszenuwcellen.
-- Bewegingszenuwen bevatten alleen uitlopers
-    van bewegingszenuwcellen.
-- Gemengde zenuwen bevatten uitlopers
-    van gevoelszenuwcellen en van
-    bewegingszenuwcellen.
+	    gevoelszenuwcellen.
+	- Bewegingszenuwen bevatten alleen uitlopers
+	    van bewegingszenuwcellen.
+	- Gemengde zenuwen bevatten uitlopers
+	    van gevoelszenuwcellen en van
+	    bewegingszenuwcellen.
 
 ## doelstelling 5 basisstof 3
 
@@ -84,8 +84,8 @@ Je kunt de delen van het ruggenmerg noemen met
 hun functies en kenmerken.
 ```
 - Functie van het ruggenmerg:
-- Impulsen geleiden van zenuwen uit de romp en
-    de ledematen naar de hersenen en omgekeerd.
+	- Impulsen geleiden van zenuwen uit de romp en
+	    de ledematen naar de hersenen en omgekeerd.
 - Het buitenste gedeelte bestaat uit de witte stof.
 - De witte stof bevat uitlopers van schakelcellen
     die van en naar de hersenen lopen.
