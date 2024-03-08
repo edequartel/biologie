@@ -1,5 +1,9 @@
 # Checlist actief in de natuur
 
+## Checklist
+
+# Checklist actief in de natuur
+
 | Planning           |                                           |          |   |   |   |   |   |
 |--------------------|-------------------------------------------|----------|---|---|---|---|---|
 | Onderdeel          |                                           | Afgerond | R | T | B | Y | O |
@@ -8,8 +12,8 @@
 | Periode 1          |                                           |          |   |   |   |   |   |
 | Praktijkopdrachten |                                           |          |   |   |   |   |   |
 | P1                 | Leren van een filmpje                     |          |  x | x  | x  | x  | x  |
-| P2                 | Expeditie bivak                           |          |   |   |   |   |   |
-| P3                 | Activiteit en doelgroep                   |          |   |   |   |   |   |
+| P2                 | Expeditie bivak                           |          |  x | x  | x  | x  | x  |
+| P3                 | Activiteit en doelgroep                   |          |  x | x  | x  | x  | x  |
 | P4                 | Locatie en vergunningen                   |          |   |   |   |   |   |
 | Theorie            |                                           |          |   |   |   |   |   |
 | T1                 | Kennis delen                              |          |  x | x  | x  | x  | x  |
@@ -17,21 +21,28 @@
 |                    | Planten                                   |          |  x | x  | x  | x  | x  |
 |                    | Dieren                                    |          |  x | x  | x  | x  | x  |
 |                    | Bodem                                     |          |  x | x  | x  | x  | x  |
-| T2                 | Organiseren van het bivak                 |          |   |   |   |   |   |
-|                    | Activiteit voorbereiden                   |          |   |   |   |   |   |
-|                    | Interviewen - informatie winnen           |          |   |   |   |   |   |
-| T3                 | Recreatieve activiteiten in de natuur     |          |   |   |   |   |   |
-|                    | Activiteiten in de natuur                 |          |   |   |   |   |   |
-|                    | Opbouw van een activiteit                 |          |   |   |   |   |   |
+| T2                 | Organiseren van het bivak                 |          |  x | x  | x  | x  | x  |
+|                    | Activiteit voorbereiden                   |          |  x | x  | x  | x  | x  |
+|                    | Interviewen - informatie winnen           |          |  x | x  | x  | x  | x  |
+| T3                 | Recreatieve activiteiten in de natuur     |          |  x | x  | x  | x  | x  |
+|                    | Activiteiten in de natuur                 |          |  x | x  | x  | x  | x  |
+|                    | Opbouw van een activiteit                 |          |  x | x  | x  | x  | x  |
 |                    | Houding en communicatie                   |          |   |   |   |   |   |
 |                    | Omgaan met groepen                        |          |   |   |   |   |   |
+| P5                 | Treasure hunt                     |          |   |   |   |   |   |
+|                    | - beacon 1                    |          |   |   |   |   |   |
+|                    | - beacon 2                    |          |   |   |   |   |   |
+|                    | - beacon 3                    |          |   |   |   |   |   |
+|                    | - kaart/locatie                    |          |   |   |   |   |   |
+|                    | - rekening houding groep                    |          |   |   |   |   |   |
+|                    | - organisatie                    |          |   |   |   |   |   |
+|                    |   1. informatie                    |          |   |   |   |   |   |
+|                    |   2. ...                    |          |   |   |   |   |   |
+|                    |   3. ...                    |          |   |   |   |   |   |
+
+
 <!--
-| T4                 | Into the wild                             |          |   |   |   |   |   |
-|                    | Locatie scouten                           |          |   |   |   |   |   |
-|                    | Bivak                                     |          |   |   |   |   |   |
-|                    | Subsidies en vergunningen                 |          |   |   |   |   |   |
-|                    | Presenteren                               |          |   |   |   |   |   |
--->
+|                    |                                           |          |   |   |   |   |   |
 | Periode 2          |                                           |          |   |   |   |   |   |
 | Praktijkopdrachten |                                           |          |   |   |   |   |   |
 | P5                 | Weer voorspellen                          |          |   |   |   |   |   |
@@ -63,4 +74,5 @@
 | T9                 | Planning en draaiboek                     |          |   |   |   |   |   |
 |                    | Plan van aanpak                           |          |   |   |   |   |   |
 |                    | Begroting maken                           |          |   |   |   |   |   |
-|                    | Draaiboek                                 |
+|                    | Draaiboek                                 |          |   |   |   |   |   |
+-->
