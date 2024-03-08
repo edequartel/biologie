@@ -18,7 +18,7 @@ Jij gaat drie unieke beacons maken voor een spannende schattenjacht. Elke beacon
 
 ### Stap 2: Opstellen van opdrachten
 - Gebruik heldere instructies voor de opdrachten. Maak voor elke opdracht een kaart A4 met instructie, wat heb je nodig, wat moet je doen, wat heb je gedaan.
-- Voeg een korte uitleg toe over hoe de antwoorden moeten worden ingediend (bijv. tekst, foto).
+- Voeg een korte uitleg toe over hoe de antwoorden moeten worden ingediend (bijv. tekst, foto). Je mag ChatGPT gebruiken voor het maken van een duidelijke instructie. De instructie komen in een MS-word bestand te staan.
 - Houd rekening met de communicatiewijze, doelgroep en interesses van de schatzoekers. Je maakt de opdrachten voor de onderbouw en de leerlingen hebben een visuele beperking, hoe ga je dit oplossen.
 - Denk aan instructie via audio, qr-code etc (er is een plek op een server beschikbaar voor bestanden, die kun je dan met een qrcode benaderen)
 - qr-codes maak je op [link qr-code maken](https://www.qr-code-generator.com)
