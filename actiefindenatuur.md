@@ -3,13 +3,11 @@
 
 ### P1 leren van een filmpje
 - maak foto's van een boom of blad. Zoek daar ook informatie voor de tekst bij. Deze informatie plaats je op de padlet. In de titel zet je je naam met de naam van de boom.
-- maak een filmpje van een organisme in je omgeving, dit hoeft niet langer dan 1 minuut te zijn. Daarbij leg je uit wat voor een organisme het is. 
+- maak een filmpje van een organisme in je omgeving, dit hoeft niet langer dan 1 minuut te zijn. Daarbij leg je uit wat voor een organisme het is. (zet deze in de padlet)
 
-<!-- - [planten]()
-- [dieren]()
-- [bodem]()-->
 
-### P2 organiseren van een bivak
+### P5 Treasure hunt
+- [praktische opdracht](actiefindenatuur/treasurehunt.md)
 
 
 ### Padlet
@@ -50,6 +48,19 @@
 |                    | Opbouw van een activiteit                 |          |  x | x  | x  | x  | x  |
 |                    | Houding en communicatie                   |          |   |   |   |   |   |
 |                    | Omgaan met groepen                        |          |   |   |   |   |   |
+| P5                 | Treasure hunt                     |          |   |   |   |   |   |
+|                    | - beacon 1                    |          |   |   |   |   |   |
+|                    | - beacon 2                    |          |   |   |   |   |   |
+|                    | - beacon 3                    |          |   |   |   |   |   |
+|                    | - kaart/locatie                    |          |   |   |   |   |   |
+|                    | - rekening houding groep                    |          |   |   |   |   |   |
+|                    | - organisatie                    |          |   |   |   |   |   |
+|                    |   1. informatie                    |          |   |   |   |   |   |
+|                    |   2. ...                    |          |   |   |   |   |   |
+|                    |   3. ...                    |          |   |   |   |   |   |
+
+
+<!--
 |                    |                                           |          |   |   |   |   |   |
 | Periode 2          |                                           |          |   |   |   |   |   |
 | Praktijkopdrachten |                                           |          |   |   |   |   |   |
