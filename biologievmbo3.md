@@ -19,9 +19,9 @@ We gebruiken de 7e editie
 
 ## Samenvatting Regeling
 - [Afspeellijst Thema Regeling](https://www.youtube.com/watch?v=JK8wvkYkVag&list=PLr1tx9agautGNdub2WLAmrsjvlYdXQ6y1)
-- [T tekst Thema 2 Regeling samenvatting](samenvattingen/tl/T_regeling.md)
-- [T pdf Thema 2 Regeling samenvatting](samenvattingen/tl/T_regeling.pdf)
-- [K pdf Thema 2 Regeling samenvatting](samenvattingen/k/K_regeling.pdf)
+- [T tekst Thema 5 Regeling samenvatting](samenvattingen/tl/T_regeling.md)
+- [T pdf Thema 5 Regeling samenvatting](samenvattingen/tl/T_regeling.pdf)
+- [K pdf Thema 5 Regeling samenvatting](samenvattingen/k/K_regeling.pdf)
 
 
 

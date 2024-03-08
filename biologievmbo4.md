@@ -2,6 +2,8 @@
 
 We gebruiken de 7e editie
 
+- [antwoorden van de toetsen](bundel/bundel VMBO GT TL/VMBO GT TL toetsen antwoorden.pdf)
+
 - [Video's Biologie met Joost VMBO 3](https://www.biologiemetjoost.nl/kopie-van-leerjaar-1-1)
 - [Video's Biologie met Joost VMBO 4](https://www.biologiemetjoost.nl/kopie-van-leerjaar-2)
 
