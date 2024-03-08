@@ -1,11 +1,9 @@
-# Treasure hunt
+# Treasure hunt d&p
 
-#denp/treasurehunt
-
-# Schatzoekavontuur: Maak je eigen Beacons!
+## Maak je eigen Beacons!
 
 ### Doel van de opdracht
-Jij gaat drie unieke beacons maken voor een spannende schattenjacht. Elke beacon heeft een andere vorm en bevat een GPS-cache met een uitdagende opdracht. De antwoorden van de opdrachten worden verzameld in een lijst, en de schatzoeker met de meeste correcte antwoorden wint!
+Jij gaat drie unieke beacons maken voor een spannende schattenjacht. Elke beacon heeft een andere vorm en bevat een GPS-cache met een uitdagende opdracht. De antwoorden van de opdrachten worden verzameld in een lijst, en de schatzoeker met de meeste correcte antwoorden wint! Een beacon is een ander woord voor schat bij een treasure hunt, waar een opdracht bij hoort. Je kunt de beacon verstoppen, een geluid laten maken wat je maar wilt zolang er maar een opdracht bij zit die je kunt uitvoeren.
 
 ## Benodigdheden
 - Computer voor het opstellen van de opdrachten.
