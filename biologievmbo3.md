@@ -1,7 +1,7 @@
 # Biologie VMBO 3 - K3T3
 
 ## Tussentoets
-- [tussentoets Regeling](tussentoetsvmbo3.md)
+- [tussentoets Regeling b6,7,8](b567regelingtoets.md)
 
 ## Regeling
 We gebruiken de 7e editie
