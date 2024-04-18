@@ -44,8 +44,8 @@ Op de website van examenblad vind je alle examen in pdf en de antwoorden. Deze k
 
 ### Samenvatting Joost elke basisstof van een thema (50min)
 * [Samenvatting per Thema en Basisstof van Leerjaar 3 **Joost**](https://www.biologiemetjoost.nl/kopie-van-leerjaar-1-1)
-
-### Samenvattingen Quirine elke thema (30min)
 * [Samenvatting per Thema en Basisstof van Leerjaar 4 **Joost**](https://www.biologiemetjoost.nl/kopie-van-leerjaar-2)
+
+* ### Samenvattingen Quirine elke thema (30min)
 * [Samenvatting per thema leerjaar 3 **Quirine**](https://www.youtube.com/watch?v=myTGuQlvGr8&list=PLiMG27RmfH5RodfKzrelIsTXNC-5iaDo4&pp=iAQB)
 * [Samenvatting per thema leerjaar 4 **Quirine**](https://www.youtube.com/watch?v=MNHGAJniLWM&list=PLiMG27RmfH5Qed_SJqXzGThpxV8KSS_MW&pp=iAQB)
