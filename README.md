@@ -1,9 +1,14 @@
 # Biologie voor Bartiméus
 
-## Biologie met Joost
+
+### [Eindexamen voorbereiding 2024](eindexamen2024.md)
+
+
+
+### Biologie met Joost
 - [Alle videos met Joost](https://www.biologiemetjoost.nl/alles-om-je-te-helpen-met-biologie)
 
-## Richting
+### Richting
 - [biologie H1 H2](biologieH1H2H3.md)
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
@@ -13,7 +18,7 @@
 - [biologie H3](biologieH3.md)
 -->
 
-## Werkwijze
+### Werkwijze
 1. luister en stel vragen bij de uitleg in de klas
 2. kijk de video die bij de basisstof hoort
 2. lees de samenvatting over de basisstof
@@ -21,7 +26,7 @@
 5. leer de samenvatting over de basisstof
 6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
 
-## Alle samenvattingen
+### Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theorie](samenvattingen/tl/SV3T4T.pdf)
