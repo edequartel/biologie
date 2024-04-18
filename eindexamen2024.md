@@ -1,17 +1,10 @@
-# Eindexamen voorbereiding 2024 Biologie KT
+# Eindexamen voorbereiding 2024 Biologie
 
-##Waar vind ik oude examens?
-
-Op de website van examenblad vind je alle examen in pdf en de antwoorden. Deze kun je downloaden en oefenen. 
-
-* [examenblad: kader beroeps gerichte leerweg](https://www.examenblad.nl/2024/vmbo-kb/vakken/exacte-vakken/biologie-vmbo-kb)
-* [examenblad: theoretisce leerweg](https://www.examenblad.nl/2024/vmbo-gl/vakken/exacte-vakken/biologie-vmbo-gl-tl)
-
-##Hoe plan in ik?
+## Hoe plan in ik?
 
 Het is belangrijk dat je planning realistisch is. Plan niet te veel maar ook niet te weinig. Plan voor elke dag in de week een half uur en voor zaterdag en zondag 1 uur. Vrijdagavond is je vrije avond. Zorg er ook voor dat je meivakantie meeneemt. Laat je voorbereiding voor je examen het belangrijkste voor de komende tijd zijn. Helaas zul je in de meivakantie ook als het mooi weer moeten studeren op biologie. Focus op je examen. Alleen als je regelmatig oefent kun je onderwerpen goed onthouden.
 
-###Voorbereiding voor je aan het werk gaat.
+### Voorbereiding voor je aan het werk gaat.
 * Pak je [Samenvatting Kader](https://edequartel.github.io/biologie/samenvattingen/k/SV3K4K.pdf) of [Theoretisch](https://edequartel.github.io/biologie/samenvattingen/k/SV3K4K.pdf)
 * Maak een schema voor alle thema's die je krijgt voor je examen.
 * Zet in het schema de datum van de week welk thema of thema's je wilt bestuderen.
@@ -34,6 +27,13 @@ Het is belangrijk dat je planning realistisch is. Plan niet te veel maar ook nie
 
 #### 3. Daag je zelf uit met een examen vraag elke dag?
 * Oefen elke dag de [examenvraag van vandaag](https://www.youtube.com/playlist?list=PLr1tx9agautFQi2hvDJncGRfXs8yV_vMm)
+
+### Waar vind ik oude examens om te oefenen?
+
+Op de website van examenblad vind je alle examen in pdf en de antwoorden. Deze kun je downloaden en oefenen. 
+
+* [examenblad: kader beroeps gerichte leerweg](https://www.examenblad.nl/2024/vmbo-kb/vakken/exacte-vakken/biologie-vmbo-kb)
+* [examenblad: theoretisce leerweg](https://www.examenblad.nl/2024/vmbo-gl/vakken/exacte-vakken/biologie-vmbo-gl-tl)
 
 
 ## Samenvatting
