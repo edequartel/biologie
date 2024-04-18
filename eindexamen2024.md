@@ -41,9 +41,11 @@ Het is belangrijk dat je planning realistisch is. Plan niet te veel maar ook nie
 * [Theoretisch](https://edequartel.github.io/biologie/samenvattingen/k/SV3K4K.pdf)
 
 ## Video's
-* [Samenvatting per Thema en Basisstof van Leerjaar 3](https://www.biologiemetjoost.nl/kopie-van-leerjaar-1-1)
-* [Samenvatting per Thema en Basisstof van Leerjaar 4](https://www.biologiemetjoost.nl/kopie-van-leerjaar-2)
-* [In je boek creatief met Joost staat uitleg bij deze filmpjes](https://www.youtube.com/playlist?list=PLr1tx9agautGJ1fSRVegyNlTrCV1dekdD)
-* [Examenvraag van vandaag](https://www.youtube.com/playlist?list=PLr1tx9agautFQi2hvDJncGRfXs8yV_vMm)
-* [Examentraining: uitleg van examenvragen met antwoord](https://www.youtube.com/playlist?list=PLr1tx9agautFQi2hvDJncGRfXs8yV_vMm)
-* [Verdieping](https://www.youtube.com/playlist?list=PLr1tx9agautHQfbG_7uepE8-Kp_dYXFEK)
+
+### Samenvatting Joost elke basisstof van een thema (50min)
+* [Samenvatting per Thema en Basisstof van Leerjaar 3 **Joost**](https://www.biologiemetjoost.nl/kopie-van-leerjaar-1-1)
+
+### Samenvattingen Quirine elke thema (30min)
+* [Samenvatting per Thema en Basisstof van Leerjaar 4 **Joost**](https://www.biologiemetjoost.nl/kopie-van-leerjaar-2)
+* [Samenvatting per thema leerjaar 3 **Quirine**](https://www.youtube.com/watch?v=myTGuQlvGr8&list=PLiMG27RmfH5RodfKzrelIsTXNC-5iaDo4&pp=iAQB)
+* [Samenvatting per thema leerjaar 4 **Quirine**](https://www.youtube.com/watch?v=MNHGAJniLWM&list=PLiMG27RmfH5Qed_SJqXzGThpxV8KSS_MW&pp=iAQB)
