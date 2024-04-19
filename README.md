@@ -22,9 +22,12 @@
 1. luister en stel vragen bij de uitleg in de klas
 2. kijk de video die bij de basisstof hoort
 2. lees de samenvatting over de basisstof
-4. begrijp je het niet dan lees je de tekst in je biologieboek no een keer door
+4. begrijp je het niet dan lees je de tekst in je biologieboek nog een keer door
 5. leer de samenvatting over de basisstof
+
+<!--
 6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
+7. -->
 
 ### Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
