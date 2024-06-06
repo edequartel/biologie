@@ -4,7 +4,7 @@
 
 ### modellen Biologie Bartimeus door Eric
 1. [**6jun** torso](https://youtu.be/zriNETvsp-A?si=ckdktF1Q1S7NoSvY)
-2. [bloedsomloop](https://youtu.be/8LlejL7mkSU?si=LSFZjy86zovqM8mo)
+2. [**6jun** bloedsomloop](https://youtu.be/8LlejL7mkSU?si=LSFZjy86zovqM8mo)
 1. [plantencel](https://youtu.be/39W8q-zryAE?si=3J_v8jS5GROFQjUA)
 1. [oog](https://youtu.be/AfX3aBN-__s?si=oZtvctVbiKlPrBUJ)
 1. [bloem](https://youtu.be/2Z0IbT_p5Rc?si=oeu4R1tj3DWM12Gr)
@@ -25,8 +25,8 @@
 
 ### staatsexamen biologie videos
 1. [**6jun** het torso](https://www.youtube.com/watch?v=6qPfGG47a8M)
-2. [de longen en gaswisseling](https://www.youtube.com/watch?v=mQFkGviZZJM)
-3. [het hart](https://www.youtube.com/watch?v=fAyW-SKwD7w)
+2. [**6jun** de longen en gaswisseling](https://www.youtube.com/watch?v=mQFkGviZZJM)
+3. [**6jun** het hart](https://www.youtube.com/watch?v=fAyW-SKwD7w)
 2. [bloed en bloedgroepen](https://www.youtube.com/watch?v=QIM_BiWruB0)
 1. [het oog](https://www.youtube.com/watch?v=S_I_j7qHA_E)
 1. [het oor](https://www.youtube.com/watch?v=VaCoPdn29B0)
