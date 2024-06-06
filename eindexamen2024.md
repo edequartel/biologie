@@ -25,14 +25,14 @@
 
 ### staatsexamen biologie videos
 1. [**6jun** het torso](https://www.youtube.com/watch?v=6qPfGG47a8M)
+2. [de longen en gaswisseling](https://www.youtube.com/watch?v=mQFkGviZZJM)
+3. [het hart](https://www.youtube.com/watch?v=fAyW-SKwD7w)
 2. [bloed en bloedgroepen](https://www.youtube.com/watch?v=QIM_BiWruB0)
 1. [het oog](https://www.youtube.com/watch?v=S_I_j7qHA_E)
 1. [het oor](https://www.youtube.com/watch?v=VaCoPdn29B0)
 2. [de huid](https://www.youtube.com/watch?v=l0Zr9wxcss4)
 3. [het skelet](https://www.youtube.com/watch?v=OVB9kBUpyzc)
 4. [de nieren](https://www.youtube.com/watch?v=YhmDxKdOkEc)
-4. [het hart](https://www.youtube.com/watch?v=fAyW-SKwD7w)
-4. [de longen](https://www.youtube.com/watch?v=mQFkGviZZJM)
 4. [de bloem](https://www.youtube.com/watch?v=i7gIkqe_pYg)
 4. [het blad](https://www.youtube.com/watch?v=916DSQG7oi4)
 4. [het strottenhoofd](https://www.youtube.com/watch?v=c71bGzrqZEQ)
