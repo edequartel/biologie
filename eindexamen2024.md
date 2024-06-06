@@ -3,12 +3,12 @@
 ## Staatsexamen
 
 ### modellen Biologie Bartimeus door Eric
+1. [**6jun** torso](https://youtu.be/zriNETvsp-A?si=ckdktF1Q1S7NoSvY)
+2. [bloedsomloop](https://youtu.be/8LlejL7mkSU?si=LSFZjy86zovqM8mo)
 1. [plantencel](https://youtu.be/39W8q-zryAE?si=3J_v8jS5GROFQjUA)
 1. [oog](https://youtu.be/AfX3aBN-__s?si=oZtvctVbiKlPrBUJ)
 1. [bloem](https://youtu.be/2Z0IbT_p5Rc?si=oeu4R1tj3DWM12Gr)
-1. [torso](https://youtu.be/zriNETvsp-A?si=ckdktF1Q1S7NoSvY)
 1. [skelet](https://youtu.be/N04SLR6JaDY?si=HUgoIIlF2N0H6NVr)
-1. [bloedsomloop](https://youtu.be/8LlejL7mkSU?si=LSFZjy86zovqM8mo)
 1. [dierlijke cel](https://youtu.be/jeEWldHnsEg?si=90d7wOcmb8XXv7CQ)
 1. [zenuwstelsel](https://youtu.be/rdGDczb_fBA?si=2kF3ocHGZCYJhxQS)
 1. [spijsvertering](https://youtu.be/FMO93h1UrRE?si=2-Q_2imr2OuKD5cU)
@@ -24,15 +24,15 @@
 7. [chromosmen en genen](https://www.youtube.com/watch?v=VK2OhxYmWgo)
 
 ### staatsexamen biologie videos
+1. [**6jun** het torso](https://www.youtube.com/watch?v=6qPfGG47a8M)
+2. [bloed en bloedgroepen](https://www.youtube.com/watch?v=QIM_BiWruB0)
 1. [het oog](https://www.youtube.com/watch?v=S_I_j7qHA_E)
 1. [het oor](https://www.youtube.com/watch?v=VaCoPdn29B0)
 2. [de huid](https://www.youtube.com/watch?v=l0Zr9wxcss4)
 3. [het skelet](https://www.youtube.com/watch?v=OVB9kBUpyzc)
-4. [het torso](https://www.youtube.com/watch?v=6qPfGG47a8M)
 4. [de nieren](https://www.youtube.com/watch?v=YhmDxKdOkEc)
 4. [het hart](https://www.youtube.com/watch?v=fAyW-SKwD7w)
 4. [de longen](https://www.youtube.com/watch?v=mQFkGviZZJM)
-4. [bloed en bloedgroepen](https://www.youtube.com/watch?v=QIM_BiWruB0)
 4. [de bloem](https://www.youtube.com/watch?v=i7gIkqe_pYg)
 4. [het blad](https://www.youtube.com/watch?v=916DSQG7oi4)
 4. [het strottenhoofd](https://www.youtube.com/watch?v=c71bGzrqZEQ)
