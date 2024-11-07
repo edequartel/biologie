@@ -26,7 +26,8 @@
 5. leer de samenvatting over de basisstof
 
 ### Antwoordenboek
-[Antwoorden Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
+* [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
+* [Antwoorden VMBO 4K Leerjaar 4](antwoordenboek/4K_antwoordenboek.pdf)
 
 <!--
 6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
