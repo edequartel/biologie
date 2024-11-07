@@ -9,10 +9,10 @@
 - [Alle videos met Joost](https://www.biologiemetjoost.nl/alles-om-je-te-helpen-met-biologie)
 
 ### Richting
-- [biologie H1 H2](biologieH1H2H3.md)
+<!-- [biologie H1 H2](biologieH1H2H3.md)-->
 - [biologie VMBO 3](biologievmbo3.md)
 - [biologie VMBO 4](biologievmbo4.md)
-- [biologie HAVO 3, 4 en 5](biologiehavo.md)
+<!--- [biologie HAVO 3, 4 en 5](biologiehavo.md)-->
 
 <!--
 - [biologie H3](biologieH3.md)
@@ -25,9 +25,11 @@
 4. begrijp je het niet dan lees je de tekst in je biologieboek nog een keer door
 5. leer de samenvatting over de basisstof
 
-### Antwoordenboek
-* [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
+### Antwoordenboeken
+* [Antwoorden VMBO 4B Leerjaar 4](antwoordenboek/4B_antwoordenboek.pdf)
 * [Antwoorden VMBO 4K Leerjaar 4](antwoordenboek/4K_antwoordenboek.pdf)
+* [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/4GT_antwoordenboek.pdf)
+* [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
 
 <!--
 6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
