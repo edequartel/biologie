@@ -1,7 +1,7 @@
 # Biologie voor Bartiméus
 
 
-### [Eindexamen voorbereiding 2024](eindexamen2024.md)
+### [Eindexamen voorbereiding 2025](eindexamen2025.md)
 
 
 
@@ -25,6 +25,9 @@
 4. begrijp je het niet dan lees je de tekst in je biologieboek nog een keer door
 5. leer de samenvatting over de basisstof
 
+### Antwoordenboek
+[Antwoorden Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
+
 <!--
 6. [mondelinge overhoring, maak de vragen die je van de leraar de volgende les krijgt]
 7. -->
@@ -37,6 +40,8 @@
 - [Biologie HAVO handboek deel 1 pdf](samenvattingen/h/p0001-0178_BVJ_5e_ed_havo_Zakboek.pdf)
 - [Biologie HAVO handboek deel 2 pdf](samenvattingen/h/p0179-0320_BVJ_5e_ed_havo_Zakboek.pdf)
 
+<!--
 ## Dienstverlening en Producten
 - [Actief in de natuur](actiefindenatuur.md)
+- -->
 
