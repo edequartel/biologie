@@ -3,6 +3,9 @@
 
 ### [Eindexamen voorbereiding 2025](eindexamen2025.md)
 
+### [LessonUp](www.lessonup.com)
+
+### [Socrative](www.socrative.com)
 
 
 ### Biologie met Joost
