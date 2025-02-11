@@ -12,12 +12,12 @@
 ## Lessen
 
 ### B3K3
-- [woensdag 12 februari les 1 B3K4](kb/spijsverteringles1.md)
-- [woensdag 12 februari les 2 B3K4](kb/spijsverteringles2.md)
+- [woensdag 12 februari les 1 B3K4](kblw/spijsverteringles1.md)
+- [woensdag 12 februari les 2 B3K4](kblw/spijsverteringles2.md)
 
 ### T3T4
-- [woensdag 12 februari les 1 T3T4](tl/spijsverteringles1.md)
-- [woensdag 12 februari les 2 T3T4](tl/spijsverteringles2.md)
+- [woensdag 12 februari les 1 T3T4](tlw/spijsverteringles1.md)
+- [woensdag 12 februari les 2 T3T4](tlw/spijsverteringles2.md)
 
 
 ### Werkwijze
