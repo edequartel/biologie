@@ -6,41 +6,43 @@
 3. [Socrative](https://www.socrative.com)
 
 
-### Biologie met Joost (7e editie)
+## Biologie met Joost (7e editie)
 - [Alle videos met Joost](https://www.biologiemetjoost.nl/alles-om-je-te-helpen-met-biologie)
 
 ## Lessen
 
-### B3K3 (voeding en spijsvertering)
+### B3K3
+####voeding en spijsvertering
 - [woensdag 12 februari les 1 B3K4](kblw/spijsverteringles1.md)
 - [woensdag 12 februari les 2 B3K4](kblw/spijsverteringles2.md)
 
-### B3K3 (ademhaling)
+####ademhaling
 - [donderdag 13 februari les 1 B3K4](kblw/ademhalingles1.md)
 - [donderdag 13 februari les 2 B3K4](kblw/ademhalingles2.md)
 
-### T3T4 (voeding en spijsvetering)
+### T3T4 
+####voeding en spijsvetering
 - [woensdag 12 februari les 1 T3T4](tlw/spijsverteringles1.md)
 - [woensdag 12 februari les 2 T3T4](tlw/spijsverteringles2.md)
 - [donderdag 13 februari les 3 T3T4](tlw/spijsverteringles3.md)
 - [donderdag 13 februari les 4 T3T4](tlw/spijsverteringles4.md)
 
 
-### Werkwijze
+## Werkwijze
 1. luister en stel vragen bij de uitleg in de klas
 2. kijk de video die bij de basisstof hoort (biologie met joost)
 2. lees de samenvatting over de basisstof
 4. begrijp je het niet dan lees je de tekst in je biologieboek nog een keer door
 5. leer de samenvatting over de basisstof
 
-### Antwoordenboeken
+## Antwoordenboeken
 * [Antwoorden VMBO 4B Leerjaar 4](antwoordenboek/4B_antwoordenboek.pdf)
 * [Antwoorden VMBO 4K Leerjaar 4](antwoordenboek/4K_antwoordenboek.pdf)
 * [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/4GT_antwoordenboek.pdf)
 * [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
 
 
-### Alle samenvattingen
+## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theorie](samenvattingen/tl/SV3T4T.pdf)
