@@ -11,17 +11,19 @@
 
 ## Lessen
 
-### B3K3
+### B3K3 (voeding en spijsvertering)
 - [woensdag 12 februari les 1 B3K4](kblw/spijsverteringles1.md)
 - [woensdag 12 februari les 2 B3K4](kblw/spijsverteringles2.md)
+
+### B3K3 (ademhaling)
 - [donderdag 13 februari les 1 B3K4](kblw/ademhalingles1.md)
 - [donderdag 13 februari les 2 B3K4](kblw/ademhalingles2.md)
 
-### T3T4
+### T3T4 (voeding en spijsvetering)
 - [woensdag 12 februari les 1 T3T4](tlw/spijsverteringles1.md)
 - [woensdag 12 februari les 2 T3T4](tlw/spijsverteringles2.md)
-- [donderdag 13 februari les 1 T3T4](tlw/spijsverteringles3.md)
-- [donderdag 13 februari les 2 T3T4](tlw/spijsverteringles4.md)
+- [donderdag 13 februari les 3 T3T4](tlw/spijsverteringles3.md)
+- [donderdag 13 februari les 4 T3T4](tlw/spijsverteringles4.md)
 
 
 ### Werkwijze
