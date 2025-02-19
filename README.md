@@ -1,8 +1,8 @@
 # Biologie voor Bartiméus
 
 
-1. [examens van de afgelopen jaren met antwoorden](https:/www.examenblad.nl)
-2. [LessonUp](https://www.lessonup.com)
+1. [examens van de afgelopen jaren met antwoorden](https://www.examenblad.nl)
+2. [LessonUp](https://www.lessonup.com/site/nl)
 3. [Socrative](https://www.socrative.com)
 
 
@@ -17,13 +17,13 @@
 - [wo 12 feb les 2 B3K4](kblw/spijsverteringles2.md)
 
 #### ademhaling
-- [do 13 feb les 1 B3K4](kblw/ademhalingles1.md)
-- [do 13 feb les 2 B3K4](kblw/ademhalingles2.md)
-- [wo 19 feb les 3 B3K4](kblw/ademhalingles3.md)
-- [wo 19 feb les 4 B3K4](kblw/ademhalingles4.md)
+- [do 20 feb les 1 B3K4](kblw/ademhalingles1.md)
+- [do 20 feb les 2 B3K4](kblw/ademhalingles2.md)
+- [*do 20 feb les 3 B3K4](kblw/ademhalingles3.md)
+- [*do 20 feb les 4 B3K4](kblw/ademhalingles4.md)
 
-#### transport
-- [do 19 feb les 1 T3T4](tlw/transportles1.md)
+<!--#### transport
+- [do 19 feb les 1 T3T4](tlw/transportles1.md)-->
 
 ### T3T4 
 #### voeding en spijsvetering
