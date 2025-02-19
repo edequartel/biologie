@@ -12,19 +12,19 @@ Een volkoren boterham met kaas bevat verschillende voedingsstoffen. Het brood le
 
 ### **Vragen:**  
 1. Welke zes groepen voedingsstoffen zijn er en wat is hun functie?  
-<!-- Eiwitten (bouwstof), koolhydraten (brandstof), vetten (brand- en bouwstof), water (transport- en oplosmiddel), mineralen (bouwstof en regulatie) en vitaminen (hulpstoffen voor processen in het lichaam). -->  
+ Eiwitten (bouwstof), koolhydraten (brandstof), vetten (brand- en bouwstof), water (transport- en oplosmiddel), mineralen (bouwstof en regulatie) en vitaminen (hulpstoffen voor processen in het lichaam).   
 
 2. Welke voedingsstoffen leveren energie en waarom zijn ze belangrijk?  
-<!-- Koolhydraten en vetten leveren energie. Koolhydraten zijn de belangrijkste directe energiebron, terwijl vetten dienen als energievoorraad. -->  
+ Koolhydraten en vetten leveren energie. Koolhydraten zijn de belangrijkste directe energiebron, terwijl vetten dienen als energievoorraad.   
 
 3. Wat is de functie van voedingsvezels in de spijsvertering?  
-<!-- Voedingsvezels zorgen voor een goede darmwerking en helpen bij het voorkomen van verstopping. -->  
+ Voedingsvezels zorgen voor een goede darmwerking en helpen bij het voorkomen van verstopping.   
 
 4. Waarom is water een essentiële voedingsstof?  
-<!-- Water is nodig voor transport van voedingsstoffen, temperatuurregeling en als oplosmiddel in het lichaam. -->  
+ Water is nodig voor transport van voedingsstoffen, temperatuurregeling en als oplosmiddel in het lichaam.   
 
 5. Welke voedingsstoffen worden gebruikt als bouwstoffen en waar zijn ze voor nodig?  
-<!-- Eiwitten worden gebruikt voor groei en herstel, mineralen zoals calcium zijn nodig voor botten en tanden, en vetten spelen een rol bij celopbouw en bescherming. -->  
+ Eiwitten worden gebruikt voor groei en herstel, mineralen zoals calcium zijn nodig voor botten en tanden, en vetten spelen een rol bij celopbouw en bescherming.   
 
 
 
@@ -36,19 +36,19 @@ Iemand die regelmatig volkorenbrood en groente eet, heeft een kleinere kans op v
 
 ### **Vragen:**  
 1. Wat is het verschil tussen voedingsvezels en voedingsstoffen?  
-<!-- Voedingsvezels zijn onverteerbare delen van voedsel die bijdragen aan een goede spijsvertering. Voedingsstoffen leveren energie en bouwstoffen. -->  
+ Voedingsvezels zijn onverteerbare delen van voedsel die bijdragen aan een goede spijsvertering. Voedingsstoffen leveren energie en bouwstoffen.   
 
 2. Hoe dragen voedingsvezels bij aan een gezonde spijsvertering?  
-<!-- Voedingsvezels stimuleren de darmbeweging, bevorderen een gezonde darmflora en voorkomen verstopping. -->  
+ Voedingsvezels stimuleren de darmbeweging, bevorderen een gezonde darmflora en voorkomen verstopping.   
 
 3. Wat zijn de vijf adviezen van de Schijf van Vijf?  
-<!-- Eet gevarieerd, eet niet te veel en beweeg voldoende, eet minder verzadigd vet, eet veel groente, fruit en volkorenproducten, en ga veilig om met voedsel. -->  
+ Eet gevarieerd, eet niet te veel en beweeg voldoende, eet minder verzadigd vet, eet veel groente, fruit en volkorenproducten, en ga veilig om met voedsel.   
 
 4. Waarom is gevarieerd eten belangrijk voor de gezondheid?  
-<!-- Gevarieerd eten zorgt ervoor dat het lichaam alle benodigde voedingsstoffen binnenkrijgt en voorkomt tekorten. -->  
+ Gevarieerd eten zorgt ervoor dat het lichaam alle benodigde voedingsstoffen binnenkrijgt en voorkomt tekorten.   
 
 5. Hoe kan een gezond voedingspatroon helpen bij het voorkomen van ziekten zoals diabetes type 2?  
-<!-- Een gezond voedingspatroon met vezelrijke voeding en minder suikers helpt bij het voorkomen van overgewicht en diabetes type 2. -->  
+ Een gezond voedingspatroon met vezelrijke voeding en minder suikers helpt bij het voorkomen van overgewicht en diabetes type 2.   
 
 
 

@@ -12,19 +12,19 @@ Wanneer je een boterham eet, wordt het zetmeel in de mond al deels afgebroken do
 
 ### **Vragen:**  
 1. Wat is de functie van het verteringsstelsel?  
-<!-- Het verteringsstelsel breekt voedsel af tot kleine moleculen die door de darmwand in het bloed kunnen worden opgenomen. -->  
+ Het verteringsstelsel breekt voedsel af tot kleine moleculen die door de darmwand in het bloed kunnen worden opgenomen.   
 
 2. Welke organen behoren tot het verteringsstelsel?  
-<!-- Mond, slokdarm, maag, twaalfvingerige darm, dunne darm, dikke darm, endeldarm en anus. -->  
+ Mond, slokdarm, maag, twaalfvingerige darm, dunne darm, dikke darm, endeldarm en anus.   
 
 3. Wat is darmperistaltiek en waarom is het belangrijk?  
-<!-- Darmperistaltiek is het samentrekken en ontspannen van spieren in de darmwand, waardoor voedsel wordt voortbewogen en gemengd met verteringssappen. -->  
+ Darmperistaltiek is het samentrekken en ontspannen van spieren in de darmwand, waardoor voedsel wordt voortbewogen en gemengd met verteringssappen.   
 
 4. Welke voedingsstoffen hoeven niet verteerd te worden?  
-<!-- Water, mineralen en vitaminen hoeven niet verteerd te worden omdat ze al klein genoeg zijn om direct opgenomen te worden. -->  
+ Water, mineralen en vitaminen hoeven niet verteerd te worden omdat ze al klein genoeg zijn om direct opgenomen te worden.   
 
 5. In welk deel van het verteringsstelsel vindt de meeste opname van voedingsstoffen plaats?  
-<!-- In de dunne darm, via darmvlokken en microvilli die het oppervlak vergroten voor opname. -->  
+ In de dunne darm, via darmvlokken en microvilli die het oppervlak vergroten voor opname.   
 
 
 ## **Basisstof 6: Verteringssappen en Enzymen**  
@@ -35,17 +35,17 @@ In de maag helpt het enzym pepsine bij de afbraak van eiwitten. Dit enzym werkt 
 
 ### **Vragen:**  
 1. Wat is de functie van verteringssappen?  
-<!-- Verteringssappen bevatten enzymen die voedingsstoffen afbreken in kleinere moleculen. -->  
+ Verteringssappen bevatten enzymen die voedingsstoffen afbreken in kleinere moleculen.   
 
 2. Welke enzymen breken koolhydraten, eiwitten en vetten af?  
-<!-- Amylase (koolhydraten), pepsine en trypsine (eiwitten), lipase (vetten). -->  
+ Amylase (koolhydraten), pepsine en trypsine (eiwitten), lipase (vetten).   
 
 3. Waar worden verteringssappen geproduceerd?  
-<!-- In speekselklieren, maag, alvleesklier en dunne darm. -->  
+ In speekselklieren, maag, alvleesklier en dunne darm.   
 
 4. Waarom werkt pepsine alleen in de maag?  
-<!-- Pepsine werkt optimaal bij een lage pH, die door maagzuur wordt geleverd. -->  
+ Pepsine werkt optimaal bij een lage pH, die door maagzuur wordt geleverd.   
 
 5. Wat gebeurt er als enzymen worden blootgesteld aan een te hoge temperatuur?  
-<!-- Ze denatureren en verliezen hun werking doordat hun structuur verandert. -->  
+ Ze denatureren en verliezen hun werking doordat hun structuur verandert.   
 

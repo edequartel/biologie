@@ -13,19 +13,22 @@
 
 ### B3K3
 #### voeding en spijsvertering
-- [woensdag 12 februari les 1 B3K4](kblw/spijsverteringles1.md)
-- [woensdag 12 februari les 2 B3K4](kblw/spijsverteringles2.md)
+- [wo 12 feb les 1 B3K4](kblw/spijsverteringles1.md)
+- [wo 12 feb les 2 B3K4](kblw/spijsverteringles2.md)
 
 #### ademhaling
-- [donderdag 13 februari les 1 B3K4](kblw/ademhalingles1.md)
-- [donderdag 13 februari les 2 B3K4](kblw/ademhalingles2.md)
+- [do 13 feb les 1 B3K4](kblw/ademhalingles1.md)
+- [do 13 feb les 2 B3K4](kblw/ademhalingles2.md)
+- [wo 19 feb les 3 B3K4](kblw/ademhalingles3.md)
+- [wo 19 feb les 4 B3K4](kblw/ademhalingles4.md)
 
 ### T3T4 
 #### voeding en spijsvetering
-- [woensdag 12 februari les 1 T3T4](tlw/spijsverteringles1.md)
-- [woensdag 12 februari les 2 T3T4](tlw/spijsverteringles2.md)
-- [donderdag 13 februari les 3 T3T4](tlw/spijsverteringles3.md)
-- [donderdag 13 februari les 4 T3T4](tlw/spijsverteringles4.md)
+- [wo 12 feb les 1 T3T4](tlw/spijsverteringles1.md)
+- [wo 12 feb les 2 T3T4](tlw/spijsverteringles2.md)
+- [do 13 feb les 3 T3T4](tlw/spijsverteringles3.md)
+- [do 13 feb les 4 T3T4](tlw/spijsverteringles4.md)
+- [wo 19 feb toets spijsvertering T3T4](tlw/spijsverteringles_toets.md)
 
 
 ## Werkwijze
