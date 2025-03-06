@@ -10,6 +10,7 @@ Zintuigen helpen ons de omgeving waar te nemen door **prikkels** te ontvangen en
 - **Receptoren**: Speciale cellen in zintuigen die prikkels omzetten in impulsen.
 
 ### **Soorten zintuigen en hun prikkels:**
+
 | Zintuig | Prikkel |
 |---------|--------|
 | **Ogen** (gezichtszintuig) | Licht |
@@ -38,6 +39,7 @@ De **huid helpt ook bij temperatuurregeling** door zweten (afkoelen) of door blo
 Het oog vangt lichtprikkels op en zet deze om in impulsen naar de hersenen.
 
 ### **Bouw van het oog:**
+
 | Oogdeel | Functie |
 |---------|--------|
 | **Hoornvlies** | Laat licht binnen en breekt het licht. |
@@ -60,6 +62,7 @@ Het oog vangt lichtprikkels op en zet deze om in impulsen naar de hersenen.
 Het oor vangt geluid op en zorgt voor evenwicht.
 
 ### **Bouw van het oor:**
+
 | Oordeel | Functie |
 |---------|--------|
 | **Oorschelp** | Vangt geluidsgolven op. |
