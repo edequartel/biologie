@@ -2,6 +2,7 @@
 
 ## **Basisstof 1: Zenuwstelsel en Functies**
 Het **zenuwstelsel** zorgt voor de **coördinatie en regeling** van lichaamsprocessen en bestaat uit:
+
 1. **Het centrale zenuwstelsel**: de hersenen en het ruggenmerg.
 2. **Het perifere zenuwstelsel**: alle zenuwen die impulsen door het lichaam geleiden.
 
@@ -90,6 +91,7 @@ Het **bewegingsstelsel** bestaat uit:
 
 ## **Competenties en Vaardigheden**
 Tijdens dit thema heb je geleerd:
+
 - Hoe het **zenuwstelsel en hormoonstelsel** samenwerken.
 - Hoe **reflexen en bewuste bewegingen** verlopen.
 - Hoe het lichaam **homeostase** behoudt via hormonen en terugkoppeling.

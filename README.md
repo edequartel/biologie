@@ -77,6 +77,14 @@
 ### TL-samenvattingen (braille)
 
 #### Jaar 3
+1. [3T1 organen en cellen](samenvattingen/tl/3t1organenencellen.md)
+1. [3T2 voortplanting en ontwikkeling](samenvattingen/tl/3t2voortplanting.md)
+1. [3T3 erfelijkheid](samenvattingen/tl/3t3erfelijkheid.md)
+1. [3T4 ordening en evolutie](samenvattingen/tl/3t4ordeningenevolutie.md)
+1. [3T5 regeling](samenvattingen/tl/3t5regeling.md)
+1. [3T6 zintuigen](samenvattingen/tl/3t6zintuigen.md)
+1. [3T7 stevigheid en beweging](samenvattingen/tl/3t7stevigheid.md)
+1. [3T8 gedrag](samenvattingen/tl/3t8gedrag.md)
 
 #### Jaar 4
 1. [4T1 planten](samenvattingen/tl/4t1planten.md)
