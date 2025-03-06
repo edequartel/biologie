@@ -91,7 +91,7 @@
 #### Jaar 4
 1. [4T1 planten](samenvattingen/tl/4t1planten.md)
 1. [4T2 ecologie](samenvattingen/tl/4t2ecologie.md)
-1. [4T3 mens en milieu](samenvattingen/tl/4t3mensennmilieu.md)
+1. [4T3 mens en milieu](samenvattingen/tl/4t3mensenmilieu.md)
 1. [4T4 voeding](samenvattingen/tl/4t4voeding.md)
 1. [4T5 ademhaling](samenvattingen/tl/4t5gaswisseling.md)
 1. [4T6 transport](samenvattingen/tl/4t6transport.md)
