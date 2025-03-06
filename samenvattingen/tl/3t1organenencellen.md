@@ -51,6 +51,7 @@ Met een **microscoop** kun je cellen en hun structuren bestuderen.
 Cellen zijn de bouwstenen van organismen en bevatten verschillende **organellen**.
 
 ### **Plantaardige en dierlijke cellen**
+
 | Celonderdeel | Functie | Aanwezig in |
 |-------------|---------|------------|
 | **Celmembraan** | Bepaalt wat de cel in en uit gaat | Planten & dieren |
