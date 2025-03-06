@@ -4,7 +4,9 @@
 Bloed is essentieel voor het transport van stoffen door het lichaam. Het vervoert zuurstof, voedingsstoffen en afvalstoffen en speelt een belangrijke rol in de afweer tegen ziekteverwekkers.
 
 ### **Bestanddelen van bloed**
+
 Bloed bestaat uit **bloedplasma** (ongeveer 55%) en **bloedcellen** (ongeveer 45%):
+
 - **Bloedplasma**: bestaat uit water, plasma-eiwitten (zoals fibrinogeen) en opgeloste stoffen (zoals zouten, voedingsstoffen en afvalstoffen).
   - Vervoert zuurstof (kleine hoeveelheid), voedingsstoffen, koolstofdioxide, hormonen en afvalstoffen.
   - Speelt een rol bij de warmteverdeling door het lichaam.
@@ -68,6 +70,7 @@ Het bloed circuleert door het lichaam via de **dubbele bloedsomloop**, bestaande
 
 ### **Hartwerking**
 De hartslag bestaat uit drie fasen:
+
 1. **Samentrekken van de boezems**: Bloed stroomt van de boezems naar de kamers.
 2. **Samentrekken van de kamers**: Bloed wordt de longslagader en aorta ingepompt.
 3. **Hartpauze**: Het hart ontspant en vult zich met bloed.
