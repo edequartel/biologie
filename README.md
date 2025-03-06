@@ -76,6 +76,8 @@
 
 ### TL-samenvattingen (braille)
 
+[alle samenvattingen biologie braille](TLsamenvattingenbiologie.md)
+
 #### Jaar 3
 1. [3T1 organen en cellen](samenvattingen/tl/3t1organenencellen.md)
 1. [3T2 voortplanting en ontwikkeling](samenvattingen/tl/3t2voortplanting.md)
