@@ -4,6 +4,7 @@
 1. [examens van de afgelopen jaren met antwoorden](https://www.examenblad.nl)
 2. [LessonUp](https://www.lessonup.com/site/nl)
 3. [Socrative](https://www.socrative.com)
+4. [bio4bart](https://edequartel.github.io/biologie/)
 
 
 ## Biologie met Joost (7e editie)
@@ -73,10 +74,17 @@
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
 - [Biologie Theorie](samenvattingen/tl/SV3T4T.pdf)
 
-### TL-sammenvattingen (braille)
+### TL-samenvattingen (braille)
+
+#### Jaar 3
+
+#### Jaar 4
 1. [4T1 planten](samenvattingen/tl/4t1planten.md)
 1. [4T2 ecologie](samenvattingen/tl/4t2ecologie.md)
 1. [4T3 mens en milieu](samenvattingen/tl/4t3mensennmilieu.md)
 1. [4T4 voeding](samenvattingen/tl/4t4voeding.md)
+1. [4T5 ademhaling](samenvattingen/tl/4t5gaswisseling.md)
+1. [4T6 transport](samenvattingen/tl/4t6transport.md)
+2. [4T7 opslag, uischeiding en bescherming](samenvattingen/tl/4t7opslag.md)
 
 
