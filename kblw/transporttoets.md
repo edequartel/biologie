@@ -146,7 +146,6 @@
 
 ---
 
-<!--
 ### Antwoorden:
 
 1. C
@@ -180,4 +179,3 @@
 28. Lymfe voert afvalstoffen af en lymfeklieren filteren ziekteverwekkers.
 29. Via diffusie en osmose in de haarvaten.
 30. Koolstofdioxide wordt via de longen uitgeademd.
--->
