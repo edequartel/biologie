@@ -13,7 +13,7 @@
 ## Lessen
 
 ### B3K3
-#### voeding en spijsvertering
+<!--#### voeding en spijsvertering
 - [wo 12 feb les 1 B3K4](kblw/spijsverteringles1.md)
 - [wo 12 feb les 2 B3K4](kblw/spijsverteringles2.md)
 
@@ -27,13 +27,20 @@
 - [wo 5 mrt les 1 B3K4](kblw/transportles1.md)
 - [wo 5 mrt les 2 B3K4](kblw/transportles2.md)
 - [do 6 mrt les 3 B3K4](kblw/transportles3.md)
-- [**do 6 mrt toets B3K4**](kblw/transporttoets.md)
-- [**wo 19 mrt toets nakijken**]()
+- [do 6 mrt toets B3K4](kblw/transporttoets.md)
+- wo 19 mrt toets nakijken-->
+
+#### opslag, uitscheiding en bescherming
+- [wo 26 mrt les 1 B3K4](kblw/opslag1.md)
+- [do 27 mrt les 2 B3K4](kblw/opslag2.md)
+- [wo 1 apr les 3 B3K4](kblw/opslag3.md)
+- [wo 1 apr toets B3K4](kblw/opslagtoets.md)
 
 ---
 
 ### T3T4 
-#### voeding en spijsvetering
+
+<!--#### voeding en spijsvetering
 - [wo 12 feb les 1 T3T4](tlw/spijsverteringles1.md)
 - [wo 12 feb les 2 T3T4](tlw/spijsverteringles2.md)
 - [do 13 feb les 3 T3T4](tlw/spijsverteringles3.md)
@@ -44,7 +51,7 @@
 #### ademhaling
 - [wo 5 mrt les 1 T3T4](tlw/ademhalingles1.md)
 - [wo 5 mrt les 2 T3T4](tlw/ademhalingles2.md)
-- [**do 6 mrt toets T3T4**](tlw/ademhalingtoets.md)
+- [do 6 mrt toets T3T4](tlw/ademhalingtoets.md)-->
 
 
 #### transport
@@ -53,6 +60,13 @@
 - [wo 19 mrt les 3 T3T4](tlw/transportles3.md)
 - [**wo 26 mrt toets**]()
 
+<!--
+#### opslag, uitscheiding en bescherming
+- [wo 26 mrt les 1 B3K4](tlw/opslag1.md)
+- [do 27 mrt les 2 B3K4](tlw/opslag2.md)
+- [wo 1 apr les 3 B3K4](tlw/opslag3.md)
+- [wo 1 apr toets B3K4](tlw/opslagtoets.md)
+-->
 
 
 ## Werkwijze
