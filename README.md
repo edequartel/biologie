@@ -32,9 +32,9 @@
 
 #### opslag, uitscheiding en bescherming
 - [wo 26 mrt les 1 B3K4](kblw/opslag1.md)
-- [do 27 mrt les 2 B3K4](kblw/opslag2.md)
-- [wo 1 apr les 3 B3K4](kblw/opslag3.md)
-- [wo 1 apr toets B3K4](kblw/opslagtoets.md)
+- [do 2 apr les 2 B3K4](kblw/opslag2.md)
+- [wo 3 apr les 3 B3K4](kblw/opslag3.md)
+- [wo 10 apr toets B3K4](kblw/opslagtoets.md)
 
 ---
 
