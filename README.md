@@ -87,6 +87,12 @@
 * [Antwoorden VMBO 4GT Leerjaar 4](antwoordenboek/GT/4GT_antwoorden.md)
 
 
+### Examens tl aangepast
+* [examen TL biologie 2021](examens/2021/Braille_Biologie_VMBO_GT_2021_TV1_deel-1-van-1.docx)
+* [examen TL Biologie 2021 antwoorden]()
+* [examen TL biologie 2022](examens/2022/Braille_Biologie_VMBO_GT_2022_TV1_deel-1-van-1.docx)
+* [examen TL Biologie 2022 antwoorden]()
+
 ## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
 - [Biologie Kader](samenvattingen/k/SV3K4K.pdf)
