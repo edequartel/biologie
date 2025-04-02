@@ -6,6 +6,9 @@
 3. [Socrative](https://www.socrative.com)
 4. [bio4bart](https://edequartel.github.io/biologie/)
 
+## Examenplanning
+[examenplanning kader beroeps 2025](examenkb.md)
+
 
 ## Biologie met Joost (7e editie)
 - [Alle videos met Joost](https://www.biologiemetjoost.nl/alles-om-je-te-helpen-met-biologie)
