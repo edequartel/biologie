@@ -9,6 +9,7 @@
 |3-5 regeling|11-12 april|
 |3-6 zintuigen|13-14 april|
 |3-7 stevigheid en beweging|15-16 april|
+|3-8 gedrag|16 april|
 |||
 |4-1 planten|17-18 april|
 |4-2 ecologie|19-20 april|
