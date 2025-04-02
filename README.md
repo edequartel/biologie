@@ -89,9 +89,9 @@
 
 ### Examens tl aangepast
 * [examen TL biologie 2021](examens/2021/Braille_Biologie_VMBO_GT_2021_TV1_deel-1-van-1.docx)
-* [examen TL Biologie 2021 antwoorden]()
+* [examen TL Biologie 2021 antwoorden](examens/2021/antwoorden2021.md)
 * [examen TL biologie 2022](examens/2022/Braille_Biologie_VMBO_GT_2022_TV1_deel-1-van-1.docx)
-* [examen TL Biologie 2022 antwoorden]()
+* [examen TL Biologie 2022 antwoorden](examens/2022/antwoorden2022.md)
 
 ## Alle samenvattingen
 - [Biologie Basis](samenvattingen/b/OTO_B3B4.pdf)
