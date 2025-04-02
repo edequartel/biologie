@@ -18,9 +18,9 @@
 |4-6 transport|27-28 april|
 |4-7 opslag uitscheiding en bescherming|29-30 april|
 |||
-|examen 2021| 1-25|
-|examen 2021| 25-50|
-|examen 2022| 1-25|
-|examen 2022| 25-20|
+|examen 2021 1-25| 1 mei |
+|examen 2021 25-50| 2 mei |
+|examen 2022 1-25| 3 mei |
+|examen 2022 25-20 | 4 mei |
 
 
