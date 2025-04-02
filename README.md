@@ -7,7 +7,8 @@
 4. [bio4bart](https://edequartel.github.io/biologie/)
 
 ## Examenplanning
-[examenplanning kader beroeps 2025](examenkb.md)
+* [examenplanning kader beroeps leerweg 2025](examenkb.md)
+* [examenplanning theoretische leerweg 2025](examentl.md)
 
 
 ## Biologie met Joost (7e editie)

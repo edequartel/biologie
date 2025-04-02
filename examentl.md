@@ -1,4 +1,4 @@
-#Examenplanner KB
+#Examenplanner TL
 
 |thema|datum|
 |---|---|
@@ -22,5 +22,3 @@
 |examen 2021 25-50| 2 mei |
 |examen 2022 1-25| 3 mei |
 |examen 2022 25-20 | 4 mei |
-
-
