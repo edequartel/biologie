@@ -1,5 +1,6 @@
 # Biologie voor Bartiméus
 
+* [werkblad waarneming](actiefindenatuur/waarneming.md)
 
 1. [examens van de afgelopen jaren met antwoorden](https://www.examenblad.nl)
 2. [LessonUp](https://www.lessonup.com/site/nl)
