@@ -3,7 +3,7 @@
 ## Staatsexamen voorbereiding
 
 ### Voor het voorbereiden van je staatexamen biologie, bekijk je de volgende videos.
-###In het biologielokaal staan **modellen op de tafels** die je kunt gebruiken.
+### In het biologielokaal staan **modellen op de tafels** die je kunt gebruiken.
 
 * [opnames modellen - Eric](https://youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4&si=BqJXVU6SF5AUOn5e)
 * [uitleg staatsexamen modellen - Leslokaal](https://youtube.com/playlist?list=PLxIq2SciHRrlbaCgMUwvf5fRR_0ivdisv&si=4OqPQmQjdk2lu2O5)
