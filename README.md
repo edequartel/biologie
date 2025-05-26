@@ -1,11 +1,19 @@
 # Biologie voor Bartiméus
 
-* [werkblad waarneming](actiefindenatuur/waarneming.md)
+## Staatsexamen voorbereiding
+
+### Voor het voorbereiden van je staatexamen biologie, bekijk je de volgende videos.
+###In het biologielokaal staan **modellen op de tafels** die je kunt gebruiken.
+
+* [opnames modellen - Eric](https://youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4&si=BqJXVU6SF5AUOn5e)
+* [uitleg staatsexamen modellen - Leslokaal](https://youtube.com/playlist?list=PLxIq2SciHRrlbaCgMUwvf5fRR_0ivdisv&si=4OqPQmQjdk2lu2O5)
+
 
 1. [examens van de afgelopen jaren met antwoorden](https://www.examenblad.nl)
 2. [LessonUp](https://www.lessonup.com/site/nl)
 3. [Socrative](https://www.socrative.com)
 4. [bio4bart](https://edequartel.github.io/biologie/)
+
 
 ## Examenplanning
 * [examenplanning kader beroeps leerweg 2025](examenkb.md)
@@ -121,5 +129,8 @@
 1. [4T5 ademhaling](samenvattingen/tl/4t5gaswisseling.md)
 1. [4T6 transport](samenvattingen/tl/4t6transport.md)
 2. [4T7 opslag, uischeiding en bescherming](samenvattingen/tl/4t7opslag.md)
+
+
+* [werkblad waarneming](actiefindenatuur/waarneming.md)
 
 
