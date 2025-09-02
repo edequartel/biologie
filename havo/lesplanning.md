@@ -1,6 +1,4 @@
-#Lesplanning HAVO4
-
-
+# Lesplanning HAVO4
 
 **Thema 1: Inleiding in de biologie**
 
