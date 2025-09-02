@@ -1,3 +1,3 @@
 # Havo
 
-[lesplanning](havo/lesplanning.md)
+[lesplanning](lesplanning.md)
