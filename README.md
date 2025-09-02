@@ -7,6 +7,7 @@
 * [Verwachtingen biologie](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
 
 
+### Werkwijze
 1. Terugkijken en nakijken:
    - Bespreken en nakijken van gemaakt werk.
    - Mogelijk een overhoring van de geleerde stof.
@@ -23,9 +24,10 @@
 
 5. Overhoring (mondelinge toets):
    - Je krijgt een cijfer voor de mondelinge toets. Dit cijfer telt één keer mee,
-   - kan tussentijdse tiers.
+   - na drie of vier basisstoffen kan er een toets komen. Die telt drie keer meer,
    - Einde van thema een toets die zes keer meetelt.
 
 
+### Opstarten
 
 * uitdelen van de methode
