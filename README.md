@@ -1,5 +1,9 @@
 # Biologie voor Bartiméus
 
+* [Verwachtingen biologie](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
+
+--
+
 1. Terugkijken en nakijken:
    - Bespreken en nakijken van gemaakt werk.
    - Mogelijk een overhoring van de geleerde stof.
@@ -19,3 +23,6 @@
    - kan tussentijdse tiers.
    - Einde van thema een toets die zes keer meetelt.
 
+ --
+
+* uitdelen van de methode
