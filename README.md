@@ -1,8 +1,11 @@
 # Biologie voor Bartiméus
 
+* [Havo](havo/havo.md)
+* [GT](gt/gt.md)
+* [BK](bk/bk.md)
+
 * [Verwachtingen biologie](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
 
---
 
 1. Terugkijken en nakijken:
    - Bespreken en nakijken van gemaakt werk.
@@ -23,6 +26,6 @@
    - kan tussentijdse tiers.
    - Einde van thema een toets die zes keer meetelt.
 
- --
+
 
 * uitdelen van de methode
