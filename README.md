@@ -1,13 +1,17 @@
 # Biologie voor Bartiméus
 
+## Niveau
+
 * [Havo](havo/havo.md)
-* [GT](gt/gt.md)
-* [BK](bk/bk.md)
+* [Gemengd Theoretisch VMBO](gt/gt.md)
+* [Basis en Kadergericht VMBO](bk/bk.md)
 
-* [Verwachtingen biologie](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
+## Algemeen
+
+* [Verwachtingen bij biologielessen](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
 
 
-### Werkwijze
+## Werkwijze
 1. Terugkijken en nakijken:
    - Bespreken en nakijken van gemaakt werk.
    - Mogelijk een overhoring van de geleerde stof.
@@ -28,6 +32,3 @@
    - Einde van thema een toets die zes keer meetelt.
 
 
-### Opstarten
-
-* uitdelen van de methode

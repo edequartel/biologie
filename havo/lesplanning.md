@@ -1,130 +1,149 @@
-# Lesplanning HAVO4
+## Lesplanning HAVO 4
 
-**Thema 1: Inleiding in de biologie**
+## Thema 1 Organen en cellen
 
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 1      | 1   | Oriëntatie: Verslag excursie Texel |       |
-| 1      | 2   | Basisstof 1: Biologie is overal    |       |
-| 1      | 3   | Basisstof 2: Organen en weefsels   |       |
-| 1      | 4   | Reserve les                      |       |
-| 2      | 5   | Basisstof 3: Plantaardige en dierlijke cellen |       |
-| 2      | 6   | Basisstof 4: Organellen           |       |
-| 2      | 7   | Basisstof 5: Transport door membranen |       |
-| 2      | 8   | Samenvatting en examenopgaven    |       |
-| 3      | 9   | Reserve les: Terugkijken en vragen |       |
-| 3      | 10  | Toets                          |       |
-| 3      | 11  | Evaluatie toets                |       |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking |
+|--------|-------|-----------|------------------------------|-----------|
+| 1      | 1     |           | Oriëntatie                   |           |
+| 1      | 2     | 1         | Biologie is overal           |           |
+| 1      | 3     | 2         | Organisme, weefsels en cellen|           |
+| 2      | 4     | 3         | Plantaardige en dierlijke cellen |        |
+| 2      | 5     | 4         | Organellen                   |           |
+| 2      | 6     |           | Practicum                    |           |
+| 3      | 7     |           | Reserve les                  |           |
+| 3      | 8     | 5         | Transport door membranen     |           |
+| 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
+| 4      | 10    | 7         | Samenhang                    |           |
+| 4      | 11    |           | Practicum                    |           |
+| 4      | 12    |           | Reserve les                  |           |
+| 5      | 13    |           | Examenopgaven                |           |
+| 5      | 14    | T         | Toets                        |           |
+| 5      | 15    |           | Evaluatie                    |           |
+| 6      | 16    |           | Reserve les                  |           |
 
+## Thema 2 Voortplanting en seksualiteit
 
-<!--
-**Thema 2: Voortplanting en seksualiteit**
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|
+| 7      | 1     |           | Oriëntatie                |           |
+| 7      | 2     | 1         | Ongeslachtelijke voortplanting |        |
+| 7      | 3     | 2         | Geslachtelijke voortplanting |          |
+| 8      | 4     | 3         | Hormonen                  |           |
+| 8      | 4     | 4         | Zwanger                   |           |
+| 8      | 5     |           | Practicum                 |           |
+| 9      | 6     |           | Reserve les               |           |
+| 9      | 7     | 5         | Seksualiteit              |           |
+| 9      | 8     | 6         | Soa’s en geboorteregeling |           |
+| 10     | 9     | 7         | Samenhang                 |           |
+| 10     | 10    |           | Practicum                 |           |
+| 10     | 11    |           | Reserve les               |           |
+| 11     | 12    |           | Examenopgaven             |           |
+| 11     | 13    | T         | Toets                     |           |
+| 11     | 14    |           | Evaluatie                 |           |
+| 12     | 15    |           | Reserve les               |           |
 
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 4      | 12  | Oriëntatie: Waarom hebben we seks? |       |
-| 4      | 13  | Basisstof 1: Ongeslachtelijke voortplanting |       |
-| 4      | 14  | Basisstof 2: Geslachtelijke voortplanting |       |
-| 4      | 15  | Reserve les                      |       |
-| 5      | 16  | Basisstof 3: Hormonen            |       |
-| 5      | 17  | Basisstof 4: Zwanger             |       |
-| 5      | 18  | Basisstof 5: Seksualiteit        |       |
-| 5      | 19  | Samenvatting en examenopgaven    |       |
-| 6      | 20  | Reserve les: Terugkijken en vragen |       |
-| 6      | 21  | Toets                          |       |
-| 6      | 22  | Evaluatie toets                |       |
+## Thema 3 Evolutie
 
+| Weeknr | Lesnr | Onderdeel | Beschrijving                    | Opmerking |
+|--------|-------|-----------|---------------------------------|-----------|
+| 13     | 1     |           | Oriëntatie                      |           |
+| 13     | 2     | 1         | Genotype en fenotype            |           |
+| 13     | 3     | 2         | Genenparen                      |           |
+| 14     | 4     | 3         | Monohybride kruisingen          |           |
+| 14     | 4     | 4         | Geslachtshormonen               |           |
+| 14     | 5     |           | Practicum                       |           |
+| 15     | 6     |           | Reserve les                     |           |
+| 15     | 7     | 5         | Speciale manieren van overerven |           |
+| 15     | 8     | 6         | Opvoeding of aanleg             |           |
+| 16     | 9     | 7         |                                 |           |
+| 16     | 10    |           | Samenhang                       |           |
+| 16     | 11    |           | Practicum                       |           |
+| 17     | 12    |           | Reserve les                     |           |
+| 17     | 13    |           | Examenopgaven                   |           |
+| 17     | 14    | T         | Toets                           |           |
+| 18     | 15    |           | Evaluatie                       |           |
+| 18     | 16    |           | Reserve les                     |           |
 
+## Thema 4 Evolutie
 
-**Thema 3: Genetica**
+| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
+|--------|-------|-----------|-------------------------------|-----------|
+| 13     | 1     |           | Oriëntatie                    |           |
+| 13     | 2     | 1         | Inleiding levende natuur      |           |
+| 13     | 3     | 2         | Bacteriën, virussen, schimmels|           |
+| 14     | 4     | 3         | De evolutietheorie            |           |
+| 14     | 4     | 4         | Evolutie in populaties        |           |
+| 14     | 5     |           | Practicum                     |           |
+| 15     | 6     |           | Reserve les                   |           |
+| 15     | 7     | 5         | Onderzoek naar evolutie       |           |
+| 15     | 8     | 6         | Samenhang                     |           |
+| 16     | 9     |           | Practicum                     |           |
+| 16     | 10    |           | Reserve les                   |           |
+| 16     | 11    |           | Examenopgaven                 |           |
+| 17     | 12    | T         | Toets                         |           |
+| 17     | 13    |           | Evaluatie                     |           |
+| 17     | 14    |           | Reserve les                   |           |
 
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 7      | 23  | Oriëntatie: Designerdogs          |       |
-| 7      | 24  | Basisstof 1: Fenotype en genotype |       |
-| 7      | 25  | Basisstof 2: Genenparen           |       |
-| 7      | 26  | Reserve les                      |       |
-| 8      | 27  | Basisstof 3: Monohybride kruisingen |       |
-| 8      | 28  | Basisstof 4: Geslachtschromosomen |       |
-| 8      | 29  | Basisstof 5: Speciale manieren van overerven |       |
-| 8      | 30  | Basisstof 6: Opvoeding of aanleg |       |
-| 9      | 31  | Samenvatting en examenopgaven    |       |
-| 9      | 32  | Reserve les: Terugkijken en vragen |       |
-| 9      | 33  | Toets                          |       |
-| 10     | 34  | Evaluatie toets                |       |
+## Thema 5 Regeling
 
+| Weeknr | Lesnr | Onderdeel | Beschrijving                            | Opmerking |
+|--------|-------|-----------|-----------------------------------------|-----------|
+| 19     | 1     |           | Oriëntatie                              |           |
+| 19     | 2     | 1         | Homeostase en regelkringen              |           |
+| 19     | 3     | 2         | Het hormoonstelsel                      |           |
+| 20     | 4     | 3         | Het zenuwstelsel                        |           |
+| 20     | 5     | 4         | Reflexen en autonoom zenuwstelsel       |           |
+| 20     | 6     |           | Practicum                               |           |
+| 21     | 7     |           | Reserve les                             |           |
+| 21     | 8     | 5         | Impulsgeleiding                         |           |
+| 21     | 9     | 6         | Spieren en beweging                     |           |
+| 22     | 10    | 7         | Samenhang                               |           |
+| 22     | 11    |           | Practicum                               |           |
+| 22     | 12    |           | Reserve les                             |           |
+| 23     | 13    |           | Examenopgaven                           |           |
+| 23     | 14    | T         | Toets                                   |           |
+| 23     | 15    |           | Evaluatie                               |           |
+| 24     | 16    |           | Reserve les                             |           |
 
+## Thema 6 Waarneming en gedrag
 
-**Thema 4: Evolutie**
+| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
+|--------|-------|-----------|-------------------------------|-----------|
+| 25     | 1     |           | Oriëntatie                    |           |
+| 25     | 2     | 1         | Zintuigen                     |           |
+| 25     | 3     | 2         | Het oog                       |           |
+| 26     | 4     | 3         | Gedrag                        |           |
+| 26     | 5     | 4         | Beïnvloeden van gedrag        |           |
+| 26     | 6     |           | Practicum                     |           |
+| 27     | 7     |           | Reserve les                   |           |
+| 27     | 8     | 5         | Sociaal gedrag bij dieren     |           |
+| 27     | 9     | 6         | Gedrag bij mensen             |           |
+| 28     | 10    | 7         | Samenhang                     |           |
+| 28     | 11    |           | Practicum                     |           |
+| 28     | 12    |           | Reserve les                   |           |
+| 29     | 13    |           | Examenopgaven                 |           |
+| 29     | 14    | T         | Toets                         |           |
+| 29     | 15    |           | Evaluatie                     |           |
+| 30     | 16    |           | Reserve les                   |           |
 
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 10     | 35  | Oriëntatie: Het succes van de vliegende rat |       |
-| 10     | 36  | Basisstof 1: Indeling van de levende natuur |       |
-| 10     | 37  | Basisstof 2: Bacteriën, virussen en schimmels |       |
-| 10     | 38  | Reserve les                      |       |
-| 11     | 39  | Basisstof 3: De evolutietheorie  |       |
-| 11     | 40  | Basisstof 4: Evolutie in populaties |       |
-| 11     | 41  | Basisstof 5: Onderzoek naar evolutie |       |
-| 11     | 42  | Samenvatting en examenopgaven    |       |
-| 12     | 43  | Reserve les: Terugkijken en vragen |       |
-| 12     | 44  | Toets                          |       |
-| 12     | 45  | Evaluatie toets                |       |
+## Thema 7 Ecologie en milieu
 
-
-
-**Thema 5: Regeling**
-
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 13     | 46  | Oriëntatie: You can do it, ook met diabetes |       |
-| 13     | 47  | Basisstof 1: Homeostase en regelkringen |       |
-| 13     | 48  | Basisstof 2: Het hormoonstelsel  |       |
-| 13     | 49  | Reserve les                      |       |
-| 14     | 50  | Basisstof 3: Het zenuwstelsel   |       |
-| 14     | 51  | Basisstof 4: Reflexen en het autonome zenuwstelsel |       |
-| 14     | 52  | Basisstof 5: Impulsgeleiding    |       |
-| 14     | 53  | Samenvatting en examenopgaven    |       |
-| 15     | 54  | Reserve les: Terugkijken en vragen |       |
-| 15     | 55  | Toets                          |       |
-| 15     | 56  | Evaluatie toets                |       |
-
-
-**Thema 6: Waarneming en gedrag**
-
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 16     | 57  | Oriëntatie: Zien als een vleermuis |       |
-| 16     | 58  | Basisstof 1: Zintuigen            |       |
-| 16     | 59  | Basisstof 2: Het oog              |       |
-| 16     | 60  | Reserve les                      |       |
-| 17     | 61  | Basisstof 3: Gedrag              |       |
-| 17     | 62  | Basisstof 4: Beïnvloeden van gedrag |       |
-| 17     | 63  | Basisstof 5: Sociaal gedrag bij dieren |       |
-| 17     | 64  | Samenvatting en examenopgaven    |       |
-| 18     | 65  | Reserve les: Terugkijken en vragen |       |
-| 18     | 66  | Toets                          |       |
-| 18     | 67  | Evaluatie toets                |       |
-
-
-**Thema 7: Ecologie en milieu**
-
-| Weeknr | Nr  | Onderdeel                          |       |
-|--------|-----|----------------------------------|-------|
-| 19     | 68  | Oriëntatie: Droomboerderij       |       |
-| 19     | 69  | Basisstof 1: Organismen          |       |
-| 19     | 70  | Basisstof 2: Populaties          |       |
-| 19     | 71  | Reserve les                      |       |
-| 20     | 72  | Basisstof 3: Ecosystemen         |       |
-| 20     | 73  | Basisstof 4: Veranderende ecosystemen |       |
-| 20     | 74  | Basisstof 5: Kringlopen          |       |
-| 20     | 75  | Samenvatting en examenopgaven    |       |
-| 21     | 76  | Reserve les: Terugkijken en vragen |       |
-| 21     | 77  | Toets                          |       |
-| 21     | 78  | Evaluatie toets                |       |
-
--->
-
-
-
-
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|
+| 30     | 1     |           | Oriëntatie                |           |
+| 30     | 2     | 1         | Organismen                |           |
+| 30     | 3     | 2         | Populaties                |           |
+| 31     | 4     | 3         | Ecosystemen               |           |
+| 31     | 4     | 4         | Veranderende ecosystemen  |           |
+| 31     | 5     |           | Practicum                 |           |
+| 32     | 6     |           | Reserve les               |           |
+| 32     | 7     | 5         | Kringlopen                |           |
+| 32     | 8     | 6         | Duurzaamheid, natuurbescherming |       |
+| 33     | 9     | 7         | Voedselproductie          |           |
+| 33     |       | 8         | Energie                   |           |
+| 33     | 10    |           | Practicum                 |           |
+| 34     | 11    |           | Reserve les               |           |
+| 34     | 12    |           | Examenopgaven             |           |
+| 34     | 13    | T         | Toets                     |           |
+| 35     | 14    |           | Evaluatie                 |           |
+| 35     | 15    |           | Reserve les               |           |

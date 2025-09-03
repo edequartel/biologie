@@ -1,127 +1,174 @@
-# Lesplanning GT
+## Lesplanning VMBO-GT
 
 
+## Thema 1 Organen en cellen
 
-### Thema 1: Organen en cellen (boek 3A)
+| Weeknr | Lesnr | Onderdeel | Beschrijving                | Opmerking |
+|--------|-------|-----------|-----------------------------|-----------|
+| 1      | 1     |           | Introductie                 |           |
+| 1      | 2     | 1         | Organismen                  |           |
+| 1      | 3     | 2         | De bouw van een organisme   |           |
+| 2      | 4     | 3         | Cellen van dieren en planten|           |
+| 2      | 5     | 4         | Chromosomen                 |           |
+| 2      | 6     |           | Practicum                   |           |
+| 3      | 7     |           | Reserve les                 |           |
+| 3      | 8     | 5         | Gewone celdeling            |           |
+| 3      | 9     | 6         | Reductiedeling              |           |
+| 4      | 10    | 7         | Samenhang                   |           |
+| 4      | 11    |           | Practicum                   |           |
+| 4      | 12    |           | Reserve les                 |           |
+| 5      | 13    |           | Examenopgaven               |           |
+| 5      | 14    | T         | Toets                       |           |
+| 5      | 15    |           | Evaluatie                   |           |
+| 6      | 16    |           | Reserve les                 |           |
 
-| Weeknr | Lesnr | Onderdeel                                |       |
-|--------|-------|-----------------------------------------|-------|
-| 1      | 1     | bs 1: Organismen                       |       |
-| 1      | 2     | bs 2: De bouw van een organisme         |       |
-| 1      | 3     | bs 3: Cellen van dieren en planten      |       |
-| 1      | 4     | bs 4: Chromosomen                      |       |
-| 2      | 5     | Practicum 1                           |       |
-| 2      | 6     | Reserve les                          |       |
-| 2      | 7     | bs 5: Gewone celdeling (mitose)       |       |
-| 2      | 8     | bs 6: Reductiedeling (meiose)          |       |
-| 3      | 9     | bs 7: Samenhang                       |       |
-| 3      | 10    | bs 8: Extra stof                      |       |
-| 3      | 11    | Toets Organen en cellen + evaluatie toets |       |
-| 3      | 12    | Reserve les                          |       |
+## Thema 2 Voortplanting en seksualiteit
 
-<!--
+| Weeknr | Lesnr | Onderdeel | Beschrijving            | Opmerking |
+|--------|-------|-----------|-------------------------|-----------|
+| 7      | 1     |           | Introductie             |           |
+| 7      | 2     | 1         | Geslachtsorganen        |           |
+| 7      | 3     | 2         | Veranderingen puberteit |           |
+| 8      | 4     | 3         | Vruchtbaar worden       |           |
+| 8      | 4     | 4         | Zwanger worden          |           |
+| 8      | 5     |           | Practicum               |           |
+| 9      | 6     |           | Reserve les             |           |
+| 9      | 7     | 5         | Seksualiteit            |           |
+| 9      | 8     | 6         | Veilige seks            |           |
+| 10     | 9     | 7         | Erfelijkheidsonderzoek  |           |
+| 10     | 10    | 8         | Samenhang               |           |
+| 10     | 11    |           | Practicum               |           |
+| 11     | 12    |           | Reserve les             |           |
+| 11     | 13    |           | Examenopgaven           |           |
+| 11     | 14    | T         | Toets                   |           |
+| 12     | 15    |           | Evaluatie               |           |
+| 12     | 16    |           | Reserve les             |           |
 
-### Thema 2: Voortplanting en seksualiteit (boek 3A)
+## Thema 3 Erfelijkheid en evolutie
 
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 4      | 1     | bs 1: Voortplantingsstelsel van een man      |       |
-| 4      | 2     | bs 2: Voortplantingsstelsel van een vrouw    |       |
-| 4      | 3     | bs 3: Veranderingen in de puberteit           |       |
-| 4      | 4     | bs 4: Bevruchting en zwangerschap             |       |
-| 5      | 5     | Practicum 1                                 |       |
-| 5      | 6     | Reserve les                                |       |
-| 5      | 7     | bs 5: Geboorte                             |       |
-| 5      | 8     | bs 6: Veilig vrijen                        |       |
-| 6      | 9     | bs 7: Seksualiteit                         |       |
-| 6      | 10    | bs 8: Erfelijkheidsonderzoek               |       |
-| 6      | 11    | Toets Voortplanting en seksualiteit + evaluatie toets |       |
-| 6      | 12    | Reserve les                              |       |
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|
+| 13     | 1     |           | Introductie               |           |
+| 13     | 2     | 1         | Genotype en fenotype      |           |
+| 13     | 3     | 2         | Genen                     |           |
+| 14     | 4     | 3         | Kruisingen                |           |
+| 14     | 4     | 4         | Stambomen                 |           |
+| 14     | 5     |           | Practicum                 |           |
+| 15     | 6     |           | Reserve les               |           |
+| 15     | 7     | 5         | Variatie in genotypen     |           |
+| 15     | 8     | 6         | Evolutie                  |           |
+| 16     | 9     | 7         | Verwantschap              |           |
+| 16     | 10    | 8         | DNA-technieken            |           |
+| 16     | 11    | 9         | Samenhang                 |           |
+| 17     | 12    |           | Practicum                 |           |
+| 17     | 13    |           | Reserve les               |           |
+| 17     | 14    |           | Examenopgaven             |           |
+| 18     | 15    | T         | Toets                     |           |
+| 18     | 16    |           | Evaluatie                 |           |
+| 18     | 17    |           | Reserve les               |           |
 
----
+## Thema 4 Ordening
 
-### Thema 3: Erfelijkheid en evolutie (boek 3A)
+| Weeknr | Lesnr | Onderdeel | Beschrijving                         | Opmerking |
+|--------|-------|-----------|--------------------------------------|-----------|
+| 13     | 1     |           | Introductie                          |           |
+| 13     | 2     | 1         | Ontwikkeling van het leven op aarde  |           |
+| 13     | 3     | 2         | Organismen ordenen                   |           |
+| 14     | 4     | 3         | Bacteriën en schimmels               |           |
+| 14     | 4     | 4         | Planten en dieren                    |           |
+| 14     | 5     |           | Practicum                            |           |
+| 15     | 6     |           | Reserve les                          |           |
+| 15     | 7     | 5         | Variatie in genotypen                |           |
+| 15     | 8     | 6         | Geleedpotigen en gewervelden         |           |
+| 16     | 9     | 7         | Organismen determineren              |           |
+| 16     | 11    | 9         | Samenhang                            |           |
+| 16     | 12    |           | Practicum                            |           |
+| 17     | 13    |           | Reserve les                          |           |
+| 17     | 14    |           | Examenopgaven                        |           |
+| 17     | 15    | T         | Toets                                |           |
+| 18     | 16    |           | Evaluatie                            |           |
+| 18     | 17    |           | Reserve les                          |           |
 
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 7      | 1     | bs 1: DNA en genen                           |       |
-| 7      | 2     | bs 2: Erfelijkheid                           |       |
-| 7      | 3     | bs 3: Evolutie                               |       |
-| 7      | 4     | bs 4: Praktijk onderzoek genen               |       |
-| 8      | 5     | Practicum 1                                 |       |
-| 8      | 6     | Reserve les                                |       |
-| 8      | 7     | bs 5: Mutaties                              |       |
-| 8      | 8     | Toets Erfelijkheid en evolutie + evaluatie toets |       |
-| 9      | 9     | Reserve les                              |       |
+## Thema 5 Stevigheid en beweging
 
----
+| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
+|--------|-------|-----------|-------------------------------|-----------|
+| 19     | 1     |           | Introductie                   |           |
+| 19     | 2     | 1         | Het skelet van de mens        |           |
+| 19     | 3     | 2         | Kraakbeenweefsel en beenweefsel|          |
+| 20     | 4     | 3         | Beenverbindingen              |           |
+| 20     | 4     | 4         | Spieren                       |           |
+| 20     | 5     |           | Practicum                     |           |
+| 21     | 6     |           | Reserve les                   |           |
+| 21     | 7     | 5         | Houding en beweging           |           |
+| 21     | 8     | 6         | Blessures                     |           |
+| 22     | 9     | 7         | Samenhang                     |           |
+| 22     | 10    |           | Practicum                     |           |
+| 22     | 11    |           | Reserve les                   |           |
+| 23     | 12    |           | Examenopgaven                 |           |
+| 23     | 13    | T         | Toets                         |           |
+| 23     | 14    |           | Evaluatie                     |           |
+| 24     | 15    |           | Reserve les                   |           |
 
-### Thema 5: Stevigheid en beweging (boek 3B)
+## Thema 6 Ecologie
 
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 9      | 1     | bs 1: Het skelet van de mens                |       |
-| 9      | 2     | bs 2: Kraakbeen- en beenweefsel             |       |
-| 9      | 3     | bs 3: Beenverbindingen                      |       |
-| 9      | 4     | bs 4: Spieren                              |       |
-| 10     | 5     | Practicum 1                               |       |
-| 10     | 6     | Reserve les                              |       |
-| 10     | 7     | bs 5: Houding en beweging                   |       |
-| 10     | 8     | bs 6: Blessures                          |       |
-| 11     | 9     | Toets Stevigheid en beweging + evaluatie toets |       |
-| 11     | 10    | Reserve les                            |       |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                       | Opmerking |
+|--------|-------|-----------|------------------------------------|-----------|
+| 25     | 1     |           | Introductie                        |           |
+| 25     | 2     | 1         | Eten en gegeten worden             |           |
+| 25     | 3     | 2         | Piramiden                          |           |
+| 26     | 4     | 3         | Koolstof- en stikstofkringloop     |           |
+| 26     | 4     | 4         | Aanpassingen bij dieren            |           |
+| 26     | 5     |           | Practicum                          |           |
+| 27     | 6     |           | Reserve les                        |           |
+| 27     | 7     | 5         | Aanpassingen bij planten           |           |
+| 27     | 8     | 6         | Samenhang                          |           |
+| 28     | 9     |           | Practicum                          |           |
+| 28     | 10    |           | Reserve les                        |           |
+| 28     | 11    |           | Examenopgaven                      |           |
+| 29     | 12    | T         | Toets                              |           |
+| 29     | 13    |           | Evaluatie                          |           |
+| 29     | 14    |           | Reserve les                        |           |
 
----
+## Thema 7 Duurzaam leven
 
-### Thema 6: Ecologie (boek 3B)
+| Weeknr | Lesnr | Onderdeel | Beschrijving             | Opmerking |
+|--------|-------|-----------|--------------------------|-----------|
+| 30     | 1     |           | Introductie              |           |
+| 30     | 2     | 1         | De mens en het milieu    |           |
+| 30     | 3     | 2         | Voedselproductie         |           |
+| 31     | 4     | 3         | Landbouw in Nederland    |           |
+| 31     | 4     | 4         | Energie                  |           |
+| 31     | 5     |           | Practicum                |           |
+| 32     | 6     |           | Reserve les              |           |
+| 32     | 7     | 5         | Klimaat                  |           |
+| 32     | 8     | 6         | Het water                |           |
+| 32     | 9     | 7         | Uitstoot en afval        |           |
+| 33     |       | 8         | Samenhang                |           |
+| 33     | 10    |           | Practicum                |           |
+| 33     | 11    |           | Reserve les              |           |
+| 34     | 12    |           | Examenopgaven            |           |
+| 34     | 13    | T         | Toets                    |           |
+| 34     | 14    |           | Evaluatie                |           |
+| 34     | 15    |           | Reserve les              |           |
 
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 12     | 1     | bs 1: Eten en gegeten worden                |       |
-| 12     | 2     | bs 2: Piramiden                            |       |
-| 12     | 3     | bs 3: Koolstofkringloop en stikstofkringloop |       |
-| 12     | 4     | bs 4: Biologisch evenwicht                   |       |
-| 13     | 5     | Practicum 1                               |       |
-| 13     | 6     | Reserve les                              |       |
-| 13     | 7     | Toets Ecologie + evaluatie toets             |       |
-| 13     | 8     | Reserve les                            |       |
+## Thema 8 Gedrag
 
----
-
-### Thema 7: Duurzaam leven (boek 3B)
-
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 14     | 1     | bs 1: Milieu en duurzaamheid                 |       |
-| 14     | 2     | bs 2: Duurzame energie                      |       |
-| 14     | 3     | bs 3: Afval en recycling                     |       |
-| 14     | 4     | bs 4: Klimaatverandering                     |       |
-| 15     | 5     | Practicum 1                               |       |
-| 15     | 6     | Reserve les                              |       |
-| 15     | 7     | Toets Duurzaam leven + evaluatie toets       |       |
-| 15     | 8     | Reserve les                            |       |
-
----
-
-### Thema 8: Gedrag (boek 3B, alleen vmbo-gt)
-
-| Weeknr | Lesnr | Onderdeel                                  |       |
-|--------|-------|---------------------------------------------|-------|
-| 16     | 1     | bs 1: Gedrag van dieren                      |       |
-| 16     | 2     | bs 2: Conditionering                        |       |
-| 16     | 3     | bs 3: Inprenting                            |       |
-| 16     | 4     | bs 4: Communicatie bij dieren               |       |
-| 17     | 5     | Practicum 1                               |       |
-| 17     | 6     | Reserve les                              |       |
-| 17     | 7     | Toets Gedrag + evaluatie toets               |       |
-| 17     | 8     | Reserve les                            |       |
-
----
-
-De thema's 9 t/m 14 zijn voor vmbo-gt en vmbo-k gekozen vakinhouden en volgen vergelijkbare structuur, welke op verzoek ook kan worden uitgewerkt.
-
-Deze planning is samengesteld met de thema's en basistofnummers uit de docentenhandleiding en leeropdrachtenboeken voor 3A en 3B.
-
-Bron: inhoudsopgave en thema's uit "Biologie voor jou" vmbo 3A en 3B【14:0†BVJ_-_MAX_-_3_vmbo-gt_A_Leeropdrachtenboek】.
-
--->
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|
+| 35     | 1     |           | Introductie               |           |
+| 35     | 2     | 1         | Wat is gedrag?            |           |
+| 35     | 3     | 2         | Oorzaken van gedrag       |           |
+| 36     | 4     | 3         | Aangeboren/aangeleerd     |           |
+| 36     | 4     | 4         | Sociaal gedrag            |           |
+| 36     | 5     |           | Practicum                 |           |
+| 37     | 6     |           | Reserve les               |           |
+| 37     | 7     | 5         | Taakverdeling in groepen  |           |
+| 37     | 8     | 6         | Gedrag bij mensen         |           |
+| 38     |       | 7         | Samenhang                 |           |
+| 38     | 10    |           | Practicum                 |           |
+| 38     | 11    |           | Reserve les               |           |
+| 39     | 12    |           | Examenopgaven             |           |
+| 39     | 13    | T         | Toets                     |           |
+| 39     | 14    |           | Evaluatie                 |           |
+| 40     | 15    |           | Reserve les               |           |
