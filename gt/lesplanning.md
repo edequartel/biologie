@@ -19,7 +19,7 @@
 | 3      | 11    | Toets Organen en cellen + evaluatie toets |       |
 | 3      | 12    | Reserve les                          |       |
 
----
+<!--
 
 ### Thema 2: Voortplanting en seksualiteit (boek 3A)
 
@@ -123,3 +123,5 @@ De thema's 9 t/m 14 zijn voor vmbo-gt en vmbo-k gekozen vakinhouden en volgen ve
 Deze planning is samengesteld met de thema's en basistofnummers uit de docentenhandleiding en leeropdrachtenboeken voor 3A en 3B.
 
 Bron: inhoudsopgave en thema's uit "Biologie voor jou" vmbo 3A en 3B【14:0†BVJ_-_MAX_-_3_vmbo-gt_A_Leeropdrachtenboek】.
+
+-->

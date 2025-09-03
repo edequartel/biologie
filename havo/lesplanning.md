@@ -17,7 +17,7 @@
 | 3      | 11  | Evaluatie toets                |       |
 
 
-
+<!--
 **Thema 2: Voortplanting en seksualiteit**
 
 | Weeknr | Nr  | Onderdeel                          |       |
@@ -122,6 +122,8 @@
 | 21     | 76  | Reserve les: Terugkijken en vragen |       |
 | 21     | 77  | Toets                          |       |
 | 21     | 78  | Evaluatie toets                |       |
+
+-->
 
 
 
