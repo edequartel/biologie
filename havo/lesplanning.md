@@ -2,10 +2,10 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking |
-|--------|-------|-----------|------------------------------|-----------|
-| 1      | 1     |           | Oriëntatie                   |           |
-| 1      | 2     | 1         | Biologie is overal           |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking | Datum|
+|--------|-------|-----------|------------------------------|-----------|---|
+| 1      | 1     |           | Oriëntatie                   | 2,3,4     | 4 sep|
+| 1      | 2     | 1         | Biologie is overal           | 1,2,3     |
 | 1      | 3     | 2         | Organisme, weefsels en cellen|           |
 | 2      | 4     | 3         | Plantaardige en dierlijke cellen |        |
 | 2      | 5     | 4         | Organellen                   |           |
