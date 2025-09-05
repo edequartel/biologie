@@ -2,10 +2,12 @@
 
 * [Lesplanning](lesplanning.md)
 
+<!--
 ## Boek
 
 * [Biologie Voor Jou HAVO 4a](boek/BVJ_H_4A_Boek.docx)
 * [Biologie Voor Jou HAVO 4b](boek/BVJ_H_4B_Boek.docx)
+-->
 
 ## Begrippen
 

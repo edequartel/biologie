@@ -2,9 +2,13 @@
 
 * [Lesplanning](lesplanning.md)
 
+<!--
+
 ## Boek
 
 * [Biologie Voor Jou VMBO 3a](boek/1_biologie_GTbvj_3GT_3a.pdf)
+
+-->
 
 ## Begrippen
 
