@@ -2,13 +2,13 @@
 
 * [Lesplanning](lesplanning.md)
 
-<!--
 
 ## Boek
 
-* [Biologie Voor Jou VMBO 3a](boek/1_biologie_GTbvj_3GT_3a.pdf)
+### Thema 1 Organismen en cellen
 
--->
+* [basisstof 1 - organismen](boeken/t1b1.md)
+* [basisstof 2](boeken/t1b2.md)
 
 ## Begrippen
 
