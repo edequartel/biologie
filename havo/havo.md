@@ -2,6 +2,10 @@
 
 * [Lesplanning](lesplanning.md)
 
+## Lessen
+
+- [Basisstof 1](lessen/Ht1b1.md)
+
 <!--
 ## Boek
 
