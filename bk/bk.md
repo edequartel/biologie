@@ -5,7 +5,7 @@
 
 ## Lessen
 
-* [basisstof 1](lessen/t1b1.md)
+* [Basisstof 1 - Organismen](lessen/t1b1.md)
 
 <!--
 
