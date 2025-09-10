@@ -1,0 +1,55 @@
+# 2 De bouw van een organisme
+
+## Leerdoel
+
+**1.2.1** Je kunt de organisatieniveaus binnen een organisme benoemen en beschrijven.
+
+Jouw lichaam bestaat uit miljoenen cellen. Al die cellen werken samen zodat jij kunt sporten, denken en praten. Niet elke cel is hetzelfde. Je spiercellen hebben bijvoorbeeld een andere bouw dan je hersencellen.
+
+## Orgaanstelsels
+
+Grotere organismen zoals de mens hebben orgaanstelsels, bijvoorbeeld het verteringsstelsel of het ademhalingsstelsel. Een orgaanstelsel bestaat uit organen. Een orgaan is een deel van een organisme met een of meer functies.
+
+Organen bestaan uit cellen. Door een microscoop lijken cellen 'plat', maar in werkelijkheid hebben cellen diepte. Er zijn verschillende typen cellen. De vorm van een cel hangt samen met zijn functie.
+
+## Weefsels
+
+Een groep cellen met eenzelfde vorm en functie noem je een weefsel. Organen bestaan vaak uit verschillende weefsels. De cellen in spierweefsel hebben een andere vorm dan de cellen in bindweefsel.
+
+In veel weefsels zit tussencelstof tussen de cellen. Er zijn verschillende typen tussencelstof, met elk zijn eigen functie. Soms is het een vloeistof, zoals de hersenvloeistof tussen de zenuwcellen in de hersenen, soms is het een harde stof die wordt gemaakt door de cellen. Zo maken botcellen een kalkachtige stof als tussencelstof. De botcellen zelf zijn met elkaar verbonden door uitlopers. Door de tussencelstof en de uitlopers is beenweefsel stevig en sterk.
+
+## Organisatieniveaus
+
+Biologen onderzoeken organismen op verschillende organisatieniveaus. Van groot naar klein zijn dat:
+
+- organisme  
+- orgaanstelsel  
+- orgaan  
+- weefsel  
+- cel  
+
+De verschillende organisatieniveaus werken voortdurend samen. Als je tegen een bal schopt, gebruik je bijvoorbeeld je skelet, spieren en zintuigcellen. Je orgaanstelsels, organen, weefsels en cellen reageren op elkaar en werken met elkaar samen. Door deze samenwerking kun je de bal met de juiste snelheid en in de goede richting schoppen.
+
+## Vragen
+
+2.
+Hierna staan negen omschrijvingen van begrippen.  
+Zet de namen van de begrippen achter de omschrijving.
+
+1. De stof die zich tussen de cellen bevindt.  
+2. Een groep samenwerkende organen die samen een bepaalde functie hebben.  
+3. Een deel van een organisme met een of meer functies.  
+4. Het deel van het verteringsstelsel dat gedeeltelijk in de borstholte ligt en gedeeltelijk in de buikholte.  
+5. De tussencelstof van dit weefsel bevat veel kalk.  
+6. De spieren van je lichaam vormen samen dit orgaanstelsel.  
+7. De hersenen zijn een deel van dit orgaanstelsel.  
+8. Dit orgaan scheidt de romp in de borstholte en de buikholte.  
+9. Een groep cellen met dezelfde bouw en dezelfde functie(s).  
+
+## Samenvatting
+
+3.
+Maak een samenvatting van de basisstof.
+
+- Zet de organisatieniveaus op volgorde van groot naar klein.  
+- Leg uit dat tussencelstof de eigenschappen van een weefsel bepaalt.  
