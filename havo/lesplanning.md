@@ -4,12 +4,12 @@
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking | Datum|
 |--------|-------|-----------|------------------------------|-----------|---|
-| 1      | 1     |           | Oriëntatie                   | 2,3,4     | 4sep|
-| 1      | 2     | 1         | Biologie is overal           | 1,2,4,5,6,7,8,9 | 9sep|
-| 1      | 3     | 2         | Organisme, weefsels en cellen|           |
-| 2      | 4     | 3         | Plantaardige en dierlijke cellen |        |
-| 2      | 5     | 4         | Organellen                   |           |
-| 2      | 6     |           | Practicum                    |           |
+| 1      | 1     |           | Oriëntatie                   | 4 sep | 2,3,4     
+| 1      | 2     | 1         | Biologie is overal           | 11 sep | 2,4,5 |
+| 1      | 3     | 2         | Organisme, weefsels en cellen| 11 sep | 15, 16a, 17, 21 |
+| 2      | 4     | 3         | Plantaardige en dierlijke cellen |        | 22, 23, 24, 25, 26, 29 |
+| 2      | 5     | 4         | Organellen                   |           | 35, 37, 37|
+| 2      | 6     |           | Practicum                    | Osmose    |
 | 3      | 7     |           | Reserve les                  |           |
 | 3      | 8     | 5         | Transport door membranen     |           |
 | 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
