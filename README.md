@@ -10,6 +10,12 @@
 
 * [Verwachtingen bij biologielessen](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
 
+## Links
+
+* [SOMtoday](https://www.somtoday.nl)
+* [NPOPlus](https://www.npoplus.nl)
+* [Biologie Voor Jou](https://www.inloggenvo.malmberg.nl)
+
 
 ## Werkwijze
 1. Terugkijken en nakijken:

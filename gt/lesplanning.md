@@ -3,13 +3,13 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                | Opmerking |
-|--------|-------|-----------|-----------------------------|-----------|
-| 1      | 1     |           | Introductie                 |           |
-| 1      | 2     | 1         | Organismen                  |           |
-| 1      | 3     | 2         | De bouw van een organisme   |           |
-| 2      | 4     | 3         | Cellen van dieren en planten|           |
-| 2      | 5     | 4         | Chromosomen                 |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                | Opmerking | Huiswerk |
+|--------|-------|-----------|-----------------------------|-----------|---|
+| 1      | 1     |           | Introductie                 | 4sep      | |
+| 1      | 2     | 1         | Organismen                  | 11 sep    | 1 en 2 |
+| 1      | 3     | 2         | De bouw van een organisme   |  | 2, 3 en 5 |
+| 2      | 4     | 3         | Cellen van dieren en planten|           | 2, 3, 4, 5 en 6 |
+| 2      | 5     | 4         | Chromosomen                 |           | 1, 2, 3, 4 en 5 |
 | 2      | 6     |           | Practicum                   |           |
 | 3      | 7     |           | Reserve les                 |           |
 | 3      | 8     | 5         | Gewone celdeling            |           |
