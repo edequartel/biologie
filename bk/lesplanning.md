@@ -3,11 +3,11 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                          | Opmerking | Huiswerk |
-|--------|-------|-----------|---------------------------------------|-----------|---|
+| Weeknr | Lesnr | Onderdeel | Beschrijving                          | Opmerking | Huiswerk B | K| 
+|--------|-------|-----------|---------------------------------------|-----------|---|---|
 | 1      | 1     |           | Introductie                           | 4sep      | |
-| 1      | 2     | 1         | Organismen                            | 10sep     | 1, 2 en 4 |
-| 1      | 3     | 2         | De bouw van een organisme             | 11sep     | 2 ,3 en 5 |
+| 1      | 2     | 1         | Organismen                            | 10sep     | 1, 2 en 4 | 1, 2 |
+| 1      | 3     | 2         | De bouw van een organisme             | 11sep     | 1, 3, 4, 5, 6 en 7 | 2, 5, 6 en 7 |
 | 2      | 4     | 3         | Werken met een loep en een microscoop |           |
 | 2      | 5     | 4         | Cellen van dieren en planten          |           |
 | 2      | 6     |           | Practicum                             |           |
