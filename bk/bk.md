@@ -6,6 +6,7 @@
 ## Lessen
 
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
+* [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
 
 <!--
 
