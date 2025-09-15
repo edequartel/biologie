@@ -5,11 +5,11 @@
 ## Lessen
 
 - [Basisstof 1 - Organismen](lessen/t1b1.md)
-- [Basisstof 2](lessen/t1b2.md)
-- [Basisstof 3](lessen/t1b3.md)
-- [Basisstof 4](lessen/t1b4.md)
+- [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
+- [Basisstof 3 - Cellen van dieren en planten](lessen/t1b3.md)
+- [Basisstof 4 - Chromosomen](lessen/t1b4.md)
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
-- [Basisstof 6](lessen/t1b6.md)
+- [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
 
 
 ## Boek
@@ -17,8 +17,10 @@
 ### Thema 1 Organismen en cellen
 
 * [basisstof 1 - organismen](boeken/t1b1.md)
-* [basisstof 2](boeken/t1b2.md)
-
+* [basisstof 2 - De bouw van een organisme](boeken/t1b2.md)
+* [basisstof 3 - Cellen van dieren en planten](boeken/t1b3.md)
+* [basisstof 4 - Chromosomen](boeken/t1b4.md)
+ 
 ## Begrippen
 
 * [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
