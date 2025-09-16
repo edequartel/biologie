@@ -9,10 +9,10 @@
 | 1      | 2     | 1         | Organismen                            | 10sep     | 1, 2 en 4 | 1, 2 |
 | 1      | 3     | 2         | De bouw van een organisme             | 11sep     | 1, 3, 4, 5, 6 en 7 | 2, 5, 6 en 7 |
 | 2-39   | 4     | 3         | Werken met een loep en een microscoop | 16sep     |
-| 2      | 5     | 4         | Cellen van dieren en planten          | 17sep     |
+| 2      | 5     | 4         | Cellen van dieren en planten          | 17sep     | 1, 2, 4, 5, 6 en 10 |
 | 2      | 6     |           | Practicum                             | 18sep     |
 | 3-40   | 7     |           | Reserve les                           |           |
-| 3      | 8     | 5         | Groei en ontwikkeling bij een mens    |           |
+| 3      | 8     | 5         | Groei en ontwikkeling bij een mens    | 18sep     | 2, 3, 4, en 5 |
 | 3      | 9     | 6         | Biologisch onderzoek                  |           |
 | 4-41   | 10    | 7         | Samenhang                             |           |
 | 4      | 11    |           | Practicum                             |           |
