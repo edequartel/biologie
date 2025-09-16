@@ -5,43 +5,43 @@
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                | Opmerking | Huiswerk |
 |--------|-------|-----------|-----------------------------|-----------|---|
-| 1      | 1     |           | Introductie                 | 4sep      | |
-| 1      | 2     | 1         | Organismen                  | 11 sep    | 1 en 2 |
-| 1      | 3     | 2         | De bouw van een organisme   |  | 2, 3 en 5 |
-| 2      | 4     | 3         | Cellen van dieren en planten|           | 2, 3, 4, 5 en 6 |
-| 2      | 5     | 4         | Chromosomen                 |           | 1, 2, 3, 4 en 5 |
+| 1 - 38 | 1     |           | Introductie                 | 4sep      | |
+| 1      | 2     | 1         | Organismen                  | 11sep     | 1 en 2 |
+| 1      | 3     | 2         | De bouw van een organisme   | 16sep     | 2, 3 en 5 |
+| 2 - 39 | 4     | 3         | Cellen van dieren en planten| 17sep     | 2, 3, 4, 5 en 6 |
+| 2      | 5     | 4         | Chromosomen                 | 18sep     | 1, 2, 3, 4 en 5 |
 | 2      | 6     |           | Practicum                   |           |
-| 3      | 7     |           | Reserve les                 |           |
+| 3 - 40  | 7     |           | Reserve les                 |           |
 | 3      | 8     | 5         | Gewone celdeling            |           |
 | 3      | 9     | 6         | Reductiedeling              |           |
-| 4      | 10    | 7         | Samenhang                   |           |
+| 4 - 41 | 10    | 7         | Samenhang                   |           |
 | 4      | 11    |           | Practicum                   |           |
 | 4      | 12    |           | Reserve les                 |           |
-| 5      | 13    |           | Examenopgaven               |           |
+| 5 - 42 | 13    |           | Examenopgaven               |           |
 | 5      | 14    | T         | Toets                       |           |
 | 5      | 15    |           | Evaluatie                   |           |
-| 6      | 16    |           | Reserve les                 |           |
+| 6 - 43 | 16    |           | Reserve les                 |           |
 
 ## Thema 2 Voortplanting en seksualiteit
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving            | Opmerking |
 |--------|-------|-----------|-------------------------|-----------|
-| 7      | 1     |           | Introductie             |           |
+| 7 - 44     | 1     |           | Introductie             |           |
 | 7      | 2     | 1         | Geslachtsorganen        |           |
 | 7      | 3     | 2         | Veranderingen puberteit |           |
-| 8      | 4     | 3         | Vruchtbaar worden       |           |
+| 8 - 45     | 4     | 3         | Vruchtbaar worden       |           |
 | 8      | 4     | 4         | Zwanger worden          |           |
 | 8      | 5     |           | Practicum               |           |
-| 9      | 6     |           | Reserve les             |           |
+| 9 - 46     | 6     |           | Reserve les             |           |
 | 9      | 7     | 5         | Seksualiteit            |           |
 | 9      | 8     | 6         | Veilige seks            |           |
-| 10     | 9     | 7         | Erfelijkheidsonderzoek  |           |
+| 10  - 47     | 9     | 7         | Erfelijkheidsonderzoek  |           |
 | 10     | 10    | 8         | Samenhang               |           |
 | 10     | 11    |           | Practicum               |           |
-| 11     | 12    |           | Reserve les             |           |
+| 11 - 48     | 12    |           | Reserve les             |           |
 | 11     | 13    |           | Examenopgaven           |           |
 | 11     | 14    | T         | Toets                   |           |
-| 12     | 15    |           | Evaluatie               |           |
+| 12 - 49    | 15    |           | Evaluatie               |           |
 | 12     | 16    |           | Reserve les             |           |
 
 ## Thema 3 Erfelijkheid en evolutie

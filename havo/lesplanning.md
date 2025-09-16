@@ -4,19 +4,19 @@
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking | Datum|
 |--------|-------|-----------|------------------------------|-----------|---|
-| 1      | 1     |           | Oriëntatie                   | 4 sep | 2,3,4     
-| 1      | 2     | 1         | Biologie is overal           | 11 sep | 2,4,5 |
-| 1      | 3     | 2         | Organisme, weefsels en cellen| 11 sep | 15, 16a, 17, 21 |
-| 2      | 4     | 3         | Plantaardige en dierlijke cellen |        | 22, 23, 24, 25, 26, 29 |
-| 2      | 5     | 4         | Organellen                   |           | 35, 37, 37|
+| 1 - 38 | 1     |           | Oriëntatie                   | 4sep | 2,3,4     
+| 1      | 2     | 1         | Biologie is overal           | 11sep | 2,4,5 |
+| 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a, 17, 21 |
+| 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 16sep | 22, 23, 24, 25, 26, 29 |
+| 2      | 5     | 4         | Organellen                   | 17sep | 35, 37, 37|
 | 2      | 6     |           | Practicum                    | Osmose    |
-| 3      | 7     |           | Reserve les                  |           |
+| 3 - 40 | 7     |           | Reserve les                  |           |
 | 3      | 8     | 5         | Transport door membranen     |           |
 | 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
-| 4      | 10    | 7         | Samenhang                    |           |
+| 4 - 41 | 10    | 7         | Samenhang                    |           |
 | 4      | 11    |           | Practicum                    |           |
 | 4      | 12    |           | Reserve les                  |           |
-| 5      | 13    |           | Examenopgaven                |           |
+| 5 - 42 | 13    |           | Examenopgaven                |           |
 | 5      | 14    | T         | Toets                        |           |
 | 5      | 15    |           | Evaluatie                    |           |
 | 6      | 16    |           | Reserve les                  |           |
