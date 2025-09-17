@@ -20,6 +20,12 @@
 * [basisstof 2 - De bouw van een organisme](boeken/t1b2.md)
 * [basisstof 3 - Cellen van dieren en planten](boeken/t1b3.md)
 * [basisstof 4 - Chromosomen](boeken/t1b4.md)
+
+#### العربية
+* [الفقرة 1 - الكائنات الحية](boeken/t1b1a.md)
+* [الفقرة 2 - بناء الكائن الحي](boeken/t1b2a.md)
+* [الفقرة 3 - خلايا الحيوانات والنباتات](boeken/t1b3a.md)
+* [الفقرة 4 - الكروموسومات](boeken/t1b4a.md)
  
 ## Begrippen
 
