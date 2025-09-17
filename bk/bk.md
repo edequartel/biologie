@@ -1,6 +1,6 @@
 # BK
 
-[lesplanning](lesplanning.md)
+* [Lesplanning](lesplanning.md)
 
 
 ## Lessen
@@ -27,6 +27,11 @@
 
 * [Thema 1 Organen en cellen](samenvattingen/598781-01_BVJ_3B_sv1_LR.pdf)
 
-## Antwoorden
+## Antwoorden B
 
 1. [Thema 1 Organen en cellen](antwoorden/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
+
+## Antwoorden K
+
+1. [Antwoordenboek K - 3a](antwoorden/598783_BVJ_3K_UWB_deel A.pdf)
+1. [Antwoordenboek K - 3b](antwoorden/598784_BVJ_3K_UWB_deel B.pdf)
