@@ -8,7 +8,7 @@
 | 1 - 38 | 1     |           | Introductie                 | 4sep      | |
 | 1      | 2     | 1         | Organismen                  | 11sep     | 1 en 2 |
 | 1      | 3     | 2         | De bouw van een organisme   | 16sep     | 2, 3 en 5 |
-| 2 - 39 | 4     | 3         | Cellen van dieren en planten| 17sep     | 2, 3, 4, 5 en 6 |
+| 2 - 39 | 4     | 3         | Cellen van dieren en planten| 17sep     | 2, 3, 5, 6 en 7 |
 | 2      | 5     | 4         | Chromosomen                 | 18sep     | 1, 2, 3, 4 en 5 |
 | 2      | 6     |           | Practicum                   |           |
 | 3 - 40  | 7     |           | Reserve les                 |           |
