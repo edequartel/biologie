@@ -10,9 +10,9 @@
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
 * [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
 - [Basisstof 3 - Werken met een loep en een microscoop](lessen/t1b3.md)
-- [Basisstof 4 - Cellen, weefsels, organen en orgaanstelsels](lessen/t1b4.md)
+- [Basisstof 4 - Cellen van dieren en planten](lessen/t1b4.md)
 - [Basisstof 5 - Groei en Ontwikkeling bij een Mens](lessen/t1b5.md)
-- [Basisstof 6 - Cellen](lessen/t1b6.md)
+- [Basisstof 6 - Biologisch onderzoek](lessen/t1b6.md)
 
 <!--
 
