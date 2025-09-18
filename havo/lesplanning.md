@@ -6,9 +6,9 @@
 |--------|-------|-----------|------------------------------|-----------|---|
 | 1 - 38 | 1     |           | Oriëntatie                   | 4sep | 2,3,4     
 | 1      | 2     | 1         | Biologie is overal           | 11sep | 2,4,5 |
-| 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a, 17, 21 |
-| 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 16sep | 22, 23, 24, 25, 26, 29 |
-| 2      | 5     | 4         | Organellen                   | 17sep | 35, 37, 37|
+| 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a,817, 21 |
+| 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 18sep | 22, 23, 24, 25, 26, 29 |
+| 2      | 5     | 4         | Organellen                   | 23sep | 34, 35, 37, 38, 40, 41|
 | 2      | 6     |           | Practicum                    | Osmose    |
 | 3 - 40 | 7     |           | Reserve les                  |           |
 | 3      | 8     | 5         | Transport door membranen     |           |

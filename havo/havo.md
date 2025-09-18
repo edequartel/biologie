@@ -7,11 +7,11 @@
 ### Thema 1: Inleiding in de biologie
 
 - [Basisstof 1, Biologie is overal](lessen/t1b1.md)
-- [Basisstof 2](lessen/t1b2.md)
-- [Basisstof 3](lessen/t1b3.md)
-- [Basisstof 4](lessen/t1b4.md)
-- [Basisstof 5](lessen/t1b5.md)
-- [Basisstof 6](lessen/t1b6.md)
+- [Basisstof 2, Organisme, weefsels en cellen](lessen/t1b2.md)
+- [Basisstof 3, Plantaardige en dierlijke cellen](lessen/t1b3.md)
+- [Basisstof 4, Organellen](lessen/t1b4.md)
+- [Basisstof 5, Transport door membranen, ](lessen/t1b5.md)
+- [Basisstof 6, Natuurwetenschappelijk onderzoek, ](lessen/t1b6.md)
 
 <!--
 ## Boek
