@@ -14,6 +14,9 @@
 
 ## Boek
 
+* [Thema 1 - Organen en cellen](boeken/3GTbvj_thema_1 edit.pdf)
+* [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2 edit.pdf)
+
 ### Thema 1 Organismen en cellen
 
 * [basisstof 1 - organismen](boeken/t1b1.md)
