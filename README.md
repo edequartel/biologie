@@ -5,8 +5,6 @@
 * [Havo](havo/havo.md)
 * [Gemengd Theoretisch VMBO](gt/gt.md)
 * [Basis en Kadergericht VMBO](bk/bk.md)
-* [ict - boek 1 - hoofdstuk 1](ict/b1h1.md)
-* [ict - tekst](ict/iris_verhaal.txt)
 
 ## Algemeen
 
