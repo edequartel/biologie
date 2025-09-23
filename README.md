@@ -15,6 +15,9 @@
 * [SOMtoday](https://www.somtoday.nl)
 * [NPOPlus](https://www.npoplus.nl)
 * [Biologie Voor Jou](https://www.inloggenvo.malmberg.nl)
+* [Biologie met Joost](https://biologiemetjoost.nl)
+* [BioBits](https://schooltv.nl/programma/bio-bits/afleveringen)
+	* [bs4 organnelen](https://www.youtube.com/watch?v=s6GFHnLS5Ro) 
 
 
 ## Werkwijze

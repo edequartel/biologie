@@ -9,7 +9,7 @@
 | 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a,817, 21 |
 | 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 18sep | 22, 23, 24, 25, 26, 29 |
 | 2      | 5     | 4         | Organellen                   | 23sep | 34, 35, 37, 38, 40, 41|
-| 2      | 6     |           | Practicum                    | Osmose    |
+| 2      | 6     |           | Practicum                    | 25sep | Osmose
 | 3 - 40 | 7     |           | Reserve les                  |           |
 | 3      | 8     | 5         | Transport door membranen     |           |
 | 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
