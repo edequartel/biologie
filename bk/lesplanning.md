@@ -13,10 +13,10 @@ Practicum                             | 24 sep    | 2 |
 | 2      | 5     | 4         | Cellen van dieren en planten          | 17sep     | 1, 2, 4, 5, 6 en 10 |
 | 2      | 6     |           | Practicum                             | 18sep     |
 | 3-40   | 7     |           | Reserve les                           |           |
-| 3      | 8     | 5         | Groei en ontwikkeling bij een mens    | 18sep     | 1, 2, 3, 4, en 5 |
-| 3      | 9     | 6         | Biologisch onderzoek A                | 23sep     | 1, 3, 4, 5 en 6+ |
-| 4-41   | 10    |           | Reserve les: Biologisch onderzoek B   | 24sep     |
-| 4      | 11    | 7         | Practicum                             | 25sep     | 2 |
+| 3      | 8     | 5         | Groei en ontwikkeling bij een mens    | 18sep     | |
+| 3      | 9     | 6         | Biologisch onderzoek A                | 23sep     | 1 |
+| 4-41   | 10    |           | Reserve les: Biologisch onderzoek B   | 24sep     | 2 |
+| 4      | 11    | 7         | Practicum                             | 25sep     | 3, 4, 5 |
 | 4      | 12    |           | Reserve les                           |           |
 | 5-42   | 13    |           | Examenopgaven                         |           |
 | 5      | 14    | T         | Toets                                 |           |
