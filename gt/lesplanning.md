@@ -12,8 +12,8 @@
 | 2      | 5     | 4         | Chromosomen                 | 18sep     | 1, 2, 5 en 6 |
 | 2      | 6     |           | Practicum                   | 23sep     | De moord 1
 | 3 - 40  | 7     |           | Reserve les                | 24sep     | De moord 2,3,4
-| 3      | 8     | 5         | Gewone celdeling            |           |
-| 3      | 9     | 6         | Reductiedeling              |           |
+| 3      | 8     | 5         | Gewone celdeling            | 23sep     | 1, 2 |
+| 3      | 9     | 6         | Reductiedeling              |           | 1, 2, 5 en 6 |
 | 4 - 41 | 10    | 7         | Samenhang                   |           |
 | 4      | 11    |           | Practicum                   |           |
 | 4      | 12    |           | Reserve les                 |           |

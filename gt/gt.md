@@ -27,16 +27,15 @@
 * [basisstof 6 - Reductiedeling (meiose)](boeken/t1b6.md)
 
 #### العربية
+
 * [الفقرة 1 - الكائنات الحية](boeken/t1b1a.md)
 * [الفقرة 2 - بناء الكائن الحي](boeken/t1b2a.md)
 * [الفقرة 3 - خلايا الحيوانات والنباتات](boeken/t1b3a.md)
 * [الفقرة 4 - الكروموسومات](boeken/t1b4a.md)
+* [الفقرة 5 - الانقسام العادي (الانقسام الميتوزي)](boeken/t1b5a.md)
+* [الفقرة 6 - الانقسام الاختزالي (الميوزا)](boeken/t1b6a.md)
  
- <!--
-* [basisstof 5 - Gewone celdeling (mitose)](boeken/t1b5.md)
-* [basisstof 6 - Reductiedeling (meiose)](boeken/t1b6.md)
-* -->
- 
+
 ## Begrippen
 
 * [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
