@@ -9,18 +9,19 @@
 | 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a,817, 21 |
 | 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 18sep | 22, 23, 24, 25, 26, 29 |
 | 2      | 5     | 4         | Organellen                   | 23sep | 34, 35, 37, 38, 40, 41|
-| 2      | 6     |           | Practicum                    | 25sep | Osmose
+| 2      | 6     |           | Practicum                    | |
 | 3 - 40 | 7     |           | Reserve les                  |           |
-| 3      | 8     | 5         | Transport door membranen     |           |
+| 3      | 8     | 5         | Transport door membranen A    | 25sep    | 43, 44, 45, 46 ,47 | 
 | 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
 | 4 - 41 | 10    | 7         | Samenhang                    |           |
-| 4      | 11    |           | Practicum                    |           |
+| 4      | 11    |           | Practicum                    |           | Osmose |
 | 4      | 12    |           | Reserve les                  |           |
 | 5 - 42 | 13    |           | Examenopgaven                |           |
 | 5      | 14    | T         | Toets                        |           |
 | 5      | 15    |           | Evaluatie                    |           |
 | 6      | 16    |           | Reserve les                  |           |
 
+<!--
 ## Thema 2 Voortplanting en seksualiteit
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
@@ -147,3 +148,5 @@
 | 34     | 13    | T         | Toets                     |           |
 | 35     | 14    |           | Evaluatie                 |           |
 | 35     | 15    |           | Reserve les               |           |
+
+-->
