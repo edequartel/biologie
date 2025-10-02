@@ -3,25 +3,28 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                | Opmerking | Huiswerk |
-|--------|-------|-----------|-----------------------------|-----------|---|
-| 1 - 38 | 1     |           | Introductie                 | 4sep      | |
-| 1      | 2     | 1         | Organismen                  | 11sep     | 1 en 2 |
-| 1      | 3     | 2         | De bouw van een organisme   | 16sep     | 2, 3 en 5 |
-| 2 - 39 | 4     | 3         | Cellen van dieren en planten| 17sep     | 2, 3, 5, 6 en 7 |
-| 2      | 5     | 4         | Chromosomen                 | 18sep     | 1, 2, 5 en 6 |
-| 2      | 6     |           | Practicum                   | 23sep     | De moord 1
-| 3 - 40  | 7     |           | Reserve les                | 24sep     | De moord 2,3,4
-| 3      | 8     | 5         | Gewone celdeling            | 23sep     | 1, 2 |
-| 3      | 9     | 6         | Reductiedeling              | 25sep     | 1, 2, 5 en 6 |
-| 4 - 41 | 10    | 7         | Samenhang                   |           | 1, 2, 3, 4 |
-| 4      | 11    |           | Practicum                   |           |
-| 4      | 12    |           | Reserve les                 |           |
-| 5 - 42 | 13    |           | Examenopgaven               |           |
-| 5      | 14    | T         | Toets                       |           |
-| 5      | 15    |           | Evaluatie                   |           |
-| 6 - 43 | 16    |           | Reserve les                 |           |
+| Lesnr | Onderdeel | Beschrijving                | Opmerking | Huiswerk |
+|-------|-----------|-----------------------------|-----------|----------|
+| 1     |           | Introductie                 | 4sep      |          |
+| 2     | 1         | Organismen                  | 11sep     | 1 en 2   |
+| 3     | 2         | De bouw van een organisme   | 16sep     | 2, 3 en 5|
+| 4     | 3         | Cellen van dieren en planten| 17sep     | 2, 3, 5, 6 en 7 |
+| 5     | 4         | Chromosomen                 | 18sep     | 1, 2, 5 en 6 |
+| 6     |           | Practicum                   | 23sep     | De moord 1 |
+| 7     |           | Reserve les                 | 24sep     | De moord 2,3,4 |
+| 8     | 5         | Gewone celdeling            | 23sep     | 1, 2     |
+| 9     | 6         | Reductiedeling              | 2okt      | 1, 2, 5 en 6 |
+|       | extra     | [NOS - reductiedeling](https://nos.nl/nieuwsuur/artikel/2584830-doorbraak-in-embryo-onderzoek-werkende-eicel-gemaakt-uit-huidcel) | 2okt | |
+|       | extra     | [Wat is DNA en wat kun je er mee doen?](https://npokennis.nl/longread/7712/wat-is-dna-en-wat-kun-je-ermee-doen) | 2okt | |
+| 10    | 7         | Samenhang                   |           | 1, 2, 3, 4 |
+| 11    |           | Practicum                   |           |          |
+| 12    |           | Reserve les                 |           |          |
+| 13    |           | Examenopgaven               |           |          |
+| 14    | T         | Toets                       |           |          |
+| 15    |           | Evaluatie                   |           |          |
+| 16    |           | Reserve les                 |           |          |
 
+<!--
 ## Thema 2 Voortplanting en seksualiteit
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving            | Opmerking |
@@ -172,3 +175,4 @@
 | 39     | 13    | T         | Toets                     |           |
 | 39     | 14    |           | Evaluatie                 |           |
 | 40     | 15    |           | Reserve les               |           |
+-->
