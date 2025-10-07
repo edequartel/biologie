@@ -4,7 +4,7 @@ Practicum                             | 24 sep    | 2 |
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                          | Opmerking | Huiswerk B | K| 
+| Weeknr | Lesnr | Onderdeel | Beschrijving                          | Huiswerk | Opgegeven op datum (K)|
 |--------|-------|-----------|---------------------------------------|-----------|---|---|
 | 1-38   | 1     |           | Introductie                           | 4sep      | |
 | 1      | 2     | 1         | Organismen                            | 10sep     | 1, 2 en 4 | 1, 2 |

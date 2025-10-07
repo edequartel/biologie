@@ -3,7 +3,7 @@
 
 ## Thema 1 Organen en cellen
 
-| Lesnr | Onderdeel | Beschrijving                | Opmerking | Huiswerk |
+| Lesnr | Onderdeel | Beschrijving                | Huiswerk | Opgegeven op datum|
 |-------|-----------|-----------------------------|-----------|----------|
 | 1     |           | Introductie                 | 4sep      |          |
 | 2     | 1         | Organismen                  | 11sep     | 1 en 2   |
@@ -22,7 +22,6 @@
 | 13    |           | Examenopgaven               |           |          |
 | 14    | T         | Toets                       |           |          |
 | 15    |           | Evaluatie                   |           |          |
-| 16    |           | Reserve les                 |           |          |
 
 <!--
 ## Thema 2 Voortplanting en seksualiteit

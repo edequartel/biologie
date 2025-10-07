@@ -2,7 +2,7 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking | Datum|
+| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Huiswerk | Opgegeven op datum|
 |--------|-------|-----------|------------------------------|-----------|---|
 | 1 - 38 | 1     |           | Oriëntatie                   | 4sep | 2,3,4     
 | 1      | 2     | 1         | Biologie is overal           | 11sep | 2,4,5 |
@@ -13,13 +13,13 @@
 | 3 - 40 | 7     |           | Reserve les                  |           |
 | 3      | 8     | 5         | Transport door membranen A    | 25sep    | 43, 44, 45, 46 ,47 | 
 | 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
-| 4 - 41 | 10    | 7         | Samenhang                    |           |
-| 4      | 11    |           | Practicum                    |           | Osmose |
+| 4 - 41 | 10    |           | Practicum                    | 30sep     | Osmose |
+| 4      | 11    | 7         | Samenhang                    | 8okt      | 1,2,3,4,5 |
 | 4      | 12    |           | Reserve les                  |           |
-| 5 - 42 | 13    |           | Examenopgaven                |           |
-| 5      | 14    | T         | Toets                        |           |
-| 5      | 15    |           | Evaluatie                    |           |
-| 6      | 16    |           | Reserve les                  |           |
+| 5 - 42 | 13    |           | Examenopgaven                | 9okt      |
+| 5      | 14    | T         | Toets                        | 14okt     | voorbereiden |
+| 5      | 15    |           | Evaluatie                    | 16okt     |
+
 
 <!--
 ## Thema 2 Voortplanting en seksualiteit
