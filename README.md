@@ -1,5 +1,10 @@
 # Biologie voor Bartiméus
 
+## openlessen
+
+* [Geheimschrift](openlessen/geheimschrift.md)
+* [Stappenplan](openlessen/stappenplan.md)
+
 ## Niveau
 
 * [Havo](havo/havo.md)
