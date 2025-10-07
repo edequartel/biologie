@@ -1,5 +1,4 @@
 # Lesplanning VMBO-B
-Practicum                             | 24 sep    | 2 |
 
 
 ## Thema 1 Organen en cellen
