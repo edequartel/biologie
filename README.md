@@ -46,3 +46,5 @@
    - Einde van thema een toets die zes keer meetelt.
 
 
+## Toets
+Voor de toets leer je de samenvatting van het thema. Dez samenvatting staat achterin het hoofdstuk. De samenvatting verwijst naar onderwerpen en begrippen die in basisstoffen zijn behandeld.
