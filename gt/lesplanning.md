@@ -16,10 +16,10 @@
 | 9     | 6         | Reductiedeling              | 2okt      | 1, 2, 5 en 6 |
 |       | extra     | [NOS - reductiedeling](https://nos.nl/nieuwsuur/artikel/2584830-doorbraak-in-embryo-onderzoek-werkende-eicel-gemaakt-uit-huidcel) | 2okt | |
 |       | extra     | [Wat is DNA en wat kun je er mee doen?](https://npokennis.nl/longread/7712/wat-is-dna-en-wat-kun-je-ermee-doen) | 2okt | |
-| 10    | 7         | Samenhang                   |           | 1, 2, 3, 4 |
+| 10    | 7         | Samenhang                   | 8okt      | 1, 2, 3, 4 |
 | 11    |           | Practicum                   |           |          |
 | 12    |           | Reserve les                 |           |          |
-| 13    |           | Examenopgaven               |           |          |
+| 13    |           | Examenopgaven               |           | 1,2,3,4,5,6,7,8,9,10  |
 | 14    | T         | Toets                       |           |          |
 | 15    |           | Evaluatie                   |           |          |
 

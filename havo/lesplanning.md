@@ -2,23 +2,22 @@
 
 ## Thema 1 Organen en cellen
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Huiswerk | Opgegeven op datum|
-|--------|-------|-----------|------------------------------|-----------|---|
-| 1 - 38 | 1     |           | Oriëntatie                   | 4sep | 2,3,4     
-| 1      | 2     | 1         | Biologie is overal           | 11sep | 2,4,5 |
-| 1      | 3     | 2         | Organisme, weefsels en cellen| 11sep | 15, 16a,817, 21 |
-| 2 - 39 | 4     | 3         | Plantaardige en dierlijke cellen | 18sep | 22, 23, 24, 25, 26, 29 |
-| 2      | 5     | 4         | Organellen                   | 23sep | 34, 35, 37, 38, 40, 41|
-| 2      | 6     |           | Practicum                    | |
-| 3 - 40 | 7     |           | Reserve les                  |           |
-| 3      | 8     | 5         | Transport door membranen A    | 25sep    | 43, 44, 45, 46 ,47 | 
-| 3      | 9     | 6         | Natuurwetenschappelijk onderzoek |       |
-| 4 - 41 | 10    |           | Practicum                    | 30sep     | Osmose |
-| 4      | 11    | 7         | Samenhang                    | 8okt      | 1,2,3,4,5 |
-| 4      | 12    |           | Reserve les                  |           |
-| 5 - 42 | 13    |           | Examenopgaven                | 9okt      |
-| 5      | 14    | T         | Toets                        | 14okt     | voorbereiden |
-| 5      | 15    |           | Evaluatie                    | 16okt     |
+| Lesnr | Onderdeel | Beschrijving                   | Huiswerk | Opgegeven op datum |
+|-------|------------|--------------------------------|-----------|--------------------|
+| 1     |            | Oriëntatie                     | 4sep      | 2,3,4              |
+| 2     | 1          | Biologie is overal             | 11sep     | 2,4,5              |
+| 3     | 2          | Organisme, weefsels en cellen  | 11sep     | 15, 16a, 817, 21   |
+| 4     | 3          | Plantaardige en dierlijke cellen | 18sep   | 22, 23, 24, 25, 26, 29 |
+| 5     | 4          | Organellen                     | 23sep     | 34, 35, 37, 38, 40, 41 |
+| 6     |            | Practicum                      |           |                    |
+| 7     |            | Reserve les                    |           |                    |
+| 8     | 5          | Transport door membranen A     | 25sep     | 43, 44, 45, 46, 47 |
+| 9     | 6          | Natuurwetenschappelijk onderzoek |         |                    |
+| 10    |            | Practicum                      | 30sep     | Osmose             |
+| 11    | 7          | Samenhang                      | 8okt      | pp60 1,2,3,4       |
+| 12    |            | Examenopgaven                  | 9okt      |                    |
+| 13    | T          | Toets                          | 14okt     | voorbereiden       |
+| 14    |            | Evaluatie                      | 16okt     |                    |
 
 
 <!--
