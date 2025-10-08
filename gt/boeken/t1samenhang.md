@@ -1,179 +1,124 @@
-<div style="text-align: right; direction: rtl;">
+# Samenhang
 
-<h1>التناسق</h1>
+## 1. Mooi rood is niet lelijk (maar ook niet echt lekker)
 
-<h2>١. الأحمر الجميل ليس قبيحًا (لكنه ليس لذيذًا أيضًا)</h2>
+Denk je aan tomaten, dan denk je aan mooie rode vruchten.  
+In de winkel kopen mensen vooral tomaten die gelijkmatig rood zijn.  
+Die zien er het lekkerst uit.
 
-<p>
-عندما تفكر في الطماطم، تفكر في ثمار حمراء جميلة.  
-في المتاجر يشتري الناس الطماطم التي تكون حمراء بشكل متناسق.  
-تبدو تلك الطماطم أشهى.
-</p>
+---
 
-<hr>
+## 2. Gelijkmatig rood
 
-<h2>٢. الأحمر المتناسق</h2>
+Als een tomaat groene vlekjes heeft, denkt een klant dat de tomaat nog niet rijp is.  
+Zulke tomaten verkopen niet goed.
 
-<p>
-عندما تكون في الطماطم بقع خضراء، يظن الزبون أن الطماطم لم تنضج بعد.  
-مثل هذه الطماطم لا تُباع جيدًا.
-</p>
+Telers willen dat hun tomaten tijdens het rijpen gelijkmatig rood worden.  
+Deze tomaten zijn het gemakkelijkst te oogsten.  
+De tomaten hangen namelijk in een tros, en de teler kijkt bij het oogsten boven op de tomaat.  
+Als de bovenkant net zo rood is als de onderkant, ziet de teler meteen welke tomaten rijp zijn en welke nog even aan de tros moeten blijven hangen.
 
-<p>
-يريد المزارعون أن تنضج الطماطم لديهم بحيث تصبح حمراء بشكل متناسق.  
-هذه الطماطم هي الأسهل في الحصاد.  
-تتدلّى الطماطم في عناقيد، وينظر المزارع عند الحصاد إلى أعلى الثمرة.  
-عندما تكون قمة الطماطم حمراء مثل أسفلها، يعرف المزارع فورًا أي الطماطم ناضجة وأيها تحتاج وقتًا أطول.
-</p>
+In het wild worden tomaten niet gelijkmatig rood.  
+De onderkant verkleurt het eerst, terwijl de bovenkant bij het steeltje lang groen blijft (zie afbeelding 1).  
+Daarom zijn Nederlandse telers al eeuwen bezig om tomaten te kweken die wél mooi gelijkmatig rood worden.  
 
-<p>
-في البرية لا تصبح الطماطم حمراء بشكل متناسق.  
-أسفل الطماطم يتغير لونه أولًا، بينما تبقى المنطقة حول الساق خضراء لفترة أطول (انظر الصورة ١).  
-لهذا السبب يعمل المزارعون الهولنديون منذ قرون على تهجين الطماطم للحصول على طماطم حمراء بشكل متناسق.
-</p>
+Dat doen ze door planten met elkaar te kruisen en met de nakomelingen met gunstige eigenschappen verder te kweken.  
+Zo gaan ze net zo lang door tot ze een plant hebben waaraan perfecte tomaten groeien.
 
-<p>
-يفعلون ذلك من خلال تهجين النباتات مع بعضها البعض، ثم يختارون النسل الذي يمتلك صفات جيدة.  
-ويستمرون في هذه العملية حتى يحصلوا على نبات ينتج طماطم مثالية.
-</p>
+---
 
-<hr>
+## 3. Waterbommen
 
-<h2>٣. قنابل الماء</h2>
+De rode kleur van tomaten ontstaat doordat bladgroenkorrels in de tomaat worden omgezet in kleurstofkorrels.  
+Bij gelijkmatig verkleurende tomaten gebeurt dit te vroeg, waardoor er minder glucose wordt gevormd.  
 
-<p>
-ينشأ اللون الأحمر في الطماطم عندما تتحول حبيبات الكلوروفيل داخل الطماطم إلى حبيبات صبغية.  
-في الطماطم التي يتغير لونها بسرعة، يحدث هذا التحول مبكرًا جدًا، مما يؤدي إلى تكوّن كمية أقل من الغلوكوز.
-</p>
+**Gevolg:** de tomaten zijn minder zoet.  
+Ze zien er dus mooi uit, maar smaken als smaakloze waterbommen.
 
-<p>
-<strong>النتيجة:</strong> تكون الطماطم أقل حلاوة.  
-تبدو جميلة، لكنها في الواقع بلا طعم وتُشبه قنابل الماء.
-</p>
+> Afb. 1 – Een tros met tomaten die niet gelijkmatig verkleuren.
 
-<blockquote>صورة ١ – عنقود من الطماطم التي لا يتغير لونها بشكل متناسق.</blockquote>
+Tomaten die vroeg rood worden, bevatten minder glucose,  
+omdat er in zulke tomaten minder glucosevorming plaatsvindt.
 
-<p>
-الطماطم التي تحمر بسرعة تحتوي على كمية أقل من الغلوكوز،  
-لأن عملية تكوين الغلوكوز فيها تكون أقل نشاطًا.
-</p>
+---
 
-<hr>
+## 4. Opdrachten
 
-<h2>٤. التمارين</h2>
+### 4.1 Opdracht 1
 
-<h3>٤.١ التمرين ١</h3>
+a. Waardoor ontstaat in rode tomaten minder glucose dan in groene tomaten?  
 
-<p>a. لماذا تحتوي الطماطم الحمراء على غلوكوز أقل من الطماطم الخضراء؟</p>
+b. Om het oogsten gemakkelijker te maken, plukken telers de bladeren boven een tros.  
+Tomaten die nog niet rijp zijn en die de teler aan de tros laat zitten, worden daardoor nog minder zoet.  
+**Leg dit uit.**  
 
-<p>
-b. لسهولة الحصاد، يزيل المزارعون الأوراق فوق العناقيد.  
-الطماطم التي لم تنضج بعد وتُترك على العنقود تصبح أقل حلاوة.  
-<strong>اشرح ذلك.</strong>
-</p>
+c. Glucose bestaat voor een groot deel uit koolstof.  
+Haalt de plant die koolstof uit de **lucht**, **grond**, **het water** of **de zonnestraling**?  
 
-<p>
-c. يتكون الغلوكوز بشكل كبير من الكربون.  
-من أين يحصل النبات على هذا الكربون؟ من <strong>الهواء</strong>، <strong>التربة</strong>، <strong>الماء</strong> أم <strong>أشعة الشمس</strong>؟
-</p>
+d. In het wild blijven tomaten aan de bovenkant langer groen dan aan de onderkant.  
+**Leg uit** dat hierdoor tomaten groeien met meer voedingsstoffen.  
 
-<p>
-d. في البرية، تبقى قمة الطماطم خضراء لفترة أطول من أسفلها.  
-<strong>اشرح</strong> كيف يؤدي ذلك إلى طماطم تحتوي على مغذيات أكثر.
-</p>
+e. Robyne zegt:  
+> “Een tomaat verkleurt van groen naar rood doordat bij de celdeling de bladgroenkorrels in kleurstofkorrels veranderen.”  
+Heeft Robyne gelijk? **Leg je antwoord uit.**
 
-<p>
-e. تقول روبيْن:  
-<q>“يتحول لون الطماطم من الأخضر إلى الأحمر لأن حبيبات الكلوروفيل تتحول أثناء انقسام الخلايا إلى حبيبات صبغية.”</q>  
-هل روبيْن على حق؟ <strong>اشرح إجابتك.</strong>
-</p>
+---
 
-<hr>
+### 4.2 Opdracht 2
 
-<h3>٤.٢ التمرين ٢</h3>
+Baby’s hebben hun eigen voorkeuren.  
+Ze kijken langer naar rode en blauwe dingen dan naar groene en gele.  
+Ook houden ze van zoete smaken.
 
-<p>
-للرضع تفضيلاتهم الخاصة.  
-ينظرون لفترات أطول إلى الأشياء الحمراء والزرقاء أكثر من الخضراء والصفراء.  
-كما أنهم يحبون المذاق الحلو.
-</p>
+a. Een baby krijgt een bordje met een rood en een groen stukje tomaat.  
+Welk stukje denk je dat de baby het eerst in zijn mond steekt? **Leg je antwoord uit.**  
 
-<p>
-a. طفل أمامه قطعة حمراء وأخرى خضراء من الطماطم.  
-أي قطعة سيضعها في فمه أولًا؟ <strong>اشرح إجابتك.</strong>
-</p>
+b. Van welk stukje eet de baby het meest op? **Leg je antwoord uit.**  
 
-<p>
-b. من أي قطعة سيأكل الطفل أكثر؟ <strong>اشرح إجابتك.</strong>
-</p>
+c. Welke route volgt een stukje tomaat door het lichaam van de baby?  
+Zet de organen in de juiste volgorde:
 
-<p>
-c. ما المسار الذي تسلكه قطعة الطماطم داخل جسم الطفل؟  
-رتب الأعضاء بالترتيب الصحيح:
-</p>
+> dikke darm – dunne darm – endeldarm – keelholte – maag – mondholte – slokdarm – twaalfvingerige darm  
 
-<blockquote>
-القولون – الأمعاء الدقيقة – المستقيم – البلعوم – المعدة – الفم – المريء – الاثنا عشر  
-(ابدأ من <strong>الفم</strong>)
-</blockquote>
+Begin bij de **mondholte**.  
 
-<p>
-d. إلى أي <strong>جهاز</strong> تنتمي هذه الأعضاء؟
-</p>
+d. Tot welk **orgaanstelsel** behoren de organen in vraag c?
 
-<hr>
+---
 
-<h3>٤.٣ التمرين ٣</h3>
+### 4.3 Opdracht 3
 
-<p>
-ينشأ اللون الأحمر للطماطم عندما تتحول حبيبات الكلوروفيل إلى حبيبات صبغية.
-</p>
+De rode kleur van tomaten ontstaat doordat bladgroenkorrels in de tomaat worden omgezet in kleurstofkorrels.
 
-<p>
-a. في أي جزء من الخلية توجد حبيبات الكلوروفيل والحبيبات الصبغية؟</p>
-<p>b. هل تحتوي خلايا نبات الطماطم على جدران خلوية؟ <strong>اشرح إجابتك.</strong></p>
-<p>c. هل توجد فراغات بين الخلايا في الطماطم؟ <strong>اشرح إجابتك.</strong></p>
+a. In welk gedeelte van de cel bevinden zich de bladgroenkorrels en kleurstofkorrels?  
 
-<p>
-d. تجادل نِهَا وكيان:
-</p>
+b. Hebben de cellen van de tomatenplant celwanden? **Leg je antwoord uit.**  
 
-<ul>
-<li><strong>نِهَا:</strong> "كل خلية نباتية تحتوي في النواة على عدد زوجي من الكروموسومات."</li>
-<li><strong>كيان:</strong> "بعض الخلايا يمكن أن تحتوي على عدد فردي من الكروموسومات."</li>
-</ul>
+c. Zitten er intercellulaire ruimten tussen de cellen van een tomaat? **Leg je antwoord uit.**  
 
-<p>من منهما على حق؟ <strong>اشرح السبب.</strong></p>
+d. Neha en Kian hebben een discussie:  
+- **Neha:** “Elke cel van een plant heeft in de kern een even aantal chromosomen.”  
+- **Kian:** “Sommige cellen kunnen een oneven aantal chromosomen hebben.”  
 
-<hr>
+Wie heeft gelijk? **Leg uit waarom.**
 
-<h3>٤.٤ التمرين ٤</h3>
+---
 
-<p>
-البذور داخل الطماطم هي بذور النبات.  
-تتكون هذه البذور عن طريق <strong>التكاثر الجنسي</strong> بعد عملية الإخصاب.  
-لكن نباتات الطماطم يمكنها أيضًا أن تتكاثر <strong>لاجنسيًا</strong>.
-</p>
+### 4.4 Opdracht 4
 
-<p>
-إذا قطعت فرعًا جانبيًا من نبات الطماطم ووضعته في كأس ماء،  
-فإنه بعد حوالي عشرة أيام تظهر جذور صغيرة.  
-عند زراعة هذا الفرع، ينمو ليصبح نبات طماطم جديد.
-</p>
+De pitjes in een tomaat zijn de zaden van de plant.  
+Deze zaden ontstaan door **geslachtelijke voortplanting** nadat de plant bevrucht is.  
+Maar tomatenplanten kunnen zich ook **ongeslachtelijk voortplanten**.
 
-<p>
-a. يظل الفرع حيًا بعد قطعه.  
-اذكر أربع خصائص للحياة تُظهر أنه حي.
-</p>
+Als je een zijscheut van een tomatenplant afsnijdt en in een bekerglas met water zet, ontstaan er na ongeveer tien dagen kleine worteltjes.  
+Als je de scheut daarna plant, groeit hij uit tot een nieuwe tomatenplant.
 
-<p>
-b. تصبح الجذور الجديدة أطول وتتكون من خلايا.  
-هل نشأت هذه الخلايا بواسطة <strong>الانقسام المتساوي (ميتوز)</strong> أم <strong>الانقسام الاختزالي (مايوز)</strong>؟ <strong>اشرح إجابتك.</strong>
-</p>
+a. De scheut blijft leven nadat je hem hebt afgesneden.  
+Geef vier levenskenmerken waaruit dat blijkt.  
 
-<p>
-c. يقوم المزارعون بتهجين النباتات المختلفة للحصول على صفات جيدة.  
-هل يمكنهم أيضًا الحصول على نباتات أفضل فقط باستخدام الفروع المقطوعة؟ <strong>اشرح إجابتك.</strong>
-</p>
+b. De nieuwe wortels worden steeds langer en bestaan uit cellen.  
+Zijn deze cellen ontstaan na **mitose** of na **meiose**? **Leg je antwoord uit.**  
 
-</div>
+c. Telers kruisen verschillende planten met elkaar.  
+Met de nakomelingen die gunstige eigenschappen hebben, kweken ze verder om steeds betere planten te krijgen.  
+Kunnen telers ook steeds betere planten maken door scheuten van een plant af te snijden en daarmee verder te kweken? **Leg uit.**
