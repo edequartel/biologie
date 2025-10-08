@@ -15,8 +15,7 @@
 | 9     | 6          | Natuurwetenschappelijk onderzoek |         |                    |
 | 10    |            | Practicum                      | 30sep     | Osmose             |
 | 11    | 7          | Samenhang                      | 8okt      | pp60 1,2,3,4       |
-| 12    |            | Examenopgaven                  | 9okt      |                    |
-| 13    | T          | Toets                          | 14okt     | voorbereiden       |
+| 12    |            | Examenopgaven                  | 8okt      | pp82 1,2,4,5,6,7,8,9,10  |              | 13    | T          | Toets                          | 14okt     |       |
 | 14    |            | Evaluatie                      | 16okt     |                    |
 
 
