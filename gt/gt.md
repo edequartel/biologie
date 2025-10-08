@@ -25,6 +25,8 @@
 * [basisstof 4 - Chromosomen](boeken/t1b4.md)
 * [basisstof 5 - Gewone celdeling (mitose)](boeken/t1b5.md)
 * [basisstof 6 - Reductiedeling (meiose)](boeken/t1b6.md)
+* [Samenhang](boeken/t1samenhang.md)
+* [Examen opgaven](boeken/t1examenopgaven.md)
 
 #### العربية
 
@@ -34,7 +36,8 @@
 * [الفقرة 4 - الكروموسومات](boeken/t1b4a.md)
 * [الفقرة 5 - الانقسام العادي (الانقسام الميتوزي)](boeken/t1b5a.md)
 * [الفقرة 6 - الانقسام الاختزالي (الميوزا)](boeken/t1b6a.md)
- 
+
+* [Samenhang arabisch](boeken/t1samenhanga.md)
 
 ## Begrippen
 
