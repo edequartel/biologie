@@ -37,11 +37,12 @@
 * [الفقرة 5 - الانقسام العادي (الانقسام الميتوزي)](boeken/t1b5a.md)
 * [الفقرة 6 - الانقسام الاختزالي (الميوزا)](boeken/t1b6a.md)
 
-* [Samenhang arabisch](boeken/t1samenhanga.md)
+* [Samenhang arabisch](boeken/3gtt1samenvatting.md)
 
 ## Begrippen
 
 * [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
+* [Online - Thema 1 Organen en cellen](samenvattingen/3gtt1samenvatting.md)
 
 ## Antwoorden
 
