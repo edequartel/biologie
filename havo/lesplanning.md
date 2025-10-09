@@ -2,21 +2,20 @@
 
 ## Thema 1 Organen en cellen
 
-| Lesnr | Onderdeel | Beschrijving                   | Huiswerk | Opgegeven op datum |
-|-------|------------|--------------------------------|-----------|--------------------|
-| 1     |            | Oriëntatie                     | 4sep      | 2,3,4              |
-| 2     | 1          | Biologie is overal             | 11sep     | 2,4,5              |
-| 3     | 2          | Organisme, weefsels en cellen  | 11sep     | 15, 16a, 817, 21   |
-| 4     | 3          | Plantaardige en dierlijke cellen | 18sep   | 22, 23, 24, 25, 26, 29 |
-| 5     | 4          | Organellen                     | 23sep     | 34, 35, 37, 38, 40, 41 |
-| 6     |            | Practicum                      |           |                    |
-| 7     |            | Reserve les                    |           |                    |
-| 8     | 5          | Transport door membranen A     | 25sep     | 43, 44, 45, 46, 47 |
-| 9     | 6          | Natuurwetenschappelijk onderzoek |         |                    |
-| 10    |            | Practicum                      | 30sep     | Osmose             |
-| 11    | 7          | Samenhang                      | 8okt      | pp60 1,2,3,4       |
-| 12    |            | Examenopgaven                  | 8okt      | pp82 1,2,4,5,6,7,8,9,10  |              | 13    | T          | Toets                          |     |       |
-| 14    |            | Evaluatie                      |     |                    |
+| Lesnr | Onderdeel | Beschrijving                      | Huiswerk             | Opgegeven op datum |
+|--------|------------|----------------------------------|----------------------|--------------------|
+| 1      |            | Oriëntatie                      | 4sep                 | 2,3,4              |
+| 2      | 1          | Biologie is overal              | 11sep                | 2,4,5              |
+| 3      | 2          | Organisme, weefsels en cellen   | 11sep                | 15, 16a, 817, 21   |
+| 4      | 3          | Plantaardige en dierlijke cellen| 18sep                | 22, 23, 24, 25, 26, 29 |
+| 5      | 4          | Organellen                      | 23sep                | 34, 35, 37, 38, 40, 41 |
+| 6      | 5          | Transport door membranen A      | 25sep                | 43, 44, 45, 46, 47 |
+| 7      |            | Practicum                       | 30sep                | Osmose             |
+| 8      | 6          | Natuurwetenschappelijk onderzoek| 9okt                 | pp51 57,59,59,60,61,62 |
+| 9      | 7          | Samenhang                       | 8okt                 | pp60 1,2,3,4       |
+| 10     |            | Examenopgaven                   | 8okt                 | pp82 1,2,4,5,6,7,8,9,10 |
+| 11     | T          | Toets                           | 9okt                 | pp76 bs1,2,3,4,5,6 |
+| 12     |            | Evaluatie                       |                      |                    |
 
 
 <!--
