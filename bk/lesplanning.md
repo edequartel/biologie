@@ -18,7 +18,7 @@
 | 4      | 11    | 7         | Practicum                             | 25sep     | 5 en 6+ |
 | 4      | 12    |           | Samenhang                             | 2okt      | 1, 2, 3 en 4 |
 | 5-42   | 13    |           | Examenopgaven                         | 7okt      | 1,2,3,4,5,6,7 (8,9,10,11,12) |
-| 5      | 14    | T         | Toets                                 |           | |
+| 5      | 14    | T         | Toets                                 | 9okt      | samenvatting bs1,2,4,5,6|
 | 5      | 15    |           | Evaluatie                             |           |
 | 6-43   | 16    |           | Reserve les                           |           |
 
