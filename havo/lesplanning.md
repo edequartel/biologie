@@ -13,32 +13,31 @@
 | 7      |            | Practicum                       | 30sep                | Osmose             |
 | 8      | 6          | Natuurwetenschappelijk onderzoek| 9okt                 | pp51 57,59,59,60,61,62 |
 | 9      | 7          | Samenhang                       | 8okt                 | pp60 1,2,3,4       |
-| 10     |            | Examenopgaven                   | 8okt                 | pp82 1,2,4,5,6,7,8,9,10 |
-| 11     | T          | Toets                           | 9okt                 | pp76 bs1,2,3,4,5,6 |
+| 10     |            | Examenopgaven (niet toegankelijk)  | 8okt                 | pp82 1,2,4,5,6,7,8,9,10 |
+| 11     | T          | Toets                           | 16okt                 | pp76 bs1,2,3,4,5,6 |
 | 12     |            | Evaluatie                       |                      |                    |
 
 
-<!--
-## Thema 2 Voortplanting en seksualiteit
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
-|--------|-------|-----------|---------------------------|-----------|
-| 7      | 1     |           | Oriëntatie                |           |
-| 7      | 2     | 1         | Ongeslachtelijke voortplanting |        |
-| 7      | 3     | 2         | Geslachtelijke voortplanting |          |
-| 8      | 4     | 3         | Hormonen                  |           |
-| 8      | 4     | 4         | Zwanger                   |           |
-| 8      | 5     |           | Practicum                 |           |
-| 9      | 6     |           | Reserve les               |           |
-| 9      | 7     | 5         | Seksualiteit              |           |
-| 9      | 8     | 6         | Soa’s en geboorteregeling |           |
-| 10     | 9     | 7         | Samenhang                 |           |
-| 10     | 10    |           | Practicum                 |           |
-| 10     | 11    |           | Reserve les               |           |
-| 11     | 12    |           | Examenopgaven             |           |
-| 11     | 13    | T         | Toets                     |           |
-| 11     | 14    |           | Evaluatie                 |           |
-| 12     | 15    |           | Reserve les               |           |
+| Lesnr | Onderdeel | Beschrijving              | Huiswerk | Opgegeven op datum |
+|-------|------------|---------------------------|------------|--------------------|
+| 1     |            | Oriëntatie                |            |                    |
+| 2     | 1          | Ongeslachtelijke voortplanting |         |                    |
+| 3     | 2          | Geslachtelijke voortplanting |           |                    |
+| 4     | 3          | Hormonen                  |            |                    |
+| 4     | 4          | Zwanger                   |            |                    |
+| 5     |            | Practicum                 |            |                    |
+| 6     |            | Reserve les               |            |                    |
+| 7     | 5          | Seksualiteit              |            |                    |
+| 8     | 6          | Soa’s en geboorteregeling |            |                    |
+| 9     | 7          | Samenhang                 |            |                    |
+| 10    |            | Practicum                 |            |                    |
+| 11    |            | Reserve les               |            |                    |
+| 12    |            | Examenopgaven             |            |                    |
+| 13    | T          | Toets                     |            |                    |
+| 14    |            | Evaluatie                 |            |                    |
+| 15    |            | Reserve les               |            |                    |
+<!--
 
 ## Thema 3 Evolutie
 
