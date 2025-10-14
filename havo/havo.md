@@ -5,8 +5,6 @@
 ## Lessen
 
 
-
-
 ### Thema 1: Inleiding in de biologie
 
 - [Basisstof 1, Biologie is overal](lessen/t1b1.md)
@@ -15,8 +13,10 @@
 - [Basisstof 4, Organellen](lessen/t1b4.md)
 - [Basisstof 5, Transport door membranen](lessen/t1b5.md)
 - [Basisstof 6, Natuurwetenschappelijk onderzoek](lessen/t1b6.md)
+- [Toets](lessen/t1toets.md)
 
 
+<!--
 ### Thema 2: Voortplanting en seksualiteit
 - [Basisstof 1, Ongeslachtelijke voortplanting](lessen/t2b1.md)
 - [Basisstof 2, Geslachtelijke voortplanting](lessen/t2b2.md)
@@ -25,7 +25,7 @@
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
 
-<!--
+
 ## Boek
 
 * [Biologie Voor Jou HAVO 4a](boek/BVJ_H_4A_Boek.docx)
