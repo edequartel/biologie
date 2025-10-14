@@ -10,7 +10,10 @@
 - [Basisstof 4 - Chromosomen](lessen/t1b4.md)
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
+
+<!--
 - [Toets](toetsen/thema1aangepast.md)
+- -->
 
 
 ## Boek
