@@ -1,5 +1,30 @@
 # Lesplanning VMBO-B
 
+## Thema 2 – Voortplanting en seksualiteit
+
+| Lesnr | Onderdeel | Beschrijving                  |  Opmerking | Huiswerk / Opgegeven op |
+|-------|------------|-------------------------------|--------------------------|-----------|
+| 1     |            | Introductie                   | 15okt                    | 1,2,3,4,5,6 |
+| 2     | 1          | Geslachtsorganen              |                          |           |
+| 3     | 2          | Veranderingen in de puberteit |                          |           |
+| 4     | 3          | Vruchtbaar worden             |                          |           |
+| 5     | 4          | Zwanger worden                |                          |           |
+| 6     |            | Practicum                     |                          |           |
+| 7     |            | Reserve les                   |                          |           |
+| 8     | 5          | Geboorte                      |                          |           |
+| 9     | 6          | Seksualiteit                  |                          |           |
+| 10    | 7          | Veilige seks                  |                          |           |
+| 11    | 8          | Samenhang                     |                          |           |
+| 12    |            | Practicum                     |                          |           |
+| 13    |            | Reserve les                   |                          |           |
+| 14    |            | Examenopgaven                 |                          |           |
+| 15    | T          | Toets                         |                          |           |
+| 16    |            | Evaluatie                     |                          |           |
+| 17    |            | Reserve les                   |                          |           |
+
+
+
+<!--
 
 ## Thema 1 Organen en cellen
 
@@ -22,27 +47,6 @@
 | 15    |            | Evaluatie                             |           |                         |
 | 16    |            | Reserve les                           |           |                         |
 
-## Thema 2 – Voortplanting en seksualiteit
-
-| Lesnr | Onderdeel | Beschrijving                  |  Opmerking | Huiswerk / Opgegeven op |
-|-------|------------|-------------------------------|--------------------------|-----------|
-| 1     |            | Introductie                   |                          |           |
-| 2     | 1          | Geslachtsorganen              |                          |           |
-| 3     | 2          | Veranderingen in de puberteit |                          |           |
-| 4     | 3          | Vruchtbaar worden             |                          |           |
-| 5     | 4          | Zwanger worden                |                          |           |
-| 6     |            | Practicum                     |                          |           |
-| 7     |            | Reserve les                   |                          |           |
-| 8     | 5          | Geboorte                      |                          |           |
-| 9     | 6          | Seksualiteit                  |                          |           |
-| 10    | 7          | Veilige seks                  |                          |           |
-| 11    | 8          | Samenhang                     |                          |           |
-| 12    |            | Practicum                     |                          |           |
-| 13    |            | Reserve les                   |                          |           |
-| 14    |            | Examenopgaven                 |                          |           |
-| 15    | T          | Toets                         |                          |           |
-| 16    |            | Evaluatie                     |                          |           |
-| 17    |            | Reserve les                   |                          |           |
 
 ## Thema 3 Ordening
 
@@ -126,3 +130,5 @@
 | 33     | 13    | T         | Toets                 |           |
 | 33     | 14    |           | Evaluatie             |           |
 | 34     | 15    |           | Reserve les           |           |
+
+--> 
