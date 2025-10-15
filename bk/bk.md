@@ -13,6 +13,7 @@
 - [Basisstof 4 - Cellen van dieren en planten](lessen/t1b4.md)
 - [Basisstof 5 - Groei en Ontwikkeling bij een Mens](lessen/t1b5.md)
 - [Basisstof 6 - Biologisch onderzoek](lessen/t1b6.md)
+- [Toets antwoorden](toetsen/3at1.pdf) 
 
 #### Thema 2 Voortplanting en seksualteit
 
