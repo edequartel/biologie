@@ -4,9 +4,7 @@
 **Aantal vragen:** 24  
 **Totaal te behalen punten:** 31  
 
-<!--
 [antwoorden](thema1antwoorden.md)
--->
 
 ---
 

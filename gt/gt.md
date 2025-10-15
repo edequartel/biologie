@@ -2,6 +2,19 @@
 
 * [Lesplanning](lesplanning.md)
 
+
+### Thema 2 Voortplanting en seksualteit
+
+- [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
+- [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
+- [Basisstof 3 - Vruchtbaar worden](lessen/t2b3.md)
+- [Basisstof 4 - Zwanger worden](lessen/t2b4.md)
+- [Basisstof 5 - Geboorte](lessen/t2b5.md)
+- [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
+- [Basisstof 7 - Veilige seks](lessen/t2b7.md)
+- [Basisstof 8 - Erfelijkheisonderzoek](lessen/t2b8.md)
+
+
 ## Lessen
 
 - [Basisstof 1 - Organismen](lessen/t1b1.md)
@@ -11,8 +24,6 @@
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
 - [Toets](toetsen/thema1aangepast.md)
-
-
 
 ## Boek
 
