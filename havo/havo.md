@@ -13,7 +13,7 @@
 - [Basisstof 4, Organellen](lessen/t1b4.md)
 - [Basisstof 5, Transport door membranen](lessen/t1b5.md)
 - [Basisstof 6, Natuurwetenschappelijk onderzoek](lessen/t1b6.md)
-- [Toets](lessen/t1toets.md)
+- [Toets](toetsen/t1toets.md)
 
 
 <!--
