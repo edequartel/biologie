@@ -2,9 +2,9 @@
 
 ## Thema 2 – Voortplanting en seksualiteit
 
-| Lesnr | Onderdeel | Beschrijving                  |  Opmerking | Huiswerk / Opgegeven op |
+| Lesnr | Onderdeel | Beschrijving                  |  Datum | Huiswerk |
 |-------|------------|-------------------------------|--------------------------|-----------|
-| 1     |            | Introductie                   | 15okt                    | 1,2,3,4,5,6 |
+| 1     |            | Introductie                   | 16okt                    | 1,2,3,4,5,6 |
 | 2     | 1          | Geslachtsorganen              |                          |           |
 | 3     | 2          | Veranderingen in de puberteit |                          |           |
 | 4     | 3          | Vruchtbaar worden             |                          |           |
@@ -24,11 +24,9 @@
 
 
 
-<!--
-
 ## Thema 1 Organen en cellen
 
-| Lesnr | Onderdeel | Beschrijving                          | Huiswerk | Opgegeven op datum (K) |
+| Lesnr | Onderdeel | Beschrijving                          | Datum | Huiswerk |
 |-------|------------|---------------------------------------|-----------|-------------------------|
 | 1     |            | Introductie                           | 4sep      |                         |
 | 2     | 1          | Organismen                            | 10sep     | 1, 2 en 4 | 1, 2 |
@@ -44,9 +42,9 @@
 | 12    |            | Samenhang                             | 2okt      | 1, 2, 3 en 4 |         |
 | 13    |            | Examenopgaven                         | 7okt      | 1,2,3,4,5,6,7 (8,9,10,11,12) | |
 | 14    | T          | Toets                                 | 9okt      | samenvatting bs1,2,4,5,6 | |
-| 15    |            | Evaluatie                             |           |                         |
-| 16    |            | Reserve les                           |           |                         |
+| 15    |            | Evaluatie                             | 16oct     |                         |
 
+<!--
 
 ## Thema 3 Ordening
 

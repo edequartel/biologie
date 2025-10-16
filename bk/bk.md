@@ -5,6 +5,16 @@
 
 ## Lessen
 
+#### Thema 2 Voortplanting en seksualteit
+
+- [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
+- [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
+- [Basisstof 3 - Vruchtbaar worden](lessen/t2b3.md)
+- [Basisstof 4 - Zwanger worden](lessen/t2b4.md)
+- [Basisstof 5 - Geboorte](lessen/t2b5.md)
+- [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
+- [Basisstof 7 - Veilige seks](lessen/t2b7.md)
+
 #### Thema 1 Organen en cellen
 
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
@@ -16,21 +26,7 @@
 - [Toets](toetsen/3at1.pdf) 
 - [Toets antwoorden](toetsen/3at1antwoorden.pdf) 
 
-
-#### Thema 2 Voortplanting en seksualteit
-
-- [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
-- [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
-- [Basisstof 3 - Vruchtbaar worden](lessen/t2b3.md)
-- [Basisstof 4 - Zwanger worden](lessen/t2b4.md)
-- [Basisstof 5 - Geboorte](lessen/t2b5.md)
-- [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
-- [Basisstof 7 - Veilige seks](lessen/t2b7.md)
-- [Basisstof 8 - Samenhang](lessen/t2b8.md)
-
 <!--
-
-
 
 ## Boek
 
@@ -42,10 +38,12 @@
 ## Begrippen
 
 * [Thema 1 Organen en cellen](samenvattingen/598781-01_BVJ_3B_sv1_LR.pdf)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598781-01_BVJ_3B_sv2_LR.pdf)
 
 ## Antwoorden B
 
 1. [Thema 1 Organen en cellen](antwoorden/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
+2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
 
 ## Antwoorden K
 
