@@ -1,27 +1,10 @@
 ## Lesplanning HAVO 4
 
-## Thema 1 Organen en cellen
-
-| Lesnr | Onderdeel | Beschrijving                      | Huiswerk             | Opgegeven op datum |
-|--------|------------|----------------------------------|----------------------|--------------------|
-| 1      |            | Oriëntatie                      | 4sep                 | 2,3,4              |
-| 2      | 1          | Biologie is overal              | 11sep                | 2,4,5              |
-| 3      | 2          | Organisme, weefsels en cellen   | 11sep                | 15, 16a, 817, 21   |
-| 4      | 3          | Plantaardige en dierlijke cellen| 18sep                | 22, 23, 24, 25, 26, 29 |
-| 5      | 4          | Organellen                      | 23sep                | 34, 35, 37, 38, 40, 41 |
-| 6      | 5          | Transport door membranen A      | 25sep                | 43, 44, 45, 46, 47 |
-| 7      |            | Practicum                       | 30sep                | Osmose             |
-| 8      | 6          | Natuurwetenschappelijk onderzoek| 9okt                 | pp51 57,59,59,60,61,62 |
-| 9      | 7          | Samenhang                       | 8okt                 | pp60 1,2,3,4       |
-| 10     |            | Examenopgaven (niet toegankelijk)  | 8okt                 | pp82 1,2,4,5,6,7,8,9,10 |
-| 11     | T          | Toets                           | 16okt                 | pp76 bs1,2,3,4,5,6 |
-| 12     |            | Evaluatie                       |                      |                    |
-
-
+## Thema 2 Voortplanting en seksualiteit
 
 | Lesnr | Onderdeel | Beschrijving              | Huiswerk | Opgegeven op datum |
 |-------|------------|---------------------------|------------|--------------------|
-| 1     |            | Oriëntatie                |            |                    |
+| 1     |            | Oriëntatie                | 16okt      | pp 90 o1,2,3,4     |
 | 2     | 1          | Ongeslachtelijke voortplanting |         |                    |
 | 3     | 2          | Geslachtelijke voortplanting |           |                    |
 | 4     | 3          | Hormonen                  |            |                    |
@@ -37,6 +20,25 @@
 | 13    | T          | Toets                     |            |                    |
 | 14    |            | Evaluatie                 |            |                    |
 | 15    |            | Reserve les               |            |                    |
+
+## Thema 1 Organen en cellen
+
+| Lesnr | Onderdeel | Beschrijving                      | Huiswerk             | Opgegeven op datum |
+|--------|------------|----------------------------------|----------------------|--------------------|
+| 1      |            | Oriëntatie                      | 4sep                 | 2,3,4              |
+| 2      | 1          | Biologie is overal              | 11sep                | 2,4,5              |
+| 3      | 2          | Organisme, weefsels en cellen   | 11sep                | 15, 16a, 817, 21   |
+| 4      | 3          | Plantaardige en dierlijke cellen| 18sep                | 22, 23, 24, 25, 26, 29 |
+| 5      | 4          | Organellen                      | 23sep                | 34, 35, 37, 38, 40, 41 |
+| 6      | 5          | Transport door membranen A      | 25sep                | 43, 44, 45, 46, 47 |
+| 7      |            | Practicum                       | 30sep                | Osmose             |
+| 8      | 6          | Natuurwetenschappelijk onderzoek| 9okt                 | pp51 57,59,59,60,61,62 |
+| 9      | 7          | Samenhang                       | 8okt                 | pp60 1,2,3,4       |
+| 10     |            | Examenopgaven (niet toegankelijk)  | 8okt                 | pp82 1,2,4,5,6,7,8,9,10 |
+| 11     | T          | Toets                           | 16okt                 | pp76 bs1,2,3,4,5,6 |
+| 12     |            | Evaluatie                       | 16okt                 |                    |
+
+
 <!--
 
 ## Thema 3 Evolutie
