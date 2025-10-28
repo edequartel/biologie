@@ -15,6 +15,7 @@
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
 
+<!--
 #### Thema 1 Organen en cellen
 
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
@@ -26,8 +27,6 @@
 - [Toets](toetsen/3at1.pdf) 
 - [Toets antwoorden](toetsen/3at1antwoorden.pdf) 
 
-<!--
-
 ## Boek
 
 * [Biologie Voor Jou VMBO B 3a](boek/p001-286_BVJ_8_0_-_MAX_-_3_vmbo-b_A_Leerwerkboek.pdf)
@@ -37,15 +36,20 @@
 
 ## Begrippen
 
-* [Thema 1 Organen en cellen](samenvattingen/598781-01_BVJ_3B_sv1_LR.pdf)
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598781-01_BVJ_3B_sv2_LR.pdf)
+* [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.pdf)
+* [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
 
 ## Antwoorden B
 
-1. [Thema 1 Organen en cellen](antwoorden/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
-2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
+1. [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
+2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
 
 ## Antwoorden K
 
-1. [Antwoordenboek K - 3a](antwoorden/598783_BVJ_3K_UWB_deel A.pdf)
-1. [Antwoordenboek K - 3b](antwoorden/598784_BVJ_3K_UWB_deel B.pdf)
+1. [Antwoordenboek K - 3a](antwoordenk/Bvj_3K_UWB_A.pdf)
+1. [Antwoordenboek K - 3b](antwoordenk/Bvj_3K_UWB_B.pdf)
+
+Losse delen
+
+1. [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
+2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)

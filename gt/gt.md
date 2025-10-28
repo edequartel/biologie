@@ -1,11 +1,10 @@
 # Biologie - GT
 
+## Thema 2 Voortplanting en seksualteit
+
 * [Lesplanning](lesplanning.md)
 
 ## Lessen
-
-
-### Thema 2 Voortplanting en seksualteit
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
@@ -14,11 +13,13 @@
 - [Basisstof 5 - Geboorte](lessen/t2b5.md)
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
-- [Basisstof 8 - Erfelijkheisonderzoek](lessen/t2b8.md)
+- [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
 
-### Boek
+### Boek (Speciaal voor Stijn)
 
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
+
+### Basisstoffen
 - [Introductie](boeken/t2intro.md)
 - [Basisstof 1 - Geslachtsorganen](boeken/t2b1.md)
 
@@ -35,21 +36,31 @@
 
 ## Begrippen
 
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
-* [??? -Online - Thema 2 Voortplanting en seksualiteit](samenvattingen/3gtt2samenvatting.md)
+### docx
+
+* [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.docx)
+* [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.docx)
+
+
+### pdf
+
+* [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.pdf)
+* [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.pdf)
+
 
 ## Antwoorden
 
 ### docx
 
+2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.docx)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.docx)
 
 ### pdf
 
-3. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
+2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
+2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
 
---
-
+<!--
 
 ### Thema 1 Organismen en cellen
 

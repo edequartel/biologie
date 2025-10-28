@@ -5,7 +5,8 @@
 | Lesnr | Onderdeel | Beschrijving                  |  Datum | Huiswerk |
 |-------|------------|-------------------------------|--------------------------|-----------|
 | 1     |            | Introductie                   | 16okt                    | 1,2,3,4,5,6 |
-| 2     | 1          | Geslachtsorganen              |                          |           |
+| 2     | 1a          | Geslachtsorganen              | 28okt                    | 1,2,3,4          |
+| 2     | 1b          | Geslachtsorganen              | 28okt                    | 5,6,7,8        |
 | 3     | 2          | Veranderingen in de puberteit |                          |           |
 | 4     | 3          | Vruchtbaar worden             |                          |           |
 | 5     | 4          | Zwanger worden                |                          |           |

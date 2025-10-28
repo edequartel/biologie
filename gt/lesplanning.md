@@ -2,10 +2,12 @@
 
 ## Thema 2 Voortplanting en seksualiteit
 
-| Lesnr | Onderdeel | Beschrijving            | Opmerking |
-|-------|------------|-------------------------|-----------|
-| 1     |            | Introductie             |           |
-| 2     | 1          | Geslachtsorganen        |           |
+
+| Lesnr | Onderdeel | Beschrijving            | Datum | Opmerking |
+|-------|------------|-------------------------|-----------|---|
+| 1     |            | Introductie             | 28okt         |
+| 2     | 1a          | Geslachtsorganen        | 28okt     | 1,2,3,4 |
+| 2     | 1b          | Geslachtsorganen        | 29okt     | 5,6,7,8 |
 | 3     | 2          | Veranderingen puberteit |           |
 | 4     | 3          | Vruchtbaar worden       |           |
 | 4     | 4          | Zwanger worden          |           |
@@ -22,8 +24,8 @@
 | 15    |            | Evaluatie               |           |
 | 16    |            | Reserve les             |           |
 
-<!--
 
+<!--
 ## Thema 1 Organen en cellen
 
 | Lesnr | Onderdeel | Beschrijving                | Huiswerk | Opgegeven op datum|
