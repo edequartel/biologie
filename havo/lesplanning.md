@@ -1,4 +1,4 @@
-## Lesplanning HAVO 4 yyy
+## Lesplanning HAVO 4
 
 ## Thema 2 Voortplanting en seksualiteit
 
