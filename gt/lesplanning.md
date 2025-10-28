@@ -1,5 +1,28 @@
 ## Lesplanning VMBO-GT
 
+## Thema 2 Voortplanting en seksualiteit
+
+| Lesnr | Onderdeel | Beschrijving            | Opmerking |
+|-------|------------|-------------------------|-----------|
+| 1     |            | Introductie             |           |
+| 2     | 1          | Geslachtsorganen        |           |
+| 3     | 2          | Veranderingen puberteit |           |
+| 4     | 3          | Vruchtbaar worden       |           |
+| 4     | 4          | Zwanger worden          |           |
+| 5     |            | Practicum               |           |
+| 6     |            | Reserve les             |           |
+| 7     | 5          | Seksualiteit            |           |
+| 8     | 6          | Veilige seks            |           |
+| 9     | 7          | Erfelijkheidsonderzoek  |           |
+| 10    | 8          | Samenhang               |           |
+| 11    |            | Practicum               |           |
+| 12    |            | Reserve les             |           |
+| 13    |            | Examenopgaven           |           |
+| 14    | T          | Toets                   |           |
+| 15    |            | Evaluatie               |           |
+| 16    |            | Reserve les             |           |
+
+<!--
 
 ## Thema 1 Organen en cellen
 
@@ -21,28 +44,6 @@
 | 12    | T         | Toets                       | 14okt     |  bs1,2,3,4,5,6 van de samenvatting        |
 | 15    |           | Evaluatie                   |           |          |
 
-<!--
-## Thema 2 Voortplanting en seksualiteit
-
-| Weeknr | Lesnr | Onderdeel | Beschrijving            | Opmerking |
-|--------|-------|-----------|-------------------------|-----------|
-| 7 - 44     | 1     |           | Introductie             |           |
-| 7      | 2     | 1         | Geslachtsorganen        |           |
-| 7      | 3     | 2         | Veranderingen puberteit |           |
-| 8 - 45     | 4     | 3         | Vruchtbaar worden       |           |
-| 8      | 4     | 4         | Zwanger worden          |           |
-| 8      | 5     |           | Practicum               |           |
-| 9 - 46     | 6     |           | Reserve les             |           |
-| 9      | 7     | 5         | Seksualiteit            |           |
-| 9      | 8     | 6         | Veilige seks            |           |
-| 10  - 47     | 9     | 7         | Erfelijkheidsonderzoek  |           |
-| 10     | 10    | 8         | Samenhang               |           |
-| 10     | 11    |           | Practicum               |           |
-| 11 - 48     | 12    |           | Reserve les             |           |
-| 11     | 13    |           | Examenopgaven           |           |
-| 11     | 14    | T         | Toets                   |           |
-| 12 - 49    | 15    |           | Evaluatie               |           |
-| 12     | 16    |           | Reserve les             |           |
 
 ## Thema 3 Erfelijkheid en evolutie
 
