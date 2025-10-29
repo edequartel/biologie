@@ -13,13 +13,16 @@
 ## Links
 
 * [Biologie Voor Jou - Malmberg](https://www.inloggenvo.malmberg.nl)
+* [LessonUp](https://www.lessonup.com/site/nl)
 * [SOMtoday](https://www.somtoday.nl)
 * [NPOPlus](https://www.npoplus.nl)
 * [Biologie met Joost](https://biologiemetjoost.nl)
 * [BioBits](https://schooltv.nl/programma/bio-bits/afleveringen)
-	* [bs4 organnelen](https://www.youtube.com/watch?v=s6GFHnLS5Ro) 
 
-<!-- mb ede@b.nl fystop-myPzoc-befti9 -->
+	<!--* [bs4 organnelen](https://www.youtube.com/watch?v=s6GFHnLS5Ro) -->
+
+<!-- mb ede@b.nl inloggen bartimeus account -->
+<!-- lessonup Zeemeeuw2015! -->
 
 ## Werkwijze
 1. **Terugkijken en nakijken**:
