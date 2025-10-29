@@ -5,7 +5,8 @@
 | Lesnr | Onderdeel | Beschrijving              | Huiswerk | Opgegeven op datum |
 |-------|------------|---------------------------|------------|--------------------|
 | 1     |            | Oriëntatie                | 16okt      | pp 90 o1,2,3,4     |
-| 2     | 1          | Ongeslachtelijke voortplanting |         |                    |
+| 2     | 1          | Ongeslachtelijke voortplanting | 29okt  | pp 101 o14, 15, 16, 17 |
+| 2     | 1          | Ongeslachtelijke voortplanting | 30okt  | pp 101 o19, 20, 21, 22 |
 | 3     | 2          | Geslachtelijke voortplanting |           |                    |
 | 4     | 3          | Hormonen                  |            |                    |
 | 4     | 4          | Zwanger                   |            |                    |

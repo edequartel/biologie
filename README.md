@@ -13,7 +13,7 @@
 ## Links
 
 * [Biologie Voor Jou - Malmberg](https://www.inloggenvo.malmberg.nl)
-* [LessonUp](https://www.lessonup.com/site/nl)
+<!-- * [LessonUp](https://www.lessonup.com/site/nl) -->
 * [SOMtoday](https://www.somtoday.nl)
 * [NPOPlus](https://www.npoplus.nl)
 * [Biologie met Joost](https://biologiemetjoost.nl)
