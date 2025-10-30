@@ -37,20 +37,24 @@
 
 4. **Huiswerk**:
    - Wat niet in de les af is, wordt als huiswerk opgegeven.
-   - Huiswerk is te vinden in Somtoday.
+   - Kijk je gemaakte werk na met het antwoordenboek. Deze staat op de website.
+   - Huiswerk is te vinden in de lesplanning en Somtoday.
 
 5. **Overhoring** (mondelinge toets):
    - Je krijgt een cijfer voor de mondelinge toets. Dit cijfer telt één keer mee,
 
+6. **Toetsvragen** 
+	- Wanneer je een extra cijfer wil kun je antwoorden met de vragen via een mai sturen, deze worden dan direct nagekeken.
+
 6. **Tussentijdse toets**
-   - na drie of vier basisstoffen kan er een toets komen. Die telt drie keer meer,
+   - Na drie of vier basisstoffen kan er een toets komen. Die telt drie keer meer,
  
 6. **Toets**
    - Einde van thema een **toets** die zes keer meetelt.
 
 
 ## Toets
-Voor de toets leer je de samenvatting van het thema. Deze **samenvatting** staat achterin het hoofdstuk. De samenvatting verwijst naar onderwerpen en begrippen die in basisstoffen zijn behandeld.
+Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatting** staat achterin het basisstof/thema. De samenvatting verwijst naar onderwerpen en begrippen die in basisstoffen zijn behandeld.
 
 ## Open lessen
 * [Extra lessen](openlessen/openlessen.md)

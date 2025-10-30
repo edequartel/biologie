@@ -7,7 +7,7 @@
 | 1     |            | Introductie                   | 16okt                    | 1,2,3,4,5,6 |
 | 2     | 1a          | Geslachtsorganen              | 28okt                    | 1,2,3,4          |
 | 2     | 1b          | Geslachtsorganen              | 28okt                    | 5,6,7,8        |
-| 3     | 2          | Veranderingen in de puberteit |                          |           |
+| 3     | 2          | Veranderingen in de puberteit | 30okt                     | 1,2,3,4,6  |
 | 4     | 3          | Vruchtbaar worden             |                          |           |
 | 5     | 4          | Zwanger worden                |                          |           |
 | 6     |            | Practicum                     |                          |           |
