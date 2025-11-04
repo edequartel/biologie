@@ -2,13 +2,14 @@
 
 ## Thema 2 – Voortplanting en seksualiteit
 
-| Lesnr | Onderdeel | Beschrijving                  |  Datum | Huiswerk |
-|-------|------------|-------------------------------|--------------------------|-----------|
+| Lesnr | Onderdeel | Beschrijving                  |  Datum | BBL | KBL |
+|-------|------------|-------------------------------|--------------------------|-----------|---|
 | 1     |            | Introductie                   | 16okt                    | 1,2,3,4,5,6 |
 | 2     | 1a          | Geslachtsorganen              | 28okt                    | 1,2,3,4          |
 | 2     | 1b          | Geslachtsorganen              | 28okt                    | 5,6,7,8        |
 | 3     | 2          | Veranderingen in de puberteit | 30okt                     | 1,2,3,4,6  |
-| 4     | 3          | Vruchtbaar worden             |                          |           |
+| 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 4: 1,2,3,4,5,6,7,8,9 |
+| 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 3: 1,2,3,4,6,7,8 |
 | 5     | 4          | Zwanger worden                |                          |           |
 | 6     |            | Practicum                     |                          |           |
 | 7     |            | Reserve les                   |                          |           |
