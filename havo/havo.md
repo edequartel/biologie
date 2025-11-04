@@ -8,6 +8,7 @@
 ### Thema 2: Voortplanting en seksualiteit
 - [Basisstof 1, Ongeslachtelijke voortplanting](lessen/t2b1.md)
 - [Basisstof 2, Geslachtelijke voortplanting](lessen/t2b2.md)
+	- [celcyclus](remarks/celcyclus.md)
 - [Basisstof 3, Hormonen](lessen/t2b3.md)
 - [Basisstof 4, Zwanger](lessen/t2b4.md)
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
