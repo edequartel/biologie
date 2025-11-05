@@ -10,6 +10,7 @@
 - [Basisstof 2, Geslachtelijke voortplanting](lessen/t2b2.md)
 	- [celcyclus](remarks/celcyclus.md)
 	- [mitose](remarks/mitose.md)
+	- [biologie met joost - mitose](https://www.youtube.com/watch?v=sUVnjbe6AtA&t=7s) 
 	- [biologie met joost - geslachtelijke voortplanting](https://www.youtube.com/watch?v=4a_pS308jgA&list=PLr1tx9agautG50WDjGRsX7YZr-nIIloQg&index=2)
 - [Basisstof 3, Hormonen](lessen/t2b3.md)
 - [Basisstof 4, Zwanger](lessen/t2b4.md)
