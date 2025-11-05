@@ -15,7 +15,7 @@
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
 - [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
 
-### Boek (Speciaal voor Stijn)
+### Boek
 
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
 
@@ -24,15 +24,11 @@
 - [Basisstof 1 - Geslachtsorganen](boeken/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](boeken/t2b2.md)
 - [Basisstof 3 - Vruchtbaar worden](boeken/t2b3.md)
-
-<!--
 - [Basisstof 4 - Zwanger worden](boeken/t2b4.md)
 - [Basisstof 5 - Geboorte](boeken/t2b5.md)
 - [Basisstof 6 - Seksualiteit](boeken/t2b6.md)
 - [Basisstof 7 - Veilige seks](boeken/t2b7.md)
 - [Basisstof 8 - Erfelijkheidsonderzoek](boeken/t2b8.md)
--->
-
 
 ## Begrippen
 
