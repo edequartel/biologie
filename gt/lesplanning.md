@@ -10,8 +10,8 @@
 | 2     | 1b          | Geslachtsorganen        | 29okt     | 5,6,7,8 |
 | 3     | 2          | Veranderingen puberteit | 30okt      | 1,2,3,4,5,6,7,8 |
 | 4     | 3          | Vruchtbaar worden       | 5nov | 1,2,3,4,5,6,7,8,9 I&D:1-11 D,T,S toetsvragen |
-| 4     | 4          | Zwanger worden          |           |
-| 5     |            | Practicum               |           |
+| 4     | 4          | Zwanger worden          | 6nov | 1,3,4 |
+| 5     |            | Practicum/Video         |           |
 | 6     |            | Reserve les             |           |
 | 7     | 5          | Seksualiteit            |           |
 | 8     | 6          | Veilige seks            |           |
