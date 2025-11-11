@@ -56,7 +56,7 @@
 2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
 
-<!--
+## Muhammed A
 
 ### Thema 1 Organismen en cellen
 
@@ -66,9 +66,13 @@
 - [Basisstof 4 - Chromosomen](lessen/t1b4.md)
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
+
+<!--
+
 - [Toets](toetsen/thema1aangepast.md)
 - [Toets](toetsen/thema1antwoorden.pdf)
 - [Toets](toetsen/thema1antwoorden.md)
+
 
 ### Boek
 
@@ -81,6 +85,8 @@
 * [basisstof 6 - Reductiedeling (meiose)](boeken/t1b6.md)
 * [Samenhang](boeken/t1samenhang.md)
 * [Examen opgaven](boeken/t1examenopgaven.md)
+
+
 
 ## Begrippen
 

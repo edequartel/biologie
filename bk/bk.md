@@ -36,7 +36,7 @@
 ## Boek
 
 * [Thema 1 Organen en cellen](boeken/3at1.pdf)
-* [Thema 2 Seksualiteit en voortplanting a](boeken/3at2a.pdf)
+* [Thema 2 Seksualiteit en voortplanting](boeken/3at2.pdf)
 
 ## Begrippen
 

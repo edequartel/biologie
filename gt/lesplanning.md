@@ -25,6 +25,25 @@
 | 16    |            | Reserve les             |           |
 
 
+## Thema 1 Muhammed A.
+
+
+| Lesnr | Onderdeel | Beschrijving                | Huiswerk | Opgegeven op datum |
+|-------|-----------|-----------------------------|-----------|--------------------|
+| 1     |           | Introductie                 |           |                    |
+| 2     | 1         | Organismen                  |           |                    |
+| 3     | 2         | De bouw van een organisme   |           |                    |
+| 4     | 3         | Cellen van dieren en planten|           |                    |
+| 5     | 4         | Chromosomen                 |           |                    |
+| 6     | 5         | Gewone celdeling            |           |                    |
+| 7     | 6         | Reductiedeling              |           |                    |
+|       | extra     | [NOS - reductiedeling](https://nos.nl/nieuwsuur/artikel/2584830-doorbraak-in-embryo-onderzoek-werkende-eicel-gemaakt-uit-huidcel) |           |                    |
+|       | extra     | [Wat is DNA en wat kun je er mee doen?](https://npokennis.nl/longread/7712/wat-is-dna-en-wat-kun-je-ermee-doen) |           |                    |
+| 8    | 7         | Samenhang                   |           |                    |
+| 9    |           | Examenopgaven               |           |                    |
+| 10    | T         | Toets                       |           |                    |
+| 11    |           | Evaluatie                   |           |                    |
+
 <!--
 ## Thema 1 Organen en cellen
 
