@@ -12,6 +12,7 @@
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
 - [Basisstof 3 - Vruchtbaar worden](lessen/t2b3.md)
 - [Basisstof 4 - Zwanger worden](lessen/t2b4.md)
+	- [video Zwanger worden bio-bits](https://schooltv.nl/video-item/bio-bits-onderbouw-mens-en-lichaam-afl8-voortplanting) 
 - [Basisstof 5 - Geboorte](lessen/t2b5.md)
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
