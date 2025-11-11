@@ -1,5 +1,7 @@
 # Biologie - GT
 
+* [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
+
 ## Thema 2 Voortplanting en seksualteit
 
 * [Lesplanning](lesplanning.md)
@@ -31,8 +33,6 @@
 - [Basisstof 8 - Erfelijkheidsonderzoek](boeken/t2b8.md)
 
 ## Begrippen
-
-* [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 
 ### docx
 
