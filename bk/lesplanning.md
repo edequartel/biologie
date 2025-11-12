@@ -10,7 +10,7 @@
 | 3     | 2          | Veranderingen in de puberteit | 30okt                     | 1,2,3,4,6  |
 | 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 4: 1,2,3,4,5,6,7,8,9 |
 | 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 3: 1,2,3,4,6,7,8 |
-| 5     | 4          | Zwanger worden                | 11nov | wo 1,2,3,4 - do 8,9,10,11,12 | wo 1,2,3,4 - do 6,7,9|
+| 5     | 4          | Zwanger worden                | 11nov | BBL 1,3,4,5 | KBL 1,2,3,4,5 |
 | 6     |            | Practicum                     |                          |           |
 | 7     |            | Reserve les                   |                          |           |
 | 8     | 5          | Geboorte                      |                          |           |
