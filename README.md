@@ -59,6 +59,12 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 
 * [beoordeling formatief](lesplanning/rubric.md)
 
+## Video
+
+### Thema 2 Voortplanting en ontwikkeling
+
+- [Voorplanting NPO afspeellijst](https://schooltv.nl/video-item/clipphanger-wat-doen-hormonen-met-je/biologie-examen-van-generatie-op-generatie-vmbo-examenvideos-bij-biologie-over-voortplanting-en-seksualiteit)
+- [Lets talk about sex](https://schooltv.nl/item/lets-talk-about-sex-baby)
 
 
 ## Open lessen
