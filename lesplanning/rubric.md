@@ -28,3 +28,5 @@ Gebruik de rubric bij **practica, projecten of thema-opdrachten** om kennis, inz
 - Laat leerlingen **zelfreflectie** doen met dezelfde rubric.  
 - Gebruik het document als onderdeel van een **portfolio of rapportbespreking**.  
 - Combineer met observatieformulieren tijdens practicumlessen.
+
+[achtergrond rubric](achtergond_rubric.md)
