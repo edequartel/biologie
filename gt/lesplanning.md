@@ -15,6 +15,7 @@
 | 6     |            | Practicum/Video         |           |
 | 7     | 6          | Seksualiteit            | 11nov  | 1,2,3,6,7,8 | T: 10 vragen I&D: 1,2,4,6 |
 | 8     | 7a          | Veilige seks            | 12nov  | 1,2,3,4 T: 10 vragen, I&D: 1,2,3,4|
+| 8     | 7b          | Veilige seks            | 12nov  | 6,7,9,10 T: 10 vragen, I&D: 6,7,9,10|
 | 9     | 8          | Erfelijkheidsonderzoek  |           |
 | 10    |            | Samenhang               |           |
 | 11    |            | Practicum               |           |

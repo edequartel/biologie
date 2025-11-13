@@ -7,8 +7,9 @@
 | 1     |            | Oriëntatie                | 16okt      | pp 90 o1,2,3,4     |
 | 2     | 1          | Ongeslachtelijke voortplanting | 29okt/4nov  | pp 92 o1,2,3,4,5,6 |
 | -     |            | Mitose               | 6nov | pp 101 15, 16, 17, 19, 20, 21, 22 |
-| 3     | 2          | Geslachtelijke voortplanting |           |                    |
-| 4     | 3          | Hormonen                  |            |                    |
+| 3     | 2          | Geslachtelijke voortplanting | 12nov | 27,28,29 |
+| 4     | 3a         | Hormonen                  | 12nov | 27,28,29 |
+| 4     | 3v         | Hormonen                  | 13nov | 31,32,34 |
 | 4     | 4          | Zwanger                   |            |                    |
 | 5     |            | Practicum                 |            |                    |
 | 6     |            | Reserve les               |            |                    |
