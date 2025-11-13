@@ -57,5 +57,9 @@
 ## Toets
 Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatting** staat achterin het basisstof/thema. De samenvatting verwijst naar onderwerpen en begrippen die in basisstoffen zijn behandeld.
 
+* [beoordeling formatief](lesplanning/rubric.md)
+
+
+
 ## Open lessen
 * [Extra lessen](openlessen/openlessen.md)
