@@ -10,6 +10,7 @@
 | 3     | 2          | Geslachtelijke voortplanting | 12nov | 27,28,29 |
 | 4     | 3a         | Hormonen                  | 12nov | 27,28,29 |
 | 4     | 3v         | Hormonen                  | 13nov | 31,32,34 |
+| 4     |            | Hormonen                  | 18nov | lezen subkopjes hormonen  |
 | 4     | 4          | Zwanger                   |            |                    |
 | 5     |            | Practicum                 |            |                    |
 | 6     |            | Reserve les               |            |                    |
