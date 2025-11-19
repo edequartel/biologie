@@ -12,6 +12,7 @@
 | 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 3: 1,2,3,4,6,7,8 |
 | 5     | 4          | Zwanger worden                | 11nov | BBL 1,3,4,5 | KBL 1,2,3,4,5 |
 | 8     | 5          | Geboorte                      | 13nov | BBL 1,2,3,4,5,6,7 | KBL: 1,2,4,5,6 |
+| 17    |            | **Video: begin van leven**    |                          |           |
 | 9     | 6          | Seksualiteit                  |                          |           |
 | 10    | 7          | Veilige seks                  |                          |           |
 | 11    | 8          | Samenhang                     |                          |           |
@@ -20,7 +21,7 @@
 | 14    |            | Examenopgaven                 |                          |           |
 | 15    | T          | Toets                         |                          |           |
 | 16    |            | Evaluatie                     |                          |           |
-| 17    |            | Reserve les                   |                          |           |
+
 
 
 
