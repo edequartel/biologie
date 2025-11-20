@@ -16,8 +16,9 @@
 	- [Vrouw - Menstruatie cyclus](remarks/menstruatie.md) 
 	- [Man - zaadproductie](remarks/zaadproductie.md)
 	- [Negatieve terugkoppeling](remarks/terugkoppeling.md)
+	- [Herkomst van de woorden](remarks/herkomst.md)
 - [Basisstof 4, Zwanger](lessen/t2b4.md)
-	- [Zwnagerschap hormonen](remarks/zangerschaphormonen.md) 
+	- [Zwangerschap hormonen](remarks/zangerschaphormonen.md) 
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
 
