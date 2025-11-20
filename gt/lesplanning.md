@@ -10,13 +10,15 @@
 | 2     | 1b          | Geslachtsorganen        | 29okt     | 5,6,7,8 |
 | 3     | 2          | Veranderingen puberteit | 30okt      | 1,2,3,4,5,6,7,8 |
 | 4     | 3          | Vruchtbaar worden       | 5nov | 1,2,3,4,5,6,7,8,9 I&D:1-11 D,T,S toetsvragen |
-| 4     | 4          | Zwanger worden          | 6nov | 1,3,4, 6,7,8,9 |  |
-| 5     | 5          | Geboorte                | 7nov | 1,2,3,4 |  I&D: 14 vragen |
-| 6     |            | Practicum/Video         |           |
-| 7     | 6          | Seksualiteit            | 11nov  | 1,2,3,6,7,8 | T: 10 vragen I&D: 1,2,4,6 |
-| 8     | 7a          | Veilige seks            | 12nov  | 1,2,3,4 T: 10 vragen, I&D: 1,2,3,4|
-| 8     | 7b          | Veilige seks            | 12nov  | 6,7,9,10 T: 10 vragen, I&D: 6,7,9,10|
-| 9     | 8          | Erfelijkheidsonderzoek  |           |
+| 5    | 4          | Zwanger worden          | 6nov | 1,3,4, 6,7,8,9 |  |
+| 6     | 5          | Geboorte                | 7nov | 1,2,3,4 |  I&D: 14 vragen |
+| 7     |            | Practicum/Video         |           |
+| 8     | 6          | Seksualiteit            | 11nov  | 1,2,3,6,7,8 | T: 10 vragen I&D: 1,2,4,6 |
+| 9     | 7a          | Veilige seks            | 12nov  | 1,2,3,4 T: 10 vragen, I&D: 1,2,3,4|
+| 10     | 7b          | Veilige seks            | 12nov  | 6,7,9,10 T: 10 vragen, I&D: 6,7,9,10|
+| 11    |            | **Video 1van2 het wonder van leven**  |           |
+| 12    |            | **Video 2van2 het wonder van leven**  | 20nov geen huiswerk |
+| 13    | 8          | Erfelijkheidsonderzoek  |           |
 | 10    |            | Samenhang               |           |
 | 11    |            | Practicum               |           |
 | 12    |            | Reserve les             |           |
