@@ -9,10 +9,11 @@
 | 2     | 1b          | Geslachtsorganen              | 28okt                    | 5,6,7,8        |
 | 3     | 2          | Veranderingen in de puberteit | 30okt                     | 1,2,3,4,6  |
 | 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 4: 1,2,3,4,5,6,7,8,9 |
-| 4     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 3: 1,2,3,4,6,7,8 |
-| 5     | 4          | Zwanger worden                | 11nov | BBL 1,3,4,5 | KBL 1,2,3,4,5 |
-| 8     | 5          | Geboorte                      | 13nov | BBL 1,2,3,4,5,6,7 | KBL: 1,2,4,5,6 |
-| 17    |            | **Video: begin van leven**    |                          |           |
+| 5     | 3          | Vruchtbaar worden             | 4nov | wo 2,4,5,6 - do 7,8,9,10,11,12 | 3: 1,2,3,4,6,7,8 |
+| 6     | 4          | Zwanger worden                | 11nov | BBL 1,3,4,5 | KBL 1,2,3,4,5 |
+| 7     | 5          | Geboorte                      | 13nov | BBL 1,2,3,4,5,6,7 | KBL: 1,2,4,5,6 |
+| 8     |            | **Video 1/2: begin van leven**    |                          |           |
+| 9     |            | **Video 2/2: begin van leven** | 20nov | BBL 1,2,3,4,5,6,7,8 | KBL |
 | 9     | 6          | Seksualiteit                  |                          |           |
 | 10    | 7          | Veilige seks                  |                          |           |
 | 11    | 8          | Samenhang                     |                          |           |
