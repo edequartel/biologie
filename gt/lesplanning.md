@@ -17,7 +17,7 @@
 | 9     | 7a          | Veilige seks            | 12nov  | 1,2,3,4 T: 10 vragen, I&D: 1,2,3,4|
 | 10     | 7b          | Veilige seks            | 12nov  | 6,7,9,10 T: 10 vragen, I&D: 6,7,9,10|
 | 11    |            | **Video 1van2 het wonder van leven**  |           |
-| 12    |            | **Video 2van2 het wonder van leven**  | 20nov geen huiswerk |
+| 12    |            | **Video 2van2 het wonder van leven**  | 20nov lezen basisstof 8 pp139 |
 | 13    | 8          | Erfelijkheidsonderzoek  |           |
 | 10    |            | Samenhang               |           |
 | 11    |            | Practicum               |           |
