@@ -12,9 +12,7 @@
 | 4     | 3v         | Hormonen                  | 13nov | 31,32,34 |
 | 4     |            | Hormonen                  | 18nov | lezen subkopjes hormonen  |
 | 4     | 4          | Zwanger                   | 20nov | pp 122  38,39,40,41,42,43,44 |
-| 5     |            | Practicum                 |            |                    |
-| 6     |            | Reserve les               |            |                    |
-| 7     | 5          | Seksualiteit              |            |                    |
+| 7     | 5          | Seksualiteit              | 25nov | pp131 -  47,48,49,50,51,52  |
 | 8     | 6          | Soa’s en geboorteregeling |            |                    |
 | 9     | 7          | Samenhang                 |            |                    |
 | 10    |            | Practicum                 |            |                    |
