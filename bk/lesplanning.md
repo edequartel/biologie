@@ -14,7 +14,7 @@
 | 7     | 5          | Geboorte                      | 13nov | BBL 1,2,3,4,5,6,7 | KBL: 1,2,4,5,6 |
 | 8     |            | **Video 1/2: begin van leven**    |                          |           |
 | 9     |            | **Video 2/2: begin van leven** | 20nov | BBL 1,2,3,4,5,6,7,8 | KBL |
-| 9     | 6          | Seksualiteit                  |                          |           |
+| 9     | 6          | Seksualiteit                  | 25nov | BL: maken 1,2,3,4,6,7 | KBL: maken 1,2,3,4,6,7 |
 | 10    | 7          | Veilige seks                  |                          |           |
 | 11    | 8          | Samenhang                     |                          |           |
 | 12    |            | Practicum                     |                          |           |
