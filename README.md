@@ -1,5 +1,9 @@
 # Biologie voor Bartiméus
 
+## Nieuw spotify podcast
+
+* [Tast en Braille - Podcast](https://open.spotify.com/show/52KkEwaUY51roGIjHxGXX0?si=f9974fb8111644ed)
+
 ## Niveau
 
 * [Havo](havo/havo.md)
