@@ -2,7 +2,7 @@
 
 ## Nieuw spotify podcast
 
-* [Tast en Braille - Podcast](https://open.spotify.com/show/52KkEwaUY51roGIjHxGXX0?si=f9974fb8111644ed)
+* [Brain  Bananas - Podcast](https://open.spotify.com/episode/56RNs9FcfgGh6vwF6KA3UN?si=sUZYjrFxRYKqHMdqGX6gHQ)
 
 ## Niveau
 
