@@ -4,6 +4,8 @@
 
 ## Lessen
 
+* [Brain Bananas - Podcast](https://open.spotify.com/show/5JUFSxufmPADG79MFqtGA0?si=oDJatBhoSkeUzfOc-xjrfQ)
+
 
 ### Thema 2: Voortplanting en seksualiteit
 - [Basisstof 1, Ongeslachtelijke voortplanting](lessen/t2b1.md)

@@ -4,9 +4,11 @@
 * [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 -->
 
+
 ## Thema 2 Voortplanting en seksualteit
 
 * [Lesplanning](lesplanning.md)
+* [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
 
 ## Lessen
 
