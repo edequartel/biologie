@@ -1,12 +1,5 @@
 # Biologie voor Bartiméus
 
-## Nieuw spotify podcast Brain Bananas
-
-* [Brain  Bananas GT - Podcast](https://open.spotify.com/episode/56RNs9FcfgGh6vwF6KA3UN?si=sUZYjrFxRYKqHMdqGX6gHQ)
-* [Brain Bananas H - Podcast](https://open.spotify.com/show/5JUFSxufmPADG79MFqtGA0?si=oDJatBhoSkeUzfOc-xjrfQ)
-* [Brain Bananas BK - Podcast](https://open.spotify.com/show/5aIMRtoGlQsQqGxFuT2yIM?si=dUVoC3MySlO-cy__5nhGkw)
-
-
 ## Niveau
 
 * [Havo](havo/havo.md)
