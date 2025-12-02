@@ -20,7 +20,7 @@
 | 12    |            | **Video 2van2 het wonder van leven**  | 20nov lezen basisstof 8 pp139 |
 | 13    | 8          | Erfelijkheidsonderzoek  | 26nov | maken 1,2,3 |
 | 10    |            | Voorbereiding Toets     | 27nov | luister de podcast, leren en vragen opschrijven |
-| 14    | T          | Toets                   |           |
+| 14    | T          | Toets                   | 2dec  | leren samenvatting p154-164 bovenaan |
 | 15    |            | Evaluatie               |           |
 | 16    |            | Reserve les             |           |
 

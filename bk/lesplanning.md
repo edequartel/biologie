@@ -15,8 +15,8 @@
 | 8     |            | **Video 1/2: begin van leven**    |                          |           |
 | 9     |            | **Video 2/2: begin van leven** | 20nov | BBL 1,2,3,4,5,6,7,8 | KBL |
 | 9     | 6          | Seksualiteit                  | 25nov | BL: maken 1,2,3,4,6,7 | KBL: maken 1,2,3,4,6,7 |
-| 10    | 7          | Veilige seks                  | 26nov |         |           
-| 10    |            | Voorbereiding Toets           | 27nov | luister de podcast, leren en vragen opschrijven |
+| 10    | 7          | Veilige seks                  | 2dec | BL: 1,2,3,4,5 | KBL: 1,2,3,4,5, BS8: 1,2,3,4 |           
+| 10    |            | Voorbereiding Toets           | 3dec | luister de podcast, leren en vragen opschrijven |
 | 15    | T          | Toets                         |                          |           |
 | 16    |            | Evaluatie                     |                          |           |
 
