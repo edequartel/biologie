@@ -15,6 +15,7 @@
 - [Basisstof 5 - Geboorte](lessen/t2b5.md)
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
+- [Samenvatting Thema 2](samenvattingen/BVJ_3vmbo-B_LWB_A_T2_samenvatting.pdf)
 
 <!--
 #### Thema 1 Organen en cellen
