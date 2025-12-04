@@ -10,11 +10,8 @@
 ## Thema 2 Voortplanting en seksualteit
 
 * [Toets](toetsen/GT_T2_TOETS.docx)
-
-<!--
 * [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
 * [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
--->
 
 
 ## Lessen

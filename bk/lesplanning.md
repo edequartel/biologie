@@ -17,7 +17,7 @@
 | 9     | 6          | Seksualiteit                  | 25nov | BL: maken 1,2,3,4,6,7 | KBL: maken 1,2,3,4,6,7 |
 | 10    | 7          | Veilige seks                  | 2dec | BL: 1,2,3,4,5 | KBL: 1,2,3,4,5, BS8: 1,2,3,4 |           
 | 10    |            | Voorbereiding Toets           | 3dec | luister de podcast, leren en vragen opschrijven |
-| 15    | T          | Toets                         |                          |           |
+| 15    | T          | Toets                         | 4dec | leer de samenvatting, en de samengevat Brain Bananas |
 | 16    |            | Evaluatie                     |                          |           |
 
 
