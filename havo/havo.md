@@ -23,6 +23,7 @@
 	- [Zwangerschap hormonen](remarks/zangerschaphormonen.md) 
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
+- [Proef toets](samenvattingen/t1proeftoets.md)
 
 
 <!--
