@@ -69,3 +69,7 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 
 ## Open lessen
 * [Extra lessen](openlessen/openlessen.md)
+
+## Papier
+* [lijntjespapier PDF](media/lijntjespapier.pdf)
+* [lijntjespapier DOCX](media/lijntjespapier.docx)

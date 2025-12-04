@@ -3,12 +3,19 @@
 <!--
 * [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 -->
+* [Lesplanning](lesplanning.md)
+* [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
 
 
 ## Thema 2 Voortplanting en seksualteit
 
-* [Lesplanning](lesplanning.md)
-* [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
+* [Toets](toetsen/GT_T2_TOETS.docx)
+
+<!--
+* [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
+* [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
+-->
+
 
 ## Lessen
 
@@ -21,6 +28,7 @@
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
 - [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
+
 
 ### Boek
 
