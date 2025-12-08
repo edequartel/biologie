@@ -7,6 +7,28 @@
 ## Lessen
 
 #### Thema 2 Voortplanting en seksualteit
+- [Basisstof 1 - Organismen ordenen](lessen/t3b1.md)
+- [Basisstof 2 - Bacteriën en schimmels](lessen/t3b2.md)
+- [Basisstof 3 - Planten](lessen/t3b3.md)
+- [Basisstof 4 - Dieren](lessen/t3b4.md)
+- [Basisstof 5 - Geleedpotigen en gewervelden](lessen/t3b5.md)
+- [Basisstof 6 - Organismen determineren](lessen/t3b6.md)
+- [Samenvatting Thema 3](samenvattingen/BVJ_3vmbo-B_LWB_A_T3_samenvatting.pdf) 
+
+
+<!--
+#### Toets
+- [Toets BBL](toetsen/8_1_Bvj_3B_eindtoetsA_T2_basis.pdf)
+- [Toets KBL](toetsen/Bvj_3K_eindtoetsA_T2_basis.pdf)
+
+
+- [Toets BBL Antwoorden](toetsen/8_1_Bvj_3B_eindtoetsA_T2_antwoorden.pdf)
+- [Toets KBL Antwoorden](toetsen/Bvj_3K_eindtoetsA_T2_antwoorden.pdf)
+-->
+
+<!--
+
+#### Thema 2 Voortplanting en seksualteit
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
@@ -17,7 +39,7 @@
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
 - [Samenvatting Thema 2](samenvattingen/BVJ_3vmbo-B_LWB_A_T2_samenvatting.pdf)
 
-<!--
+
 #### Thema 1 Organen en cellen
 
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
@@ -39,23 +61,28 @@
 
 * [Thema 1 Organen en cellen](boeken/3at1.pdf)
 * [Thema 2 Seksualiteit en voortplanting](boeken/3at2.pdf)
+* [Thema 3 Ordening](boeken/3at3.pdf)
 
 ## Begrippen
 
 * [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.pdf)
 * [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
+* [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
 
 ## Antwoorden B
 
 1. [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
+3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
 
 ## Antwoorden K
 
 1. [Antwoordenboek K - 3a](antwoordenk/Bvj_3K_UWB_A.pdf)
 1. [Antwoordenboek K - 3b](antwoordenk/Bvj_3K_UWB_B.pdf)
 
-Losse delen
+
+### Losse delen
 
 1. [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
+3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
