@@ -23,9 +23,20 @@
 	- [Zwangerschap hormonen](remarks/zangerschaphormonen.md) 
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
-- [Proef toets](samenvattingen/t1proeftoets.md)
+
+<!--
+- [Toets toets](samenvattingen/t2toets.md)
 
 
+### Thema3: Genetica / Erfelijkheid
+- [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)
+- [Basisstof 2, Genenparen](lessen/t3b1.md)
+- [Basisstof 3, Monohybride kruisingen](lessen/t3b1.md)
+- [Basisstof 4, Geslachtshormonen](lessen/t3b1.md)
+- [Basisstof 5, Speciale manieren van overerven](lessen/t3b1.md)
+- [Basisstof 6, Opvoeding of aanleg](lessen/t3b1.md)
+
+-->
 <!--
 ### Thema 1: Inleiding in de biologie
 
@@ -48,6 +59,7 @@
 
 * [Thema 1 Organen en cellen](begrippen/Bvj-4havo-T1-begrippenlijst.docx)
 * [Thema 2 Voortplanting en seksualiteit](begrippen/Bvj-4havo-T2-begrippenlijst.docx)
+* [Thema 3 Genetica / Erfelijkheid](begrippen/Bvj-4havo-T3-begrippenlijst.docx)
 
 ## Antwoorden
 

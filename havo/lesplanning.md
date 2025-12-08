@@ -18,7 +18,7 @@
 | 10    |            | Practicum                 |            |                    |
 | 11    |            | Reserve les               |            |                    |
 | 12    |            | Examenopgaven             |            |                    |
-| 13    | T          | Toets                     |            |                    |
+| 13    | T          | Toets                     | 4dec  | leren thema 2           |
 | 14    |            | Evaluatie                 |            |                    |
 | 15    |            | Reserve les               |            |                    |
 

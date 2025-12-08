@@ -6,6 +6,22 @@
 * [Lesplanning](lesplanning.md)
 * [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
 
+<!--
+## Thema 3 Erfelijkheid en evolutie
+
+## Lessen
+
+- [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
+- [Basisstof 2 – Genen](lessen/t3b2.md)
+- [Basisstof 3 – Kruisingen](lessen/t3b3.md)
+- [Basisstof 4 – Stambomen](lessen/t3b4.md)
+- [Basisstof 5 – Variatie in genotypen](lessen/t3b5.md)
+- [Basisstof 6 – Evolutie](lessen/t3b6.md)
+- [Basisstof 7 – Verwantschap](lessen/t3b7.md)
+- [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
+
+-->
+
 
 ## Thema 2 Voortplanting en seksualteit
 

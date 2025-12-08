@@ -1,5 +1,28 @@
 ## Lesplanning VMBO-GT
 
+## Thema 3 Erfelijkheid en evolutie
+
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|
+|        | 1     |           | Introductie               |           |
+|        | 2     | 1         | Genotype en fenotype      |           |
+|        | 3     | 2         | Genen                     |           |
+|        | 4     | 3         | Kruisingen                |           |
+|        | 4     | 4         | Stambomen                 |           |
+|        | 5     |           | Practicum                 |           |
+|        | 6     |           | Reserve les               |           |
+|        | 7     | 5         | Variatie in genotypen     |           |
+|        | 8     | 6         | Evolutie                  |           |
+|        | 9     | 7         | Verwantschap              |           |
+|        | 10    | 8         | DNA-technieken            |           |
+|        | 11    | 9         | Samenhang                 |           |
+|        | 12    |           | Practicum                 |           |
+|        | 13    |           | Reserve les               |           |
+|        | 14    |           | Examenopgaven             |           |
+|        | 15    | T         | Toets                     |           |
+|        | 16    |           | Evaluatie                 |           |
+|        | 17    |           | Reserve les               |           |
+
 ## Thema 2 Voortplanting en seksualiteit
 
 
@@ -25,26 +48,6 @@
 | 16    |            | Reserve les             |           |
 
 
-## Thema 1 Muhammed A.
-
-
-| Lesnr | Onderdeel | Beschrijving                | Huiswerk | Opgegeven op datum |
-|-------|-----------|-----------------------------|-----------|--------------------|
-| 1     |           | Introductie                 |           |                    |
-| 2     | 1         | Organismen                  |           |                    |
-| 3     | 2         | De bouw van een organisme   |           |                    |
-| 4     | 3         | Cellen van dieren en planten|           |                    |
-| 5     | 4         | Chromosomen                 |           |                    |
-| 6     | 5         | Gewone celdeling            |           |                    |
-| 7     | 6         | Reductiedeling              |           |                    |
-|       | extra     | [NOS - reductiedeling](https://nos.nl/nieuwsuur/artikel/2584830-doorbraak-in-embryo-onderzoek-werkende-eicel-gemaakt-uit-huidcel) |           |                    |
-|       | extra     | [Wat is DNA en wat kun je er mee doen?](https://npokennis.nl/longread/7712/wat-is-dna-en-wat-kun-je-ermee-doen) |           |                    |
-| 8    | 7         | Samenhang                   |           |                    |
-| 9    |           | Examenopgaven               |           |                    |
-| 10    | T         | Toets                       |           |                    |
-| 11    |           | Evaluatie                   |           |                    |
-
-<!--
 ## Thema 1 Organen en cellen
 
 | Lesnr | Onderdeel | Beschrijving                | Huiswerk | Opgegeven op datum|
@@ -65,30 +68,7 @@
 | 12    | T         | Toets                       | 14okt     |  bs1,2,3,4,5,6 van de samenvatting        |
 | 15    |           | Evaluatie                   |           |          |
 
-
-## Thema 3 Erfelijkheid en evolutie
-
-| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
-|--------|-------|-----------|---------------------------|-----------|
-| 13     | 1     |           | Introductie               |           |
-| 13     | 2     | 1         | Genotype en fenotype      |           |
-| 13     | 3     | 2         | Genen                     |           |
-| 14     | 4     | 3         | Kruisingen                |           |
-| 14     | 4     | 4         | Stambomen                 |           |
-| 14     | 5     |           | Practicum                 |           |
-| 15     | 6     |           | Reserve les               |           |
-| 15     | 7     | 5         | Variatie in genotypen     |           |
-| 15     | 8     | 6         | Evolutie                  |           |
-| 16     | 9     | 7         | Verwantschap              |           |
-| 16     | 10    | 8         | DNA-technieken            |           |
-| 16     | 11    | 9         | Samenhang                 |           |
-| 17     | 12    |           | Practicum                 |           |
-| 17     | 13    |           | Reserve les               |           |
-| 17     | 14    |           | Examenopgaven             |           |
-| 18     | 15    | T         | Toets                     |           |
-| 18     | 16    |           | Evaluatie                 |           |
-| 18     | 17    |           | Reserve les               |           |
-
+<!--
 ## Thema 4 Ordening
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                         | Opmerking |
