@@ -25,6 +25,7 @@
 ## Thema 2 Voortplanting en seksualteit
 
 ### Toets
+
 * [Toets](toetsen/GT_T2_TOETS.docx)
 * [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
 * [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
@@ -52,6 +53,7 @@
 ### pdf
 
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
+- [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
 
 ### Basisstoffen
 - [Introductie](boeken/t2intro.md)
