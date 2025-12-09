@@ -168,7 +168,6 @@ Noem één biologisch argument en één ethisch argument tegen het toepassen van
 
 ---
 
-<!--  
 # Antwoordenmodel  
 
 ## Deel 1 – Juist / Onjuist  
@@ -212,4 +211,3 @@ Noem één biologisch argument en één ethisch argument tegen het toepassen van
 9. De pil voorkomt ovulatie door hormonale regulatie; het spiraaltje voorkomt innesteling van een embryo.  
 10. Biologisch: risico op meerlingen, hormonale belasting.  
     Ethisch: onnatuurlijk ingrijpen in voortplanting, religieuze of morele bezwaren.  
--->

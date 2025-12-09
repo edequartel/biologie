@@ -2,9 +2,9 @@
 
 ## Thema 3 Erfelijkheid en evolutie
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving              | Opmerking |
-|--------|-------|-----------|---------------------------|-----------|
-|        | 1     |           | Introductie               |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving              | dd | Opmerking |
+|--------|-------|-----------|---------------------------|-----------|---|
+|        | 1     |           | Introductie               | 9dec | T3 Introductie pp 172 1,2,3,5 maken |
 |        | 2     | 1         | Genotype en fenotype      |           |
 |        | 3     | 2         | Genen                     |           |
 |        | 4     | 3         | Kruisingen                |           |

@@ -25,7 +25,7 @@
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
 
 
-- [Toets toets](samenvattingen/t2toets.md)
+- [Toets HAVO](toetsen/t2toets.md)
 
 <!--s
 
