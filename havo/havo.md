@@ -24,9 +24,10 @@
 - [Basisstof 5, Seksualiteit](lessen/t2b5.md)
 - [Basisstof 6, SOA's en geboorteregeling](lessen/t2b6.md)
 
-<!--
+
 - [Toets toets](samenvattingen/t2toets.md)
 
+<!--s
 
 ### Thema3: Genetica / Erfelijkheid
 - [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)

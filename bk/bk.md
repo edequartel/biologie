@@ -4,9 +4,26 @@
 * [Brain Bananas - Podcast](https://open.spotify.com/show/5aIMRtoGlQsQqGxFuT2yIM?si=dUVoC3MySlO-cy__5nhGkw)
 
 
+
+
+## Thema 2 Voortplanting en seksualteit
+
+
+### Toets B
+
+- [Toets BBL](toetsen/8_1_Bvj_3B_eindtoetsA_T2_basis.pdf)
+
+### Toets K
+
+- [Toets KBL](toetsen/Bvj_3K_eindtoetsA_T2_basis.pdf)
+
+<!--
+- [Toets BBL Antwoorden](toetsen/8_1_Bvj_3B_eindtoetsA_T2_antwoorden.pdf)
+- [Toets KBL Antwoorden](toetsen/Bvj_3K_eindtoetsA_T2_antwoorden.pdf)
+-->
+
 ## Lessen
 
-#### Thema 2 Voortplanting en seksualteit
 - [Basisstof 1 - Organismen ordenen](lessen/t3b1.md)
 - [Basisstof 2 - Bacteriën en schimmels](lessen/t3b2.md)
 - [Basisstof 3 - Planten](lessen/t3b3.md)
@@ -15,16 +32,6 @@
 - [Basisstof 6 - Organismen determineren](lessen/t3b6.md)
 - [Samenvatting Thema 3](samenvattingen/BVJ_3vmbo-B_LWB_A_T3_samenvatting.pdf) 
 
-
-<!--
-#### Toets
-- [Toets BBL](toetsen/8_1_Bvj_3B_eindtoetsA_T2_basis.pdf)
-- [Toets KBL](toetsen/Bvj_3K_eindtoetsA_T2_basis.pdf)
-
-
-- [Toets BBL Antwoorden](toetsen/8_1_Bvj_3B_eindtoetsA_T2_antwoorden.pdf)
-- [Toets KBL Antwoorden](toetsen/Bvj_3K_eindtoetsA_T2_antwoorden.pdf)
--->
 
 <!--
 

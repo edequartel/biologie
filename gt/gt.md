@@ -6,7 +6,7 @@
 * [Lesplanning](lesplanning.md)
 * [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
 
-<!--
+
 ## Thema 3 Erfelijkheid en evolutie
 
 ## Lessen
@@ -20,11 +20,11 @@
 - [Basisstof 7 – Verwantschap](lessen/t3b7.md)
 - [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
 
--->
 
 
 ## Thema 2 Voortplanting en seksualteit
 
+### Toets
 * [Toets](toetsen/GT_T2_TOETS.docx)
 * [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
 * [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
