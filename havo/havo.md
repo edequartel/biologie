@@ -68,9 +68,11 @@
 
 1. [Thema 1 Organen en cellen](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.docx)
 1. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.docx)
+2. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t3.docx)
 
 ### pdf
 
 2. [Thema 1 Organen en cellen](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.pdf)
+3. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.pdf)
 
