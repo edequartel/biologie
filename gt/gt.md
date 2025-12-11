@@ -9,7 +9,7 @@
 
 ## Thema 3 Erfelijkheid en evolutie
 
-## Lessen
+### Lessen
 
 - [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
 - [Basisstof 2 – Genen](lessen/t3b2.md)
@@ -31,7 +31,7 @@
 * [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
 
 
-## Lessen
+### Lessen
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
@@ -44,16 +44,34 @@
 - [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
 
 
+## Thema 1 Organismen en cellen
+
+### Lessen
+
+- [Basisstof 1 - Organismen](lessen/t1b1.md)
+- [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
+- [Basisstof 3 - Cellen van dieren en planten](lessen/t1b3.md)
+- [Basisstof 4 - Chromosomen](lessen/t1b4.md)
+- [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
+- [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
+
+
+## Materiaal
+
 ### Boek
 
+<!--
 ### docx
 
 - [VMBO GT 3a Leerwerkboek](boeken/BVJ_gt_A_Leerwerkboek.docx)
+-->
+
 
 ### pdf
 
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
 - [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
+
 
 ### Basisstoffen
 - [Introductie](boeken/t2intro.md)
@@ -72,73 +90,39 @@
 
 * [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.docx)
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.docx)
+* [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.docx)
 
 
 ### pdf
 
-* [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.pdf)
+* [Thema 1 Organen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.pdf)
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.pdf)
+* [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.pdf)
 
 
 ## Antwoorden
 
 ### docx
 
-2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.docx)
+2. [Thema 1 Organen en cellen](antwoorden/BVJ_3GT_UWB_T1.docx)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.docx)
+2. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.docx)
 
 ### pdf
 
 2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
+3. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.pdf)
 
 
 
-## Muhammed A
 
-### Thema 1 Organismen en cellen
-
-- [Basisstof 1 - Organismen](lessen/t1b1.md)
-- [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
-- [Basisstof 3 - Cellen van dieren en planten](lessen/t1b3.md)
-- [Basisstof 4 - Chromosomen](lessen/t1b4.md)
-- [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
-- [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
-
-<!--
-
-- [Toets](toetsen/thema1aangepast.md)
-- [Toets](toetsen/thema1antwoorden.pdf)
-- [Toets](toetsen/thema1antwoorden.md)
-
-### Boek
-
-* [Thema 1 - Organen en cellen](boeken/3GTbvj_thema_1.pdf)
-* [basisstof 1 - organismen](boeken/t1b1.md)
-* [basisstof 2 - De bouw van een organisme](boeken/t1b2.md)
-* [basisstof 3 - Cellen van dieren en planten](boeken/t1b3.md)
-* [basisstof 4 - Chromosomen](boeken/t1b4.md)
-* [basisstof 5 - Gewone celdeling (mitose)](boeken/t1b5.md)
-* [basisstof 6 - Reductiedeling (meiose)](boeken/t1b6.md)
-* [Samenhang](boeken/t1samenhang.md)
-* [Examen opgaven](boeken/t1examenopgaven.md)
-
-
-
-## Begrippen
+## Samenvattingen
 
 * [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
-* [Online - Thema 1 Organen en cellen](samenvattingen/3gtt1samenvatting.md)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
+* [Thema 3 Erfelijkheid en evolutie](samenvattingen/T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
 
-## Antwoorden
-
-#### docx
-
-1. [Thema 1 Organen en cellen](antwoorden/BVJ_3GT_UWB_T1.docx)
-
-### pdf
-
-2. [Thema 1 Organen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
 
 <!--
 
