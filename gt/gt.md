@@ -116,13 +116,11 @@
 
 
 
-
 ## Samenvattingen
 
-* [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
-* [Thema 3 Erfelijkheid en evolutie](samenvattingen/T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
-
+* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmboB_LWB_A_T1_samenvatting.pdf)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/BVJ_3vmboB_LWB_A_T2_samenvatting.pdf)
+* [Thema 3 Erfelijkheid en evolutie](samenvattingen/BVJ_3vmboB_LWB_A_T3_samenvatting.pdf)
 
 <!--
 

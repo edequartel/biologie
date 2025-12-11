@@ -7,7 +7,6 @@
 
 ## Thema 3 Ordening
 
-<!--
 ### Toets B
 
 - [Toets BBL](toetsen/8_1_Bvj_3B_eindtoetsA_T2_basis.pdf)
@@ -31,8 +30,6 @@
 - [Basisstof 6 - Organismen determineren](lessen/t3b6.md)
 - [Samenvatting Thema 3](samenvattingen/BVJ_3vmbo-B_LWB_A_T3_samenvatting.pdf) 
 
-
-<!--
 
 #### Thema 2 Voortplanting en seksualteit
 
@@ -58,6 +55,7 @@
 - [Toets antwoorden](toetsen/3at1antwoorden.pdf) 
 
 
+<!--
 
 * [Biologie Voor Jou VMBO B 3a](boek/p001-286_BVJ_8_0_-_MAX_-_3_vmbo-b_A_Leerwerkboek.pdf)
 * [Biologie Voor Jou VMBO B 3b](p001-268_BVJ_8_0_-_MAX_-_3_vmbo-b_B_Leerwerkboek.pdf)
@@ -75,20 +73,24 @@
 * [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
 * [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
 
+## Samenvattingen
+
+* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmbo-B_LWB_A_T1_samenvatting.pdf)
+* [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
+* [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
+
 ## Antwoorden B
 
 1. [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
 3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
 
+
 ## Antwoorden K
-
-1. [Antwoordenboek K - 3a](antwoordenk/Bvj_3K_UWB_A.pdf)
-1. [Antwoordenboek K - 3b](antwoordenk/Bvj_3K_UWB_B.pdf)
-
-
-### Losse delen
 
 1. [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
+
+
+
