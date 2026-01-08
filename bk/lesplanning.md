@@ -5,9 +5,9 @@
 | Weeknr | Lesnr | Onderdeel | Beschrijving                 | Datum | BBL | KBL |
 |--------|-------|-----------|------------------------------|-----------|---|---|
 | 13     | 1     |           | Introductie                  | 10dec | pp204 en 205 maken ||
-| 13     | 2     | 1         | Organismen ordenen           |           |
-| 13     | 3     | 2         | Bacteriën en schimmels       |           |
-| 14     | 4     | 3         | Planten                      |           |
+| 13     | 2     | 1         | Organismen ordenen           | 6jan  (thuis) | 
+| 13     | 3     | 2         | Bacteriën en schimmels       | 7jan  (thuis) |
+| 14     | 4     | 3         | Planten                      | 8jan  (thuis) |
 | 14     | 4     | 4         | Dieren                       |           |
 | 14     | 5     |           | Practicum                    |           |
 | 15     | 6     |           | Reserve les                  |           |

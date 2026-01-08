@@ -5,9 +5,9 @@
 | Weeknr | Lesnr | Onderdeel | Beschrijving       | Huiswerk | Datum|
 |--------|-------|-----------|---------------------------------|-----------|---|
 | 13     | 1     |           | Oriëntatie                      | beginnen in nieuwjaar | |
-| 13     | 2     | 1         | Genotype en fenotype            |           |
-| 13     | 3     | 2         | Genenparen                      |           |
-| 14     | 4     | 3         | Monohybride kruisingen          |           |
+| 13     | 2     | 1         | Genotype en fenotype            | 6jan  (thuis)          |
+| 13     | 3     | 2         | Genenparen                      | 7jan  (thuis)          |
+| 14     | 4     | 3         | Monohybride kruisingen          | 8jan  (thuis)          |
 | 14     | 4     | 4         | Geslachtshormonen               |           |
 | 14     | 5     |           | Practicum                       |           |
 | 15     | 6     |           | Reserve les                     |           |

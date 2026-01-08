@@ -5,9 +5,9 @@
 | Weeknr | Lesnr | Onderdeel | Beschrijving              | dd | Opmerking |
 |--------|-------|-----------|---------------------------|-----------|---|
 |        | 1     |           | Introductie               | 9dec | T3 Introductie pp 172 1,2,3,5 maken |
-|        | 2     | 1         | Genotype en fenotype      |           |
-|        | 3     | 2         | Genen                     |           |
-|        | 4     | 3         | Kruisingen                |           |
+|        | 2     | 1         | Genotype en fenotype      | 6jan  (thuis)          |
+|        | 3     | 2         | Genen                     | 7jan  (thuis)          |
+|        | 4     | 3         | Kruisingen                | 8jan  (thuis)          |
 |        | 4     | 4         | Stambomen                 |           |
 |        | 5     |           | Practicum                 |           |
 |        | 6     |           | Reserve les               |           |
