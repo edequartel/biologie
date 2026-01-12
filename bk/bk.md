@@ -1,7 +1,7 @@
 # BK
 
 * [Lesplanning](lesplanning.md)
-* [Brain Bananas - Podcast](https://open.spotify.com/show/5aIMRtoGlQsQqGxFuT2yIM?si=dUVoC3MySlO-cy__5nhGkw)
+* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
 
 
 

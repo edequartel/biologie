@@ -4,7 +4,7 @@
 * [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 -->
 * [Lesplanning](lesplanning.md)
-* [Brain Bananas - Podcast](https://open.spotify.com/show/0cQT8mt3qVe2rqbkWxYaRx?si=qGsZSPSBQ1iByXL_iY_laQ)
+* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-gt-a.html)
 
 
 ## Thema 3 Erfelijkheid en evolutie

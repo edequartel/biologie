@@ -1,10 +1,10 @@
 # Havo
 
 * [Lesplanning](lesplanning.md)
+* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-h-a.html)
 
 ## Lessen
 
-* [Brain Bananas - Podcast](https://open.spotify.com/show/5JUFSxufmPADG79MFqtGA0?si=oDJatBhoSkeUzfOc-xjrfQ)
 
 ## Thema 3: Genetica / Erfelijkheid
 - [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)
