@@ -1,5 +1,11 @@
 ## Lesplanning VMBO-GT
 
+1. luister de podcast van de basistof
+2. lees de basistof tot je bij een opdracht komt
+3. maak de opdracht
+4. ga verder tot je klaar bent
+5. niet gemaakt is een onvoldoende
+
 ## Thema 1 Organen en cellen
 
 | Lesnr | Onderdeel | Beschrijving                                   | Datum | Huiswerk |
