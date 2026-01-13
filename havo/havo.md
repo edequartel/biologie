@@ -8,11 +8,11 @@
 
 ## Thema 3: Genetica / Erfelijkheid
 - [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)
-- [Basisstof 2, Genenparen](lessen/t3b1.md)
-- [Basisstof 3, Monohybride kruisingen](lessen/t3b1.md)
-- [Basisstof 4, Geslachtshormonen](lessen/t3b1.md)
-- [Basisstof 5, Speciale manieren van overerven](lessen/t3b1.md)
-- [Basisstof 6, Opvoeding of aanleg](lessen/t3b1.md)
+- [Basisstof 2, Genenparen](lessen/t3b2.md)
+- [Basisstof 3, Monohybride kruisingen](lessen/t3b3.md)
+- [Basisstof 4, Geslachtshormonen](lessen/t3b4.md)
+- [Basisstof 5, Speciale manieren van overerven](lessen/t3b5.md)
+- [Basisstof 6, Opvoeding of aanleg](lessen/t3b6.md)
 
 
 
