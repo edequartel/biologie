@@ -4,6 +4,7 @@
 * [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 -->
 * [Lesplanning](lesplanning.md)
+* [Lesplanning MA](lp_ma.md)
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-gt-a.html)
 
 
