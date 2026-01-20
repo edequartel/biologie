@@ -2,24 +2,24 @@
 
 ## Thema 3 Ordening
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                 | Datum | BBL | KBL |
-|--------|-------|-----------|------------------------------|-----------|---|---|
-| 13     | 1     |           | Introductie                  | 10dec | pp204 en 205 maken ||
-| 13     | 2     | 1         | Organismen ordenen           | 6jan  (thuis) | 
-| 13     | 3     | 2         | Bacteriën en schimmels       | 7jan  (thuis) |
-| 14     | 4     | 3         | Planten                      | 8jan  (thuis) |
-| 14     | 4     | 4         | Dieren                       |           |
-| 14     | 5     |           | Practicum                    |           |
-| 15     | 6     |           | Reserve les                  |           |
-| 15     | 7     | 5         | Geleedpotigen en gewervelden |           |
-| 15     | 8     | 6         | Organismen determineren      |           |
-| 16     | 9     | 7         | Samenhang                    |           |
-| 16     | 10    |           | Practicum                    |           |
-| 16     | 11    |           | Reserve les                  |           |
-| 17     | 12    |           | Examenopgaven                |           |
-| 17     | 13    | T         | Toets                        |           |
-| 17     | 14    |           | Evaluatie                    |           |
-| 18     | 15    |           | Reserve les                  |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                 |
+|--------|-------|-----------|------------------------------|
+| 13     | 1     |           | Introductie                  |
+| 13     | 2     | 1         | Organismen ordenen           |
+| 13     | 3     | 2         | Bacteriën en schimmels       |
+| 14     | 4     | 3         | Planten                      |
+| 14     | 4     | 4         | Dieren                       |
+| 14     | 5     |           | Practicum                    |
+| 15     | 6     |           | Reserve les                  |
+| 15     | 7     | 5         | Geleedpotigen en gewervelden |
+| 15     | 8     | 6         | Organismen determineren      |
+| 16     | 9     | 7         | Samenhang                    |
+| 16     | 10    |           | Practicum                    |
+| 16     | 11    |           | Reserve les                  |
+| 17     | 12    |           | Examenopgaven                |
+| 17     | 13    | T         | Toets                        |
+| 17     | 14    |           | Evaluatie                    |
+| 18     | 15    |           | Reserve les                  |
 
 ## Thema 2 – Voortplanting en seksualiteit
 

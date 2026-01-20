@@ -2,25 +2,25 @@
 
 ## Thema 3 Genetica
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving       | Huiswerk | Datum|
-|--------|-------|-----------|---------------------------------|-----------|---|
-| 13     | 1     |           | Oriëntatie                      | beginnen in nieuwjaar | |
-| 13     | 2     | 1         | Genotype en fenotype            | 6jan  (thuis)          |
-| 13     | 3     | 2         | Genenparen                      | 7jan  (thuis)          |
-| 14     | 4     | 3         | Monohybride kruisingen          | 8jan  (thuis)          |
-| 14     | 4     | 4         | Geslachtshormonen               |           |
-| 14     | 5     |           | Practicum                       |           |
-| 15     | 6     |           | Reserve les                     |           |
-| 15     | 7     | 5         | Speciale manieren van overerven |           |
-| 15     | 8     | 6         | Opvoeding of aanleg             |           |
-| 16     | 9     | 7         |                                 |           |
-| 16     | 10    |           | Samenhang                       |           |
-| 16     | 11    |           | Practicum                       |           |
-| 17     | 12    |           | Reserve les                     |           |
-| 17     | 13    |           | Examenopgaven                   |           |
-| 17     | 14    | T         | Toets                           |           |
-| 18     | 15    |           | Evaluatie                       |           |
-| 18     | 16    |           | Reserve les                     |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving                       |
+|--------|-------|-----------|------------------------------------|
+| 13     | 1     |           | Oriëntatie                         |
+| 13     | 2     | 1         | Genotype en fenotype               |
+| 13     | 3     | 2         | Genenparen                         |
+| 14     | 4     | 3         | Monohybride kruisingen             |
+| 14     | 4     | 4         | Geslachtshormonen                  |
+| 14     | 5     |           | Practicum                          |
+| 15     | 6     |           | Reserve les                        |
+| 15     | 7     | 5         | Speciale manieren van overerven    |
+| 15     | 8     | 6         | Opvoeding of aanleg                |
+| 16     | 9     | 7         |                                    |
+| 16     | 10    |           | Samenhang                          |
+| 16     | 11    |           | Practicum                          |
+| 17     | 12    |           | Reserve les                        |
+| 17     | 13    |           | Examenopgaven                      |
+| 17     | 14    | T         | Toets                              |
+| 18     | 15    |           | Evaluatie                          |
+| 18     | 16    |           | Reserve les                        |
 
 ## Thema 2 Voortplanting en seksualiteit
 

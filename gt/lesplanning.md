@@ -2,26 +2,26 @@
 
 ## Thema 3 Erfelijkheid en evolutie
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving              | dd | Opmerking |
-|--------|-------|-----------|---------------------------|-----------|---|
-|        | 1     |           | Introductie               | 9dec | T3 Introductie pp 172 1,2,3,5 maken |
-|        | 2     | 1         | Genotype en fenotype      | 6jan  (thuis)          |
-|        | 3     | 2         | Genen                     | 7jan  (thuis)          |
-|        | 4     | 3         | Kruisingen                | 8jan  (thuis)          |
-|        | 4     | 4         | Stambomen                 |           |
-|        | 5     |           | Practicum                 |           |
-|        | 6     |           | Reserve les               |           |
-|        | 7     | 5         | Variatie in genotypen     |           |
-|        | 8     | 6         | Evolutie                  |           |
-|        | 9     | 7         | Verwantschap              |           |
-|        | 10    | 8         | DNA-technieken            |           |
-|        | 11    | 9         | Samenhang                 |           |
-|        | 12    |           | Practicum                 |           |
-|        | 13    |           | Reserve les               |           |
-|        | 14    |           | Examenopgaven             |           |
-|        | 15    | T         | Toets                     |           |
-|        | 16    |           | Evaluatie                 |           |
-|        | 17    |           | Reserve les               |           |
+| Weeknr | Lesnr | Onderdeel | Beschrijving          |
+|--------|-------|-----------|-----------------------|
+|        | 1     |           | Introductie           |
+|        | 2     | 1         | Genotype en fenotype  |
+|        | 3     | 2         | Genen                 |
+|        | 4     | 3         | Kruisingen            |
+|        | 4     | 4         | Stambomen             |
+|        | 5     |           | Practicum             |
+|        | 6     |           | Reserve les           |
+|        | 7     | 5         | Variatie in genotypen |
+|        | 8     | 6         | Evolutie              |
+|        | 9     | 7         | Verwantschap          |
+|        | 10    | 8         | DNA-technieken        |
+|        | 11    | 9         | Samenhang             |
+|        | 12    |           | Practicum             |
+|        | 13    |           | Reserve les           |
+|        | 14    |           | Examenopgaven         |
+|        | 15    | T         | Toets                 |
+|        | 16    |           | Evaluatie             |
+|        | 17    |           | Reserve les           |
 
 ## Thema 2 Voortplanting en seksualiteit
 
