@@ -19,6 +19,10 @@
 * [NPOPlus](https://www.npoplus.nl)
 * [Biologie met Joost](https://biologiemetjoost.nl)
 * [BioBits](https://schooltv.nl/programma/bio-bits/afleveringen)
+* [Biologielessen](https://biologielessen.nl/)
+* [SLO – Biologie opdrachten](https://www.slo.nl/thema/meer/hogere-denkvaardigheden/biologie/opdrachten)
+* [MijnBiologie – Interactieve oefeningen](https://mijnbiologie.nl/biologie-interactieve-oefeningen)
+* [ScienceKids – Biology](https://www.sciencekids.co.nz/biology.html)
 
 	<!--* [bs4 organnelen](https://www.youtube.com/watch?v=s6GFHnLS5Ro) -->
 
@@ -73,3 +77,4 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 ## Papier
 * [lijntjespapier PDF](media/lijntjespapier.pdf)
 * [lijntjespapier DOCX](media/lijntjespapier.docx)
+
