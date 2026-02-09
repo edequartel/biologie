@@ -1,103 +1,54 @@
+## 🔗 Escape room voor leerlingen  
+Plaats deze link op het digibord of deel met de klas:  
+
+[escape room - de bloedsomloop](edequartel.github.io/biologie/openlessen/bloedsomloop.md)
+
 ## Handleiding – Escape Room als vervangende les
 
-Deze escape room kan worden ingezet als **volwaardige vervangende biologieles**. Leerlingen werken zelfstandig, zijn actief bezig met de leerstof en herhalen belangrijke begrippen zonder dat er directe instructie nodig is.
+Deze escape room is een **volwaardige biologieles** waarbij leerlingen zelfstandig werken en de leerstof herhalen.
 
-### 🎯 Doel van de les
-- Herhalen van kernbegrippen  
-- Samenwerken stimuleren  
-- Probleemoplossend denken activeren  
-- Hoge betrokkenheid creëren  
+### Wanneer gebruik je deze les?
+- Bij lesuitval  
+- Als herhalingsles  
+- Voor of na een toets  
+- Als afsluiting van een hoofdstuk  
 
-De les is geschikt bij **uitval van een les**, of als **afsluiting van een hoofdstuk**.
+### Lesopzet (50–60 minuten)
 
-## 📅 Wanneer gebruik je deze les?
+**Start (5 min)**  
+Lees voor:  
+> “Jullie gaan vandaag een escape room doen. Werk alleen of in tweetallen. Beantwoord de vragen en kraak de code.”
 
-Gebruik de escape room ter vervanging van de reguliere lessen:
-
-- Thema’s biologie
-- Herhalingsles voor een toets  
-- Laatste les vóór een proefwerk  
-- Les na een toets (actieve verwerking)  
-
-👉 Ook zeer geschikt voor een **onverwachte roosterwijziging**.
-
-## ⏱️ Lesopzet (50–60 minuten)
-
-**Start (5 minuten)**  
-De vervangende docent leest voor:
-
-> “Jullie gaan vandaag een escape room doen.  
-> Werk samen alleen of in tweetallen.
-> Beantwoord de vragen en kraak de code.”
-
-**Escape room (35–45 minuten)**  
+**Escape room (35–45 min)**  
 - Leerlingen maken de vragen  
-- Elke vraag levert één cijfer op  
-- Met de juiste code openen zij het digitale codeslot  
+- Elke vraag geeft één cijfer  
+- De juiste code opent het digitale slot  
 
-**Afronding (5–10 minuten)**  
-Bespreek kort:
-- Welke vragen waren lastig?  
-- Welke begrippen moeten we nog herhalen?
+**Afronding (5–10 min)**  
+Bespreek kort welke vragen lastig waren.
 
-## 👩‍🏫 Wat hoeft de vervangende docent NIET te doen?
+### Voorbereiding (1 minuut)
 
-✅ Geen uitleg geven  
-✅ Geen voorkennis hebben van biologie  
-✅ Geen nakijkwerk  
+- Zet de link klaar  
+- Open de escape room  
+- Controleer of de link werkt  
+
+### Belangrijk
+
+De vervangende docent hoeft:
+✅ geen uitleg te geven  
+✅ geen biologiekennis te hebben  
+✅ niets na te kijken  
 
 Alleen helpen bij praktische vragen.
 
-## 💻 Voorbereiding (1 minuut)
+### Werkt iets niet?
 
-Zet klaar op het digibord of stuur naar leerlingen:
+Laat leerlingen hun antwoorden en cijfers controleren en de code opnieuw invoeren.
 
-- Het vragenbestand / werkblad  
-- De website met het codeslot  
-
-Controleer vooraf even of de pagina opent.
-
-## 🔑 Groepsindeling
-
-**Advies:**  
-- Tweetallen → meeste betrokkenheid  
-
-## 📌 Klasafspraken
-
-- Overleg zachtjes  
-- Niet door de klas roepen  
-- Werk samen  
-- Pas bij een juiste code mag je “ontsnappen”  
-
-Tip: Geef eventueel een kleine beloning aan de eerste groep.
-
-<!--
-## ⭐ Waarom deze les goed werkt als vervanging
-
-- Leerlingen zijn direct actief  
-- Weinig kans op ordeproblemen  
-- Duidelijke structuur  
-- Zelfsturend  
-- Motiverend spel-element
-
---> 
-
-## ⚠️ Werkt iets niet?
-
-Laat leerlingen dan:
-
-1. De vragen opnieuw controleren  
-2. Nakijken of alle cijfers goed zijn overgenomen  
-3. De code rustig opnieuw invoeren  
-
-Blijft het probleem bestaan? Noteer het en geef het later door.
-
-## ✔️ Samenvatting voor de vervangende docent
-
-**Wat moet je doen?**
-
-1. Laat leerlingen in groepjes werken  
-2. Geef het werkblad  
+### Kort samengevat
+1. Laat leerlingen alleen of in tweetallen werken  
+2. Deel het werkblad en de link  
 3. Laat ze de code kraken  
 
 Meer is niet nodig 🙂
