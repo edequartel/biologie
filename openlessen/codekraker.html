@@ -1,0 +1,217 @@
+<!doctype html>
+<html lang="nl">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>🔐 Code kraken</title>
+
+<style>
+
+*{ box-sizing:border-box; }
+
+body{
+  font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial;
+  background:#f1f5f9;
+  margin:0;
+  min-height:100vh;
+  display:flex;
+  align-items:center;
+  justify-content:center;
+}
+
+.wrap{
+  width:420px;
+}
+
+.panel{
+  background:white;
+  border-radius:16px;
+  padding:32px;
+  box-shadow:0 10px 30px rgba(0,0,0,.08);
+  text-align:center;
+}
+
+h1{
+  margin-top:0;
+  margin-bottom:24px;
+}
+
+input,button{
+  width:100%;
+  border-radius:12px;
+}
+
+input{
+  font-size:24px;
+  padding:14px;
+  border:2px solid #cbd5e1;
+  outline:none;
+  text-align:center;
+  letter-spacing:4px;
+}
+
+input:focus{
+  border-color:#2563eb;
+}
+
+button{
+  margin-top:14px;
+  padding:14px;
+  border:none;
+  background:#2563eb;
+  color:white;
+  font-size:18px;
+  font-weight:600;
+  cursor:pointer;
+}
+
+button:hover{
+  background:#1d4ed8;
+}
+
+.msg{
+  margin-top:18px;
+  font-weight:700;
+  font-size:18px;
+}
+
+.ok{ color:#16a34a; }
+.no{ color:#dc2626; }
+
+.word{
+  font-size:28px;
+  margin-top:12px;
+  color:#2563eb;
+  font-weight:800;
+}
+
+</style>
+</head>
+
+<body>
+
+<div class="wrap">
+  <div class="panel">
+
+    <h1>🔐 Code kraken</h1>
+
+    <input id="codeInput"
+           type="text"
+           inputmode="numeric"
+           placeholder="1234567890"
+           maxlength="10" />
+
+    <button id="checkBtn">Controleer</button>
+
+    <div id="msg" class="msg"></div>
+    <div id="word" class="word"></div>
+
+  </div>
+</div>
+
+
+<script>
+
+let CODE_MAP = {};
+let codesLoaded = false;
+
+function onlyDigits(s){
+  return (s || "").replace(/\D/g,'');
+}
+
+/*
+  verwacht:
+  CODE WOORD // commentaar
+*/
+function parseLine(line){
+
+  const withoutComment = line.split("//")[0].trim();
+  if(!withoutComment) return null;
+
+  const parts = withoutComment.split(/\s+/);
+
+  if(parts.length < 2) return null;
+
+  const code = onlyDigits(parts[0]);
+  const word = parts[1];
+
+  if(code.length !== 10) return null;
+
+  return {code, word};
+}
+
+async function loadCodes(){
+
+  try{
+
+    const res = await fetch("./codes.txt",{cache:"no-store"});
+    if(!res.ok) throw new Error();
+
+    const text = await res.text();
+
+    text.split(/\r?\n/).forEach(line=>{
+      const parsed = parseLine(line);
+      if(parsed){
+        CODE_MAP[parsed.code] = parsed.word;
+      }
+    });
+
+    if(Object.keys(CODE_MAP).length){
+      codesLoaded = true;
+    }else{
+      throw new Error();
+    }
+
+  }catch{
+    showMsg("⛔ Codes konden niet worden geladen.",false);
+  }
+}
+
+const msg=document.getElementById("msg");
+const wordBox=document.getElementById("word");
+
+function showMsg(text,ok){
+  msg.className="msg " + (ok ? "ok":"no");
+  msg.textContent=text;
+}
+
+function checkCode(){
+
+  if(!codesLoaded){
+    showMsg("⛔ Codes konden niet worden geladen.",false);
+    return;
+  }
+
+  const typed = onlyDigits(document.getElementById("codeInput").value);
+
+  if(typed.length!==10){
+    showMsg("⛔ Vul precies 10 cijfers in.",false);
+    wordBox.textContent="";
+    return;
+  }
+
+  if(CODE_MAP[typed]){
+    showMsg("✅ Code correct!",true);
+    wordBox.textContent = CODE_MAP[typed];
+  }else{
+    showMsg("❌ Code fout.",false);
+    wordBox.textContent="";
+  }
+}
+
+document.getElementById("codeInput").addEventListener("input",(e)=>{
+  e.target.value = onlyDigits(e.target.value).slice(0,10);
+});
+
+document.getElementById("checkBtn").addEventListener("click",checkCode);
+
+document.getElementById("codeInput").addEventListener("keydown",(e)=>{
+  if(e.key==="Enter") checkCode();
+});
+
+loadCodes();
+
+</script>
+
+</body>
+</html>
