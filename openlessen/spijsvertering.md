@@ -1,3 +1,7 @@
+<!--
+### 🔓 Docentcontrole  
+**Code: 7193546078**
+-->
 ## 🔐 ESCAPE ROOM – HET SPIJSVERTERINGSLAB
 
 **Jullie zijn opgesloten in een geheim laboratorium!**  
@@ -81,7 +85,3 @@ D = 1 → Nierbekken
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-<!--
-### 🔓 Docentcontrole  
-**Code: 7193546078**
--->

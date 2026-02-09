@@ -1,4 +1,4 @@
-<!— CODE: 8472613950 —>
+<!-- CODE: 8472613950 -->
 
 ## 🔐 ESCAPE ROOM – VOORTPLANTING
 
@@ -7,7 +7,7 @@ Alleen met de juiste antwoorden vinden jullie de code.
 
 👉 Kies het juiste antwoord.  
 👉 Schrijf het cijfer op dat erbij hoort.  
-👉 De cijfers samen vormen de **10-cijferige ontsnappingscode**.
+👉 De cijfers samen vormen de **10-cijferige ontsnappingscode**
 
 👉 [Kraak de code](https://edequartel.github.io/biologie/openlessen/codekraker.html) 
 

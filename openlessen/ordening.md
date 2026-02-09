@@ -1,3 +1,8 @@
+<!--
+### 🔓 Docentcontrole  
+**Code: 9 8 0 9 8 2 6 2 0 7**
+**Code zonder spaties: 9809826207**
+-->
 ## 🔐 ESCAPE ROOM – ORDENING (INDELING VAN LEVEN)
 
 **Jullie zijn opgesloten in de “Taxonomie-kluis”!**  
@@ -83,8 +88,3 @@ D = 9 → Een dier vangen
 
 ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜ ⬜
 
-<!--
-### 🔓 Docentcontrole  
-**Code: 9 8 0 9 8 2 6 2 0 7**
-**Code zonder spaties: 9809826207**
--->
