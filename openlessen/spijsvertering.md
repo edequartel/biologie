@@ -7,6 +7,8 @@ Alleen door de vragen goed te beantwoorden vinden jullie de code om te ontsnappe
 👉 Schrijf het cijfer op dat erbij hoort.  
 👉 De cijfers samen vormen de **10-cijferige ontsnappingscode**.
 
+👉 [Kraak de code](https://edequartel.github.io/biologie/openlessen/codekraker.html) 
+
 ### Vraag 1 – Waar begint de spijsvertering?
 
 A = 4 → Maag  

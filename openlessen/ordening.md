@@ -7,6 +7,8 @@ Alleen met de juiste indeling van organismen vinden jullie de code.
 👉 Schrijf het cijfer op dat erbij hoort.  
 👉 De cijfers samen vormen de **10-cijferige ontsnappingscode**.
 
+👉 [Kraak de code](https://edequartel.github.io/biologie/openlessen/codekraker.html) 
+
 ### Vraag 1 – Welke groep is het grootst?
 
 A = 2 → Soort  

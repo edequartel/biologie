@@ -1,7 +1,8 @@
 ## 🔗 Escape room voor leerlingen  
 Plaats deze link op het digibord of deel met de klas:  
 
-[escape room - de bloedsomloop](edequartel.github.io/biologie/openlessen/bloedsomloop.md)
+* [escape room - de bloedsomloop](https://edequartel.github.io/biologie/openlessen/bloedsomloop.html)
+
 
 ## Handleiding – Escape Room als vervangende les
 

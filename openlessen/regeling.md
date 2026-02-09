@@ -8,6 +8,8 @@ Alleen met de juiste antwoorden vinden jullie de code.
 👉 Schrijf het cijfer op dat erbij hoort.  
 👉 De cijfers samen vormen de **10-cijferige ontsnappingscode**.
 
+👉 [Kraak de code](https://edequartel.github.io/biologie/openlessen/codekraker.html) 
+
 1) Wat doet het zenuwstelsel vooral?
 A = 4 → Het lichaam aansturen  
 B = 7 → Zuurstof maken  
