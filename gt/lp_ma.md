@@ -2,10 +2,29 @@
 
 1. luister de podcast van de basistof
 2. lees de basistof tot je bij een opdracht komt
-3. maak de opdracht
+3. maak de opdracht, dit zijn de 10 vragen
 4. ga verder tot je klaar bent
 5. niet gemaakt is een onvoldoende
 
+## Thema 2 Voortplanting en seksualiteit
+
+
+| Lesnr | Onderdeel | Beschrijving                   | Datum | Opmerking |
+|-------|-----------|---------------------------------|-------|-----------|
+| 1     | 1         | Geslachtsorganen                | wk7      |           |
+| 2     | 2         | Veranderingen puberteit         | wk7      |           |
+| 3     | 3         | Vruchtbaar worden               | wk9      |           |
+| 4     | 4         | Zwanger worden                  | wk9      |           |
+| 5     | 5         | Geboorte                        | wk10      |           |
+| 7     | 6         | Seksualiteit                    | wk10      |           |
+| 8     | 7         | Veilige seks                    | wk11      |           |
+| 9     | 8         | Erfelijkheidsonderzoek          | wk12      |           |
+| 10    |           | Voorbereiding Toets             | wk13      |           |
+| 11    | T         | Toets                           | wk13      |           |
+
+
+
+<!--
 ## Thema 1 Organen en cellen
 
 | Lesnr | Onderdeel | Beschrijving                                   | Datum | Huiswerk |
@@ -21,7 +40,6 @@
 | 9     | T         | Toets                                         |21jan       |          |
 | 10     |           | Evaluatie                                     |       |          |
 
-<!--
 ## Thema 3 Erfelijkheid en evolutie
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving              | dd | Opmerking |
