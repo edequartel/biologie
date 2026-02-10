@@ -68,7 +68,7 @@
 | 12    | T         | Toets                       | 14okt     |  bs1,2,3,4,5,6 van de samenvatting        |
 | 15    |           | Evaluatie                   |           |          |
 
-<!--
+
 ## Thema 4 Ordening
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                         | Opmerking |
@@ -90,6 +90,8 @@
 | 17     | 15    | T         | Toets                                |           |
 | 18     | 16    |           | Evaluatie                            |           |
 | 18     | 17    |           | Reserve les                          |           |
+
+<!--
 
 ## Thema 5 Stevigheid en beweging
 

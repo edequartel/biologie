@@ -58,6 +58,19 @@
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
 
+## Thema 4 Ordening
+
+* [basisstof 1 - Ontwikkeling van het leven op aarde](lessen/t4b1.md)  
+* [basisstof 2 - Organismen ordenen](lessen/t4b2.md)  
+* [basisstof 3 - Bacteriën en schimmels](lessen/t4b3.md)  
+* [basisstof 4 - Planten en dieren](lessen/t4b4.md)  
+* [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
+* [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
+
+<!--
+* [toets - Thema 4](lessen/t4toets.md)  
+* -->
+
 
 ## Materiaal
 
