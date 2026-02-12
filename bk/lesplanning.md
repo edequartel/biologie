@@ -1,5 +1,26 @@
 # Lesplanning VMBO-B
 
+## Thema 4 Stevigheid en beweging
+
+| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
+|--------|-------|-----------|-------------------------------|-----------|
+| 19     | 1     |           | Introductie                   |           |
+| 19     | 2     | 1         | Het skelet van de mens        |           |
+| 19     | 3     | 2         | Kraakbeenweefsel en beenweefsel |         |
+| 20     | 4     | 3         | Beenverbindingen              |           |
+| 20     | 4     | 4         | Spieren                       |           |
+| 20     | 5     |           | Practicum                     |           |
+| 20     | 6     |           | Reserve les                   |           |
+| 21     | 7     | 5         | Houding en blessures          |           |
+| 21     | 8     | 6         | Blessures                     |           |
+| 21     | 9     | 7         | Samenhang                     |           |
+| 22     | 10    |           | Practicum                     |           |
+| 22     | 11    |           | Reserve les                   |           |
+| 22     | 12    |           | Examenopgaven                 |           |
+| 23     | 13    | T         | Toets                         |           |
+| 23     | 14    |           | Evaluatie                     |           |
+| 23     | 15    |           | Reserve les                   |           |
+
 ## Thema 3 Ordening
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                 | Opmerking | Gereed |
@@ -66,26 +87,7 @@
 
 <!--
 
-## Thema 4 Stevigheid en beweging
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
-|--------|-------|-----------|-------------------------------|-----------|
-| 19     | 1     |           | Introductie                   |           |
-| 19     | 2     | 1         | Het skelet van de mens        |           |
-| 19     | 3     | 2         | Kraakbeenweefsel en beenweefsel |         |
-| 20     | 4     | 3         | Beenverbindingen              |           |
-| 20     | 4     | 4         | Spieren                       |           |
-| 20     | 5     |           | Practicum                     |           |
-| 20     | 6     |           | Reserve les                   |           |
-| 21     | 7     | 5         | Houding en blessures          |           |
-| 21     | 8     | 6         | Blessures                     |           |
-| 21     | 9     | 7         | Samenhang                     |           |
-| 22     | 10    |           | Practicum                     |           |
-| 22     | 11    |           | Reserve les                   |           |
-| 22     | 12    |           | Examenopgaven                 |           |
-| 23     | 13    | T         | Toets                         |           |
-| 23     | 14    |           | Evaluatie                     |           |
-| 23     | 15    |           | Reserve les                   |           |
 
 ## Thema 5 Ecologie
 

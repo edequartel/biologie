@@ -5,8 +5,29 @@
 
 ## Lessen
 
+<!--
+
+## Thema 5: Regeling
+
+- [Basisstof 1, Homeostase en regelkringen](lessen/t5b1.md)
+- [Basisstof 2, Het hormoonstelsel](lessen/t5b2.md)
+- [Basisstof 3, Het zenuwstelsel](lessen/t5b3.md)
+- [Basisstof 4, Reflexen en autonoom zenuwstelsel](lessen/t5b4.md)
+- [Basisstof 5, Impulsgeleiding](lessen/t5b5.md)
+- [Basisstof 6, Spieren en beweging](lessen/t5b6.md)
+
+-->
+
+## Thema 4: Evolutie
+
+- [Basisstof 1, Inleiding levende natuur](lessen/t4b1.md)
+- [Basisstof 2, Bacteriën, virussen, schimmels](lessen/t4b2.md)
+- [Basisstof 3, De evolutietheorie](lessen/t4b3.md)
+- [Basisstof 4, Evolutie in populaties](lessen/t4b4.md)
+- [Basisstof 5, Onderzoek naar evolutie](lessen/t4b5.md)
 
 ## Thema 3: Genetica / Erfelijkheid
+
 - [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)
 - [Basisstof 2, Genenparen](lessen/t3b2.md)
 - [Basisstof 3, Monohybride kruisingen](lessen/t3b3.md)
@@ -17,6 +38,7 @@
 
 
 ## Thema 2: Voortplanting en seksualiteit
+
 - [Basisstof 1, Ongeslachtelijke voortplanting](lessen/t2b1.md)
 - [Basisstof 2, Geslachtelijke voortplanting](lessen/t2b2.md)
 	- [celcyclus](remarks/celcyclus.md)
@@ -61,6 +83,8 @@
 * [Thema 1 Organen en cellen](begrippen/Bvj-4havo-T1-begrippenlijst.docx)
 * [Thema 2 Voortplanting en seksualiteit](begrippen/Bvj-4havo-T2-begrippenlijst.docx)
 * [Thema 3 Genetica / Erfelijkheid](begrippen/Bvj-4havo-T3-begrippenlijst.docx)
+* [Thema 4 Evolutie](begrippen/Bvj-4havo-T4-begrippenlijst.docx)
+* [Thema 5 Regeling](begrippen/Bvj-4havo-T5-begrippenlijst.docx)
 
 ## Antwoorden
 
@@ -69,10 +93,14 @@
 1. [Thema 1 Organen en cellen](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.docx)
 1. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.docx)
 2. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t3.docx)
+3. [Thema 4 Evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.docx)
+4. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.docx)
 
 ### pdf
 
 2. [Thema 1 Organen en cellen](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.pdf)
 3. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.pdf)
+4. [Thema 4 Evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.pdf)
+4. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.pdf)
 

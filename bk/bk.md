@@ -3,24 +3,30 @@
 * [Lesplanning](lesplanning.md)
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
 
-
-
-## Thema 3 Ordening
-
-### Toets B
-
-- [Toets BBL](toetsen/8_1_Bvj_3B_eindtoetsA_T2_basis.pdf)
-
-### Toets K
-
-- [Toets KBL](toetsen/Bvj_3K_eindtoetsA_T2_basis.pdf)
+## Lessen
 
 <!--
-- [Toets BBL Antwoorden](toetsen/8_1_Bvj_3B_eindtoetsA_T2_antwoorden.pdf)
-- [Toets KBL Antwoorden](toetsen/Bvj_3K_eindtoetsA_T2_antwoorden.pdf)
+#### Thema 5 Ecologie
+
+- [Basisstof 1, Fotosynthese en verbranding](lessen/t7b1.md)
+- [Basisstof 2, Eten en gegeten worden](lessen/t7b2.md)
+- [Basisstof 3, Organismen en hun leefomgeving](lessen/t7b3.md)
+- [Basisstof 4, Aanpassingen bij dieren](lessen/t7b4.md)
+- [Basisstof 5, Aanpassingen bij planten](lessen/t7b5.md)
+- [Basisstof 6, Samenhang](lessen/t7b6.md)
+
 -->
 
-## Lessen
+#### Thema 4 Stevigheid en beweging
+
+- [Basisstof 1, Het skelet van de mens](lessen/t6b1.md)
+- [Basisstof 2, Kraakbeenweefsel en beenweefsel](lessen/t6b2.md)
+- [Basisstof 3, Beenverbindingen](lessen/t6b3.md)
+- [Basisstof 4, Spieren](lessen/t6b4.md)
+- [Basisstof 5, Houding en blessures](lessen/t6b5.md)
+- [Basisstof 6, Blessures](lessen/t6b6.md)
+
+#### Thema 3 Ordening
 
 - [Basisstof 1 - Organismen ordenen](lessen/t3b1.md)
 - [Basisstof 2 - Bacteriën en schimmels](lessen/t3b2.md)
@@ -66,24 +72,28 @@
 * [Thema 1 Organen en cellen](boeken/3at1.pdf)
 * [Thema 2 Seksualiteit en voortplanting](boeken/3at2.pdf)
 * [Thema 3 Ordening](boeken/3at3.pdf)
+* [??? NOG AANPASSSEN Thema 4 Stevigheid en beweging](boeken/3at4.pdf)
 
 ## Begrippen
 
 * [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.pdf)
 * [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
 * [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
+* [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.pdf)
 
 ## Samenvattingen
 
-* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmbo-B_LWB_A_T1_samenvatting.pdf)
-* [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
-* [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
+* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmboB_LWB_A_T1_samenvatting.pdf)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/BVJ_3vmboB_LWB_A_T2_samenvatting.pdf)
+* [Thema 3 Ordening](samenvattingen/BVJ_3vmboB_LWB_A_T3_samenvatting.pdf)
+* [Thema 4 Stevigheid en beweging](samenvattingen/BVJ_3vmboB_LWB_A_T4_samenvatting.pdf)
 
 ## Antwoorden B
 
 1. [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
 3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
+4. [Thema 4 Stevigheid en beweging](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T4.pdf)
 
 
 ## Antwoorden K
@@ -91,6 +101,6 @@
 1. [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
-
+3. [Thema 4 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T4.pdf)
 
 

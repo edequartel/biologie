@@ -1,5 +1,34 @@
 ## Lesplanning HAVO 4
 
+## Thema 4 Evolutie
+
+| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
+|--------|-------|-----------|-------------------------------|-----------|
+|   9     | 1     |           | Oriëntatie                    |           |
+|   9     | 2     | 1         | Inleiding levende natuur      |           |
+|   9     | 3     | 2         | Bacteriën, virussen, schimmels|           |
+|   9     | 4     | 3         | De evolutietheorie            |           |
+|   10    | 5     | 4         | Evolutie in populaties        |           |
+|   10     | 6     | 5         | Onderzoek naar evolutie       |           |
+|   10     | 7     | 6         | Samenhang                     |           |
+|   ??     | 8     | T         | Toets                         |           |
+|   ??     | 9     |           | Evaluatie                     |           |
+
+## Thema 5 Regeling
+
+| Weeknr | Lesnr | Onderdeel | Beschrijving                            | Opmerking |
+|--------|-------|-----------|-----------------------------------------|-----------|
+|  12      | 1     |           | Oriëntatie                              |           |
+|  12      | 2     | 1         | Homeostase en regelkringen              |           |
+|  12     | 3     | 2         | Het hormoonstelsel                      |           |
+|  12      | 4     | 3         | Het zenuwstelsel                        |           |
+|  13      | 5     | 4         | Reflexen en autonoom zenuwstelsel       |           |
+|  13      | 6     | 5         | Impulsgeleiding                         |           |
+|  13     | 7     | 6         | Spieren en beweging                     |           |
+|  13      | 8     | 7         | Samenhang                               |           |
+|  ??      | 9     | T         | Toets                                   |           |
+|  ??      | 10    |           | Evaluatie                               |           |
+
 ## Thema 3 Genetica
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving                       | Opmerking | Gereed |
@@ -64,46 +93,7 @@
 
 <!--
 
-## Thema 4 Evolutie
 
-| Weeknr | Lesnr | Onderdeel | Beschrijving                  | Opmerking |
-|--------|-------|-----------|-------------------------------|-----------|
-| 13     | 1     |           | Oriëntatie                    |           |
-| 13     | 2     | 1         | Inleiding levende natuur      |           |
-| 13     | 3     | 2         | Bacteriën, virussen, schimmels|           |
-| 14     | 4     | 3         | De evolutietheorie            |           |
-| 14     | 4     | 4         | Evolutie in populaties        |           |
-| 14     | 5     |           | Practicum                     |           |
-| 15     | 6     |           | Reserve les                   |           |
-| 15     | 7     | 5         | Onderzoek naar evolutie       |           |
-| 15     | 8     | 6         | Samenhang                     |           |
-| 16     | 9     |           | Practicum                     |           |
-| 16     | 10    |           | Reserve les                   |           |
-| 16     | 11    |           | Examenopgaven                 |           |
-| 17     | 12    | T         | Toets                         |           |
-| 17     | 13    |           | Evaluatie                     |           |
-| 17     | 14    |           | Reserve les                   |           |
-
-## Thema 5 Regeling
-
-| Weeknr | Lesnr | Onderdeel | Beschrijving                            | Opmerking |
-|--------|-------|-----------|-----------------------------------------|-----------|
-| 19     | 1     |           | Oriëntatie                              |           |
-| 19     | 2     | 1         | Homeostase en regelkringen              |           |
-| 19     | 3     | 2         | Het hormoonstelsel                      |           |
-| 20     | 4     | 3         | Het zenuwstelsel                        |           |
-| 20     | 5     | 4         | Reflexen en autonoom zenuwstelsel       |           |
-| 20     | 6     |           | Practicum                               |           |
-| 21     | 7     |           | Reserve les                             |           |
-| 21     | 8     | 5         | Impulsgeleiding                         |           |
-| 21     | 9     | 6         | Spieren en beweging                     |           |
-| 22     | 10    | 7         | Samenhang                               |           |
-| 22     | 11    |           | Practicum                               |           |
-| 22     | 12    |           | Reserve les                             |           |
-| 23     | 13    |           | Examenopgaven                           |           |
-| 23     | 14    | T         | Toets                                   |           |
-| 23     | 15    |           | Evaluatie                               |           |
-| 24     | 16    |           | Reserve les                             |           |
 
 ## Thema 6 Waarneming en gedrag
 

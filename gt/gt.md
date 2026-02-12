@@ -7,10 +7,19 @@
 * [Lesplanning MA](lp_ma.md)
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-gt-a.html)
 
+## Lessen
 
-## Thema 3 Erfelijkheid en evolutie
+#### Thema 4 Ordening
 
-### Lessen
+* [basisstof 1 - Ontwikkeling van het leven op aarde](lessen/t4b1.md)  
+* [basisstof 2 - Organismen ordenen](lessen/t4b2.md)  
+* [basisstof 3 - Bacteriën en schimmels](lessen/t4b3.md)  
+* [basisstof 4 - Planten en dieren](lessen/t4b4.md)  
+* [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
+* [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
+
+
+#### Thema 3 Erfelijkheid en evolutie
 
 - [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
 - [Basisstof 2 – Genen](lessen/t3b2.md)
@@ -21,9 +30,7 @@
 - [Basisstof 7 – Verwantschap](lessen/t3b7.md)
 - [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
 
-
-
-## Thema 2 Voortplanting en seksualteit MA
+#### Thema 2 Voortplanting en seksualteit MA
 
 <!--
 ### Toets
@@ -32,9 +39,6 @@
 * [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
 * [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
 * -->
-
-
-### Lessen
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
@@ -47,9 +51,7 @@
 - [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
 
 
-## Thema 1 Organismen en cellen
-
-### Lessen
+#### Thema 1 Organismen en cellen
 
 - [Basisstof 1 - Organismen](lessen/t1b1.md)
 - [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
@@ -57,15 +59,6 @@
 - [Basisstof 4 - Chromosomen](lessen/t1b4.md)
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
-
-## Thema 4 Ordening
-
-* [basisstof 1 - Ontwikkeling van het leven op aarde](lessen/t4b1.md)  
-* [basisstof 2 - Organismen ordenen](lessen/t4b2.md)  
-* [basisstof 3 - Bacteriën en schimmels](lessen/t4b3.md)  
-* [basisstof 4 - Planten en dieren](lessen/t4b4.md)  
-* [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
-* [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
 
 <!--
 * [toets - Thema 4](lessen/t4toets.md)  
@@ -78,7 +71,6 @@
 
 <!--
 ### docx
-
 - [VMBO GT 3a Leerwerkboek](boeken/BVJ_gt_A_Leerwerkboek.docx)
 -->
 
@@ -87,18 +79,8 @@
 
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
 - [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
+- [??? NOG AANPASSEN Thema 4 - Ordening](boeken/3GT_3a_t3_edit.pdf)
 
-
-### Basisstoffen
-- [Introductie](boeken/t2intro.md)
-- [Basisstof 1 - Geslachtsorganen](boeken/t2b1.md)
-- [Basisstof 2 - Veranderingen in de puberteit](boeken/t2b2.md)
-- [Basisstof 3 - Vruchtbaar worden](boeken/t2b3.md)
-- [Basisstof 4 - Zwanger worden](boeken/t2b4.md)
-- [Basisstof 5 - Geboorte](boeken/t2b5.md)
-- [Basisstof 6 - Seksualiteit](boeken/t2b6.md)
-- [Basisstof 7 - Veilige seks](boeken/t2b7.md)
-- [Basisstof 8 - Erfelijkheidsonderzoek](boeken/t2b8.md)
 
 ## Begrippen
 
@@ -107,6 +89,7 @@
 * [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.docx)
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.docx)
 * [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.docx)
+* [Thema 4 - Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.docx)
 
 
 ### pdf
@@ -114,6 +97,7 @@
 * [Thema 1 Organen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.pdf)
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.pdf)
 * [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.pdf)
+* [Thema 4 Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.pdf)
 
 
 ## Antwoorden
@@ -123,20 +107,23 @@
 2. [Thema 1 Organen en cellen](antwoorden/BVJ_3GT_UWB_T1.docx)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.docx)
 2. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.docx)
+3. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.docx)
 
 ### pdf
 
 2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.pdf)
+4. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.docx)
 
 
 
 ## Samenvattingen
 
-* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmboB_LWB_A_T1_samenvatting.pdf)
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/BVJ_3vmboB_LWB_A_T2_samenvatting.pdf)
-* [Thema 3 Erfelijkheid en evolutie](samenvattingen/BVJ_3vmboB_LWB_A_T3_samenvatting.pdf)
+* [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
+* [Thema 3 Erfelijkheid en evolutie](T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
+* [Thema 4 Evolutie](samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
 
 <!--
 

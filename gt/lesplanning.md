@@ -1,5 +1,28 @@
 ## Lesplanning VMBO-GT
 
+## Thema 4 Ordening
+
+| Weeknr | Lesnr | Onderdeel | Beschrijving                         | Opmerking |
+|--------|-------|-----------|--------------------------------------|-----------|
+| 13     | 1     |           | Introductie                          |           |
+| 13     | 2     | 1         | Ontwikkeling van het leven op aarde  |           |
+| 13     | 3     | 2         | Organismen ordenen                   |           |
+| 14     | 4     | 3         | Bacteriën en schimmels               |           |
+| 14     | 4     | 4         | Planten en dieren                    |           |
+| 14     | 5     |           | Practicum                            |           |
+| 15     | 6     |           | Reserve les                          |           |
+| 15     | 7     | 5         | Variatie in genotypen                |           |
+| 15     | 8     | 6         | Geleedpotigen en gewervelden         |           |
+| 16     | 9     | 7         | Organismen determineren              |           |
+| 16     | 11    | 9         | Samenhang                            |           |
+| 16     | 12    |           | Practicum                            |           |
+| 17     | 13    |           | Reserve les                          |           |
+| 17     | 14    |           | Examenopgaven                        |           |
+| 17     | 15    | T         | Toets                                |           |
+| 18     | 16    |           | Evaluatie                            |           |
+| 18     | 17    |           | Reserve les                          |           |
+
+
 ## Thema 3 Erfelijkheid en evolutie
 
 | Weeknr | Lesnr | Onderdeel | Beschrijving          | Opmerking | Gereed |
@@ -69,27 +92,6 @@
 | 15    |           | Evaluatie                   |           |          |
 
 
-## Thema 4 Ordening
-
-| Weeknr | Lesnr | Onderdeel | Beschrijving                         | Opmerking |
-|--------|-------|-----------|--------------------------------------|-----------|
-| 13     | 1     |           | Introductie                          |           |
-| 13     | 2     | 1         | Ontwikkeling van het leven op aarde  |           |
-| 13     | 3     | 2         | Organismen ordenen                   |           |
-| 14     | 4     | 3         | Bacteriën en schimmels               |           |
-| 14     | 4     | 4         | Planten en dieren                    |           |
-| 14     | 5     |           | Practicum                            |           |
-| 15     | 6     |           | Reserve les                          |           |
-| 15     | 7     | 5         | Variatie in genotypen                |           |
-| 15     | 8     | 6         | Geleedpotigen en gewervelden         |           |
-| 16     | 9     | 7         | Organismen determineren              |           |
-| 16     | 11    | 9         | Samenhang                            |           |
-| 16     | 12    |           | Practicum                            |           |
-| 17     | 13    |           | Reserve les                          |           |
-| 17     | 14    |           | Examenopgaven                        |           |
-| 17     | 15    | T         | Toets                                |           |
-| 18     | 16    |           | Evaluatie                            |           |
-| 18     | 17    |           | Reserve les                          |           |
 
 <!--
 
