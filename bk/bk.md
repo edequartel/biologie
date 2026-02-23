@@ -19,12 +19,12 @@
 
 #### Thema 4 Stevigheid en beweging
 
-- [Basisstof 1, Het skelet van de mens](lessen/t6b1.md)
-- [Basisstof 2, Kraakbeenweefsel en beenweefsel](lessen/t6b2.md)
-- [Basisstof 3, Beenverbindingen](lessen/t6b3.md)
-- [Basisstof 4, Spieren](lessen/t6b4.md)
-- [Basisstof 5, Houding en blessures](lessen/t6b5.md)
-- [Basisstof 6, Blessures](lessen/t6b6.md)
+- [Basisstof 1, Het skelet van de mens](lessen/t4b1.md)
+- [Basisstof 2, Kraakbeenweefsel en beenweefsel](lessen/t4b2.md)
+- [Basisstof 3, Beenverbindingen](lessen/t4b3.md)
+- [Basisstof 4, Spieren](lessen/t4b4.md)
+- [Basisstof 5, Houding en blessures](lessen/t4b5.md)
+- [Basisstof 6, Blessures](lessen/t4b6.md)
 
 #### Thema 3 Ordening
 
