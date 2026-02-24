@@ -78,10 +78,10 @@
 
 ### pdf
 
+- [Thema 2 - Organen en cellen](boeken/3GTbvj_thema_1.pdf)
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
 - [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
-- [??? NOG AANPASSEN Thema 4 - Ordening](boeken/3GT_3a_t3_edit.pdf)
-
+- [Thema 4 - Ordening](boeken/3GTbvj_thema_4.pdf)
 
 ## Begrippen
 
@@ -90,7 +90,7 @@
 * [Thema 1 Organismen en cellen](begrippen/BVJ-3VMBO-GT-T1-begrippenlijst.docx)
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.docx)
 * [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.docx)
-* [Thema 4 - Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.docx)
+* [Thema 4 Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.docx)
 
 
 ### pdf
