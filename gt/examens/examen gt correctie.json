@@ -1,0 +1,15 @@
+{
+  "merge" : {
+    "merge.destinationbrowsableField" : "/Users/ericdequartel/Developer/_WebSites/biologie/gt/examens/examen-gt-biologie-opgaven.pdf",
+    "input.size" : "0",
+    "acroForms" : "MERGE_RENAMING_EXISTING_FIELDS",
+    "outline" : "RETAIN",
+    "footer" : "false",
+    "compress" : "true",
+    "blankIfOdd" : "false",
+    "toc" : "NONE",
+    "pageNormalization" : "NONE",
+    "overwrite" : "false",
+    "version" : "VERSION_1_5"
+  }
+}

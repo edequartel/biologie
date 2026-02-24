@@ -3,6 +3,12 @@
 * [Lesplanning](lesplanning.md)
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
 
+## Examens
+- [Examen BBL opgaven](examens-b/examen-BBL-biologie-opgaven.pdf)
+- [Examen BBL antwoorden](examens-b/examen-BBL-biologie-antwoorden.pdf)
+- [Examen KBL opgaven](examens-k/examen-KBL-biologie-opgaven.pdf)
+- [Examen KBL antwoorden](examens-k/examen-KBL-biologie-antwoorden.pdf)
+
 ## Lessen
 
 <!--
