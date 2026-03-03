@@ -11,16 +11,15 @@
 
 | Lesnr | Onderdeel | Beschrijving                   | Datum | Opmerking |
 |-------|-----------|---------------------------------|-------|-----------|
-| 1     | 1         | Geslachtsorganen                | wk7      |           |
-| 2     | 2         | Veranderingen puberteit         | wk7      |           |
-| 3     | 3         | Vruchtbaar worden               | wk9      |           |
-| 4     | 4         | Zwanger worden                  | wk9      |           |
-| 5     | 5         | Geboorte                        | wk10      |           |
-| 7     | 6         | Seksualiteit                    | wk10      |           |
-| 8     | 7         | Veilige seks                    | wk11      |           |
-| 9     | 8         | Erfelijkheidsonderzoek          | wk12      |           |
-| 10    |           | Voorbereiding Toets             | wk13      |           |
-| 11    | T         | Toets                           | wk13      |           |
+| 1     | 1         | Geslachtsorganen                | wk7      | 10 maart          |
+| 2     | 2         | Veranderingen puberteit         | wk7      |                   |
+| 3     | 3         | Vruchtbaar worden               | wk9      | 10 maart          |
+| 4     | 4         | Zwanger worden                  | wk9      | 10 maart          |
+| 5     | 5         | Geboorte                        | wk10      | 10 maart          |
+| 7     | 6         | Seksualiteit                    | wk10      | 17 maart          |
+| 8     | 7         | Veilige seks                    | wk11      | 17 maart          |
+| 9     | 8         | Erfelijkheidsonderzoek          | wk12      | 17 maart          |
+| 11    | T         | Toets                           | wk13      | 24 maart          |
 
 
 
