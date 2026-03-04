@@ -18,9 +18,6 @@
 * [basisstof 4 - Planten en dieren](lessen/t4b4.md)  
 * [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
 * [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
-* [toets](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_basis.docx)
-* [toets aangepast](toetsen/thema3aangepast.md)
-
 
 #### Thema 3 Erfelijkheid en evolutie
 
@@ -32,6 +29,10 @@
 - [Basisstof 6 – Evolutie](lessen/t3b6.md)
 - [Basisstof 7 – Verwantschap](lessen/t3b7.md)
 - [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
+* [toets](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_basis.docx)
+* [toets aangepast](toetsen/thema3aangepast.md)
+* [toets antwoorden](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_antwoorden.docx)
+
 
 #### Thema 2 Voortplanting en seksualteit MA
 
