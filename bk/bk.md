@@ -78,7 +78,7 @@
 * [Thema 1 Organen en cellen](boeken/3at1.pdf)
 * [Thema 2 Seksualiteit en voortplanting](boeken/3at2.pdf)
 * [Thema 3 Ordening](boeken/3at3.pdf)
-* [??? NOG AANPASSSEN Thema 4 Stevigheid en beweging](boeken/3at4.pdf)
+* [Thema 4 Stevigheid en beweging](boeken/3at4.pdf)
 
 ## Begrippen
 
