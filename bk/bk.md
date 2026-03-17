@@ -79,6 +79,9 @@
 * [Thema 2 Seksualiteit en voortplanting](boeken/3at2.pdf)
 * [Thema 3 Ordening](boeken/3at3.pdf)
 * [Thema 4 Stevigheid en beweging](boeken/3bt4.pdf)
+* [Thema 5 Ecologie](boeken/3bt5.pdf)
+* [Thema 6 Duurzaam leven](boeken/3bt6.pdf)
+
 
 ## Begrippen
 
