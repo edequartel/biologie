@@ -12,6 +12,7 @@
 
 #### Thema 4 Ordening
 
+* [flitskaarten](https://notebooklm.google.com/notebook/6b88a7c9-ace7-4f5a-8983-16c30575a7a7?artifactId=7c0b5c28-702b-4faa-992c-8296b6d7c414)
 * [basisstof 1 - Ontwikkeling van het leven op aarde](lessen/t4b1.md)  
 * [basisstof 2 - Organismen ordenen](lessen/t4b2.md)  
 * [basisstof 3 - Bacteriën en schimmels](lessen/t4b3.md)  
@@ -118,7 +119,7 @@
 2. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.pdf)
-4. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.docx)
+4. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.pdf)
 
 
 
