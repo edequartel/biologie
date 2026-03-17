@@ -1,3 +1,3 @@
 
 
-![Skelet van de mens](skelet.png)
+![Skelet van de mens](skelet.jpg)
