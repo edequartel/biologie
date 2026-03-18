@@ -20,6 +20,10 @@
 * [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
 * [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
 
+<!--
+* [toets](toetsen/thema4aangepast.md)
+-->
+
 #### Thema 3 Erfelijkheid en evolutie
 
 - [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
