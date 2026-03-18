@@ -72,7 +72,7 @@
 * [Biologie Voor Jou VMBO B 3a](boek/p001-286_BVJ_8_0_-_MAX_-_3_vmbo-b_A_Leerwerkboek.pdf)
 * [Biologie Voor Jou VMBO B 3b](p001-268_BVJ_8_0_-_MAX_-_3_vmbo-b_B_Leerwerkboek.pdf)
 
--->
+
 ## Boek
 
 * [Thema 1 Organen en cellen](boeken/3at1.pdf)
@@ -82,6 +82,7 @@
 * [Thema 5 Ecologie](boeken/3bt5.pdf)
 * [Thema 6 Duurzaam leven](boeken/3bt6.pdf)
 
+-->
 
 ## Begrippen
 

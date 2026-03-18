@@ -1,5 +1,10 @@
 # Biologie - GT
 
+# Toets
+
+* [Toets Ordening](toetsen/thema4aangepast.md)
+
+## Planning
 <!--
 * [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
 -->
@@ -9,6 +14,14 @@
 * [Examens](examens/examens.md)
 
 ## Lessen
+
+#### Thema 5 Stevigheid en beweging
+* [basisstof 1 - Het skelet van de mens](lessen/t5b1.md)  
+* [basisstof 2 - Kraakbeenweefsel en beenweefsel](lessen/t5b2.md)  
+* [basisstof 3 - Beenverbindingen](lessen/t5b3.md)  
+* [basisstof 4 - Spieren](lessen/t5b4.md)  
+* [basisstof 5 - Houding en beweging](lessen/t5b5.md)  
+* [basisstof 6 - Blessuren](lessen/t5b6.md)  
 
 #### Thema 4 Ordening
 
@@ -20,9 +33,9 @@
 * [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
 * [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
 
-<!--
-* [toets](toetsen/thema4aangepast.md)
--->
+
+
+
 
 #### Thema 3 Erfelijkheid en evolutie
 
@@ -76,20 +89,19 @@
 
 ## Materiaal
 
+<!--
+
 ### Boek
 
-<!--
 ### docx
 - [VMBO GT 3a Leerwerkboek](boeken/BVJ_gt_A_Leerwerkboek.docx)
--->
-
 
 ### pdf
-
 - [Thema 2 - Organen en cellen](boeken/3GTbvj_thema_1.pdf)
 - [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
 - [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
 - [Thema 4 - Ordening](boeken/3GTbvj_thema_4.pdf)
+-->
 
 ## Begrippen
 
