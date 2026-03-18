@@ -11,17 +11,16 @@
 
 ## Lessen
 
-<!--
+
 #### Thema 5 Ecologie
 
-- [Basisstof 1, Fotosynthese en verbranding](lessen/t7b1.md)
-- [Basisstof 2, Eten en gegeten worden](lessen/t7b2.md)
-- [Basisstof 3, Organismen en hun leefomgeving](lessen/t7b3.md)
-- [Basisstof 4, Aanpassingen bij dieren](lessen/t7b4.md)
-- [Basisstof 5, Aanpassingen bij planten](lessen/t7b5.md)
-- [Basisstof 6, Samenhang](lessen/t7b6.md)
+- [Basisstof 1, Fotosynthese en verbranding](lessen/t5b1.md)
+- [Basisstof 2, Eten en gegeten worden](lessen/t5b2.md)
+- [Basisstof 3, Organismen en hun leefomgeving](lessen/t5b3.md)
+- [Basisstof 4, Aanpassingen bij dieren](lessen/t5b4.md)
+- [Basisstof 5, Aanpassingen bij planten](lessen/t5b5.md)
+- [Basisstof 6, Samenhang](lessen/t5b6.md)
 
--->
 
 #### Thema 4 Stevigheid en beweging
 
@@ -90,6 +89,8 @@
 * [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
 * [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
 * [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.pdf)
+* [Thema 5 Ecologie](begrippenbb/BVJ-3VMBO-B-T5-begrippenlijst.pdf)
+
 
 ## Samenvattingen
 
@@ -97,6 +98,7 @@
 * [Thema 2 Voortplanting en seksualiteit](samenvattingen/BVJ_3vmboB_LWB_A_T2_samenvatting.pdf)
 * [Thema 3 Ordening](samenvattingen/BVJ_3vmboB_LWB_A_T3_samenvatting.pdf)
 * [Thema 4 Stevigheid en beweging](samenvattingen/BVJ_3vmboB_LWB_A_T4_samenvatting.pdf)
+* [Thema 5 Ecologie](samenvattingen/BVJ_3vmboB_LWB_A_T5_samenvatting.pdf)
 
 ## Antwoorden B
 
@@ -104,6 +106,7 @@
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
 3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
 4. [Thema 4 Stevigheid en beweging](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T4.pdf)
+5. [Thema 5 Ecologie](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T5.pdf)
 
 
 ## Antwoorden K
@@ -112,5 +115,6 @@
 2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
 3. [Thema 4 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T4.pdf)
+4. [Thema 5 Ecologie](antwoordenk/Bvj_3K_UWB_T5.pdf)
 
 
