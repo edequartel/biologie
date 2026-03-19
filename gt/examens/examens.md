@@ -15,7 +15,17 @@
 ### Samenvattingen
 
 
-* [Thema 1 Organen en cellen](./samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
-* [Thema 2 Voortplanting en seksualiteit](./samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
-* [Thema 3 Erfelijkheid en evolutie](./samenvattingen/T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
-* [Thema 4 Evolutie](./samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
+* [Thema 1 Organismen en cellen](../samenvattingen/T3_T1_Organismen_en_cellen.pdf)
+* [Thema 2 Voortplanting en seksualiteit](../samenvattingen/T3_T2_Voortplanting_en_seksualiteit.pdf)
+* [Thema 3 Erfelijkheid en evolutie](../samenvattingen/T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
+* [Thema 4 Ordening](../samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
+* [Thema 5 Stevigheid en beweging](../samenvattingen/T3_T5_Stevigheid_en_beweging_-_Samenvatting.pdf)
+* [Thema 6 Ecologie](../samenvattingen/T3_T6_Ecologie_-_Samenvatting.pdf)
+* [Thema 7 Duurzaam leven](../samenvattingen/T3_T7_Duurzaam_leven_-_Samenvatting.pdf)
+* [Thema 8 Gedrag](../samenvattingen/T3_T8_Gedrag_-_Samenvatting.pdf)
+* [Thema 9 Planten](../samenvattingen/T4_T9_Planten_-_Samenvatting.pdf)
+* [Thema 10 Regeling](../samenvattingen/T4_T10_Regeling_-Samenvatting.pdf)
+* [Thema 11 Zintuigen](../samenvattingen/T4_T11_Zintuigen_-_Samenvatting.pdf)
+* [Thema 12 Voeding en vertering](../samenvattingen/T4_T12_Voeding_en_vertering_-_Samenvatting.pdf)
+* [Thema 13 Opslag en afweer](../samenvattingen/T4_T13_Opslag_en_afweer_-Samenvatting.pdf)
+* [Thema 14 Gaswisseling en uitscheiding](../samenvattingen/T4_T14_Gaswisseling_en_uitscheiding_-_Samenvatting.pdf)
