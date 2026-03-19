@@ -14,6 +14,7 @@
 
 ### Samenvattingen
 
+
 #### PDF
 
 * [Alle samenvattingen](../samenvattingen/GT_alle_samenvattingen.pdf)
@@ -31,6 +32,7 @@
 * [Thema 12 Voeding en vertering](../samenvattingen/T4_T12_Voeding_en_vertering_-_Samenvatting.pdf)
 * [Thema 13 Opslag en afweer](../samenvattingen/T4_T13_Opslag_en_afweer_-Samenvatting.pdf)
 * [Thema 14 Gaswisseling en uitscheiding](../samenvattingen/T4_T14_Gaswisseling_en_uitscheiding_-_Samenvatting.pdf)
+
 
 #### TEXT
 
@@ -52,8 +54,34 @@
 * [Thema 16 Transport](../samenvattingen/16_T7_transport.md)
 * [Thema 17 Opslag en uitscheiding](../samenvattingen/17_T8_opslag_en_uitscheiding.md)
 
-
-#### Samengevat
+#### Samengevat (externe uitgave)
 
 * [Samengevat Biologie vmbo-kgt (PDF)](../samenvattingen/p001-140_Samengevat_Biologie_vmbo-kgt.pdf)
 * [Samengevat Biologie vmbo-kgt (DOC p0006-0134)](../samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt_nieuw.doc)
+
+
+## Planning
+
+### Week 1
+* Thema 1 Organismen en cellen
+* Thema 2 Voortplanting en seksualiteit
+* Thema 3 Erfelijkheid en evolutie
+
+### Week 2
+* Thema 4 Ordening
+* Thema 5 Stevigheid en beweging
+* Thema 6 Ecologie
+
+### Week 3
+* Thema 7 Duurzaam leven
+* Thema 8 Gedrag
+* Thema 9 Planten
+
+### Week 4
+* Thema 10 Regeling
+* Thema 11 Zintuigen
+* Thema 12 Voeding en vertering
+
+### Week 5
+* Thema 13 Opslag en afweer
+* Thema 14 Gaswisseling en uitscheiding
