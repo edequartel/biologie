@@ -14,7 +14,9 @@
 
 ### Samenvattingen
 
+#### PDF
 
+* [Alle samenvattingen](../samenvattingen/GT_alle_samenvattingen.pdf)
 * [Thema 1 Organismen en cellen](../samenvattingen/T3_T1_Organismen_en_cellen.pdf)
 * [Thema 2 Voortplanting en seksualiteit](../samenvattingen/T3_T2_Voortplanting_en_seksualiteit.pdf)
 * [Thema 3 Erfelijkheid en evolutie](../samenvattingen/T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
@@ -29,3 +31,29 @@
 * [Thema 12 Voeding en vertering](../samenvattingen/T4_T12_Voeding_en_vertering_-_Samenvatting.pdf)
 * [Thema 13 Opslag en afweer](../samenvattingen/T4_T13_Opslag_en_afweer_-Samenvatting.pdf)
 * [Thema 14 Gaswisseling en uitscheiding](../samenvattingen/T4_T14_Gaswisseling_en_uitscheiding_-_Samenvatting.pdf)
+
+#### TEXT
+
+* [Thema 1 Cellen](../samenvattingen/1_T1_cellen.md)
+* [Thema 2 Ordening](../samenvattingen/2_T2_ordening.md)
+* [Thema 3 Voortplanting en ontwikkeling](../samenvattingen/3_T3_voortplanting_en_ontwikkeling.md)
+* [Thema 4 Erfelijkheid](../samenvattingen/4_T4_erfelijkheid.md)
+* [Thema 5 Evolutie](../samenvattingen/5_T5_evolutie.md)
+* [Thema 6 Regeling](../samenvattingen/6_T6_regeling.md)
+* [Thema 7 Zintuiglijke waarneming](../samenvattingen/7_T7_zintuigelijke_waarneming.md)
+* [Thema 8 Stevigheid en beweging](../samenvattingen/8_T8_stevigheid_en_beweging.md)
+* [Thema 9 Gedrag](../samenvattingen/9_T9_gedrag.md)
+* [Thema 10 Stofwisseling](../samenvattingen/10_T1_stofwisseling.md)
+* [Thema 11 Planten](../samenvattingen/11_T2_planten.md)
+* [Thema 12 Ecologie](../samenvattingen/12_T3_ecologie.md)
+* [Thema 13 Mens en milieu](../samenvattingen/13_T4_mens_en_milieu.md)
+* [Thema 14 Voeding en vertering](../samenvattingen/14_T5_voeding_en_vertering.md)
+* [Thema 15 Gaswisseling](../samenvattingen/15_T6_gaswisseling.md)
+* [Thema 16 Transport](../samenvattingen/16_T7_transport.md)
+* [Thema 17 Opslag en uitscheiding](../samenvattingen/17_T8_opslag_en_uitscheiding.md)
+
+
+#### Samengevat
+
+* [Samengevat Biologie vmbo-kgt (PDF)](../samenvattingen/p001-140_Samengevat_Biologie_vmbo-kgt.pdf)
+* [Samengevat Biologie vmbo-kgt (DOC p0006-0134)](../samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt_nieuw.doc)
