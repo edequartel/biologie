@@ -34,6 +34,7 @@
 * [basisstof 4 - Planten en dieren](lessen/t4b4.md)  
 * [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
 * [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
+* [toets](toetsen/thema4aangepast.md)
 
 
 
@@ -52,7 +53,7 @@
 * [toets](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_basis.docx)
 * [toets aangepast](toetsen/thema3aangepast.md)
 * [toets antwoorden](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_antwoorden.docx)
-
+- [toets](toetsen/thema3erfelijkheid.md)
 
 #### Thema 2 Voortplanting en seksualteit MA
 

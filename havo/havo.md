@@ -34,7 +34,7 @@
 - [Basisstof 4, Geslachtshormonen](lessen/t3b4.md)
 - [Basisstof 5, Speciale manieren van overerven](lessen/t3b5.md)
 - [Basisstof 6, Opvoeding of aanleg](lessen/t3b6.md)
-
+- [Toets](toetsen/genetica.md)
 
 
 ## Thema 2: Voortplanting en seksualiteit

@@ -151,7 +151,7 @@ D. Je telt cellen
 9. Wat is het verschil tussen warmbloedig en koudbloedig?  
 10. Leg uit hoe een determineertabel werkt.  
 
-<!--
+
 Juist/Onjuist
 1. juist
 2. onjuist
@@ -197,4 +197,3 @@ Open vragen
 8. Omdat hun skelet niet meegroeit.  
 9. Warmbloedig is constant, koudbloedig volgt de omgeving.  
 10. Je beantwoordt vragen stap voor stap tot één soort overblijft.  
--->
