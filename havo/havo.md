@@ -25,6 +25,7 @@
 - [Basisstof 3, De evolutietheorie](lessen/t4b3.md)
 - [Basisstof 4, Evolutie in populaties](lessen/t4b4.md)
 - [Basisstof 5, Onderzoek naar evolutie](lessen/t4b5.md)
+- [Toets](toetsen/t4evolutie.md)
 
 ## Thema 3: Genetica / Erfelijkheid
 
