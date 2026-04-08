@@ -114,6 +114,7 @@
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.docx)
 * [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.docx)
 * [Thema 4 Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.docx)
+* [Thema 5 Stevigheid en beweging](begrippen/BVJ-3VMBO-GT-T5-begrippenlijst.docx)
 
 
 ### pdf
@@ -122,6 +123,7 @@
 * [Thema 2 Voortplanting en seksualteit](begrippen/BVJ-3VMBO-GT-T2-begrippenlijst.pdf)
 * [Thema 3 Erfelijkheid en evolutie](begrippen/BVJ-3VMBO-GT-T3-begrippenlijst.pdf)
 * [Thema 4 Ordening](begrippen/BVJ-3VMBO-GT-T4-begrippenlijst.pdf)
+* [Thema 5 Stevigheid en bewegingg](begrippen/BVJ-3VMBO-GT-T5-begrippenlijst.pdf)
 
 
 ## Antwoorden
@@ -132,6 +134,8 @@
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.docx)
 2. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.docx)
 3. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.docx)
+4. [Thema 5 Stevigheid en beweging](antwoorden/BVJ_3GT_UWB_T5.docx)
+
 
 ### pdf
 
@@ -139,6 +143,7 @@
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/BVJ_3GT_UWB_T2.pdf)
 3. [Thema 3 Erfelijkheid en evolutie](antwoorden/BVJ_3GT_UWB_T3.pdf)
 4. [Thema 4 Ordening](antwoorden/BVJ_3GT_UWB_T4.pdf)
+5. [Thema 5 Stevigheid en beweging](antwoorden/BVJ_3GT_UWB_T5.pdf)
 
 
 
@@ -147,7 +152,8 @@
 * [Thema 1 Organen en cellen](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
 * [Thema 2 Voortplanting en seksualiteit](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
 * [Thema 3 Erfelijkheid en evolutie](T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
-* [Thema 4 Evolutie](samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
+* [Thema 4 Ordening](samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
+* [Thema 5 Stevigheid en beweging](samenvattingen/T3_T5_Stevigheid_en_beweging_-_Samenvatting.pdf)
 
 <!--
 
