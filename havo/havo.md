@@ -5,8 +5,6 @@
 
 ## Lessen
 
-<!--
-
 ## Thema 5: Regeling
 
 - [Basisstof 1, Homeostase en regelkringen](lessen/t5b1.md)
@@ -15,8 +13,6 @@
 - [Basisstof 4, Reflexen en autonoom zenuwstelsel](lessen/t5b4.md)
 - [Basisstof 5, Impulsgeleiding](lessen/t5b5.md)
 - [Basisstof 6, Spieren en beweging](lessen/t5b6.md)
-
--->
 
 ## Thema 4: Evolutie
 
