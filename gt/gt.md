@@ -17,6 +17,14 @@
 
 ## Lessen
 
+#### Thema 6 Ecologie
+* [basisstof 1 - Eten en gegeten worden](lessen/t6b1.md)  
+* [basisstof 2 - Piramiden](lessen/t6b2.md)  
+* [basisstof 3 - Koolstofkringloop en stikstofkringloop](lessen/t6b3.md)  
+* [basisstof 4 - Biologisch evenwicht](lessen/t6b4.md)  
+* [basisstof 5 - Aanpassingen bij dieren](lessen/t6b5.md)  
+* [basisstof 6 - Aanpassingen bij planten](lessen/t6b6.md)  
+
 #### Thema 5 Stevigheid en beweging
 * [basisstof 1 - Het skelet van de mens](lessen/t5b1.md)  
 * [basisstof 2 - Kraakbeenweefsel en beenweefsel](lessen/t5b2.md)  
@@ -35,8 +43,6 @@
 * [basisstof 5 - Geleedpotigen en gewervelden](lessen/t4b5.md)  
 * [basisstof 6 - Organismen determineren](lessen/t4b6.md)  
 * [toets](toetsen/thema4aangepast.md)
-
-
 
 
 
