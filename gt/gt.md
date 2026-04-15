@@ -33,6 +33,10 @@
 * [basisstof 5 - Houding en beweging](lessen/t5b5.md)  
 * [basisstof 6 - Blessuren](lessen/t5b6.md)  
 
+<!--
+* [toets](toetsen/thema5stevigheidenbeweging.md)
+-->
+
 #### Thema 4 Ordening
 
 * [flitskaarten](https://notebooklm.google.com/notebook/6b88a7c9-ace7-4f5a-8983-16c30575a7a7?artifactId=7c0b5c28-702b-4faa-992c-8296b6d7c414)
