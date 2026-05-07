@@ -1,7 +1,11 @@
 # Havo
 
+<!--
 * [Lesplanning](lesplanning.md)
+-->
+
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-h-a.html)
+
 
 ## Lessen
 

@@ -1,6 +1,7 @@
 # BK
 
-* [Lesplanning](lesplanning.md)
+<!--* [Lesplanning](lesplanning.md) -->
+
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
 
 ## Examens 
