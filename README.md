@@ -6,6 +6,10 @@
 * [Gemengd Theoretisch VMBO](gt/gt.md)
 * [Basis en Kadergericht VMBO](bk/bk.md)
 
+## Buiten
+
+* [Vogels herkennen](openlessen/vogels-herkennen.md)
+
 ## Algemeen
 
 * [Verwachtingen bij biologielessen](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
