@@ -19,6 +19,7 @@
 ## Lessen
 
 #### Thema 6 Ecologie
+* [ecologie van een vogel](lessen/ecologie-vogel.md)
 * [basisstof 1 - Eten en gegeten worden](lessen/t6b1.md)  
 * [basisstof 2 - Piramiden](lessen/t6b2.md)  
 * [basisstof 3 - Koolstofkringloop en stikstofkringloop](lessen/t6b3.md)  
