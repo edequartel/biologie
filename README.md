@@ -10,6 +10,10 @@
 
 * [Vogels herkennen](openlessen/vogels-herkennen.md)
 
+## Biologie podcasts
+
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/index.php)
+
 ## Algemeen
 
 * [Verwachtingen bij biologielessen](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
