@@ -1,6 +1,9 @@
 # Biologie - GT
 
-# Toets
+## Biologie podcasts
+
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/gt.php)
+
 
 <!--
 * [Toets Ordening](toetsen/thema4aangepast.md)

@@ -4,7 +4,10 @@
 * [Lesplanning](lesplanning.md)
 -->
 
-* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-h-a.html)
+## Biologie podcasts
+
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havo.php)
+* [Spotify  Brain Bananas](https://edequartel.github.io/Spotify-client/minimal-h-a.html)
 
 
 ## Lessen

@@ -2,6 +2,9 @@
 
 <!--* [Lesplanning](lesplanning.md) -->
 
+## Biologie podcasts
+
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
 * [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
 
 ## Examens 
@@ -14,6 +17,7 @@
 
 #### Thema 5 Ecologie
 
+- [ecologie vogel](lessen/ecologie-vogel.md)
 - [Basisstof 1, Fotosynthese en verbranding](lessen/t5b1.md)
 - [Basisstof 2, Eten en gegeten worden](lessen/t5b2.md)
 - [Basisstof 3, Organismen en hun leefomgeving](lessen/t5b3.md)

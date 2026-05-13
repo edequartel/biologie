@@ -10,9 +10,6 @@
 
 * [Vogels herkennen](openlessen/vogels-herkennen.md)
 
-## Biologie podcasts
-
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/index.php)
 
 ## Algemeen
 
