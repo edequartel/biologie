@@ -1,5 +1,9 @@
 # Biologie - GT
 
+## Examens mondeling
+
+* [afspeellijst](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
+
 ## Biologie podcasts
 
 * [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/gt.php)

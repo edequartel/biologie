@@ -2,10 +2,14 @@
 
 <!--* [Lesplanning](lesplanning.md) -->
 
+## Examens mondeling
+
+* [afspeellijst](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
+
 ## Biologie podcasts
 
 * [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
-* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-bk-a.html)
+
 
 ## Examens 
 
