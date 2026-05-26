@@ -1,8 +1,10 @@
 # Biologie Examen - Kaderberoepsgericht
 
+<!--
 ## Examens
 - [Examen KBL opgaven](examens-k/examen-KBL-biologie-opgaven.pdf)
 - [Examen KBL antwoorden](examens-k/examen-KBL-biologie-antwoorden.pdf)
+-->
 
 ## Samenvattingen
 * [Thema 1 Organen en cellen](../samenvattingK/T1_Organen_en_cellen.pdf)

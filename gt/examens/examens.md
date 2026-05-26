@@ -1,4 +1,6 @@
 ## Examens
+
+<!--
 - [Examen GT opgaven](examen-gt-biologie-opgaven.pdf)
 - [Examen GT antwoorden](examen-gt-biologie-correctie.pdf)
 
@@ -11,6 +13,8 @@
 - [Examen 2022 1 van 2 GT opgaven](Braille_Biologie_VMBO_GT_2022_TV1_deel-1-van-1.docx)
 - [Examen 2023 1 van 2 GT opgaven](Braille_Biologie_VMBO_GT_2023_TV1_deel1van1.docx)
 - [Examen 2024 1 van 2 GT opgaven](Biologie-VMBO-GL-TL-2024-1-aangepast.docx)
+
+-->
 
 ### Samenvattingen
 
@@ -59,6 +63,7 @@
 * [Samengevat Biologie vmbo-kgt (PDF)](../samenvattingen/p001-140_Samengevat_Biologie_vmbo-kgt.pdf)
 * [Samengevat Biologie vmbo-kgt (DOC p0006-0134)](../samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt_nieuw.doc)
 
+<!--
 
 ## Planning
 
@@ -85,3 +90,4 @@
 ### Week 5
 * Thema 13 Opslag en afweer
 * Thema 14 Gaswisseling en uitscheiding
+* -->

@@ -1,9 +1,11 @@
 # Biologie Examen - Basisberoeps
 
+<!--
 ## Examens
 
 - [Examen BBL opgaven](examens-b/examen-BBL-biologie-opgaven.pdf)
 - [Examen BBL antwoorden](examens-b/examen-BBL-biologie-antwoorden.pdf)
+-->
 
 ## Samenvattingen
 

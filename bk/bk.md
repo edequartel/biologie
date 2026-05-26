@@ -4,12 +4,11 @@
 
 ## Examens mondeling
 
-* [afspeellijst](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
+* [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
 
 ## Biologie podcasts
 
 * [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
-
 
 ## Examens 
 
