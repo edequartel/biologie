@@ -20,6 +20,7 @@
 * [Thema 11 Transport en afweer](../samenvattingen/T11_transport_en_afweer.pdf)
 * [Thema 12 Gaswisseling en uitscheiding](../samenvattingen/T12_gaswisseling_en_uitscheiding.pdf)
 
+<!--
 
 ## Planning 
 
@@ -44,3 +45,4 @@
 ### Week 5
 * Thema 11 Transport en afweer
 * Thema 12 Gaswisseling en uitscheiding
+-->
