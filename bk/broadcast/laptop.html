@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="nl">
+<head>
+  <meta charset="utf-8">
+  <title>BrailleStudio sessie</title>
+</head>
+<body>
+  <h1>BrailleStudio laptop sessie</h1>
+  <p id="status">Wachten op opdracht...</p>
+
+  <script type="module">
+    import { createClient } from "https://esm.sh/@supabase/supabase-js@2";
+
+    const SUPABASE_URL = "https://JOUWPROJECT.supabase.co";
+    const SUPABASE_ANON_KEY = "JOUW_ANON_KEY";
+
+    const supabase = createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
+
+    const params = new URLSearchParams(window.location.search);
+    const sessionCode = params.get("session") || "demo";
+
+    const channel = supabase.channel("braillestudio-" + sessionCode);
+
+    channel.on(
+      "broadcast",
+      { event: "start-script" },
+      (message) => {
+        const payload = message.payload;
+
+        document.getElementById("status").textContent =
+          "Script ontvangen: " + payload.scriptId;
+
+        console.log("Start script:", payload.scriptId);
+
+        // Jouw bestaande BrailleStudio functie:
+        // loadWorkspaceOnline(payload.scriptId);
+
+        if (typeof loadWorkspaceOnline === "function") {
+          loadWorkspaceOnline(payload.scriptId);
+        }
+      }
+    );
+
+    channel.subscribe((status) => {
+      console.log("Realtime status:", status);
+      document.getElementById("status").textContent =
+        "Verbonden met sessie: " + sessionCode;
+    });
+  </script>
+</body>
+</html>

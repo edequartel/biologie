@@ -5,6 +5,7 @@
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
+* [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
 
 ## Biologie podcasts
 
