@@ -1,5 +1,8 @@
 # Biologie - GT
 
+## BrainBananas test
+[Test je kennis](https://www.tastenbraille.com/brainbananas/student.php)
+
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)

@@ -1,6 +1,8 @@
 # BK
 
 <!--* [Lesplanning](lesplanning.md) -->
+## BrainBananas test
+[Test je kennis](https://www.tastenbraille.com/brainbananas/student.php)
 
 ## Examens mondeling
 
