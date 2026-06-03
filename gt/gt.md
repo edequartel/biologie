@@ -10,7 +10,7 @@
 
 ## Podcasts
 
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/gts.php)
 
 
 ## Examen Samenvatting
