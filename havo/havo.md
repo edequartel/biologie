@@ -4,13 +4,20 @@
 * [Lesplanning](lesplanning.md)
 -->
 
-## BrainBananas test
-[Test je kennis](https://www.tastenbraille.com/brainbananas/student.php)
+## Live test
+* [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 
-## Biologie podcasts
+<!--
+## Examens mondeling
 
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havo.php)
-* [Spotify  Brain Bananas](https://edequartel.github.io/Spotify-client/minimal-h-a.html)
+* [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
+* [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
+*-->
+
+## Podcasts
+
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
+
 
 
 ## Lessen

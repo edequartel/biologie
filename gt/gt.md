@@ -1,16 +1,17 @@
 # Biologie - GT
 
-## BrainBananas test
-[Test je kennis](https://www.tastenbraille.com/brainbananas/student.php)
+## Live test
+* [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
 
-## Biologie podcasts
+## Podcasts
 
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/gt.php)
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
+
 
 ## Examen Samenvatting
 
