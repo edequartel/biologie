@@ -34,33 +34,9 @@
 <!-- mb ede@b.nl inloggen bartimeus account -->
 <!-- lessonup Zeemeeuw2015! -->
 
+
 ## Werkwijze
-1. **Terugkijken en nakijken**:
-   - Bespreken en nakijken van gemaakt werk.
-   - Mogelijk een overhoring van de geleerde stof.
-
-2. **Uitleg van nieuwe basistof**:
-   - Klassikale uitleg van de komende basisstof.
-
-3. **In de les maken van de basistof**:
-   - Leerlingen maken opdrachten of basisstof in de les.
-
-4. **Huiswerk**:
-   - Wat niet in de les af is, wordt als huiswerk opgegeven.
-   - Kijk je gemaakte werk na met het antwoordenboek. Deze staat op de website.
-   - Huiswerk is te vinden in de lesplanning en Somtoday.
-
-5. **Overhoring** (mondelinge toets):
-   - Je krijgt een cijfer voor de mondelinge toets. Dit cijfer telt één keer mee,
-
-6. **Toetsvragen** 
-	- Wanneer je een extra cijfer wil kun je antwoorden met de vragen via een mai sturen, deze worden dan direct nagekeken.
-
-6. **Tussentijdse toets**
-   - Na drie of vier basisstoffen kan er een toets komen. Die telt drie keer meer,
- 
-6. **Toets**
-   - Einde van thema een **toets** die zes keer meetelt.
+* [Werkwijze in de les](werkwijze.md)
 
 
 ## Toets
