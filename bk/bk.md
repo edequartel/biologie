@@ -29,7 +29,7 @@
 - [Basisstof 3, Organismen en hun leefomgeving](lessen/t5b3.md)
 - [Basisstof 4, Aanpassingen bij dieren](lessen/t5b4.md)
 - [Basisstof 5, Aanpassingen bij planten](lessen/t5b5.md)
-- [Basisstof 6, Samenhang](lessen/t5b6.md)
+- [Basisstof 6, Ecologisch onderzoek doen](lessen/t5b6.md)
 
 
 #### Thema 4 Stevigheid en beweging

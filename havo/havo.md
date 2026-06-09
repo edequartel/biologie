@@ -16,7 +16,7 @@
 
 ## Podcasts
 
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havos.php)
+* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havo.php)
 
 
 
