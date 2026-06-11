@@ -22,6 +22,15 @@
 
 ## Lessen
 
+## Thema 6: Waarneming en gedrag
+
+- [Basisstof 1, Zintuigen](lessen/t6b1.md)
+- [Basisstof 2, Het oog](lessen/t6b2.md)
+- [Basisstof 3, Gedrag](lessen/t6b3.md)
+- [Basisstof 4, Beïnvloeden van gedrag](lessen/t6b4.md)
+- [Basisstof 5, Sociaal gedrag bij dieren](lessen/t6b5.md)
+- [Basisstof 6, Gedrag bij mensen](lessen/t6b6.md)
+
 ## Thema 5: Regeling
 
 - [Basisstof 1, Homeostase en regelkringen](lessen/t5b1.md)
