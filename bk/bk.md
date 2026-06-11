@@ -104,11 +104,11 @@
 
 ## Samenvattingen
 
-* [Thema 1 Organen en cellen](samenvattingen/BVJ_3vmboB_LWB_A_T1_samenvatting.pdf)
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/BVJ_3vmboB_LWB_A_T2_samenvatting.pdf)
-* [Thema 3 Ordening](samenvattingen/BVJ_3vmboB_LWB_A_T3_samenvatting.pdf)
-* [Thema 4 Stevigheid en beweging](samenvattingen/BVJ_3vmboB_LWB_A_T4_samenvatting.pdf)
-* [Thema 5 Ecologie](samenvattingen/BVJ_3vmboB_LWB_A_T5_samenvatting.pdf)
+* [Thema 1 Organen en cellen](samenvattingen/T1_Organen_en_cellen.pdf)
+* [Thema 2 Voortplanting en seksualiteit](samenvattingen/T2_Voortplanting_en_seksualiteit.pdf)
+* [Thema 3 Ordening](samenvattingen/T3_Ordening.pdf)
+* [Thema 4 Stevigheid en beweging](samenvattingen/T4_Stevigheid_en_beweging.pdf)
+* [Thema 5 Ecologie](samenvattingen/T5_ecologie.pdf)
 
 ## Antwoorden B
 
