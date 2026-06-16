@@ -20,6 +20,15 @@
 
 ## Lessen
 
+#### Thema 6 Duurzaam leven
+
+- [Basisstof 1, De mens en het milieu](lessen/t6b1.md)
+- [Basisstof 2, Voedselproductie](lessen/t6b2.md)
+- [Basisstof 3, Duurzame landbouw](lessen/t6b3.md)
+- [Basisstof 4, Energie](lessen/t6b4.md)
+- [Basisstof 5, Klimaatverandering](lessen/t6b5.md)
+- [Basisstof 6, Water, bodem en afval](lessen/t6b6.md)
+
 
 #### Thema 5 Ecologie
 
@@ -100,6 +109,7 @@
 * [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
 * [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.pdf)
 * [Thema 5 Ecologie](begrippenbb/BVJ-3VMBO-B-T5-begrippenlijst.pdf)
+* [Thema 6 Duurzaam leven](begrippenbb/BVJ-3VMBO-B-T6-begrippenlijst.pdf)
 
 
 ## Samenvattingen
@@ -109,6 +119,7 @@
 * [Thema 3 Ordening](samenvattingen/T3_Ordening.pdf)
 * [Thema 4 Stevigheid en beweging](samenvattingen/T4_Stevigheid_en_beweging.pdf)
 * [Thema 5 Ecologie](samenvattingen/T5_ecologie.pdf)
+* [Thema 6 Duurzaam leven](samenvattingen/T6_Duurzaam_leven.pdf)
 
 ## Antwoorden B
 
@@ -117,7 +128,7 @@
 3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
 4. [Thema 4 Stevigheid en beweging](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T4.pdf)
 5. [Thema 5 Ecologie](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T5.pdf)
-
+5. [Thema 6 Duurzaam leven](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T6.pdf)
 
 ## Antwoorden K
 
@@ -126,5 +137,6 @@
 3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
 3. [Thema 4 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T4.pdf)
 4. [Thema 5 Ecologie](antwoordenk/Bvj_3K_UWB_T5.pdf)
+5. [Thema 6 Duurzaam leven](antwoordenk/Bvj_3K_UWB_T6.pdf)
 
 
