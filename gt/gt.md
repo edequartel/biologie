@@ -34,6 +34,15 @@
 
 ## Lessen
 
+#### Thema 7 Duurzaam leven
+* [basisstof 1 - De mens en het milieu](lessen/t7b1.md)  
+* [basisstof 2 - Voedselproductie](lessen/t7b2.md)  
+* [basisstof 3 - Duurzame landbouw](lessen/t7b3.md)  
+* [basisstof 4 - Energie](lessen/t7b4.md)  
+* [basisstof 5 - Klimaatverandering](lessen/t7b5.md)  
+* [basisstof 6 - Water](lessen/t7b6.md)  
+* [basisstof 7 - Bodem en afval](lessen/t7b7.md)
+
 #### Thema 6 Ecologie
 * [ecologie van een vogel](lessen/ecologie-vogel.md)
 * [basisstof 1 - Eten en gegeten worden](lessen/t6b1.md)  
@@ -187,7 +196,7 @@
 * [Thema 3 Erfelijkheid en evolutie](T3_T3_Erfelijkheid_en_evolutie_-_Samenvatting.pdf)
 * [Thema 4 Ordening](samenvattingen/T3_T4_Ordening_-_Samenvatting.pdf)
 * [Thema 5 Stevigheid en beweging](samenvattingen/T3_T5_Stevigheid_en_beweging_-_Samenvatting.pdf)
-* [Thema 6 Ecologie](samenvattingen/T3_T6_ecologie_-_Samenvatting.pdf)
+* [Thema 6 Ecologie](samenvattingen/T3_T6_Ecologie_-_Samenvatting.pdf)
 
 <!--
 
