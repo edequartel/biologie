@@ -18,9 +18,20 @@
 
 * [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havo.php)
 
-
-
 ## Lessen
+
+## Thema 7 Ecologie en milieu
+
+- [Basisstof 1, Organismen](lessen/t7b1.md)
+- [Basisstof 2, Populaties](lessen/t7b2.md)
+- [Basisstof 3, Ecosystemen](lessen/t7b3.md)
+- [Basisstof 4, Veranderende ecosystemen](lessen/t7b4.md)
+- [Basisstof 5, Kringlopen](lessen/t7b5.md)
+- [Basisstof 6, Duurzaamheid en natuurbescherming](lessen/t7b6.md)
+- [Basisstof 7, Voedselproductie](lessen/t7b7.md)
+- [Basisstof 8, Energie](lessen/t7b8.md)
+
+
 
 ## Thema 6: Waarneming en gedrag
 
