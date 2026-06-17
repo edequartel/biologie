@@ -2,6 +2,7 @@
 
 ## Live test
 * [Live test](https://www.tastenbraille.com/brainbananas/student.php)
+* [Bord](https://tastenbraille.com/brainbananas/comment-student.php)
 
 ## Examens mondeling
 
