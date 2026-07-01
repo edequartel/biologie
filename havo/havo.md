@@ -3,6 +3,8 @@
 <!--
 * [Lesplanning](lesplanning.md)
 -->
+## Luisteren word handleiding
+* [Luisteren in word](lessen/luisteren.md)
 
 ## Live test
 * [Live test](https://www.tastenbraille.com/brainbananas/student.php)
