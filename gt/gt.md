@@ -4,10 +4,12 @@
 * [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 * [Bord](https://tastenbraille.com/brainbananas/comment-student.php)
 
+<!--
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
+-->
 
 ## Podcasts
 
@@ -34,6 +36,17 @@
 * -->
 
 ## Lessen
+
+#### Thema 9 Planten
+
+- [basisstof 1 - Bladeren](lessen/t9b1.md)
+- [basisstof 2 - Stengels en wortels](lessen/t9b2.md)
+- [basisstof 3 - Glucose als grondstof](lessen/t9b3.md)
+- [basisstof 4 - Voortplanting](lessen/t9b4.md)
+- [basisstof 5 - Bestuiving, bevruchting en verspreiding](lessen/t9b5.md)
+- [basisstof 6 - Ontkieming, groei en ontwikkeling](lessen/t9b6.md)
+
+#### Thema 8 Gedrag
 
 #### Thema 7 Duurzaam leven
 * [basisstof 1 - De mens en het milieu](lessen/t7b1.md)  

@@ -22,6 +22,15 @@
 
 ## Lessen
 
+## Thema 8 Stofwisseling in de cel
+
+- [Basisstof 1, Stofwisseling, assimilatie en dissimilatie](lessen/t8b1.md)
+- [Basisstof 2, Enzymen](lessen/t8b2.md)
+- [Basisstof 3, Fotosynthese](lessen/t8b3.md)
+- [Basisstof 4, Voortgezette assimilatie](lessen/t8b4.md)
+- [Basisstof 5, Aerobe en anaerobe dissimilatie van glucose](lessen/t8b5.md)
+- [Basisstof 6, Voorwaarden voor fotosynthese](lessen/t8b6.md)
+
 ## Thema 7 Ecologie en milieu
 
 - [Basisstof 1, Organismen](lessen/t7b1.md)

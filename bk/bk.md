@@ -4,10 +4,12 @@
 ## Live test
 * [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 
+<!--
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
+-->
 
 ## Podcasts
 
@@ -16,9 +18,19 @@
 ## Examens 
 
 * [Examen KBL](../bk/examens-k/examenK.md)
-* [Examen BBL](../bk/examens-b/examenBBL.md)
+* [Examen BBL](../bk/examens-b/examenBBL.md) 
 
 ## Lessen
+
+#### Thema 7 Planten
+
+- [Basisstof 1, Bladeren](lessen/t7b1.md)
+- [Basisstof 2, Stengels en wortels](lessen/t7b2.md)
+- [Basisstof 3, Glucose als grondstof](lessen/t7b3.md)
+- [Basisstof 4, Voortplanting](lessen/t7b4.md)
+- [Basisstof 5, Bestuiving en bevruchting](lessen/t7b5.md)
+- [Basisstof 6, Ontkieming, groei en ontwikkeling](lessen/t7b6.md)
+
 
 #### Thema 6 Duurzaam leven
 
