@@ -1,10 +1,10 @@
 # Biologie - GT
-
+<!--
 ## Live test
 * [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 * [Bord](https://tastenbraille.com/brainbananas/comment-student.php)
 
-<!--
+
 ## Examens mondeling
 
 * [Afspeellijst modellen Youtube](https://www.youtube.com/playlist?list=PLqBh3W6ezpHgB7mxcMRJaWwAgVXYpU6r4)
@@ -19,6 +19,10 @@
 ## Examen Samenvatting
 
 * [Examen GT](examens/examens.md)
+
+## Antwoordenboek
+
+* [Antwoordenboek 4A](antwoorden/601930_Bvj_4GT_UWB_deel A.pdf)
 
 
 <!--
