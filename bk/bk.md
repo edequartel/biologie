@@ -20,6 +20,9 @@
 * [Examen KBL](../bk/examens-k/examenK.md)
 * [Examen BBL](../bk/examens-b/examenBBL.md) 
 
+## Antwoordenboek
+* [Antwoorden boek 4a](antwoordenbb/601926_BVJ_4B_AWB_A_LR.pdf)
+
 ## Lessen
 
 #### Thema 7 Planten
