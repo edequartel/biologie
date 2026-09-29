@@ -30,6 +30,7 @@
 - [Basisstof 4, Voortgezette assimilatie](lessen/t8b4.md)
 - [Basisstof 5, Aerobe en anaerobe dissimilatie van glucose](lessen/t8b5.md)
 - [Basisstof 6, Voorwaarden voor fotosynthese](lessen/t8b6.md)
+- [Praktijk Assimilatie en Dissimilatie](lessen/praktijk_assimilatie_dissimilatie.md)
 
 ## Thema 7 Ecologie en milieu
 
