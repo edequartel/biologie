@@ -115,6 +115,36 @@ function renderMarkdown(string $source, string $document): string
     return $output;
 }
 
+function homepageContent(string $source): array
+{
+    $html = renderMarkdown($source, 'README.md');
+    $dom = new DOMDocument();
+    $previous = libxml_use_internal_errors(true);
+    $dom->loadHTML('<?xml encoding="UTF-8"><div id="home-root">' . $html . '</div>', LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
+    libxml_clear_errors();
+    libxml_use_internal_errors($previous);
+    $links = '';
+    foreach ($dom->getElementsByTagName('h2') as $heading) {
+        if (mb_strtolower(trim($heading->textContent), 'UTF-8') !== 'links') {
+            continue;
+        }
+        $node = $heading->nextSibling;
+        $heading->parentNode->removeChild($heading);
+        while ($node && !in_array(strtolower($node->nodeName), ['h1', 'h2'], true)) {
+            $next = $node->nextSibling;
+            $links .= $dom->saveHTML($node);
+            $node->parentNode->removeChild($node);
+            $node = $next;
+        }
+        break;
+    }
+    $content = '';
+    foreach ($dom->getElementById('home-root')->childNodes as $node) {
+        $content .= $dom->saveHTML($node);
+    }
+    return ['content' => $content, 'links' => $links];
+}
+
 function canPull(): bool
 {
     return (bool) getenv('BIOLOGIE_ADMIN_PASSWORD')

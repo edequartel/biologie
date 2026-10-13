@@ -23,6 +23,12 @@ a:hover { color: #0b3526; }
 label { font-size: .9rem; font-weight: 600; }
 .form-control { min-height: 44px; font-size: 1rem; }
 .update-panel { border-top: 1px solid #b6c9be; padding-top: 1rem; }
+.sidebar-links { border-top: 1px solid #b6c9be; padding-block: 1rem; }
+.sidebar-links h2 { margin: 0 0 .6rem; font-size: 1.15rem; }
+.sidebar-links ul { list-style: none; padding: 0; margin: 0; }
+.sidebar-links li { margin: 0; }
+.sidebar-links a { display: block; padding: .6rem .8rem; min-height: 44px; border-radius: .4rem; overflow-wrap: anywhere; }
+.sidebar-links a:hover { background: #e0ebe2; }
 summary { cursor: pointer; min-height: 44px; font-weight: 600; }
 .update-panel form { display: grid; gap: .6rem; }
 .content-card { border: 1px solid #d7e2da; border-radius: .9rem; box-shadow: 0 8px 32px #183e2910; }

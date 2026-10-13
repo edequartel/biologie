@@ -54,6 +54,8 @@ if (!$selected && !$catalogue) {
 $title = $catalogue ? 'Alle lesmaterialen' : ($selected['title'] ?? 'Pagina niet gevonden');
 $groups = ['algemeen' => 'Algemeen', 'bk' => 'Basis en kader', 'gt' => 'Gemengd theoretisch', 'havo' => 'Havo', 'openlessen' => 'Open lessen', 'lesplanning' => 'Lesplanning', 'media' => 'Media'];
 $matches = array_filter($documents, static fn ($item, $path) => $query === '' || mb_stripos($item['title'] . ' ' . $path, $query) !== false, ARRAY_FILTER_USE_BOTH);
+$home = !$catalogue && $page === 'README.md' && $selected
+    ? homepageContent((string) file_get_contents(contentPath($page))) : null;
 ?>
 <!doctype html>
 <html lang="nl">
@@ -92,6 +94,12 @@ $matches = array_filter($documents, static fn ($item, $path) => $query === '' ||
             <input class="form-control" id="search" name="q" type="search" value="<?= escape($query) ?>" placeholder="Bijvoorbeeld: ecologie">
             <button class="btn btn-primary" type="submit">Zoeken</button>
         </form>
+        <?php if ($home && trim($home['links']) !== ''): ?>
+        <nav class="sidebar-links" aria-labelledby="links">
+            <h2 id="links">Links</h2>
+            <?= $home['links'] ?>
+        </nav>
+        <?php endif; ?>
         <details class="update-panel">
             <summary>Website bijwerken</summary>
             <p>Haal de nieuwste bestanden op uit Git.</p>
@@ -128,7 +136,7 @@ $matches = array_filter($documents, static fn ($item, $path) => $query === '' ||
             <?php endforeach; ?>
             <?php if (!$matches): ?><p>Geen bestanden gevonden. Probeer een andere zoekterm.</p><?php endif; ?>
         <?php elseif ($selected): ?>
-            <article class="markdown"><?= renderMarkdown((string) file_get_contents(contentPath($page)), $page) ?></article>
+            <article class="markdown"><?= $home ? $home['content'] : renderMarkdown((string) file_get_contents(contentPath($page)), $page) ?></article>
         <?php else: ?>
             <h1>Pagina niet gevonden</h1><p>Dit Markdown-bestand bestaat niet of is niet beschikbaar.</p><a href="index.php?browse=1">Bekijk alle lesmaterialen</a>
         <?php endif; ?>
