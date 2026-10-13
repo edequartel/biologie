@@ -1,5 +1,5 @@
 # Open lessen
 
-* [Geheimschrift](openlessen/geheimschrift.md)
-* [Stappenplan](openlessen/stappenplan.md)
+* [Geheimschrift](geheimschrift.md)
+* [Stappenplan](stappenplan.md)
 * [Stickman](https://animating.rocks)

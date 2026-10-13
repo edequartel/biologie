@@ -48,7 +48,7 @@ $page = is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md';
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
-$sectionNames = ['links' => 'Links', 'algemeen' => 'Algemeen', 'media' => 'Media', 'veldwerk' => 'Veldwerk'];
+$sectionNames = ['links' => 'Links', 'algemeen' => 'Algemeen', 'media' => 'Media', 'veldwerk' => 'Veldwerk', 'materiaal' => 'Materiaal'];
 $section = is_string($_GET['section'] ?? null) ? $_GET['section'] : (isset($_GET['links']) ? 'links' : '');
 if (in_array($section, ['werkwijze', 'toets'], true)) {
     $section = 'algemeen';
@@ -135,6 +135,9 @@ $home = !$catalogue && $page === 'README.md' && $selected
                 <?php elseif ($section === 'veldwerk'): ?>
                     <h2 id="buiten">Buiten</h2>
                     <?= $home['sections']['buiten'] ?>
+                <?php elseif ($section === 'materiaal'): ?>
+                    <h2 id="papier">Papier</h2>
+                    <?= $home['sections']['papier'] ?>
                 <?php else: ?>
                     <?= $home['sections'][$section] ?>
                 <?php endif; ?>
