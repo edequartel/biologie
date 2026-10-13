@@ -123,7 +123,7 @@ function homepageContent(string $source): array
     $dom->loadHTML('<?xml encoding="UTF-8"><div id="home-root">' . $html . '</div>', LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
     libxml_clear_errors();
     libxml_use_internal_errors($previous);
-    $sections = array_fill_keys(['links', 'algemeen', 'werkwijze', 'toets'], '');
+    $sections = array_fill_keys(['links', 'algemeen', 'werkwijze', 'toets', 'video', 'buiten'], '');
     // Snapshot the headings because removing nodes changes the live DOM list.
     foreach (iterator_to_array($dom->getElementsByTagName('h2')) as $heading) {
         $key = mb_strtolower(trim($heading->textContent), 'UTF-8');

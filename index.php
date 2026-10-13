@@ -48,8 +48,11 @@ $page = is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md';
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
-$sectionNames = ['links' => 'Links', 'algemeen' => 'Algemeen', 'werkwijze' => 'Werkwijze', 'toets' => 'Toets'];
+$sectionNames = ['links' => 'Links', 'algemeen' => 'Algemeen', 'media' => 'Media', 'veldwerk' => 'Veldwerk'];
 $section = is_string($_GET['section'] ?? null) ? $_GET['section'] : (isset($_GET['links']) ? 'links' : '');
+if (in_array($section, ['werkwijze', 'toets'], true)) {
+    $section = 'algemeen';
+}
 if ($catalogue || $page !== 'README.md' || !isset($sectionNames[$section])) {
     $section = '';
 }
@@ -124,7 +127,24 @@ $home = !$catalogue && $page === 'README.md' && $selected
         <?php endif; ?>
         <div class="card content-card"><div class="card-body">
         <?php if ($section !== '' && $home): ?>
-            <article class="markdown"><h1 id="<?= escape($section) ?>"><?= escape($sectionNames[$section]) ?></h1><?= $home['sections'][$section] ?></article>
+            <article class="markdown">
+                <h1 id="<?= escape($section) ?>"><?= escape($sectionNames[$section]) ?></h1>
+                <?php if ($section === 'media'): ?>
+                    <h2 id="video">Video</h2>
+                    <?= $home['sections']['video'] ?>
+                <?php elseif ($section === 'veldwerk'): ?>
+                    <h2 id="buiten">Buiten</h2>
+                    <?= $home['sections']['buiten'] ?>
+                <?php else: ?>
+                    <?= $home['sections'][$section] ?>
+                <?php endif; ?>
+                <?php if ($section === 'algemeen'): ?>
+                    <h2 id="werkwijze">Werkwijze</h2>
+                    <?= $home['sections']['werkwijze'] ?>
+                    <h2 id="toets">Toets</h2>
+                    <?= $home['sections']['toets'] ?>
+                <?php endif; ?>
+            </article>
         <?php elseif ($catalogue): ?>
             <h1>Alle lesmaterialen</h1>
             <p class="intro"><?= count($matches) ?> bestanden<?= $query !== '' ? ' gevonden voor "' . escape($query) . '"' : '. Nieuwe Markdown-bestanden verschijnen hier automatisch.' ?></p>
