@@ -52,9 +52,6 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 - [Lets talk about sex](https://schooltv.nl/item/lets-talk-about-sex-baby)
 
 
-## Open lessen
-* [Extra lessen](openlessen/openlessen.md)
-
 ## Papier
 * [lijntjespapier PDF](media/lijntjespapier.pdf)
 * [lijntjespapier DOCX](media/lijntjespapier.docx)

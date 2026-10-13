@@ -88,14 +88,13 @@ $home = !$catalogue && $page === 'README.md' && $selected
 </header>
 <div class="container-xl site-layout">
     <aside class="sidebar" aria-label="Navigatie en zoeken">
-        <p class="eyebrow">LEREN & ONTDEKKEN</p>
         <nav aria-label="Hoofdnavigatie">
             <a class="nav-item" href="index.php" <?= !$catalogue && $section === '' && $page === 'README.md' ? 'aria-current="page"' : '' ?>>Startpagina</a>
             <?php foreach ($sectionNames as $key => $label): ?>
             <a class="nav-item" href="index.php?section=<?= escape($key) ?>" <?= $section === $key ? 'aria-current="page"' : '' ?>><?= escape($label) ?></a>
             <?php endforeach; ?>
             <a class="nav-item" href="index.php?browse=1" <?= $catalogue ? 'aria-current="page"' : '' ?>>Alle lesmaterialen <span class="badge"><?= count($documents) ?></span></a>
-            <?php foreach (['bk/bk.md', 'gt/gt.md', 'havo/havo.md', 'openlessen/openlessen.md'] as $entry): ?>
+            <?php foreach (['openlessen/openlessen.md'] as $entry): ?>
             <?php if (isset($documents[$entry])): ?>
             <a class="nav-item" href="index.php?page=<?= rawurlencode($entry) ?>" <?= !$catalogue && $page === $entry ? 'aria-current="page"' : '' ?>><?= escape($groups[$documents[$entry]['group']] ?? $documents[$entry]['title']) ?></a>
             <?php endif; endforeach; ?>
@@ -121,7 +120,6 @@ $home = !$catalogue && $page === 'README.md' && $selected
         </details>
     </aside>
     <main id="inhoud" tabindex="-1">
-        <div class="page-heading"><p class="eyebrow">BIOLOGIE / <?= escape($catalogue ? 'BIBLIOTHEEK' : strtoupper($groups[$selected['group'] ?? 'algemeen'] ?? 'LESMATERIAAL')) ?></p></div>
         <?php if ($flash): ?>
         <div class="alert <?= $flash[0] ? 'alert-success' : 'alert-danger' ?>" role="status"><strong><?= $flash[0] ? 'Website bijgewerkt' : 'Bijwerken niet gelukt' ?></strong><pre><?= escape($flash[1]) ?></pre></div>
         <?php endif; ?>
