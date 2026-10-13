@@ -8,6 +8,11 @@ function escape(string $value): string
     return htmlspecialchars($value, ENT_QUOTES | ENT_SUBSTITUTE, 'UTF-8');
 }
 
+function assetUrl(string $path): string
+{
+    return $path . '?v=' . substr(hash_file('sha256', dirname(__DIR__) . '/' . $path), 0, 12);
+}
+
 function contentPath(string $path): ?string
 {
     $root = dirname(__DIR__);

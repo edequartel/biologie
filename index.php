@@ -71,10 +71,10 @@ $home = !$catalogue && $page === 'README.md' && $selected
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?= escape($title) ?> | Biologie</title>
-    <script src="assets/theme.js"></script>
+    <script src="<?= escape(assetUrl('assets/theme.js')) ?>"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css">
-    <link rel="stylesheet" href="assets/site.css">
-    <script src="assets/site.js" defer></script>
+    <link rel="stylesheet" href="<?= escape(assetUrl('assets/site.css')) ?>">
+    <script src="<?= escape(assetUrl('assets/site.js')) ?>" defer></script>
 </head>
 <body>
 <a class="skip-link" href="#inhoud">Direct naar de inhoud</a>
