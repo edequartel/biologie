@@ -1,0 +1,9 @@
+Options -Indexes
+DirectoryIndex index.php
+RewriteEngine On
+RewriteRule (^|/)\. - [F,L]
+RewriteRule ^(?:website|tests)/ - [F,L]
+RewriteRule ^router\.php$ - [F,L]
+<FilesMatch "(?i)\.(md|json|txt|lock)$">
+    Require all denied
+</FilesMatch>
