@@ -45,9 +45,32 @@ pre { overflow-x: auto; white-space: pre-wrap; overflow-wrap: anywhere; padding:
 .document-list a { display: block; padding-block: .8rem; }
 .document-list small { display: block; color: #4b6257; font-size: .85rem; }
 footer { display: flex; justify-content: space-between; gap: 1rem; padding-block: 1.5rem; font-size: .85rem; color: #425b4e; }
-body.large-text { font-size: 1.3rem; }
+html.large-text { font-size: 125%; }
 body.high-contrast { background: #fff; color: #000; --bio-green: #003d24; --bio-ink: #000; }
 .high-contrast .eyebrow, .high-contrast footer, .high-contrast small { color: #000; }
 .high-contrast .card { border: 2px solid #000; }
+:root[data-bs-theme="dark"] { color-scheme: dark; --bio-green: #99d5b9; --bio-ink: #e2e9e5; --bio-paper: #101714; }
+[data-bs-theme="dark"] body { background: var(--bio-paper); color: var(--bio-ink); }
+[data-bs-theme="dark"] .navbar, [data-bs-theme="dark"] .content-card { background: #19221d; color: var(--bio-ink); border-color: #53675b; box-shadow: none; }
+[data-bs-theme="dark"] a, [data-bs-theme="dark"] .navbar-brand { color: #99d5b9; }
+[data-bs-theme="dark"] a:hover { color: #c2f0d9; }
+[data-bs-theme="dark"] h1, [data-bs-theme="dark"] h2, [data-bs-theme="dark"] h3, [data-bs-theme="dark"] h4, [data-bs-theme="dark"] h5, [data-bs-theme="dark"] h6 { color: #e2e9e5; }
+[data-bs-theme="dark"] .btn, [data-bs-theme="dark"] .form-control { background: #202e26; color: #e2e9e5; border-color: #748b7d; }
+[data-bs-theme="dark"] .form-control::placeholder { color: #b4c4ba; opacity: 1; }
+[data-bs-theme="dark"] .btn:hover { background: #31483b; color: #fff; }
+[data-bs-theme="dark"] .btn-primary, [data-bs-theme="dark"] .nav-item[aria-current], [data-bs-theme="dark"] .brand-mark { background: #99d5b9; color: #10281c; border-color: #99d5b9; }
+[data-bs-theme="dark"] .btn[aria-pressed="true"] { background: #31483b; border-color: #99d5b9; }
+[data-bs-theme="dark"] .badge { background: #31483b; color: #e2e9e5; }
+[data-bs-theme="dark"] footer, [data-bs-theme="dark"] .document-list small { color: #bdcdc3; }
+[data-bs-theme="dark"] .markdown th, [data-bs-theme="dark"] .markdown blockquote, [data-bs-theme="dark"] pre { background: #202e26; color: #e2e9e5; }
+[data-bs-theme="dark"] .markdown th, [data-bs-theme="dark"] .markdown td, [data-bs-theme="dark"] .document-list li, [data-bs-theme="dark"] .update-panel { border-color: #748b7d; }
+[data-bs-theme="dark"] .skip-link { background: #19221d; color: #e2e9e5; }
+[data-bs-theme="dark"] :focus-visible { outline-color: #ffcc80 !important; }
+[data-bs-theme="dark"] body.high-contrast { --bio-green: #b5ffcf; --bio-ink: #fff; background: #000; color: #fff; }
+[data-bs-theme="dark"] .high-contrast .navbar, [data-bs-theme="dark"] .high-contrast .card, [data-bs-theme="dark"] .high-contrast .btn, [data-bs-theme="dark"] .high-contrast .form-control { background: #000; color: #fff; border-color: #fff; }
+[data-bs-theme="dark"] .high-contrast h1, [data-bs-theme="dark"] .high-contrast h2, [data-bs-theme="dark"] .high-contrast h3, [data-bs-theme="dark"] .high-contrast h4, [data-bs-theme="dark"] .high-contrast footer, [data-bs-theme="dark"] .high-contrast small { color: #fff; }
+[data-bs-theme="dark"] .high-contrast a { color: #b5ffcf; }
+[data-bs-theme="dark"] .high-contrast .nav-item[aria-current] { background: #b5ffcf; color: #000; }
 @media (max-width: 800px) { .site-layout { grid-template-columns: 1fr; gap: 1rem; padding-top: 1rem; } .sidebar nav { display: flex; flex-wrap: wrap; gap: .3rem; } .search-form { grid-template-columns: 1fr auto; margin-block: 1rem; } .search-form label { grid-column: 1 / -1; } .brand-detail { display: none; } footer { flex-direction: column; gap: .2rem; } }
 @media print { .navbar, .sidebar, footer, .skip-link, .page-heading { display: none; } .site-layout { display: block; } .content-card { border: 0; box-shadow: none; } body { background: white; } }
+@media print { [data-bs-theme="dark"] body, [data-bs-theme="dark"] .content-card { background: #fff !important; color: #000 !important; } [data-bs-theme="dark"] .markdown :is(h1, h2, h3, h4, h5, h6, a, pre, th, td, blockquote) { color: #000 !important; background: #fff !important; } }

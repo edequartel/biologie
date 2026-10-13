@@ -71,6 +71,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title><?= escape($title) ?> | Biologie</title>
+    <script src="assets/theme.js"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@tabler/core@1.4.0/dist/css/tabler.min.css">
     <link rel="stylesheet" href="assets/site.css">
     <script src="assets/site.js" defer></script>
@@ -83,6 +84,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
         <div class="reading-controls" aria-label="Leesinstellingen">
             <button class="btn" type="button" id="text-size" aria-pressed="false">Grotere tekst</button>
             <button class="btn" type="button" id="contrast" aria-pressed="false">Hoog contrast</button>
+            <button class="btn" type="button" id="theme" aria-pressed="false">Donker thema</button>
         </div>
     </div>
 </header>

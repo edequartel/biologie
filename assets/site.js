@@ -1,10 +1,16 @@
 (() => {
-    for (const [id, className] of [['text-size', 'large-text'], ['contrast', 'high-contrast']]) {
+    for (const [id, className] of [['text-size', 'large-text'], ['contrast', 'high-contrast'], ['theme', 'dark-theme']]) {
         const button = document.getElementById(id);
         let enabled = false;
         try { enabled = localStorage.getItem(className) === 'true'; } catch (_) {}
         const apply = () => {
             document.body.classList.toggle(className, enabled);
+            if (id === 'text-size') {
+                document.documentElement.classList.toggle('large-text', enabled);
+            }
+            if (id === 'theme') {
+                document.documentElement.dataset.bsTheme = enabled ? 'dark' : 'light';
+            }
             button.setAttribute('aria-pressed', String(enabled));
         };
         apply();
