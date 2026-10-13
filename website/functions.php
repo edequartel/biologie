@@ -123,26 +123,27 @@ function homepageContent(string $source): array
     $dom->loadHTML('<?xml encoding="UTF-8"><div id="home-root">' . $html . '</div>', LIBXML_HTML_NOIMPLIED | LIBXML_HTML_NODEFDTD);
     libxml_clear_errors();
     libxml_use_internal_errors($previous);
-    $links = '';
-    foreach ($dom->getElementsByTagName('h2') as $heading) {
-        if (mb_strtolower(trim($heading->textContent), 'UTF-8') !== 'links') {
+    $sections = array_fill_keys(['links', 'algemeen', 'werkwijze', 'toets'], '');
+    // Snapshot the headings because removing nodes changes the live DOM list.
+    foreach (iterator_to_array($dom->getElementsByTagName('h2')) as $heading) {
+        $key = mb_strtolower(trim($heading->textContent), 'UTF-8');
+        if (!array_key_exists($key, $sections)) {
             continue;
         }
         $node = $heading->nextSibling;
         $heading->parentNode->removeChild($heading);
         while ($node && !in_array(strtolower($node->nodeName), ['h1', 'h2'], true)) {
             $next = $node->nextSibling;
-            $links .= $dom->saveHTML($node);
+            $sections[$key] .= $dom->saveHTML($node);
             $node->parentNode->removeChild($node);
             $node = $next;
         }
-        break;
     }
     $content = '';
     foreach ($dom->getElementById('home-root')->childNodes as $node) {
         $content .= $dom->saveHTML($node);
     }
-    return ['content' => $content, 'links' => $links];
+    return ['content' => $content, 'sections' => $sections];
 }
 
 function canPull(): bool

@@ -48,10 +48,15 @@ $page = is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md';
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
+$sectionNames = ['links' => 'Links', 'algemeen' => 'Algemeen', 'werkwijze' => 'Werkwijze', 'toets' => 'Toets'];
+$section = is_string($_GET['section'] ?? null) ? $_GET['section'] : (isset($_GET['links']) ? 'links' : '');
+if ($catalogue || $page !== 'README.md' || !isset($sectionNames[$section])) {
+    $section = '';
+}
 if (!$selected && !$catalogue) {
     http_response_code(404);
 }
-$title = $catalogue ? 'Alle lesmaterialen' : ($selected['title'] ?? 'Pagina niet gevonden');
+$title = $catalogue ? 'Alle lesmaterialen' : ($section !== '' ? $sectionNames[$section] : ($selected['title'] ?? 'Pagina niet gevonden'));
 $groups = ['algemeen' => 'Algemeen', 'bk' => 'Basis en kader', 'gt' => 'Gemengd theoretisch', 'havo' => 'Havo', 'openlessen' => 'Open lessen', 'lesplanning' => 'Lesplanning', 'media' => 'Media'];
 $matches = array_filter($documents, static fn ($item, $path) => $query === '' || mb_stripos($item['title'] . ' ' . $path, $query) !== false, ARRAY_FILTER_USE_BOTH);
 $home = !$catalogue && $page === 'README.md' && $selected
@@ -82,7 +87,10 @@ $home = !$catalogue && $page === 'README.md' && $selected
     <aside class="sidebar" aria-label="Navigatie en zoeken">
         <p class="eyebrow">LEREN & ONTDEKKEN</p>
         <nav aria-label="Hoofdnavigatie">
-            <a class="nav-item" href="index.php" <?= !$catalogue && $page === 'README.md' ? 'aria-current="page"' : '' ?>>Startpagina</a>
+            <a class="nav-item" href="index.php" <?= !$catalogue && $section === '' && $page === 'README.md' ? 'aria-current="page"' : '' ?>>Startpagina</a>
+            <?php foreach ($sectionNames as $key => $label): ?>
+            <a class="nav-item" href="index.php?section=<?= escape($key) ?>" <?= $section === $key ? 'aria-current="page"' : '' ?>><?= escape($label) ?></a>
+            <?php endforeach; ?>
             <a class="nav-item" href="index.php?browse=1" <?= $catalogue ? 'aria-current="page"' : '' ?>>Alle lesmaterialen <span class="badge"><?= count($documents) ?></span></a>
             <?php foreach (['bk/bk.md', 'gt/gt.md', 'havo/havo.md', 'openlessen/openlessen.md'] as $entry): ?>
             <?php if (isset($documents[$entry])): ?>
@@ -94,12 +102,6 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <input class="form-control" id="search" name="q" type="search" value="<?= escape($query) ?>" placeholder="Bijvoorbeeld: ecologie">
             <button class="btn btn-primary" type="submit">Zoeken</button>
         </form>
-        <?php if ($home && trim($home['links']) !== ''): ?>
-        <nav class="sidebar-links" aria-labelledby="links">
-            <h2 id="links">Links</h2>
-            <?= $home['links'] ?>
-        </nav>
-        <?php endif; ?>
         <details class="update-panel">
             <summary>Website bijwerken</summary>
             <p>Haal de nieuwste bestanden op uit Git.</p>
@@ -121,7 +123,9 @@ $home = !$catalogue && $page === 'README.md' && $selected
         <div class="alert <?= $flash[0] ? 'alert-success' : 'alert-danger' ?>" role="status"><strong><?= $flash[0] ? 'Website bijgewerkt' : 'Bijwerken niet gelukt' ?></strong><pre><?= escape($flash[1]) ?></pre></div>
         <?php endif; ?>
         <div class="card content-card"><div class="card-body">
-        <?php if ($catalogue): ?>
+        <?php if ($section !== '' && $home): ?>
+            <article class="markdown"><h1 id="<?= escape($section) ?>"><?= escape($sectionNames[$section]) ?></h1><?= $home['sections'][$section] ?></article>
+        <?php elseif ($catalogue): ?>
             <h1>Alle lesmaterialen</h1>
             <p class="intro"><?= count($matches) ?> bestanden<?= $query !== '' ? ' gevonden voor "' . escape($query) . '"' : '. Nieuwe Markdown-bestanden verschijnen hier automatisch.' ?></p>
             <?php foreach (array_unique(array_column($matches, 'group')) as $group): ?>
