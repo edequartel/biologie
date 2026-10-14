@@ -22,7 +22,7 @@
 
 ## Antwoordenboek
 
-* [Antwoordenboek 4A](antwoorden/601930_Bvj_4GT_UWB_deel A.pdf)
+* [Antwoordenboek 4A](antwoorden/601930_Bvj_4GT_UWB_deel%20A.pdf)
 
 
 <!--
