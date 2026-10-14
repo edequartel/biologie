@@ -4,13 +4,17 @@ CODE: 5831047296
 
 ## 🔐 ESCAPE ROOM – FOTOSYNTHESE
 
-### Lesdoelen
+#### Lesdoelen
 
-**Concept:** Fotosynthese, bladgroen en glucosevorming.
+##### Concept
 
-**Vaardigheid:** Een biologisch proces verklaren.
+Je kunt de begrippen fotosynthese, bladgroen en glucosevorming uitleggen.
 
-Je kunt aan het einde van de les uitleggen waar fotosynthese plaatsvindt en welke stoffen, energie en producten erbij betrokken zijn.
+##### Vaardigheid
+
+Je kunt uitleggen waar fotosynthese plaatsvindt en welke stoffen, energie en producten erbij betrokken zijn.
+
+##### Je kunt aan het einde van de les...
 
 **Jullie zitten opgesloten!**  
 Alleen met de juiste antwoorden vinden jullie de code.

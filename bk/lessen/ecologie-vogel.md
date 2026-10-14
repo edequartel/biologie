@@ -4,13 +4,17 @@
 **Klas:**  
 **Datum:**  
 
-### Lesdoelen
+#### Lesdoelen
 
-**Concept:** Dierkenmerken, leefomgeving en ecologische relaties.
+##### Concept
 
-**Vaardigheid:** Bronnen raadplegen en informatie verwerken.
+Je kunt de begrippen diergroep, leefomgeving, voedsel en ecologische relatie uitleggen.
 
-Je kunt aan het einde van de les kenmerken en leefwijze van een dier onderzoeken en je bevindingen in een biologisch identiteitsblad presenteren.
+##### Vaardigheid
+
+Je kunt kenmerken en leefwijze van een dier onderzoeken en je bevindingen in een biologisch identiteitsblad presenteren.
+
+##### Je kunt aan het einde van de les...
 
 ## Opdracht
 

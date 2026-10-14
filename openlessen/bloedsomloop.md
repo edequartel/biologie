@@ -2,13 +2,17 @@
 
 ## 🔐 ESCAPE ROOM – BLOEDSOMLOOP
 
-### Lesdoelen
+#### Lesdoelen
 
-**Concept:** Bloedsomloop, hart en bloedvaten.
+##### Concept
 
-**Vaardigheid:** Biologische kennis toepassen.
+Je kunt de begrippen bloedsomloop, hart en bloedvaten uitleggen.
 
-Je kunt aan het einde van de les de weg van het bloed beschrijven en de functies van hart, bloedvaten en bloedbestanddelen herkennen.
+##### Vaardigheid
+
+Je kunt de weg van het bloed beschrijven en de functies van hart, bloedvaten en bloedbestanddelen herkennen.
+
+##### Je kunt aan het einde van de les...
 
 **Jullie zitten opgesloten!**  
 Alleen met de juiste antwoorden vinden jullie de code.

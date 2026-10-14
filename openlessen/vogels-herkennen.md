@@ -11,13 +11,17 @@ VMBO / onderbouw voortgezet onderwijs
 
 ---
 
-# Overkoepelende leerdoelen
+#### Overkoepelende leerdoelen
 
-**Concept:** Vogelkenmerken, soortherkenning en veldonderzoek.
+##### Concept
 
-**Vaardigheid:** Observeren, bronnen gebruiken en bevindingen presenteren.
+Je kunt de begrippen vogelsoort, soortkenmerk, leefomgeving en veldonderzoek uitleggen.
 
-Je kunt aan het einde van de lessenreeks vogels uit je omgeving herkennen, hun kenmerken onderzoeken en informatie over een vogelsoort presenteren.
+##### Vaardigheid
+
+Je kunt vogels uit je omgeving herkennen, hun kenmerken onderzoeken en informatie over een vogelsoort presenteren.
+
+##### Je kunt aan het einde van de lessenreeks...
 
 De leerling:
 
@@ -31,13 +35,17 @@ De leerling:
 
 # Les 1 – Kennismaken met vogels en Merlin
 
-## Leerdoelen
+#### Leerdoelen
 
-**Concept:** Vogelkenmerken, vogelgeluiden en digitale soortherkenning.
+##### Concept
 
-**Vaardigheid:** Kenmerken waarnemen en een digitaal hulpmiddel gebruiken.
+Je kunt de begrippen vogelsoort, vogelkenmerk, vogelgeluid en soortherkenning uitleggen.
 
-Je kunt aan het einde van de les kenmerken van vogels noemen en Merlin Bird ID gebruiken om vogels en vogelgeluiden te herkennen.
+##### Vaardigheid
+
+Je kunt kenmerken van vogels noemen en Merlin Bird ID gebruiken om vogels en vogelgeluiden te herkennen.
+
+##### Je kunt aan het einde van de les...
 
 De leerling:
 
@@ -112,13 +120,17 @@ Noem:
 
 # Les 2 – Buitenonderzoek vogels
 
-## Leerdoelen
+#### Leerdoelen
 
-**Concept:** Vogels in hun leefomgeving en waarnemingsgegevens.
+##### Concept
 
-**Vaardigheid:** Buiten observeren en gegevens verzamelen.
+Je kunt de begrippen leefomgeving, waarneming, soortkenmerk en onderzoeksgegeven uitleggen.
 
-Je kunt aan het einde van de les vogels in je omgeving observeren, hun kenmerken beschrijven en met digitale hulpmiddelen waarnemingen vastleggen.
+##### Vaardigheid
+
+Je kunt vogels in je omgeving observeren, hun kenmerken beschrijven en met digitale hulpmiddelen waarnemingen vastleggen.
+
+##### Je kunt aan het einde van de les...
 
 De leerling:
 
@@ -176,13 +188,17 @@ Iedere leerling kiest één vogel voor de presentatie.
 
 # Les 3 – Onderzoek en presentatie
 
-## Leerdoelen
+#### Leerdoelen
 
-**Concept:** Kenmerken en leefwijze van een vogelsoort.
+##### Concept
 
-**Vaardigheid:** Informatie verwerken en met vaktaal presenteren.
+Je kunt de begrippen vogelsoort, soortkenmerk, leefwijze en biologische vaktaal uitleggen.
 
-Je kunt aan het einde van de les informatie over een vogelsoort in eigen woorden verwerken en met biologische vaktaal presenteren.
+##### Vaardigheid
+
+Je kunt informatie over een vogelsoort in eigen woorden verwerken en met biologische vaktaal presenteren.
+
+##### Je kunt aan het einde van de les...
 
 De leerling:
 

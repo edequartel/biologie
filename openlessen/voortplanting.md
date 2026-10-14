@@ -2,13 +2,17 @@
 
 ## 🔐 ESCAPE ROOM – VOORTPLANTING
 
-### Lesdoelen
+#### Lesdoelen
 
-**Concept:** Geslachtscellen, bevruchting en menstruatiecyclus.
+##### Concept
 
-**Vaardigheid:** Begrippen herkennen en processen verbinden.
+Je kunt de begrippen geslachtscellen, bevruchting en menstruatiecyclus uitleggen.
 
-Je kunt aan het einde van de les geslachtscellen en voortplantingsorganen herkennen en bevruchting en de menstruatiecyclus beschrijven.
+##### Vaardigheid
+
+Je kunt geslachtscellen en voortplantingsorganen herkennen en bevruchting en de menstruatiecyclus beschrijven.
+
+##### Je kunt aan het einde van de les...
 
 **Jullie zitten opgesloten!**  
 Alleen met de juiste antwoorden vinden jullie de code.
