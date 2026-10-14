@@ -1,8 +1,6 @@
 # BK
 
 <!--* [Lesplanning](lesplanning.md) -->
-## Live test
-* [Live test](https://www.tastenbraille.com/brainbananas/student.php)
 
 <!--
 ## Examens mondeling

@@ -53,3 +53,7 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 * [lijntjespapier PDF](media/lijntjespapier.pdf)
 * [lijntjespapier DOCX](media/lijntjespapier.docx)
 
+### Luisteren in Word
+
+* [Handleiding luisteren in Word](havo/lessen/luisteren.md)
+
