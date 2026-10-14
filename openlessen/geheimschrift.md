@@ -8,12 +8,14 @@
 
 Je kunt aan het einde van de les een eenvoudige code uitleggen en gebruiken en beschrijven waarom mensen en computers informatie coderen.
 
+<!--
 Na deze les kun je uitleggen:
 
 * wat een geheimschrift of code is;
 * waarom mensen (en computers!) codes gebruiken;
 * hoe een eenvoudige code werkt;
 * hoe computers informatie versleutelen.
+-->
 
 
 ## 1️⃣ Inleiding – Wat is geheimschrift?

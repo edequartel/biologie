@@ -19,6 +19,7 @@ VMBO / onderbouw voortgezet onderwijs
 
 Je kunt aan het einde van de lessenreeks vogels uit je omgeving herkennen, hun kenmerken onderzoeken en informatie over een vogelsoort presenteren.
 
+<!--
 De leerling:
 
 - leert vogels uit de eigen omgeving herkennen;
@@ -26,6 +27,7 @@ De leerling:
 - observeert kenmerken van organismen;
 - verzamelt en verwerkt biologische informatie;
 - presenteert informatie over een vogelsoort.
+-->
 
 ---
 
@@ -39,12 +41,14 @@ De leerling:
 
 Je kunt aan het einde van de les kenmerken van vogels noemen en Merlin Bird ID gebruiken om vogels en vogelgeluiden te herkennen.
 
+<!--
 De leerling:
 
 - kan Merlin Bird ID installeren;
 - weet hoe de app werkt;
 - kan vogelgeluiden herkennen met de app;
 - noemt kenmerken van vogels.
+-->
 
 ---
 
@@ -120,12 +124,14 @@ Noem:
 
 Je kunt aan het einde van de les vogels in je omgeving observeren, hun kenmerken beschrijven en met digitale hulpmiddelen waarnemingen vastleggen.
 
+<!--
 De leerling:
 
 - observeert vogels in de omgeving;
 - gebruikt digitale hulpmiddelen bij onderzoek;
 - verzamelt gegevens over organismen;
 - beschrijft kenmerken van vogels.
+-->
 
 ---
 
@@ -184,12 +190,14 @@ Iedere leerling kiest één vogel voor de presentatie.
 
 Je kunt aan het einde van de les informatie over een vogelsoort in eigen woorden verwerken en met biologische vaktaal presenteren.
 
+<!--
 De leerling:
 
 - zoekt informatie over een vogelsoort;
 - verwerkt informatie in eigen woorden;
 - presenteert biologische informatie;
 - gebruikt vaktaal tijdens een presentatie.
+-->
 
 ---
 
