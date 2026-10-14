@@ -18,24 +18,6 @@
 
 * [Examen GT](examens/examens.md)
 
-## Antwoordenboek
-
-* [Antwoordenboek 4A](antwoorden/601930_Bvj_4GT_UWB_deel%20A.pdf)
-
-
-<!--
-* [Toets Ordening](toetsen/thema4aangepast.md)
--->
-
-<!--
-## Planning
-
-* [Muhammed A. inloggen Malmberg](https://inloggenvo.malmberg.nl)
-* [Lesplanning](lesplanning.md)
-* [Lesplanning MA](lp_ma.md)
-* [Brain Bananas - Podcast](https://edequartel.github.io/Spotify-client/minimal-gt-a.html)
-* [Examens](examens/examens.md)
-* -->
 
 ## Lessen
 
@@ -150,26 +132,10 @@
 - [Basisstof 5 - Gewone celdeling (mitose)](lessen/t1b5.md)
 - [Basisstof 6 - Reductiedeling (meiose)](lessen/t1b6.md)
 
-<!--
-* [toets - Thema 4](lessen/t4toets.md)  
-* -->
 
 
 ## Materiaal
 
-<!--
-
-### Boek
-
-### docx
-- [VMBO GT 3a Leerwerkboek](boeken/BVJ_gt_A_Leerwerkboek.docx)
-
-### pdf
-- [Thema 2 - Organen en cellen](boeken/3GTbvj_thema_1.pdf)
-- [Thema 2 - Voortplanting en seksualiteit](boeken/3GTbvj_thema_2_edit.pdf)
-- [Thema 3 - Erfelijkheid en evolutie](boeken/3GT_3a_t3_edit.pdf)
-- [Thema 4 - Ordening](boeken/3GTbvj_thema_4.pdf)
--->
 
 ## Begrippen
 
@@ -217,7 +183,6 @@
 14. [Thema 14 Gaswisseling en uitscheiding](antwoorden/601931_Bvj_4GT_UWB_T14.docx)
 
 
-
 ### pdf
 
 1. [Thema 1 Organismen en cellen](antwoorden/BVJ_3GT_UWB_T1.pdf)
@@ -242,9 +207,6 @@
 * [Leerjaar 4 - Deel A](antwoorden/601930_Bvj_4GT_UWB_deel%20A.pdf)
 * [Leerjaar 4 - Deel B](antwoorden/601931_Bvj_4GT_UWB_deel%20B.pdf)
 
-### Overig niveau
-
-* [VMBO-B leerjaar 4 - Antwoorden thema 7](antwoorden/601926-01_BVJ_4B_AWB%20thema_7.pdf)
 
 ## Samenvattingen
 
@@ -265,54 +227,10 @@
 * [Thema 13 Opslag en afweer](samenvattingen/T4_T13_Opslag_en_afweer_-Samenvatting.pdf)
 * [Thema 14 Gaswisseling en uitscheiding](samenvattingen/T4_T14_Gaswisseling_en_uitscheiding_-_Samenvatting.pdf)
 
-### Aanvullende pdf-bestanden
-
-* [Alle GT-samenvattingen](samenvattingen/GT_alle_samenvattingen.pdf)
-* [Samengevat Biologie VMBO-KGT](samenvattingen/p001-140_Samengevat_Biologie_vmbo-kgt.pdf)
-* [Thema 1 - Aanvullende samenvatting](samenvattingen/598785-01_BVJ_3GT_sv1.pdf)
-* [Thema 2 - Aanvullende samenvatting](samenvattingen/598785-01_BVJ_3GT_sv2.pdf)
-* [Thema 10 Regeling - Alternatief bestand](samenvattingen/T4%20T10%20Regeling%20-Samenvatting.pdf)
 
 ### Word-documenten
 
 * [Samengevat Biologie VMBO-KGT](samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt.doc)
 * [Samengevat Biologie VMBO-KGT - Nieuw](samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt%20nieuw.doc)
 
-### Online samenvattingen
 
-De onderstaande bestanden gebruiken ook een andere thema-indeling. De onderwerpnamen geven aan wat je erin vindt.
-
-* [Cellen](samenvattingen/1_T1_cellen.md)
-* [Ordening](samenvattingen/2_T2_ordening.md)
-* [Voortplanting en ontwikkeling](samenvattingen/3_T3_voortplanting_en_ontwikkeling.md)
-* [Erfelijkheid](samenvattingen/4_T4_erfelijkheid.md)
-* [Evolutie](samenvattingen/5_T5_evolutie.md)
-* [Regeling](samenvattingen/6_T6_regeling.md)
-* [Zintuiglijke waarneming](samenvattingen/7_T7_zintuigelijke_waarneming.md)
-* [Stevigheid en beweging](samenvattingen/8_T8_stevigheid_en_beweging.md)
-* [Gedrag](samenvattingen/9_T9_gedrag.md)
-* [Stofwisseling](samenvattingen/10_T1_stofwisseling.md)
-* [Planten](samenvattingen/11_T2_planten.md)
-* [Ecologie](samenvattingen/12_T3_ecologie.md)
-* [Mens en milieu](samenvattingen/13_T4_mens_en_milieu.md)
-* [Voeding en vertering](samenvattingen/14_T5_voeding_en_vertering.md)
-* [Gaswisseling](samenvattingen/15_T6_gaswisseling.md)
-* [Transport](samenvattingen/16_T7_transport.md)
-* [Opslag en uitscheiding](samenvattingen/17_T8_opslag_en_uitscheiding.md)
-* [Organen en cellen - Extra samenvatting](samenvattingen/3gtt1samenvatting.md)
-* [Voortplanting en seksualiteit - Extra samenvatting](samenvattingen/3gtt2samenvatting.md)
-
-<!--
-
-#### العربية
-
-* [الفقرة 1 - الكائنات الحية](boeken/t1b1a.md)
-* [الفقرة 2 - بناء الكائن الحي](boeken/t1b2a.md)
-* [الفقرة 3 - خلايا الحيوانات والنباتات](boeken/t1b3a.md)
-* [الفقرة 4 - الكروموسومات](boeken/t1b4a.md)
-* [الفقرة 5 - الانقسام العادي (الانقسام الميتوزي)](boeken/t1b5a.md)
-* [الفقرة 6 - الانقسام الاختزالي (الميوزا)](boeken/t1b6a.md)
-
-* [Samenhang arabisch](boeken/3gtt1samenvatting.md)
-
--->
