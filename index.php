@@ -44,7 +44,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 $flash = $_SESSION['flash'] ?? null;
 unset($_SESSION['flash']);
 $documents = documents();
-$page = is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md';
+$page = movedContentPath(is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md');
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
@@ -60,7 +60,7 @@ if (!$selected && !$catalogue) {
     http_response_code(404);
 }
 $title = $catalogue ? 'Alle lesmaterialen' : ($section !== '' ? $sectionNames[$section] : ($selected['title'] ?? 'Pagina niet gevonden'));
-$groups = ['algemeen' => 'Algemeen', 'bk' => 'Basis en kader', 'gt' => 'Gemengd theoretisch', 'havo' => 'Havo', 'openlessen' => 'Open lessen', 'lesplanning' => 'Lesplanning', 'media' => 'Media'];
+$groups = ['algemeen' => 'Algemeen', 'b' => 'Basis', 'k' => 'Kader', 'bk' => 'Niveaukeuze', 'gt' => 'Gemengd theoretisch', 'havo' => 'Havo', 'openlessen' => 'Open lessen', 'lesplanning' => 'Lesplanning', 'media' => 'Media'];
 $matches = array_filter($documents, static fn ($item, $path) => $query === '' || mb_stripos($item['title'] . ' ' . $path, $query) !== false, ARRAY_FILTER_USE_BOTH);
 $home = !$catalogue && $page === 'README.md' && $selected
     ? homepageContent((string) file_get_contents(contentPath($page))) : null;

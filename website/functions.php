@@ -13,6 +13,32 @@ function assetUrl(string $path): string
     return $path . '?v=' . substr(hash_file('sha256', dirname(__DIR__) . '/' . $path), 0, 12);
 }
 
+function movedContentPath(string $path): string
+{
+    // Keep bookmarks working after splitting the former BK material.
+    $moves = [
+        'bk/samenvattingB/' => 'b/samenvattingen/',
+        'bk/samenvattingK/' => 'k/samenvattingen/',
+        'bk/samenvattingen/' => 'b/samenvattingen/',
+        'bk/antwoordenbb/' => 'b/antwoorden/',
+        'bk/antwoordenk/' => 'k/antwoorden/',
+        'bk/begrippenbb/' => 'b/begrippen/',
+        'bk/begrippenk/' => 'k/begrippen/',
+        'bk/examens-b/' => 'b/examens/',
+        'bk/examens-k/' => 'k/examens/',
+        'bk/lessen/' => 'b/lessen/',
+    ];
+    if ($path === 'bk/lesplanning.md') {
+        return 'b/lesplanning.md';
+    }
+    foreach ($moves as $old => $new) {
+        if (str_starts_with($path, $old)) {
+            return $new . substr($path, strlen($old));
+        }
+    }
+    return $path;
+}
+
 function contentPath(string $path): ?string
 {
     $root = dirname(__DIR__);
@@ -22,7 +48,7 @@ function contentPath(string $path): ?string
             return null;
         }
     }
-    $resolved = realpath($root . '/' . $path);
+    $resolved = realpath($root . '/' . movedContentPath($path));
     if ($resolved === false || !str_starts_with($resolved, $root . '/') || !is_file($resolved)) {
         return null;
     }

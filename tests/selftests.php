@@ -2,7 +2,7 @@
 declare(strict_types=1);
 
 $root = dirname(__DIR__);
-$files = array_merge(glob($root . '/bk/lessen/*.md'), glob($root . '/gt/lessen/*.md'), glob($root . '/havo/lessen/*.md'));
+$files = array_merge(glob($root . '/b/lessen/*.md'), glob($root . '/k/lessen/*.md'), glob($root . '/gt/lessen/*.md'), glob($root . '/havo/lessen/*.md'));
 $count = 0;
 $total = 0;
 foreach ($files as $file) {

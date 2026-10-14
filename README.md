@@ -2,7 +2,8 @@
 
 * [Havo](havo/havo.md)
 * [Gemengd Theoretisch VMBO](gt/gt.md)
-* [Basis en Kadergericht VMBO](bk/bk.md)
+* [Basisberoepsgericht VMBO](b/b.md)
+* [Kaderberoepsgericht VMBO](k/k.md)
 
 ## Buiten
 

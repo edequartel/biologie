@@ -11,14 +11,16 @@ function check(bool $condition, string $message): void
 }
 
 $docs = documents();
-check(isset($docs['README.md'], $docs['bk/lessen/t5b1.md']), 'Startpagina en lessen worden ontdekt');
-check(str_contains($docs['bk/lessen/t5b1.md']['title'], 'Fotosynthese'), 'Lesnamen bevatten de basisstof');
+check(isset($docs['README.md'], $docs['b/lessen/t5b1.md'], $docs['b/b.md'], $docs['k/k.md']), 'Startpagina, Basis, Kader en lessen worden ontdekt');
+check(str_contains($docs['b/lessen/t5b1.md']['title'], 'Fotosynthese'), 'Lesnamen bevatten de basisstof');
 check(!isset($docs['website/INSTALL.md']), 'Interne documenten blijven buiten de bibliotheek');
 check(contentPath('../README.md') === null, 'Paden buiten de projectmap zijn geblokkeerd');
 check(contentPath('.git/config') === null, 'Verborgen bestanden zijn geblokkeerd');
 check(contentPath('website/functions.php') === null, 'Interne PHP-bestanden zijn geblokkeerd');
-check(localUrl('../bk.md', 'bk/lessen/t5b1.md') === 'index.php?page=bk%2Fbk.md', 'Relatieve Markdown-links werken');
-check(localUrl('../samenvattingB/T5_ecologie.pdf', 'bk/examens-b/examenBBL.md') === 'index.php?file=bk%2FsamenvattingB%2FT5_ecologie.pdf', 'Relatieve downloads werken');
+check(localUrl('../b.md', 'b/lessen/t5b1.md') === 'index.php?page=b%2Fb.md', 'Relatieve Markdown-links werken');
+check(localUrl('../samenvattingen/T5_ecologie.pdf', 'b/examens/examenBBL.md') === 'index.php?file=b%2Fsamenvattingen%2FT5_ecologie.pdf', 'Relatieve downloads werken');
+check(contentPath('bk/lessen/t5b1.md') === contentPath('b/lessen/t5b1.md'), 'Oude BK-leslinks blijven werken');
+check(contentPath('bk/samenvattingK/T3_Erfelijkheid_en_evolutie.pdf') === contentPath('k/samenvattingen/T3_Erfelijkheid_en_evolutie.pdf'), 'Oude Kader-downloadlinks blijven werken');
 check(localUrl('https://example.org/test', 'README.md') === 'https://example.org/test', 'Externe links blijven intact');
 $html = renderMarkdown("# Titel\n\n<!-- geheim antwoord -->\n\n<script>alert(1)</script>\n\n[Onveilig](javascript:alert(1))\n\n| A | B |\n|---|---|\n| 1 | 2 |", 'README.md');
 check(!str_contains($html, 'geheim antwoord'), 'Verborgen commentaren worden verwijderd');
@@ -34,21 +36,33 @@ foreach (['havo', 'gt', 'bk'] as $level) {
         'Podcastlink voor ' . $level . ' is verplaatst naar de podcastsectie');
 }
 $adminPassword = getenv('BIOLOGIE_ADMIN_PASSWORD');
-$bkSource = (string) file_get_contents(dirname(__DIR__) . '/bk/bk.md');
-$bkHtml = renderMarkdown($bkSource, 'bk/bk.md');
-foreach (['samenvattingB', 'samenvattingK', 'antwoordenbb', 'antwoordenk', 'examens-b', 'examens-k', 'begrippenbb', 'begrippenk'] as $folder) {
-    foreach (glob(dirname(__DIR__) . '/bk/' . $folder . '/*') as $file) {
-        if (!in_array(strtolower(pathinfo($file, PATHINFO_EXTENSION)), ['pdf', 'docx', 'md'], true)) {
-            continue;
+foreach (['b', 'k'] as $level) {
+    $document = $level . '/' . $level . '.md';
+    $html = renderMarkdown((string) file_get_contents(contentPath($document)), $document);
+    check(str_contains($home['content'], 'index.php?page=' . rawurlencode($document)), 'Niveau staat op de startpagina: ' . $level);
+    foreach (['samenvattingen', 'antwoorden', 'examens', 'begrippen'] as $folder) {
+        $count = 0;
+        foreach (glob(dirname(__DIR__) . '/' . $level . '/' . $folder . '/*') as $file) {
+            if (!in_array(strtolower(pathinfo($file, PATHINFO_EXTENSION)), ['pdf', 'docx', 'md'], true)) {
+                continue;
+            }
+            $url = localUrl($folder . '/' . basename($file), $document);
+            if (!str_contains($html, 'href="' . escape($url) . '"')) {
+                throw new RuntimeException('Bestand ontbreekt in overzicht: ' . $file);
+            }
+            $count++;
         }
-        $url = localUrl($folder . '/' . basename($file), 'bk/bk.md');
-        check(str_contains($bkHtml, 'href="' . escape($url) . '"'), 'BK-bestand is zichtbaar gekoppeld: ' . $folder . '/' . basename($file));
+        check($count > 0, 'Alle bestanden gekoppeld: ' . $level . '/' . $folder . ' (' . $count . ')');
     }
-}
-preg_match_all('/href="(index\\.php\\?file=[^"]+)"/', $bkHtml, $bkDownloads);
-foreach ($bkDownloads[1] as $url) {
-    parse_str((string) parse_url(html_entity_decode($url), PHP_URL_QUERY), $parameters);
-    check(contentPath($parameters['file']) !== null, 'BK-download bestaat: ' . $parameters['file']);
+    preg_match_all('/href="(index\\.php\\?(?:file|page)=[^"]+)"/', $html, $links);
+    foreach ($links[1] as $url) {
+        parse_str((string) parse_url(html_entity_decode($url), PHP_URL_QUERY), $parameters);
+        $target = $parameters['file'] ?? $parameters['page'];
+        if (contentPath($target) === null) {
+            throw new RuntimeException('Ontbrekend bestand in ' . $document . ': ' . $target);
+        }
+    }
+    check(true, 'Alle lokale links werken voor ' . $level);
 }
 putenv('BIOLOGIE_ADMIN_PASSWORD');
 $_SERVER['REMOTE_ADDR'] = '192.0.2.1';
