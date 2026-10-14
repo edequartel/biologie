@@ -95,7 +95,6 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <?php foreach ($sectionNames as $key => $label): ?>
             <a class="nav-item" href="index.php?section=<?= escape($key) ?>" <?= $section === $key ? 'aria-current="page"' : '' ?>><?= escape($label) ?></a>
             <?php endforeach; ?>
-            <a class="nav-item" href="index.php?browse=1" <?= $catalogue ? 'aria-current="page"' : '' ?>>Alle lesmaterialen <span class="badge"><?= count($documents) ?></span></a>
             <?php foreach (['openlessen/openlessen.md'] as $entry): ?>
             <?php if (isset($documents[$entry])): ?>
             <a class="nav-item" href="index.php?page=<?= rawurlencode($entry) ?>" <?= !$catalogue && $page === $entry ? 'aria-current="page"' : '' ?>><?= escape($groups[$documents[$entry]['group']] ?? $documents[$entry]['title']) ?></a>
@@ -130,13 +129,10 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <article class="markdown">
                 <h1 id="<?= escape($section) ?>"><?= escape($sectionNames[$section]) ?></h1>
                 <?php if ($section === 'media'): ?>
-                    <h2 id="video">Video</h2>
                     <?= $home['sections']['video'] ?>
                 <?php elseif ($section === 'veldwerk'): ?>
-                    <h2 id="buiten">Buiten</h2>
                     <?= $home['sections']['buiten'] ?>
                 <?php elseif ($section === 'materiaal'): ?>
-                    <h2 id="papier">Papier</h2>
                     <?= $home['sections']['papier'] ?>
                 <?php else: ?>
                     <?= $home['sections'][$section] ?>
