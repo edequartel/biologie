@@ -9,11 +9,6 @@
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
 -->
 
-## Examen Samenvatting
-
-* [Examen GT](examens/examens.md)
-
-
 ## Lessen
 
 #### Thema 10 Regeling
@@ -213,5 +208,9 @@
 
 * [Samengevat Biologie VMBO-KGT](samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt.doc)
 * [Samengevat Biologie VMBO-KGT - Nieuw](samenvattingen/p0006-0134_Samengevat_Biologie_vmbo-kgt%20nieuw.doc)
+
+## Examen Samenvatting
+
+* [Examen GT](examens/examens.md)
 
 
