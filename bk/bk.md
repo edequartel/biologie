@@ -9,17 +9,51 @@
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
 -->
 
-## Podcasts
+## Examens
 
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/bk.php)
+### Basis (BBL)
 
-## Examens 
+- [Examenoverzicht](examens-b/examenBBL.md)
+- [2018 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/BB-0191-a-18-1-c.pdf)
+- [2018 - Eerste tijdvak - Opgaven](examens-b/BB-0191-a-18-1-o.pdf)
+- [2019 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/BB-0191-a-19-1-c.pdf)
+- [2019 - Eerste tijdvak - Opgaven (extra bestand)](examens-b/BB-0191-a-19-1-o-E.pdf)
+- [2019 - Eerste tijdvak - Opgaven](examens-b/BB-0191-a-19-1-o.pdf)
+- [2021 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/BB-0191-a-21-1-c.pdf)
+- [2021 - Eerste tijdvak - Opgaven](examens-b/BB-0191-a-21-1-o.pdf)
+- [2022 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/BB-0191-a-22-1-c.pdf)
+- [2022 - Eerste tijdvak - Opgaven (extra bestand)](examens-b/BB-0191-a-22-1-o-E.pdf)
+- [2022 - Eerste tijdvak - Opgaven](examens-b/BB-0191-a-22-1-o.pdf)
+- [2023 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/BB-0191-a-23-1-c.pdf)
+- [2023 - Eerste tijdvak - Opgaven](examens-b/bb-0191-a-23-1-o_0.pdf)
+- [2024 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-b/bb-0191-a-24-1-c.pdf)
+- [2024 - Eerste tijdvak - Opgaven (extra bestand)](examens-b/bb-0191-a-24-1-o-e.pdf)
+- [2024 - Eerste tijdvak - Opgaven](examens-b/bb-0191-a-24-1-o.pdf)
+- [Oefenexamen - Antwoorden](examens-b/examen-BBL-biologie-antwoorden.pdf)
+- [Oefenexamen - Opgaven](examens-b/examen-BBL-biologie-opgaven.pdf)
 
-* [Examen KBL](../bk/examens-k/examenK.md)
-* [Examen BBL](../bk/examens-b/examenBBL.md) 
+### Kader (KBL)
 
-## Antwoordenboek
-* [Antwoorden boek 4a](antwoordenbb/601926_BVJ_4B_AWB_A_LR.pdf)
+- [Examenoverzicht](examens-k/examenK.md)
+- [Oefenexamen - Antwoorden](examens-k/examen-KBL-biologie-antwoorden.pdf)
+- [Oefenexamen - Opgaven](examens-k/examen-KBL-biologie-opgaven.pdf)
+- [2018 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/KB-0191-a-18-1-c.pdf)
+- [2018 - Eerste tijdvak - Opgaven](examens-k/KB-0191-a-18-1-o.pdf)
+- [2019 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/KB-0191-a-19-1-c.pdf)
+- [2019 - Eerste tijdvak - Opgaven](examens-k/KB-0191-a-19-1-o.pdf)
+- [2019 - Eerste tijdvak - Uitwerkbijlage](examens-k/KB-0191-a-19-1-u.pdf)
+- [2021 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/KB-0191-a-21-1-c.pdf)
+- [2021 - Eerste tijdvak - Opgaven](examens-k/KB-0191-a-21-1-o.pdf)
+- [2021 - Eerste tijdvak - Uitwerkbijlage](examens-k/KB-0191-a-21-1-u.pdf)
+- [2022 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/KB-0191-a-22-1-c.pdf)
+- [2022 - Eerste tijdvak - Opgaven](examens-k/KB-0191-a-22-1-o.pdf)
+- [2022 - Eerste tijdvak - Uitwerkbijlage](examens-k/KB-0191-a-22-1-u.pdf)
+- [2023 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/KB-0191-a-23-1-c.pdf)
+- [2023 - Eerste tijdvak - Opgaven](examens-k/kb-0191-a-23-1-o_0.pdf)
+- [2023 - Eerste tijdvak - Uitwerkbijlage](examens-k/kb-0191-a-23-1-u.pdf)
+- [2024 - Eerste tijdvak - Antwoorden en correctievoorschrift](examens-k/kb-0191-a-24-1-c.pdf)
+- [2024 - Eerste tijdvak - Opgaven](examens-k/kb-0191-a-24-1-o.pdf)
+- [2024 - Eerste tijdvak - Uitwerkbijlage](examens-k/kb-0191-a-24-1-u.pdf)
 
 ## Lessen
 
@@ -71,7 +105,7 @@
 - [Basisstof 4 - Dieren](lessen/t3b4.md)
 - [Basisstof 5 - Geleedpotigen en gewervelden](lessen/t3b5.md)
 - [Basisstof 6 - Organismen determineren](lessen/t3b6.md)
-- [Samenvatting Thema 3](samenvattingen/BVJ_3vmbo-B_LWB_A_T3_samenvatting.pdf) 
+- [Samenvatting Thema 3](samenvattingB/T3_Ordening.pdf)
 
 
 #### Thema 2 Voortplanting en seksualteit
@@ -83,7 +117,7 @@
 - [Basisstof 5 - Geboorte](lessen/t2b5.md)
 - [Basisstof 6 - Seksualiteit](lessen/t2b6.md)
 - [Basisstof 7 - Veilige seks](lessen/t2b7.md)
-- [Samenvatting Thema 2](samenvattingen/BVJ_3vmbo-B_LWB_A_T2_samenvatting.pdf)
+- [Samenvatting Thema 2](samenvattingB/T2_Voortplanting_en_seksualiteit.pdf)
 
 
 #### Thema 1 Organen en cellen
@@ -94,8 +128,6 @@
 - [Basisstof 4 - Cellen van dieren en planten](lessen/t1b4.md)
 - [Basisstof 5 - Groei en Ontwikkeling bij een Mens](lessen/t1b5.md)
 - [Basisstof 6 - Biologisch onderzoek](lessen/t1b6.md)
-- [Toets](toetsen/3at1.pdf) 
-- [Toets antwoorden](toetsen/3at1antwoorden.pdf) 
 
 
 <!--
@@ -117,39 +149,126 @@
 
 ## Begrippen
 
-* [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.pdf)
-* [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
-* [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
-* [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.pdf)
-* [Thema 5 Ecologie](begrippenbb/BVJ-3VMBO-B-T5-begrippenlijst.pdf)
-* [Thema 6 Duurzaam leven](begrippenbb/BVJ-3VMBO-B-T6-begrippenlijst.pdf)
+### Basis
 
+#### PDF
+
+- [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.pdf)
+- [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.pdf)
+- [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.pdf)
+- [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.pdf)
+- [Thema 5 Ecologie](begrippenbb/BVJ-3VMBO-B-T5-begrippenlijst.pdf)
+- [Thema 6 Duurzaam leven](begrippenbb/BVJ-3VMBO-B-T6-begrippenlijst.pdf)
+
+#### DOCX
+
+- [Thema 1 Organen en cellen](begrippenbb/BVJ-3VMBO-B-T1-begrippenlijst.docx)
+- [Thema 2 Voortplanting en seksualiteit](begrippenbb/BVJ-3VMBO-B-T2-begrippenlijst.docx)
+- [Thema 3 Ordening](begrippenbb/BVJ-3VMBO-B-T3-begrippenlijst.docx)
+- [Thema 4 Stevigheid en beweging](begrippenbb/BVJ-3VMBO-B-T4-begrippenlijst.docx)
+- [Thema 5 Ecologie](begrippenbb/BVJ-3VMBO-B-T5-begrippenlijst.docx)
+- [Thema 6 Duurzaam leven](begrippenbb/BVJ-3VMBO-B-T6-begrippenlijst.docx)
+
+### Kader
+
+#### PDF
+
+- [Thema 1 Organen en cellen](begrippenk/BVJ-3VMBO-K-T1-begrippenlijst.pdf)
+- [Thema 2 Voortplanting en seksualiteit](begrippenk/BVJ-3VMBO-K-T2-begrippenlijst.pdf)
+- [Thema 3 Erfelijkheid en evolutie](begrippenk/BVJ-3VMBO-K-T3-begrippenlijst.pdf)
+- [Thema 4 Ordening](begrippenk/BVJ-3VMBO-K-T4-begrippenlijst.pdf)
+- [Thema 5 Stevigheid en beweging](begrippenk/BVJ-3VMBO-K-T5-begrippenlijst.pdf)
+- [Thema 6 Ecologie](begrippenk/BVJ-3VMBO-K-T6-begrippenlijst.pdf)
+- [Thema 7 Duurzaam leven](begrippenk/BVJ-3VMBO-K-T7-begrippenlijst.pdf)
+
+#### DOCX
+
+- [Thema 1 Organen en cellen](begrippenk/BVJ-3VMBO-K-T1-begrippenlijst.docx)
+- [Thema 2 Voortplanting en seksualiteit](begrippenk/BVJ-3VMBO-K-T2-begrippenlijst.docx)
+- [Thema 3 Erfelijkheid en evolutie](begrippenk/BVJ-3VMBO-K-T3-begrippenlijst.docx)
+- [Thema 4 Ordening](begrippenk/BVJ-3VMBO-K-T4-begrippenlijst.docx)
+- [Thema 5 Stevigheid en beweging](begrippenk/BVJ-3VMBO-K-T5-begrippenlijst.docx)
+- [Thema 6 Ecologie](begrippenk/BVJ-3VMBO-K-T6-begrippenlijst.docx)
+- [Thema 7 Duurzaam leven](begrippenk/BVJ-3VMBO-K-T7-begrippenlijst.docx)
 
 ## Samenvattingen
 
-* [Thema 1 Organen en cellen](samenvattingen/T1_Organen_en_cellen.pdf)
-* [Thema 2 Voortplanting en seksualiteit](samenvattingen/T2_Voortplanting_en_seksualiteit.pdf)
-* [Thema 3 Ordening](samenvattingen/T3_Ordening.pdf)
-* [Thema 4 Stevigheid en beweging](samenvattingen/T4_Stevigheid_en_beweging.pdf)
-* [Thema 5 Ecologie](samenvattingen/T5_ecologie.pdf)
-* [Thema 6 Duurzaam leven](samenvattingen/T6_Duurzaam_leven.pdf)
+### Basis
 
-## Antwoorden B
+#### PDF
 
-1. [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
-2. [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
-3. [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
-4. [Thema 4 Stevigheid en beweging](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T4.pdf)
-5. [Thema 5 Ecologie](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T5.pdf)
-5. [Thema 6 Duurzaam leven](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T6.pdf)
+- [Thema 1 Organen en cellen](samenvattingB/T1_Organen_en_cellen.pdf)
+- [Thema 2 Voortplanting en seksualiteit](samenvattingB/T2_Voortplanting_en_seksualiteit.pdf)
+- [Thema 3 Ordening](samenvattingB/T3_Ordening.pdf)
+- [Thema 4 Stevigheid en beweging](samenvattingB/T4_Stevigheid_en_beweging.pdf)
+- [Thema 5 Ecologie](samenvattingB/T5_ecologie.pdf)
+- [Thema 6 Duurzaam leven](samenvattingB/T6_Duurzaam_leven.pdf)
+- [Thema 7 Planten](samenvattingB/T7_Planten.pdf)
+- [Thema 8 Regeling](samenvattingB/T8_Regeling.pdf)
+- [Thema 9 Zintuigen](samenvattingB/T9_Zintuigen.pdf)
+- [Thema 10 Voeding en vertering](samenvattingB/T10_voedingenvertering.pdf)
+- [Thema 11 Transport en afweer](samenvattingB/T11_transport_en_afweer.pdf)
+- [Thema 12 Gaswisseling en uitscheiding](samenvattingB/T12_gaswisseling_en_uitscheiding.pdf)
 
-## Antwoorden K
+### Kader
 
-1. [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
-2. [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
-3. [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
-3. [Thema 4 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T4.pdf)
-4. [Thema 5 Ecologie](antwoordenk/Bvj_3K_UWB_T5.pdf)
-5. [Thema 6 Duurzaam leven](antwoordenk/Bvj_3K_UWB_T6.pdf)
+#### PDF
+
+- [Thema 1 Organen en cellen](samenvattingK/T1_Organen_en_cellen.pdf)
+- [Thema 2 Voortplanting en seksualiteit](samenvattingK/T2_Voortplanting_en_seksualiteit.pdf)
+- [Thema 3 Erfelijkheid en evolutie](samenvattingK/T3_Erfelijkheid_en_evolutie.pdf)
+- [Thema 4 Ordening](samenvattingK/T4_Ordening.pdf)
+- [Thema 5 Stevigheid en beweging](samenvattingK/T5_Stevigheid_en_beweging.pdf)
+- [Thema 6 Ecologie](samenvattingK/T6_Ecologie.pdf)
+- [Thema 7 Duurzaam leven](samenvattingK/T7_Duurzaam_leven.pdf)
+- [Thema 8 Planten](samenvattingK/T8_Planten.pdf)
+- [Thema 9 Regeling](samenvattingK/T9_Regeling.pdf)
+- [Thema 10 Zintuigstelsel](samenvattingK/T10_Zintuigstelsel.pdf)
+- [Thema 11 Voeding en vertering](samenvattingK/T11_Voeding_en_vertering.pdf)
+- [Thema 12 Transport en afweer](samenvattingK/T12_Transport_en_afweer.pdf)
+- [Thema 13 Gaswisseling en uitscheiding](samenvattingK/T13_Gaswisseling_en_uitscheiding.pdf)
+
+## Antwoorden
+
+### Basis
+
+#### PDF
+
+- [Thema 1 Organen en cellen](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T1.pdf)
+- [Thema 2 Voortplanting en seksualiteit](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T2.pdf)
+- [Thema 3 Ordening](antwoordenbb/BVJ_3B_LWB_A_Antwoorden_T3.pdf)
+- [Thema 4 Stevigheid en beweging](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T4.pdf)
+- [Thema 5 Ecologie](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T5.pdf)
+- [Thema 6 Duurzaam leven](antwoordenbb/BVJ_3B_LWB_B_Antwoorden_T6.pdf)
+
+- [Volledig antwoordenboek - Leerjaar 4 - Deel A](antwoordenbb/601926_BVJ_4B_AWB_A_LR.pdf)
+- [Volledig antwoordenboek - Leerjaar 4 - Deel B](antwoordenbb/601927_BVJ_4B_AWB_B_LR.pdf)
+- [Volledig antwoordenboek - Leerjaar 3 - Deel A](antwoordenbb/BVJ_3B_LWB_deelA_Antwoorden.pdf)
+- [Volledig antwoordenboek - Leerjaar 3 - Deel B](antwoordenbb/BVJ_3B_LWB_deelB_Antwoorden.pdf)
+
+### Kader
+
+#### PDF
+
+- [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.pdf)
+- [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.pdf)
+- [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.pdf)
+- [Thema 4 Ordening](antwoordenk/Bvj_3K_UWB_T4.pdf)
+- [Thema 5 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T5.pdf)
+- [Thema 6 Ecologie](antwoordenk/Bvj_3K_UWB_T6.pdf)
+- [Thema 7 Duurzaam leven](antwoordenk/Bvj_3K_UWB_T7.pdf)
+
+- [Volledig antwoordenboek - Leerjaar 3 - Deel A](antwoordenk/Bvj_3K_UWB_A.pdf)
+- [Volledig antwoordenboek - Leerjaar 3 - Deel B](antwoordenk/Bvj_3K_UWB_B.pdf)
+
+#### DOCX
+
+- [Thema 1 Organen en cellen](antwoordenk/Bvj_3K_UWB_T1.docx)
+- [Thema 2 Voortplanting en seksualiteit](antwoordenk/Bvj_3K_UWB_T2.docx)
+- [Thema 3 Erfelijkheid en evolutie](antwoordenk/Bvj_3K_UWB_T3.docx)
+- [Thema 4 Ordening](antwoordenk/Bvj_3K_UWB_T4.docx)
+- [Thema 5 Stevigheid en beweging](antwoordenk/Bvj_3K_UWB_T5.docx)
+- [Thema 6 Ecologie](antwoordenk/Bvj_3K_UWB_T6.docx)
+- [Thema 7 Duurzaam leven](antwoordenk/Bvj_3K_UWB_T7.docx)
 
 

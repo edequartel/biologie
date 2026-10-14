@@ -10,10 +10,6 @@
 * [Modellen](https://www.tastenbraille.com/biologie/modellen.php)
 *-->
 
-## Podcasts
-
-* [Podcasts Brain Bananas](https://www.tastenbraille.com/biologie/havo.php)
-
 ## Lessen
 
 ## Thema 9 DNA - Havo 5

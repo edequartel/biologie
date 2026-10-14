@@ -41,6 +41,12 @@ Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatti
 
 * [beoordeling formatief](lesplanning/rubric.md)
 
+## Podcasts
+
+* [Podcasts Brain Bananas - Havo](https://www.tastenbraille.com/biologie/havo.php)
+* [Podcasts Brain Bananas - Gemengd Theoretisch VMBO](https://www.tastenbraille.com/biologie/gt.php)
+* [Podcasts Brain Bananas - Basis en Kadergericht VMBO](https://www.tastenbraille.com/biologie/bk.php)
+
 ## Video
 
 ### Thema 2 Voortplanting en ontwikkeling
