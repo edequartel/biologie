@@ -2,6 +2,17 @@
 
 ## Lessen
 
+#### Thema 8 Regeling
+
+- [Basisstof 1 - Het zenuwstelsel](lessen/t8b1.md)
+- [Basisstof 2 - Zenuwcellen en zenuwen](lessen/t8b2.md)
+- [Basisstof 3 - Het centrale zenuwstelsel](lessen/t8b3.md)
+- [Basisstof 4 - Beïnvloeding van het zenuwstelsel](lessen/t8b4.md)
+- [Basisstof 5 - Bewuste reacties en reflexen](lessen/t8b5.md)
+- [Basisstof 6 - Het hormoonstelsel](lessen/t8b6.md)
+- [Extra 7 - Leven met diabetes (verdieping)](lessen/t8b7.md)
+- [Extra 8 - Het veranderende puberbrein (verbreding)](lessen/t8b8.md)
+
 #### Thema 7 Planten
 
 - [Basisstof 1, Bladeren](lessen/t7b1.md)

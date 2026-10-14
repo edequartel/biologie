@@ -2,6 +2,22 @@
 
 ## Lessen
 
+### Thema 9 Regeling
+
+Regeling is bij Kader thema 9; bij Basis is dit thema 8.
+
+- [Basisstof 1 - Het zenuwstelsel](lessen/t9b1.md)
+- [Basisstof 2 - Zenuwcellen en zenuwen](lessen/t9b2.md)
+- [Basisstof 3 - Het ruggenmerg](lessen/t9b3.md)
+- [Basisstof 4 - De hersenen](lessen/t9b4.md)
+- [Basisstof 5 - De weg die impulsen afleggen](lessen/t9b5.md)
+- [Basisstof 6 - Het hormoonstelsel](lessen/t9b6.md)
+- [Extra 7 - Diabetes (verdieping)](lessen/t9b7.md)
+- [Extra 8 - Hersenaandoeningen (verbreding)](lessen/t9b8.md)
+- [Onderzoek - Een interview voorbereiden en presenteren](lessen/t9o1.md)
+
+## Overige lessen, gedeeld met Basis
+
 De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen volgen de Basis-indeling; gebruik voor Kader de nummering in de samenvattingen en begrippenlijsten hieronder.
 
 ### Planten
