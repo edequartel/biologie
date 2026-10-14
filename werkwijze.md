@@ -1,28 +1,36 @@
-# Werkwijze
+# Opbouw biologieles (45 minuten)
 
-1. **Terugkijken en nakijken**:
-   - Bespreken en nakijken van gemaakt werk. Is het huiswerk gemaakt.
-   - Niet gemaakt huiswerk wordt genoteerd.
-   - Mogelijk een overhoring van de geleerde stof. (Brain Bananas)
+## 1. Begin van de les (5 minuten)
+- Aanwezigheid controleren.
+- Huiswerk bespreken en controleren.
+- Niet gemaakt huiswerk wordt genoteerd in Somtoday.
+- Soms een korte overhoring.
 
-2. **Uitleg van nieuwe basistof**:
-   - Lesdoelen worden besproken.
-   - 10 minuten lezen
+## 2. Midden van de les (35 minuten)
 
-3. **Bespreken van de stof**
-   - Klassikale uitleg van de komende basisstof.
+### Lesdoelen (2 minuten)
+- Wat ga je vandaag leren?
+- Wat moet je kennen en kunnen?
 
-4. **In de les maken van de basistof**:
-   - Leerlingen maken opdrachten in de les.
-   - 10 minuten voor de 10 vragen (dit wordt huiswerk wanneer niet af)
-   - Wat niet in de les af is, wordt als huiswerk opgegeven.
-   - Kijk je gemaakte werk na. Deze staat op de website de volgende les.
-   - Huiswerk is te vinden in Somtoday.
-   - Stuur je huiswerk op.
-   - Niet gemaakt huiswerk wordt genoteerd.
+### Zelfstandig lezen - website (10 minuten)
+- Lees de nieuwe basisstof op [Biobart](https://www.tastenbraille.com/biobart).
+- Onthoud wat je moeilijk vindt.
 
-5. **Tussentijds vragen**
-	- Zijn er vragen over het huiswerk
+### Klassikale uitleg - boek (10 minuten)
+- De docent legt de basisstof uit.
+- We bespreken moeilijke begrippen.
+- Je kunt vragen stellen.
 
-4. **Einde les**:
-	- Wat heb je geleerd.
+### Zelfstandig werken (13 minuten)
+- Maak de opdrachten uit Somtoday.
+- Vraag hulp als dat nodig is.
+- Wat niet af is, wordt huiswerk.
+- Kijk je werk na met de antwoorden op Biobart.
+
+## 3. Einde van de les (5 minuten)
+- Wat heb je geleerd? website vragen
+- Zijn de lesdoelen behaald?
+- Zijn er nog vragen?
+- Controleer je huiswerk in Somtoday.
+
+**Totale lestijd: 45 minuten.**
