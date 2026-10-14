@@ -132,34 +132,53 @@
 -->
 
 
-## Begrippen
-
-* [Thema 1 Inleiding in de biologie](begrippen/Bvj-4havo-T1-begrippenlijst.docx)
-* [Thema 2 Voortplanting en seksualiteit](begrippen/Bvj-4havo-T2-begrippenlijst.docx)
-* [Thema 3 Genetica / Erfelijkheid](begrippen/Bvj-4havo-T3-begrippenlijst.docx)
-* [Thema 4 Evolutie](begrippen/Bvj-4havo-T4-begrippenlijst.docx)
-* [Thema 5 Regeling](begrippen/Bvj-4havo-T5-begrippenlijst.docx)
 
 ## Antwoorden
 
-#### docx
+### docx
 
 1. [Thema 1 Inleiding in de biologie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.docx)
-1. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.docx)
-2. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t3.docx)
-3. [Thema 4 Evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.docx)
-4. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.docx)
+2. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.docx)
+3. [Thema 3 Genetica en erfelijkheid](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t3.docx)
+4. [Thema 4 Evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.docx)
+5. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.docx)
+6. [Thema 6 Waarneming en gedrag](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t6.docx)
+7. [Thema 7 Ecologie en milieu](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t7.docx)
+8. [Thema 8 Stofwisseling in de cel](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t8.docx)
+9. [Thema 9 DNA](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t9.docx)
+10. [Thema 10 Voeding en vertering](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t10.docx)
+11. [Thema 11 Transport](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t11.docx)
+12. [Thema 12 Gaswisseling en uitscheiding](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t12.docx)
+13. [Thema 13 Afweer](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t13.docx)
+
+#### Volledige antwoordenboeken
+
+- [Havo 4 - Deel A](antwoorden/7_0_bvj_havo_4a_uitwerkingen.docx)
+- [Havo 5 - Deel A](antwoorden/7_0_bvj_havo_5a_uitwerkingen.docx)
+- [Havo 5 - Deel B](antwoorden/7_0_bvj_havo_5b_uitwerkingen.docx)
 
 ### pdf
 
-2. [Thema 1 Inleiding in de biologie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.pdf)
+1. [Thema 1 Inleiding in de biologie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t1.pdf)
 2. [Thema 2 Voortplanting en seksualiteit](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t2.pdf)
-3. [Thema 3 Erfelijkeid en evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.pdf)
+3. [Thema 3 Genetica en erfelijkheid](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t3.pdf)
 4. [Thema 4 Evolutie](antwoorden/7_0_bvj_havo_4a_uitwerkingen_t4.pdf)
-4. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.pdf)
+5. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.pdf)
+6. [Thema 6 Waarneming en gedrag](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t6.pdf)
+7. [Thema 7 Ecologie en milieu](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t7.pdf)
+8. [Thema 8 Stofwisseling in de cel](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t8.pdf)
+9. [Thema 9 DNA](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t9.pdf)
+10. [Thema 10 Voeding en vertering](antwoorden/7_0_bvj_havo_5a_uitwerkingen_t10.pdf)
+11. [Thema 11 Transport](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t11.pdf)
+12. [Thema 12 Gaswisseling en uitscheiding](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t12.pdf)
+13. [Thema 13 Afweer](antwoorden/7_0_bvj_havo_5b_uitwerkingen_t13.pdf)
+
+#### Volledige antwoordenboeken
+
+- [Havo 5 - Deel A](antwoorden/7_0_bvj_havo_5a_uitwerkingen.pdf)
+- [Havo 5 - Deel B](antwoorden/7_0_bvj_havo_5b_uitwerkingen.pdf)
 
 ### Samenvattingen (pdf)
 * [Havo 5 - Thema 9 DNA](samenvattingen/havo5%20T9%20DNA-samenvatting.pdf)
 
-4. [Thema 1 Inleiding in de biologie](samenvattingen/4HT1Inleiding_in_de_biologie.pdf)
 
