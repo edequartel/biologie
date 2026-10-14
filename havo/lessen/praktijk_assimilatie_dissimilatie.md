@@ -3,6 +3,12 @@
 
 ## Lesdoel
 
+**Concept:** Assimilatie, dissimilatie en gisting bij gist.
+
+**Vaardigheid:** Waarnemingen aan stof- en energieomzettingen koppelen.
+
+Je kunt aan het einde van de les met een gistproef uitleggen wanneer stoffen worden opgebouwd of afgebroken en wanneer energie wordt gebruikt of vrijgemaakt.
+
 Na deze uitleg kan de leerling:
 
 - uitleggen wat **dissimilatie** is;

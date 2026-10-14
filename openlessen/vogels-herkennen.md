@@ -13,6 +13,12 @@ VMBO / onderbouw voortgezet onderwijs
 
 # Overkoepelende leerdoelen
 
+**Concept:** Vogelkenmerken, soortherkenning en veldonderzoek.
+
+**Vaardigheid:** Observeren, bronnen gebruiken en bevindingen presenteren.
+
+Je kunt aan het einde van de lessenreeks vogels uit je omgeving herkennen, hun kenmerken onderzoeken en informatie over een vogelsoort presenteren.
+
 De leerling:
 
 - leert vogels uit de eigen omgeving herkennen;
@@ -26,6 +32,12 @@ De leerling:
 # Les 1 – Kennismaken met vogels en Merlin
 
 ## Leerdoelen
+
+**Concept:** Vogelkenmerken, vogelgeluiden en digitale soortherkenning.
+
+**Vaardigheid:** Kenmerken waarnemen en een digitaal hulpmiddel gebruiken.
+
+Je kunt aan het einde van de les kenmerken van vogels noemen en Merlin Bird ID gebruiken om vogels en vogelgeluiden te herkennen.
 
 De leerling:
 
@@ -102,6 +114,12 @@ Noem:
 
 ## Leerdoelen
 
+**Concept:** Vogels in hun leefomgeving en waarnemingsgegevens.
+
+**Vaardigheid:** Buiten observeren en gegevens verzamelen.
+
+Je kunt aan het einde van de les vogels in je omgeving observeren, hun kenmerken beschrijven en met digitale hulpmiddelen waarnemingen vastleggen.
+
 De leerling:
 
 - observeert vogels in de omgeving;
@@ -159,6 +177,12 @@ Iedere leerling kiest één vogel voor de presentatie.
 # Les 3 – Onderzoek en presentatie
 
 ## Leerdoelen
+
+**Concept:** Kenmerken en leefwijze van een vogelsoort.
+
+**Vaardigheid:** Informatie verwerken en met vaktaal presenteren.
+
+Je kunt aan het einde van de les informatie over een vogelsoort in eigen woorden verwerken en met biologische vaktaal presenteren.
 
 De leerling:
 

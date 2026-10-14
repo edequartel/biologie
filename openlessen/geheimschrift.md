@@ -2,6 +2,12 @@
 
 ### 🎯 Lesdoel
 
+**Concept:** Codes, versleuteling en informatieoverdracht.
+
+**Vaardigheid:** Coderen, decoderen en uitleggen.
+
+Je kunt aan het einde van de les een eenvoudige code uitleggen en gebruiken en beschrijven waarom mensen en computers informatie coderen.
+
 Na deze les kun je uitleggen:
 
 * wat een geheimschrift of code is;

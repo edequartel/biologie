@@ -4,6 +4,14 @@
 **Klas:**  
 **Datum:**  
 
+### Lesdoelen
+
+**Concept:** Dierkenmerken, leefomgeving en ecologische relaties.
+
+**Vaardigheid:** Bronnen raadplegen en informatie verwerken.
+
+Je kunt aan het einde van de les kenmerken en leefwijze van een dier onderzoeken en je bevindingen in een biologisch identiteitsblad presenteren.
+
 ## Opdracht
 
 Je maakt een biologisch identiteitsblad van een dier of vogel. Je onderzoekt hoe het dier leeft, waar het voorkomt en welke rol het heeft in het ecosysteem.

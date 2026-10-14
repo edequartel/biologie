@@ -2,6 +2,12 @@
 
 ### 🎯 Lesdoel
 
+**Concept:** Volgorde, instructies en gestructureerd werken.
+
+**Vaardigheid:** Plannen en stappen formuleren.
+
+Je kunt aan het einde van de les een duidelijk stappenplan maken en uitleggen hoe dit helpt om een taak in de juiste volgorde uit te voeren.
+
 Na deze les kun je:
 
 * uitleggen wat een stappenplan is;
