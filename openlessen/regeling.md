@@ -1,17 +1,13 @@
 <!-- CODE: 4931058726 -->
 ## 🔐 ESCAPE ROOM – ZENUWSTELSEL
 
-#### Lesdoelen
+### Lesdoelen
 
-##### Concept
+**Concept:** Zenuwstelsel, zintuigen en reflexen.
 
-Je kunt de begrippen zenuwstelsel, zintuigen en reflexen uitleggen.
+**Vaardigheid:** Bouw en signaalverwerking verbinden.
 
-##### Vaardigheid
-
-Je kunt onderdelen van het zenuwstelsel herkennen en uitleggen hoe prikkels, impulsen en reflexen het lichaam aansturen.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les onderdelen van het zenuwstelsel herkennen en uitleggen hoe prikkels, impulsen en reflexen het lichaam aansturen.
 
 **Jullie zitten opgesloten!**  
 Alleen met de juiste antwoorden vinden jullie de code.

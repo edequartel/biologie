@@ -1,16 +1,12 @@
 # 🧭 Les: Werken met een Stappenplan
 
-#### 🎯 Lesdoel
+### 🎯 Lesdoel
 
-##### Concept
+**Concept:** Volgorde, instructies en gestructureerd werken.
 
-Je kunt de begrippen stappenplan, instructie en werkvolgorde uitleggen.
+**Vaardigheid:** Plannen en stappen formuleren.
 
-##### Vaardigheid
-
-Je kunt een duidelijk stappenplan maken en uitleggen hoe dit helpt om een taak in de juiste volgorde uit te voeren.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les een duidelijk stappenplan maken en uitleggen hoe dit helpt om een taak in de juiste volgorde uit te voeren.
 
 Na deze les kun je:
 

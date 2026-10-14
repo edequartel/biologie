@@ -5,17 +5,13 @@
 -->
 ## 🔐 ESCAPE ROOM – ORDENING (INDELING VAN LEVEN)
 
-#### Lesdoelen
+### Lesdoelen
 
-##### Concept
+**Concept:** Taxonomie, soortkenmerken en verwantschap.
 
-Je kunt de begrippen taxonomie, soortkenmerken en verwantschap uitleggen.
+**Vaardigheid:** Herkennen en classificeren.
 
-##### Vaardigheid
-
-Je kunt organismen op basis van kenmerken indelen en de betekenis van soorten en wetenschappelijke namen uitleggen.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les organismen op basis van kenmerken indelen en de betekenis van soorten en wetenschappelijke namen uitleggen.
 
 **Jullie zijn opgesloten in de “Taxonomie-kluis”!**  
 Alleen met de juiste indeling van organismen vinden jullie de code.

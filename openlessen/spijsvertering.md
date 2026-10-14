@@ -4,17 +4,13 @@
 -->
 ## 🔐 ESCAPE ROOM – HET SPIJSVERTERINGSLAB
 
-#### Lesdoelen
+### Lesdoelen
 
-##### Concept
+**Concept:** Spijsverteringsorganen en opname van voedingsstoffen.
 
-Je kunt de begrippen spijsvertering, voedingsstof, vertering, dunne darm en opname uitleggen.
+**Vaardigheid:** Functies benoemen en een proces beschrijven.
 
-##### Vaardigheid
-
-Je kunt de weg van voedsel volgen en uitleggen hoe vertering en opname van voedingsstoffen plaatsvinden.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les de weg van voedsel volgen en uitleggen hoe vertering en opname van voedingsstoffen plaatsvinden.
 
 **Jullie zijn opgesloten in een geheim laboratorium!**  
 Alleen door de vragen goed te beantwoorden vinden jullie de code om te ontsnappen.

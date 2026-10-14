@@ -1,16 +1,12 @@
 # Les: Geheimschrift en Codes — De Taal van Computers
 
-#### 🎯 Lesdoel
+### 🎯 Lesdoel
 
-##### Concept
+**Concept:** Codes, versleuteling en informatieoverdracht.
 
-Je kunt de begrippen codes, versleuteling en informatieoverdracht uitleggen.
+**Vaardigheid:** Coderen, decoderen en uitleggen.
 
-##### Vaardigheid
-
-Je kunt een eenvoudige code uitleggen en gebruiken en beschrijven waarom mensen en computers informatie coderen.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les een eenvoudige code uitleggen en gebruiken en beschrijven waarom mensen en computers informatie coderen.
 
 Na deze les kun je uitleggen:
 

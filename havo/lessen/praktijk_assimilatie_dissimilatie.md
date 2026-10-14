@@ -1,17 +1,13 @@
 
 # Assimilatie en dissimilatie uitleggen met gist
 
-#### Lesdoel
+## Lesdoel
 
-##### Concept
+**Concept:** Assimilatie, dissimilatie en gisting bij gist.
 
-Je kunt de begrippen assimilatie, dissimilatie en gisting bij gist uitleggen.
+**Vaardigheid:** Waarnemingen aan stof- en energieomzettingen koppelen.
 
-##### Vaardigheid
-
-Je kunt waarnemingen uit een gistproef vergelijken en deze verbinden met assimilatie, dissimilatie en energieomzetting.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les met een gistproef uitleggen wanneer stoffen worden opgebouwd of afgebroken en wanneer energie wordt gebruikt of vrijgemaakt.
 
 Na deze uitleg kan de leerling:
 

@@ -2,17 +2,13 @@
 
 ## 🔐 ESCAPE ROOM – ECOLOGIE
 
-#### Lesdoelen
+### Lesdoelen
 
-##### Concept
+**Concept:** Voedselrelaties en relaties met de leefomgeving.
 
-Je kunt de begrippen voedselrelaties en relaties met de leefomgeving uitleggen.
+**Vaardigheid:** Begrippen herkennen en verbanden leggen.
 
-##### Vaardigheid
-
-Je kunt ecologische begrippen herkennen en de rollen van organismen in hun leefomgeving en voedselrelaties uitleggen.
-
-##### Je kunt aan het einde van de les...
+Je kunt aan het einde van de les ecologische begrippen herkennen en de rollen van organismen in hun leefomgeving en voedselrelaties uitleggen.
 
 **Jullie zitten opgesloten!**  
 Alleen met de juiste antwoorden vinden jullie de code.
