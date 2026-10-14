@@ -69,10 +69,7 @@
 * [basisstof 4 - Spieren](lessen/t5b4.md)  
 * [basisstof 5 - Houding en beweging](lessen/t5b5.md)  
 * [basisstof 6 - Blessuren](lessen/t5b6.md)  
-
-<!--
-* [toets](toetsen/thema5stevigheidenbeweging.md)
--->
+* 
 
 #### Thema 4 Ordening
 
@@ -86,7 +83,6 @@
 * [toets](toetsen/thema4aangepast.md)
 
 
-
 #### Thema 3 Erfelijkheid en evolutie
 
 - [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
@@ -97,20 +93,10 @@
 - [Basisstof 6 – Evolutie](lessen/t3b6.md)
 - [Basisstof 7 – Verwantschap](lessen/t3b7.md)
 - [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
-* [toets](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_basis.docx)
-* [toets aangepast](toetsen/thema3aangepast.md)
-* [toets antwoorden](toetsen/8_1_Bvj_3GT_eindtoetsA_T3_antwoorden.docx)
-- [toets](toetsen/thema3erfelijkheid.md)
+
 
 #### Thema 2 Voortplanting en seksualteit MA
 
-<!--
-### Toets
-
-* [Toets](toetsen/GT_T2_TOETS.docx)
-* [Toets - Antwoorden](toetsen/GT_T2_ANTWOORDEN.docx)
-* [Toets - Uitleg](toetsen/GT_T2_UITLEG.docx)
-* -->
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)

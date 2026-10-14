@@ -16,6 +16,18 @@
 
 ## Lessen
 
+## Thema 9 DNA - Havo 5
+
+- [Basisstof 1, Bouw en functies van DNA](lessen/t9b1.md)
+- [Basisstof 2, DNA-replicatie](lessen/t9b2.md)
+- [Basisstof 3, Eiwitsynthese](lessen/t9b3.md)
+- [Basisstof 4, Genexpressie en genregulatie](lessen/t9b4.md)
+- [Basisstof 5, Mutaties](lessen/t9b5.md)
+- [Basisstof 6, DNA-analyse en biotechnologie](lessen/t9b6.md)
+- [Samenhang, DNA, genexpressie en evolutie](lessen/t9s1.md)
+- [Onderzoek, DNA isoleren uit plantaardige cellen](lessen/t9o1.md)
+- [Samenvatting Thema 9 DNA](samenvattingen/havo5%20T9%20DNA-samenvatting.pdf)
+
 ## Thema 8 Stofwisseling in de cel
 
 - [Basisstof 1, Stofwisseling, assimilatie en dissimilatie](lessen/t8b1.md)
@@ -147,5 +159,7 @@
 4. [Thema 5 Regeling](antwoorden/7_0_bvj_havo_4b_uitwerkingen_t5.pdf)
 
 ### Samenvattingen (pdf)
+* [Havo 5 - Thema 9 DNA](samenvattingen/havo5%20T9%20DNA-samenvatting.pdf)
+
 4. [Thema 1 Inleiding in de biologie](samenvattingen/4HT1Inleiding_in_de_biologie.pdf)
 
