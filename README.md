@@ -12,7 +12,9 @@
 
 ## Algemeen
 
+<!--
 * [Verwachtingen bij biologielessen](lesplanning/Werkblad_Verwachtingen_Biologie.pdf)
+-->
 
 ## Links
 
@@ -37,12 +39,10 @@
 * [Werkwijze in de les](werkwijze.md)
 
 
-<!--
 ## Toets
 Voor de toets leer je de samenvatting/begrippen van het thema. Deze **samenvatting** staat achterin het basisstof/thema. De samenvatting verwijst naar onderwerpen en begrippen die in basisstoffen zijn behandeld.
 
 * [beoordeling formatief](lesplanning/rubric.md)
--->
 
 ## Podcasts
 
