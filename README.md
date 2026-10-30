@@ -28,6 +28,7 @@
 * [SLO – Biologie opdrachten](https://www.slo.nl/thema/meer/hogere-denkvaardigheden/biologie/opdrachten)
 * [MijnBiologie – Interactieve oefeningen](https://mijnbiologie.nl/biologie-interactieve-oefeningen)
 * [ScienceKids – Biology](https://www.sciencekids.co.nz/biology.html)
+* [De cel interactief](https://celverkenner-app.onrender.com/)
 
 	<!--* [bs4 organnelen](https://www.youtube.com/watch?v=s6GFHnLS5Ro) -->
 
