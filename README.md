@@ -18,6 +18,7 @@
 
 ## Links
 
+* [Biologie bij Bartiméus - RSS](https://tastenbraille.com/feeds/)
 * [Biologie Voor Jou - Malmberg](https://www.inloggenvo.malmberg.nl)
 <!-- * [LessonUp](https://www.lessonup.com/site/nl) -->
 * [SOMtoday](https://www.somtoday.nl)
