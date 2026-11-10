@@ -48,6 +48,15 @@ $page = movedContentPath(is_string($_GET['page'] ?? null) ? $_GET['page'] : 'REA
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
+$lesson = !$catalogue && $selected && (
+    preg_match('~^(?:b|k|gt|havo)/lessen/[^/]+\.md$~i', $page)
+    || (str_starts_with($page, 'openlessen/') && $page !== 'openlessen/openlessen.md')
+);
+$lessonOverview = 'README.md';
+if ($lesson) {
+    $level = explode('/', $page)[0];
+    $lessonOverview = $level === 'openlessen' ? 'openlessen/openlessen.md' : $level . '/' . $level . '.md';
+}
 $sectionNames = ['algemeen' => 'Algemeen', 'links' => 'Links', 'podcasts' => 'Podcasts', 'media' => 'Media', 'veldwerk' => 'Veldwerk', 'materiaal' => 'Materiaal'];
 $section = is_string($_GET['section'] ?? null) ? $_GET['section'] : (isset($_GET['links']) ? 'links' : '');
 if (in_array($section, ['werkwijze', 'toets'], true)) {
@@ -88,7 +97,8 @@ $home = !$catalogue && $page === 'README.md' && $selected
         </div>
     </div>
 </header>
-<div class="container-xl site-layout">
+<div class="container-xl site-layout<?= $lesson ? ' lesson-layout' : '' ?>">
+    <?php if (!$lesson): ?>
     <aside class="sidebar" aria-label="Navigatie en zoeken">
         <nav aria-label="Hoofdnavigatie">
             <a class="nav-item" href="index.php" <?= !$catalogue && $section === '' && $page === 'README.md' ? 'aria-current="page"' : '' ?>>Startpagina</a>
@@ -120,6 +130,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
             </form>
         </details>
     </aside>
+    <?php endif; ?>
     <main id="inhoud" tabindex="-1">
         <?php if ($flash): ?>
         <div class="alert <?= $flash[0] ? 'alert-success' : 'alert-danger' ?>" role="status"><strong><?= $flash[0] ? 'Website bijgewerkt' : 'Bijwerken niet gelukt' ?></strong><pre><?= escape($flash[1]) ?></pre></div>
@@ -164,6 +175,9 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <h1>Pagina niet gevonden</h1><p>Dit Markdown-bestand bestaat niet of is niet beschikbaar.</p><a href="index.php?browse=1">Bekijk alle lesmaterialen</a>
         <?php endif; ?>
         </div></div>
+        <?php if ($lesson): ?>
+        <p class="lesson-return"><a href="index.php?page=<?= rawurlencode($lessonOverview) ?>">Terug naar het lesoverzicht</a></p>
+        <?php endif; ?>
         <footer>Biologie voor Bartiméus <span>Lesmateriaal dat met je meegroeit.</span></footer>
     </main>
 </div>

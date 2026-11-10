@@ -20,7 +20,7 @@
             try { localStorage.setItem(className, String(enabled)); } catch (_) {}
         });
     }
-    document.getElementById('pull-form').addEventListener('submit', () => {
+    document.getElementById('pull-form')?.addEventListener('submit', () => {
         document.querySelector('#pull-form button').disabled = true;
         document.getElementById('pull-status').textContent = 'Bezig met bijwerken. Dit kan tot 30 seconden duren.';
     });

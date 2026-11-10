@@ -14,6 +14,8 @@ a:hover { color: #0b3526; }
 .btn-primary { background: var(--bio-green); border-color: var(--bio-green); }
 .btn-outline-primary { color: var(--bio-green); border-color: var(--bio-green); }
 .site-layout { display: grid; grid-template-columns: 245px minmax(0, 1fr); gap: 2.5rem; padding-block: 2rem; }
+.site-layout.lesson-layout { grid-template-columns: minmax(0, 1fr); }
+.lesson-return { margin-block: 1.5rem 0; }
 .sidebar { padding-top: .35rem; }
 .eyebrow { font-size: .75rem; font-weight: 700; letter-spacing: .12em; color: #426052; }
 .nav-item { display: flex; align-items: center; justify-content: space-between; padding: .65rem .8rem; margin-bottom: .3rem; border-radius: .4rem; text-decoration: none; min-height: 44px; }
