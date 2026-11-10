@@ -3,7 +3,7 @@ declare(strict_types=1);
 require dirname(__DIR__) . '/website/functions.php';
 
 $count = 0;
-foreach ([['b', 8], ['k', 9], ['gt', 10], ['havo', 5], ['havo', 9]] as [$level, $theme]) {
+foreach ([['b', 8], ['k', 9], ['gt', 10], ['havo', 5], ['havo', 9], ['havo', 8], ['b', 7], ['gt', 9]] as [$level, $theme]) {
     for ($number = 1; $number <= 6; $number++) {
         $page = $level . '/lessen/t' . $theme . 'b' . $number . '.md';
         $html = renderMarkdown((string) file_get_contents(contentPath($page)), $page);
