@@ -8,6 +8,7 @@ import subprocess
 from tempfile import TemporaryDirectory
 
 from PIL import Image
+from reportlab import rl_config
 from reportlab.lib.colors import HexColor
 from reportlab.lib.pagesizes import A4
 from reportlab.lib.utils import ImageReader
@@ -18,6 +19,7 @@ from reportlab.pdfgen.canvas import Canvas
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "output" / "pdf"
 BOOKS = {"b": "BBL", "k": "KBL", "gt": "GT", "havo": "Havo"}
+rl_config.useA85 = False
 
 # Use the same rendered links and path rules as the website.
 MANIFEST = r"""
@@ -78,7 +80,7 @@ def draw_image(pdf, path, cx, cy, max_width, max_height):
         rgb = Image.new("RGB", source.size, "white")
         alpha = source.convert("RGBA")
         rgb.paste(alpha, mask=alpha.getchannel("A"))
-        rgb.save(jpeg, format="JPEG", quality=94, subsampling=0, optimize=True)
+        rgb.save(jpeg, format="JPEG", quality=90, subsampling=1, optimize=True)
         jpeg.seek(0)
 
     scale = min(max_width / pixels_h, max_height / pixels_w)
