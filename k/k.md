@@ -30,7 +30,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 6, Ontkieming, groei en ontwikkeling](../b/lessen/t7b6.md)
 
 
-### Duurzaam leven
+### Duurzaam leven ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, De mens en het milieu](../b/lessen/t6b1.md)
 - [Basisstof 2, Voedselproductie](../b/lessen/t6b2.md)
@@ -40,7 +40,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 6, Water, bodem en afval](../b/lessen/t6b6.md)
 
 
-### Ecologie
+### Ecologie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [ecologie vogel](../b/lessen/ecologie-vogel.md)
 - [Basisstof 1, Fotosynthese en verbranding](../b/lessen/t5b1.md)

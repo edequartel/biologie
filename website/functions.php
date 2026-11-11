@@ -15,8 +15,16 @@ function assetUrl(string $path): string
 
 function movedContentPath(string $path): string
 {
-    // Keep bookmarks working after splitting the former BK material.
+    // Keep old lesson and image bookmarks working after reorganizations.
+    if (preg_match('~^media/gt-thema-(?:1-4|5-7)/(t([1-7])b[1-8]-uitleg\.png)$~D', $path, $image)) {
+        $imageThemes = [
+            1 => 'organen-en-cellen', 'voortplanting-en-seksualiteit', 'erfelijkheid-en-evolutie',
+            'ordening', 'stevigheid-en-beweging', 'ecologie', 'duurzaam-leven',
+        ];
+        return 'media/' . $imageThemes[(int) $image[2]] . '/' . $image[1];
+    }
     $moves = [
+        'media/stofwisseling/' => 'media/stofwisseling-in-de-cel/',
         'bk/samenvattingB/' => 'b/samenvattingen/',
         'bk/samenvattingK/' => 'k/samenvattingen/',
         'bk/samenvattingen/' => 'b/samenvattingen/',

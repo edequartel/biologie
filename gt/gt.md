@@ -34,7 +34,7 @@
 
 #### Thema 8 Gedrag
 
-#### Thema 7 Duurzaam leven
+#### Thema 7 Duurzaam leven ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 * [basisstof 1 - De mens en het milieu](lessen/t7b1.md)  
 * [basisstof 2 - Voedselproductie](lessen/t7b2.md)  
 * [basisstof 3 - Duurzame landbouw](lessen/t7b3.md)  
@@ -43,7 +43,7 @@
 * [basisstof 6 - Water](lessen/t7b6.md)  
 * [basisstof 7 - Bodem en afval](lessen/t7b7.md)
 
-#### Thema 6 Ecologie
+#### Thema 6 Ecologie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 * [ecologie van een vogel](lessen/ecologie-vogel.md)
 * [basisstof 1 - Eten en gegeten worden](lessen/t6b1.md)  
 * [basisstof 2 - Piramiden](lessen/t6b2.md)  

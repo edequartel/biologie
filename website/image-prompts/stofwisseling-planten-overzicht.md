@@ -6,12 +6,12 @@ Kader thema 8 Planten gebruikt de zes lessen van Basis thema 7. De afbeeldingen 
 
 | Les | Afbeelding | Prompt |
 |---|---|---|
-| havo/lessen/t8b1.md | media/stofwisseling/stofwisseling-atp-uitleg.png | website/image-prompts/stofwisseling-atp-uitleg.txt |
-| havo/lessen/t8b2.md | media/stofwisseling/enzymen-uitleg.png | website/image-prompts/enzymen-uitleg.txt |
-| havo/lessen/t8b3.md | media/stofwisseling/fotosynthese-cel-uitleg.png | website/image-prompts/fotosynthese-cel-uitleg.txt |
-| havo/lessen/t8b4.md | media/stofwisseling/voortgezette-assimilatie-uitleg.png | website/image-prompts/voortgezette-assimilatie-uitleg.txt |
-| havo/lessen/t8b5.md | media/stofwisseling/dissimilatie-uitleg.png | website/image-prompts/dissimilatie-uitleg.txt |
-| havo/lessen/t8b6.md | media/stofwisseling/stofwisseling-intensiteit-uitleg.png | website/image-prompts/stofwisseling-intensiteit-uitleg.txt |
+| havo/lessen/t8b1.md | media/stofwisseling-in-de-cel/stofwisseling-atp-uitleg.png | website/image-prompts/stofwisseling-atp-uitleg.txt |
+| havo/lessen/t8b2.md | media/stofwisseling-in-de-cel/enzymen-uitleg.png | website/image-prompts/enzymen-uitleg.txt |
+| havo/lessen/t8b3.md | media/stofwisseling-in-de-cel/fotosynthese-cel-uitleg.png | website/image-prompts/fotosynthese-cel-uitleg.txt |
+| havo/lessen/t8b4.md | media/stofwisseling-in-de-cel/voortgezette-assimilatie-uitleg.png | website/image-prompts/voortgezette-assimilatie-uitleg.txt |
+| havo/lessen/t8b5.md | media/stofwisseling-in-de-cel/dissimilatie-uitleg.png | website/image-prompts/dissimilatie-uitleg.txt |
+| havo/lessen/t8b6.md | media/stofwisseling-in-de-cel/stofwisseling-intensiteit-uitleg.png | website/image-prompts/stofwisseling-intensiteit-uitleg.txt |
 | b/lessen/t7b1.md | media/planten/planten-bladeren-uitleg.png | website/image-prompts/planten-bladeren-uitleg.txt |
 | gt/lessen/t9b1.md | media/planten/planten-bladeren-uitleg.png | website/image-prompts/planten-bladeren-uitleg.txt |
 | b/lessen/t7b2.md | media/planten/planten-transport-uitleg.png | website/image-prompts/planten-transport-uitleg.txt |

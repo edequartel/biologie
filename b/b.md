@@ -23,7 +23,7 @@
 - [Basisstof 6, Ontkieming, groei en ontwikkeling](lessen/t7b6.md)
 
 
-#### Thema 6 Duurzaam leven
+#### Thema 6 Duurzaam leven ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, De mens en het milieu](lessen/t6b1.md)
 - [Basisstof 2, Voedselproductie](lessen/t6b2.md)
@@ -33,7 +33,7 @@
 - [Basisstof 6, Water, bodem en afval](lessen/t6b6.md)
 
 
-#### Thema 5 Ecologie
+#### Thema 5 Ecologie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [ecologie vogel](lessen/ecologie-vogel.md)
 - [Basisstof 1, Fotosynthese en verbranding](lessen/t5b1.md)
