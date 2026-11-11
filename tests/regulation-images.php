@@ -3,8 +3,13 @@ declare(strict_types=1);
 require dirname(__DIR__) . '/website/functions.php';
 
 $count = 0;
-foreach ([['b', 8], ['k', 9], ['gt', 10], ['havo', 5], ['havo', 9], ['havo', 8], ['b', 7], ['gt', 9]] as [$level, $theme]) {
-    for ($number = 1; $number <= 6; $number++) {
+$themes = [
+    ['b', 8, 6], ['k', 9, 6], ['gt', 10, 6], ['havo', 5, 6],
+    ['havo', 9, 6], ['havo', 8, 6], ['b', 7, 6], ['gt', 9, 6],
+    ['gt', 1, 6], ['gt', 2, 8], ['gt', 3, 8], ['gt', 4, 6],
+];
+foreach ($themes as [$level, $theme, $lessonCount]) {
+    for ($number = 1; $number <= $lessonCount; $number++) {
         $page = $level . '/lessen/t' . $theme . 'b' . $number . '.md';
         $html = renderMarkdown((string) file_get_contents(contentPath($page)), $page);
         $dom = new DOMDocument();
@@ -36,3 +41,15 @@ foreach ([['b', 8], ['k', 9], ['gt', 10], ['havo', 5], ['havo', 9], ['havo', 8],
     }
 }
 echo "OK: $count basisstoflessen met een geldige uitlegafbeelding, alt-tekst en tekstbeschrijving onderaan.\n";
+
+$overview = renderMarkdown((string) file_get_contents(contentPath('gt/gt.md')), 'gt/gt.md');
+$badge = contentPath('media/lesson-image-badge.png');
+if ($badge === null || !getimagesize($badge)) {
+    throw new RuntimeException('Thema-icoon ontbreekt of is ongeldig.');
+}
+foreach ([1, 2, 3, 4, 9, 10] as $theme) {
+    if (!preg_match('~<h4 id="thema-' . $theme . '-[^"]+">[^<]*<img\b[^>]*alt="Met uitlegafbeeldingen"~', $overview)) {
+        throw new RuntimeException('Toegankelijk icoon ontbreekt bij GT-thema ' . $theme);
+    }
+}
+echo "OK: GT-thema's met uitlegafbeeldingen hebben een icoon met alt-tekst.\n";

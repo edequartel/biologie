@@ -11,7 +11,7 @@
 
 ## Lessen
 
-#### Thema 10 Regeling
+#### Thema 10 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t10b1.md)
 - [Basisstof 2 - Zenuwcellen en zenuwen](lessen/t10b2.md)
@@ -23,7 +23,7 @@
 - [Extra 8 - Hersenaandoeningen (verbreding)](lessen/t10b8.md)
 - [Onderzoek - Een interview voorbereiden en presenteren](lessen/t10o1.md)
 
-#### Thema 9 Planten
+#### Thema 9 Planten ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [basisstof 1 - Bladeren](lessen/t9b1.md)
 - [basisstof 2 - Stengels en wortels](lessen/t9b2.md)
@@ -61,7 +61,7 @@
 * [basisstof 6 - Blessuren](lessen/t5b6.md)  
 * 
 
-#### Thema 4 Ordening
+#### Thema 4 Ordening ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 * [flitskaarten](https://notebooklm.google.com/notebook/6b88a7c9-ace7-4f5a-8983-16c30575a7a7?artifactId=7c0b5c28-702b-4faa-992c-8296b6d7c414)
 * [basisstof 1 - Ontwikkeling van het leven op aarde](lessen/t4b1.md)  
@@ -73,7 +73,7 @@
 * [toets](toetsen/thema4aangepast.md)
 
 
-#### Thema 3 Erfelijkheid en evolutie
+#### Thema 3 Erfelijkheid en evolutie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 – Genotype en fenotype](lessen/t3b1.md)
 - [Basisstof 2 – Genen](lessen/t3b2.md)
@@ -85,7 +85,7 @@
 - [Basisstof 8 – DNA-technieken](lessen/t3b8.md)
 
 
-#### Thema 2 Voortplanting en seksualteit MA
+#### Thema 2 Voortplanting en seksualteit MA ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
@@ -99,7 +99,7 @@
 - [Basisstof 8 - Erfelijkheidsonderzoek](lessen/t2b8.md)
 
 
-#### Thema 1 Organismen en cellen
+#### Thema 1 Organismen en cellen ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Organismen](lessen/t1b1.md)
 - [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
