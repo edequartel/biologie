@@ -2,7 +2,7 @@
 
 ## Lessen
 
-### Thema 9 Regeling
+### Thema 9 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 Regeling is bij Kader thema 9; bij Basis is dit thema 8.
 
@@ -20,7 +20,7 @@ Regeling is bij Kader thema 9; bij Basis is dit thema 8.
 
 De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen volgen de Basis-indeling; gebruik voor Kader de nummering in de samenvattingen en begrippenlijsten hieronder.
 
-### Planten
+### Planten ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Bladeren](../b/lessen/t7b1.md)
 - [Basisstof 2, Stengels en wortels](../b/lessen/t7b2.md)
@@ -60,7 +60,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 5, Houding en blessures](../b/lessen/t4b5.md)
 - [Basisstof 6, Blessures](../b/lessen/t4b6.md)
 
-### Ordening
+### Ordening ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Organismen ordenen](../b/lessen/t3b1.md)
 - [Basisstof 2 - Bacteriën en schimmels](../b/lessen/t3b2.md)
@@ -70,7 +70,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 6 - Organismen determineren](../b/lessen/t3b6.md)
 
 
-### Voortplanting en seksualteit
+### Voortplanting en seksualteit ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Geslachtsorganen](../b/lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](../b/lessen/t2b2.md)
@@ -81,7 +81,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 7 - Veilige seks](../b/lessen/t2b7.md)
 
 
-### Organen en cellen
+### Organen en cellen ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 * [Basisstof 1 - Organismen](../b/lessen/t1b1.md)
 * [Basisstof 2 - De bouw van een organisme](../b/lessen/t1b2.md)

@@ -16,6 +16,9 @@ function assetUrl(string $path): string
 function movedContentPath(string $path): string
 {
     // Keep old lesson and image bookmarks working after reorganizations.
+    if ($path === 'gt/afbeeldingen/ruggenmerg-uitleg.png') {
+        return 'media/regeling/ruggenmerg-uitleg.png';
+    }
     if (preg_match('~^media/gt-thema-(?:1-4|5-7)/(t([1-7])b[1-8]-uitleg\.png)$~D', $path, $image)) {
         $imageThemes = [
             1 => 'organen-en-cellen', 'voortplanting-en-seksualiteit', 'erfelijkheid-en-evolutie',

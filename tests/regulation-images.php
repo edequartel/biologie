@@ -32,36 +32,36 @@ $sharedImages = [
 ];
 $imageFiles = [];
 foreach (array_unique($pages) as $page) {
-        $html = renderMarkdown((string) file_get_contents(contentPath($page)), $page);
-        $dom = new DOMDocument();
-        $previous = libxml_use_internal_errors(true);
-        $dom->loadHTML('<?xml encoding="UTF-8">' . $html);
-        libxml_clear_errors();
-        libxml_use_internal_errors($previous);
-        $xpath = new DOMXPath($dom);
-        $headings = $xpath->query('//h3[starts-with(@id, "afbeelding-")]');
-        $descriptions = $xpath->query('//h4[@id="tekstbeschrijving-van-de-afbeelding"]');
-        $images = $xpath->query('//img');
-        if ($headings->length !== 1 || $descriptions->length !== 1 || $images->length !== 1) {
-            throw new RuntimeException('Afbeelding of beschrijving ontbreekt of is dubbel: ' . $page);
-        }
-        $image = $images->item(0);
-        if (mb_strlen($image->getAttribute('alt')) < 30 || $image->getAttribute('loading') !== 'lazy') {
-            throw new RuntimeException('Alternatieve tekst of lazy loading ontbreekt: ' . $page);
-        }
-        parse_str((string) parse_url($image->getAttribute('src'), PHP_URL_QUERY), $parameters);
-        $file = contentPath($parameters['file'] ?? '');
-        if ($file === null || !getimagesize($file)) {
-            throw new RuntimeException('Afbeeldingsbestand ontbreekt of is ongeldig: ' . $page);
-        }
-        if (!preg_match('~^media/(?:organen-en-cellen|voortplanting-en-seksualiteit|erfelijkheid-en-evolutie|ordening|stevigheid-en-beweging|ecologie|duurzaam-leven|planten|regeling|dna|stofwisseling-in-de-cel)/[^/]+\.png$~D', $parameters['file'])) {
-            throw new RuntimeException('Afbeelding staat niet in een themamap: ' . $page);
-        }
-        $lastHeading = $xpath->query('//h4')->item($xpath->query('//h4')->length - 1);
-        if ($lastHeading->getAttribute('id') !== 'tekstbeschrijving-van-de-afbeelding') {
-            throw new RuntimeException('Afbeeldingsbeschrijving staat niet onderaan: ' . $page);
-        }
-        $imageFiles[$page] = $file;
+    $html = renderMarkdown((string) file_get_contents(contentPath($page)), $page);
+    $dom = new DOMDocument();
+    $previous = libxml_use_internal_errors(true);
+    $dom->loadHTML('<?xml encoding="UTF-8">' . $html);
+    libxml_clear_errors();
+    libxml_use_internal_errors($previous);
+    $xpath = new DOMXPath($dom);
+    $headings = $xpath->query('//h3[starts-with(@id, "afbeelding-")]');
+    $descriptions = $xpath->query('//h4[@id="tekstbeschrijving-van-de-afbeelding"]');
+    $images = $xpath->query('//img');
+    if ($headings->length !== 1 || $descriptions->length !== 1 || $images->length !== 1) {
+        throw new RuntimeException('Afbeelding of beschrijving ontbreekt of is dubbel: ' . $page);
+    }
+    $image = $images->item(0);
+    if (mb_strlen($image->getAttribute('alt')) < 30 || $image->getAttribute('loading') !== 'lazy') {
+        throw new RuntimeException('Alternatieve tekst of lazy loading ontbreekt: ' . $page);
+    }
+    parse_str((string) parse_url($image->getAttribute('src'), PHP_URL_QUERY), $parameters);
+    $file = contentPath($parameters['file'] ?? '');
+    if ($file === null || !getimagesize($file)) {
+        throw new RuntimeException('Afbeeldingsbestand ontbreekt of is ongeldig: ' . $page);
+    }
+    if (!preg_match('~^media/(?:organen-en-cellen|voortplanting-en-seksualiteit|erfelijkheid-en-evolutie|ordening|stevigheid-en-beweging|ecologie|duurzaam-leven|planten|regeling|dna|stofwisseling-in-de-cel)/[^/]+\.png$~D', $parameters['file'])) {
+        throw new RuntimeException('Afbeelding staat niet in een themamap: ' . $page);
+    }
+    $lastHeading = $xpath->query('//h4')->item($xpath->query('//h4')->length - 1);
+    if ($lastHeading->getAttribute('id') !== 'tekstbeschrijving-van-de-afbeelding') {
+        throw new RuntimeException('Afbeeldingsbeschrijving staat niet onderaan: ' . $page);
+    }
+    $imageFiles[$page] = $file;
 }
 foreach ($sharedImages as $basisLesson => $gtLesson) {
     $page = 'b/lessen/' . $basisLesson . '.md';
@@ -105,6 +105,7 @@ echo "OK: BBL en KBL tonen thema-iconen en delen de passende lesafbeeldingen.\n"
 foreach ([
     'media/gt-thema-1-4/t4b2-uitleg.png' => 'media/ordening/t4b2-uitleg.png',
     'media/gt-thema-5-7/t6b1-uitleg.png' => 'media/ecologie/t6b1-uitleg.png',
+    'gt/afbeeldingen/ruggenmerg-uitleg.png' => 'media/regeling/ruggenmerg-uitleg.png',
     'media/stofwisseling/stofwisseling-atp-uitleg.png' => 'media/stofwisseling-in-de-cel/stofwisseling-atp-uitleg.png',
 ] as $old => $new) {
     if (contentPath($old) === null || contentPath($old) !== contentPath($new)) {

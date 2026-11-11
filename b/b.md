@@ -2,7 +2,7 @@
 
 ## Lessen
 
-#### Thema 8 Regeling
+#### Thema 8 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t8b1.md)
 - [Basisstof 2 - Zenuwcellen en zenuwen](lessen/t8b2.md)
@@ -13,7 +13,7 @@
 - [Extra 7 - Leven met diabetes (verdieping)](lessen/t8b7.md)
 - [Extra 8 - Het veranderende puberbrein (verbreding)](lessen/t8b8.md)
 
-#### Thema 7 Planten
+#### Thema 7 Planten ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Bladeren](lessen/t7b1.md)
 - [Basisstof 2, Stengels en wortels](lessen/t7b2.md)
@@ -53,7 +53,7 @@
 - [Basisstof 5, Houding en blessures](lessen/t4b5.md)
 - [Basisstof 6, Blessures](lessen/t4b6.md)
 
-#### Thema 3 Ordening
+#### Thema 3 Ordening ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Organismen ordenen](lessen/t3b1.md)
 - [Basisstof 2 - Bacteriën en schimmels](lessen/t3b2.md)
@@ -64,7 +64,7 @@
 - [Samenvatting Thema 3](samenvattingen/T3_Ordening.pdf)
 
 
-#### Thema 2 Voortplanting en seksualteit
+#### Thema 2 Voortplanting en seksualteit ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Geslachtsorganen](lessen/t2b1.md)
 - [Basisstof 2 - Veranderingen in de puberteit](lessen/t2b2.md)
@@ -76,7 +76,7 @@
 - [Samenvatting Thema 2](samenvattingen/T2_Voortplanting_en_seksualiteit.pdf)
 
 
-#### Thema 1 Organen en cellen
+#### Thema 1 Organen en cellen ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 * [Basisstof 1 - Organismen](lessen/t1b1.md)
 * [Basisstof 2 - De bouw van een organisme](lessen/t1b2.md)
