@@ -12,7 +12,9 @@
 
 ## Lessen
 
-## Thema 9 DNA - Havo 5
+[Download uitlegafbeeldingen havo (PDF, 90 graden linksom)](../output/pdf/biologie-havo-uitlegafbeeldingen.pdf)
+
+## Thema 9 DNA - Havo 5 ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Bouw en functies van DNA](lessen/t9b1.md)
 - [Basisstof 2, DNA-replicatie](lessen/t9b2.md)
@@ -24,7 +26,7 @@
 - [Onderzoek, DNA isoleren uit plantaardige cellen](lessen/t9o1.md)
 - [Samenvatting Thema 9 DNA](samenvattingen/havo5%20T9%20DNA-samenvatting.pdf)
 
-## Thema 8 Stofwisseling in de cel
+## Thema 8 Stofwisseling in de cel ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Stofwisseling, assimilatie en dissimilatie](lessen/t8b1.md)
 - [Basisstof 2, Enzymen](lessen/t8b2.md)
@@ -34,7 +36,7 @@
 - [Basisstof 6, Intensiteit van stofwisseling](lessen/t8b6.md)
 - [Praktijk Assimilatie en Dissimilatie](lessen/praktijk_assimilatie_dissimilatie.md)
 
-## Thema 7 Ecologie en milieu
+## Thema 7 Ecologie en milieu ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Organismen](lessen/t7b1.md)
 - [Basisstof 2, Populaties](lessen/t7b2.md)
@@ -47,7 +49,7 @@
 
 
 
-## Thema 6: Waarneming en gedrag
+## Thema 6: Waarneming en gedrag ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Zintuigen](lessen/t6b1.md)
 - [Basisstof 2, Het oog](lessen/t6b2.md)
@@ -56,7 +58,7 @@
 - [Basisstof 5, Sociaal gedrag bij dieren](lessen/t6b5.md)
 - [Basisstof 6, Gedrag bij mensen](lessen/t6b6.md)
 
-## Thema 5: Regeling
+## Thema 5: Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Homeostase en regelkringen](lessen/t5b1.md)
 - [Basisstof 2, Het hormoonstelsel](lessen/t5b2.md)
@@ -65,7 +67,7 @@
 - [Basisstof 5, Impulsgeleiding](lessen/t5b5.md)
 - [Basisstof 6, Spieren en beweging](lessen/t5b6.md)
 
-## Thema 4: Evolutie
+## Thema 4: Evolutie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Inleiding levende natuur](lessen/t4b1.md)
 - [Basisstof 2, Bacteriën, virussen, schimmels](lessen/t4b2.md)
@@ -74,18 +76,18 @@
 - [Basisstof 5, Onderzoek naar evolutie](lessen/t4b5.md)
 - [Toets](toetsen/t4evolutie.md)
 
-## Thema 3: Genetica / Erfelijkheid
+## Thema 3: Genetica / Erfelijkheid ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Fenotype en genotype](lessen/t3b1.md)
 - [Basisstof 2, Genenparen](lessen/t3b2.md)
 - [Basisstof 3, Monohybride kruisingen](lessen/t3b3.md)
-- [Basisstof 4, Geslachtshormonen](lessen/t3b4.md)
+- [Basisstof 4, Geslachtschromosomen](lessen/t3b4.md)
 - [Basisstof 5, Speciale manieren van overerven](lessen/t3b5.md)
 - [Basisstof 6, Opvoeding of aanleg](lessen/t3b6.md)
 - [Toets](toetsen/genetica.md)
 
 
-## Thema 2: Voortplanting en seksualiteit
+## Thema 2: Voortplanting en seksualiteit ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Ongeslachtelijke voortplanting](lessen/t2b1.md)
 - [Basisstof 2, Geslachtelijke voortplanting](lessen/t2b2.md)
@@ -107,10 +109,10 @@
 - [Toets HAVO](toetsen/t2toets.md)
 
 
-## Thema 1: Inleiding in de biologie
+## Thema 1: Inleiding in de biologie ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Biologie is overal](lessen/t1b1.md)
-- [Basisstof 2, Organisme, weefsels en cellen](lessen/t1b2.md)
+- [Basisstof 2, De levenscyclus van organismen](lessen/t1b2.md)
 - [Basisstof 3, Plantaardige en dierlijke cellen](lessen/t1b3.md)
 - [Basisstof 4, Organellen](lessen/t1b4.md)
 - [Basisstof 5, Transport door membranen](lessen/t1b5.md)

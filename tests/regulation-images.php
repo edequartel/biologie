@@ -3,7 +3,7 @@ declare(strict_types=1);
 require dirname(__DIR__) . '/website/functions.php';
 
 $pages = $overviews = [];
-foreach (['gt' => 59, 'b' => 49, 'k' => 49] as $level => $minimum) {
+foreach (['gt' => 59, 'b' => 49, 'k' => 49, 'havo' => 55] as $level => $minimum) {
     $overviewPath = "$level/$level.md";
     $overviews[$level] = renderMarkdown((string) file_get_contents(contentPath($overviewPath)), $overviewPath);
     preg_match_all('~href="index\.php\?page=([^"]+)">Basisstof\b~i', $overviews[$level], $links);
@@ -13,11 +13,13 @@ foreach (['gt' => 59, 'b' => 49, 'k' => 49] as $level => $minimum) {
     }
     array_push($pages, ...$overviews[$level . '-lessons']);
 }
-foreach ([5, 8, 9] as $theme) {
-    for ($number = 1; $number <= 6; $number++) {
-        $pages[] = 'havo/lessen/t' . $theme . 'b' . $number . '.md';
-    }
-}
+$themeDirectories = [
+    'organen-en-cellen', 'voortplanting-en-seksualiteit', 'erfelijkheid-en-evolutie',
+    'ordening', 'stevigheid-en-beweging', 'ecologie', 'duurzaam-leven',
+    'planten', 'regeling', 'dna', 'stofwisseling-in-de-cel',
+    'inleiding-in-de-biologie', 'genetica-en-erfelijkheid', 'evolutie',
+    'waarneming-en-gedrag', 'ecologie-en-milieu',
+];
 $sharedImages = [
     't1b1' => 't1b1', 't1b2' => 't1b2', 't1b4' => 't1b3',
     't2b1' => 't2b1', 't2b2' => 't2b2', 't2b3' => 't2b3', 't2b4' => 't2b4',
@@ -54,8 +56,13 @@ foreach (array_unique($pages) as $page) {
     if ($file === null || !getimagesize($file)) {
         throw new RuntimeException('Afbeeldingsbestand ontbreekt of is ongeldig: ' . $page);
     }
-    if (!preg_match('~^media/(?:organen-en-cellen|voortplanting-en-seksualiteit|erfelijkheid-en-evolutie|ordening|stevigheid-en-beweging|ecologie|duurzaam-leven|planten|regeling|dna|stofwisseling-in-de-cel)/[^/]+\.png$~D', $parameters['file'])) {
+    if (!preg_match('~^media/([^/]+)/[^/]+\.png$~D', $parameters['file'], $path)
+        || !in_array($path[1], $themeDirectories, true)) {
         throw new RuntimeException('Afbeelding staat niet in een themamap: ' . $page);
+    }
+    if (preg_match('~^havo/lessen/(t[123467]b\d+)\.md$~D', $page, $lesson)
+        && basename($file) !== 'havo-' . $lesson[1] . '-uitleg.png') {
+        throw new RuntimeException('Eigen havo-afbeelding ontbreekt: ' . $page);
     }
     $lastHeading = $xpath->query('//h4')->item($xpath->query('//h4')->length - 1);
     if ($lastHeading->getAttribute('id') !== 'tekstbeschrijving-van-de-afbeelding') {
@@ -83,6 +90,13 @@ foreach ([1, 2, 3, 4, 5, 6, 7, 9, 10] as $theme) {
     }
 }
 echo "OK: GT-thema's met uitlegafbeeldingen hebben een icoon met alt-tekst.\n";
+
+foreach (range(1, 9) as $theme) {
+    if (!preg_match('~<h2 id="thema-' . $theme . '-[^"]+">[^<]*<img\b[^>]*alt="Met uitlegafbeeldingen"~', $overviews['havo'])) {
+        throw new RuntimeException('Toegankelijk icoon ontbreekt bij havo-thema ' . $theme);
+    }
+}
+echo "OK: Alle havo-basisstoffen in het lesoverzicht hebben een uitlegafbeelding.\n";
 
 $basis = (string) file_get_contents(contentPath('b/b.md'));
 $kader = (string) file_get_contents(contentPath('k/k.md'));

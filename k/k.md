@@ -2,6 +2,8 @@
 
 ## Lessen
 
+[Download uitlegafbeeldingen KBL (PDF, 90 graden linksom)](../output/pdf/biologie-kbl-uitlegafbeeldingen.pdf)
+
 ### Thema 9 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 Regeling is bij Kader thema 9; bij Basis is dit thema 8.

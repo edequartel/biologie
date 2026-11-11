@@ -2,6 +2,8 @@
 
 ## Lessen
 
+[Download uitlegafbeeldingen BBL (PDF, 90 graden linksom)](../output/pdf/biologie-bbl-uitlegafbeeldingen.pdf)
+
 #### Thema 8 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t8b1.md)

@@ -11,6 +11,8 @@
 
 ## Lessen
 
+[Download uitlegafbeeldingen GT (PDF, 90 graden linksom)](../output/pdf/biologie-gt-uitlegafbeeldingen.pdf)
+
 #### Thema 10 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t10b1.md)
