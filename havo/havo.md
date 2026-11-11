@@ -12,7 +12,7 @@
 
 ## Lessen
 
-[Download uitlegafbeeldingen havo (PDF, 90 graden linksom)](../output/pdf/biologie-havo-uitlegafbeeldingen.pdf)
+[Download uitlegafbeeldingen havo (PDF, liggend A4)](../output/pdf/biologie-havo-uitlegafbeeldingen.pdf)
 
 ## Thema 9 DNA - Havo 5 ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 

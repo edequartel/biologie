@@ -10,7 +10,7 @@ from tempfile import TemporaryDirectory
 from PIL import Image
 from reportlab import rl_config
 from reportlab.lib.colors import HexColor
-from reportlab.lib.pagesizes import A4
+from reportlab.lib.pagesizes import A4, landscape
 from reportlab.lib.utils import ImageReader
 from reportlab.pdfbase.pdfmetrics import stringWidth
 from reportlab.pdfgen.canvas import Canvas
@@ -19,6 +19,15 @@ from reportlab.pdfgen.canvas import Canvas
 ROOT = Path(__file__).resolve().parents[1]
 OUTPUT = ROOT / "output" / "pdf"
 BOOKS = {"b": "BBL", "k": "KBL", "gt": "GT", "havo": "Havo"}
+KBL_THEME_NUMBERS = {
+    "Organen en cellen": 1,
+    "Voortplanting en seksualteit": 2,
+    "Ordening": 4,
+    "Stevigheid en beweging": 5,
+    "Ecologie": 6,
+    "Duurzaam leven": 7,
+    "Planten": 8,
+}
 rl_config.useA85 = False
 
 # Use the same rendered links and path rules as the website.
@@ -73,7 +82,7 @@ echo json_encode($books, JSON_THROW_ON_ERROR);
 """
 
 
-def draw_image(pdf, path, cx, cy, max_width, max_height):
+def draw_image(pdf, path, x, y, max_width, max_height):
     with Image.open(path) as source:
         pixels_w, pixels_h = source.size
         jpeg = BytesIO()
@@ -83,26 +92,88 @@ def draw_image(pdf, path, cx, cy, max_width, max_height):
         rgb.save(jpeg, format="JPEG", quality=90, subsampling=1, optimize=True)
         jpeg.seek(0)
 
-    scale = min(max_width / pixels_h, max_height / pixels_w)
+    scale = min(max_width / pixels_w, max_height / pixels_h)
     width, height = pixels_w * scale, pixels_h * scale
-    pdf.saveState()
-    pdf.translate(cx, cy)
-    pdf.rotate(90)  # Positive PDF rotation is counterclockwise.
-    pdf.drawImage(ImageReader(jpeg), -width / 2, -height / 2, width, height)
-    pdf.restoreState()
+    pdf.drawImage(ImageReader(jpeg), x + (max_width - width) / 2,
+                  y + (max_height - height) / 2, width, height)
 
 
 def page_text(value):
     return re.sub(r"\s+", " ", value).strip().replace("–", "-").replace("—", "-")
 
 
+def order_lessons(level, lessons):
+    for lesson in lessons:
+        theme = page_text(lesson["theme"])
+        numbered = re.fullmatch(r"Thema (\d+)\s*:?\s+(.+)", theme)
+        if numbered:
+            number, title = int(numbered[1]), numbered[2]
+        elif level == "k" and theme in KBL_THEME_NUMBERS:
+            number, title = KBL_THEME_NUMBERS[theme], theme.replace("seksualteit", "seksualiteit")
+        else:
+            raise ValueError(f"Geen themanummer voor {level}: {theme}")
+        basisstof = re.match(r"Basisstof (\d+)", lesson["title"], re.IGNORECASE)
+        if not basisstof:
+            raise ValueError(f"Geen basisstofnummer: {lesson['title']}")
+        lesson["theme"] = f"Thema {number}: {title}"
+        lesson["sort"] = (number, int(basisstof[1]))
+    return sorted(lessons, key=lambda lesson: lesson["sort"])
+
+
+def draw_cover(pdf, level_name, lessons, width, height):
+    ink = HexColor("#123932")
+    pdf.setFillColor(HexColor("#EAF2ED"))
+    pdf.rect(0, 0, width, height, fill=1, stroke=0)
+    pdf.setFillColor(ink)
+    pdf.rect(0, 0, 445, height, fill=1, stroke=0)
+    pdf.setFillColor(HexColor("#C3E3D4"))
+    pdf.setFont("Helvetica-Bold", 13)
+    pdf.drawString(38, height - 57, f"BIOLOGIE  /  {level_name.upper()}")
+    pdf.setFillColor(HexColor("#FFFFFF"))
+    pdf.setFont("Helvetica-Bold", 37)
+    pdf.drawString(38, height - 114, "Uitlegafbeeldingen")
+    pdf.setFont("Helvetica", 15)
+    pdf.drawString(40, height - 147, f"{len(lessons)} basisstoffen in beeld")
+    pdf.setFillColor(HexColor("#FFFFFF"))
+    pdf.roundRect(38, 89, 369, 264, 10, fill=1, stroke=0)
+    draw_image(pdf, lessons[0]["image"], 47, 98, 351, 246)
+    pdf.setFillColor(HexColor("#C3E3D4"))
+    pdf.setFont("Helvetica", 10)
+    pdf.drawString(40, 54, "EEN AFBEELDING PER BASISSTOF")
+
+    left, right = 478, width - 35
+    pdf.setFillColor(ink)
+    pdf.setFont("Helvetica-Bold", 25)
+    pdf.drawString(left, height - 76, "Inhoud")
+    pdf.setFont("Helvetica", 12)
+    pdf.drawString(left, height - 100, "Kies een thema om direct te beginnen.")
+    y = height - 153
+    last_theme = None
+    for number, lesson in enumerate(lessons, start=1):
+        theme = lesson["theme"]
+        if theme == last_theme:
+            continue
+        last_theme = theme
+        pdf.setStrokeColor(HexColor("#A8C3B7"))
+        pdf.line(left, y - 12, right, y - 12)
+        size = min(12, 12 * (right - left - 29) / stringWidth(theme, "Helvetica-Bold", 12))
+        pdf.setFont("Helvetica-Bold", size)
+        pdf.drawString(left, y, theme)
+        pdf.setFont("Helvetica", 11)
+        pdf.drawRightString(right, y, str(number + 1))
+        pdf.linkRect("", f"thema-{number}", (left, y - 10, right, y + 14), thickness=0)
+        y -= 35
+    pdf.showPage()
+
+
 def build_book(target, level_name, lessons):
-    pdf = Canvas(str(target), pagesize=A4, pageCompression=1)
+    width, height = landscape(A4)
+    pdf = Canvas(str(target), pagesize=(width, height), pageCompression=1)
     pdf.setTitle(f"Biologie {level_name} - Uitlegafbeeldingen")
-    pdf.setSubject("Uitlegafbeeldingen per basisstof, 90 graden tegen de klok in gedraaid")
-    width, height = A4
+    pdf.setSubject("Uitlegafbeeldingen per basisstof op liggend A4, geordend per thema")
     margin = 24
     last_theme = None
+    draw_cover(pdf, level_name, lessons, width, height)
 
     for number, lesson in enumerate(lessons, start=1):
         theme = page_text(lesson["theme"])
@@ -119,7 +190,7 @@ def build_book(target, level_name, lessons):
         pdf.setFillColor(HexColor("#194A63"))
         pdf.setFont("Helvetica-Bold", 10)
         pdf.drawString(margin, height - 27, f"BIOLOGIE  /  {level_name.upper()}")
-        pdf.setFont("Helvetica", 10)
+        pdf.setFont("Helvetica-Bold", 12)
         pdf.drawRightString(width - margin, height - 27, theme)
         pdf.setStrokeColor(HexColor("#B7D4E4"))
         pdf.line(margin, height - 35, width - margin, height - 35)
@@ -130,12 +201,12 @@ def build_book(target, level_name, lessons):
         pdf.drawString(margin, height - 55, title)
 
         image_top, image_bottom = height - 68, 33
-        draw_image(pdf, lesson["image"], width / 2, (image_top + image_bottom) / 2,
+        draw_image(pdf, lesson["image"], margin, image_bottom,
                    width - 2 * margin, image_top - image_bottom)
         pdf.setFillColor(HexColor("#194A63"))
         pdf.setFont("Helvetica", 9)
         pdf.drawString(margin, 17, "Uitlegafbeeldingen")
-        pdf.drawRightString(width - margin, 17, f"{number} / {len(lessons)}")
+        pdf.drawRightString(width - margin, 17, f"{number + 1} / {len(lessons) + 1}")
         pdf.showPage()
     pdf.save()
 
@@ -150,9 +221,9 @@ def main():
         for level, name in BOOKS.items():
             filename = f"biologie-{name.lower()}-uitlegafbeeldingen.pdf"
             draft = Path(folder) / filename
-            build_book(draft, name, books[level])
+            build_book(draft, name, order_lessons(level, books[level]))
             draft.replace(OUTPUT / filename)
-            print(f"{filename}: {len(books[level])} pagina's")
+            print(f"{filename}: {len(books[level]) + 1} pagina's")
 
 
 if __name__ == "__main__":

@@ -2,7 +2,7 @@
 
 ## Lessen
 
-[Download uitlegafbeeldingen BBL (PDF, 90 graden linksom)](../output/pdf/biologie-bbl-uitlegafbeeldingen.pdf)
+[Download uitlegafbeeldingen BBL (PDF, liggend A4)](../output/pdf/biologie-bbl-uitlegafbeeldingen.pdf)
 
 #### Thema 8 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
