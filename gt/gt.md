@@ -52,7 +52,7 @@
 * [basisstof 5 - Aanpassingen bij dieren](lessen/t6b5.md)  
 * [basisstof 6 - Aanpassingen bij planten](lessen/t6b6.md)  
 
-#### Thema 5 Stevigheid en beweging
+#### Thema 5 Stevigheid en beweging ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 * [basisstof 1 - Het skelet van de mens](lessen/t5b1.md)  
 * [basisstof 2 - Kraakbeenweefsel en beenweefsel](lessen/t5b2.md)  
 * [basisstof 3 - Beenverbindingen](lessen/t5b3.md)  

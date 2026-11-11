@@ -51,7 +51,7 @@ De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen 
 - [Basisstof 6, Ecologisch onderzoek doen](../b/lessen/t5b6.md)
 
 
-### Stevigheid en beweging
+### Stevigheid en beweging ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Het skelet van de mens](../b/lessen/t4b1.md)
 - [Basisstof 2, Kraakbeenweefsel en beenweefsel](../b/lessen/t4b2.md)

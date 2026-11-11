@@ -44,7 +44,7 @@
 - [Basisstof 6, Ecologisch onderzoek doen](lessen/t5b6.md)
 
 
-#### Thema 4 Stevigheid en beweging
+#### Thema 4 Stevigheid en beweging ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Het skelet van de mens](lessen/t4b1.md)
 - [Basisstof 2, Kraakbeenweefsel en beenweefsel](lessen/t4b2.md)
