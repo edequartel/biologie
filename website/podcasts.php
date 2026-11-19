@@ -5,12 +5,12 @@ const PODCAST_ORIGIN = 'https://www.tastenbraille.com';
 const PODCAST_API = PODCAST_ORIGIN . '/biologie/api/audio.php?format=all';
 const HAVO_PODCAST_OVERVIEW = PODCAST_ORIGIN . '/biologie/havo.php';
 
-function podcastCatalogue(string $url, callable $parse): ?array
+function podcastCatalogue(string $url, callable $parse, bool $refresh = false): ?array
 {
     $cachePath = sys_get_temp_dir() . '/biologie-podcasts-' . hash('sha256', __DIR__ . $url);
     $cachedJson = is_file($cachePath) ? @file_get_contents($cachePath) : false;
     $cached = $cachedJson !== false ? json_decode($cachedJson, true) : null;
-    if (is_array($cached) && time() - (int) @filemtime($cachePath) < 3600) {
+    if (!$refresh && is_array($cached) && time() - (int) @filemtime($cachePath) < 3600) {
         return $cached;
     }
 
@@ -18,17 +18,34 @@ function podcastCatalogue(string $url, callable $parse): ?array
     $response = @file_get_contents($url, false, $context, 0, 1_048_577);
     $catalogue = $response !== false && strlen($response) <= 1_048_576 ? $parse($response) : null;
     if ($catalogue === null) {
-        return is_array($cached) ? $cached : null;
+        return !$refresh && is_array($cached) ? $cached : null;
     }
 
     $temporary = @tempnam(sys_get_temp_dir(), 'biologie-podcasts-');
-    if ($temporary !== false) {
-        if (@file_put_contents($temporary, json_encode($catalogue, JSON_INVALID_UTF8_SUBSTITUTE | JSON_THROW_ON_ERROR)) === false
-            || !@rename($temporary, $cachePath)) {
+    $saved = $temporary !== false
+        && @file_put_contents($temporary, json_encode($catalogue, JSON_INVALID_UTF8_SUBSTITUTE | JSON_THROW_ON_ERROR)) !== false
+        && @rename($temporary, $cachePath);
+    if (!$saved) {
+        if ($temporary !== false) {
             @unlink($temporary);
         }
+        return $refresh ? null : $catalogue;
     }
     return $catalogue;
+}
+
+function refreshLessonPodcasts(): array
+{
+    $api = podcastCatalogue(PODCAST_API, 'parsePodcastApi', true);
+    $havo = podcastCatalogue(HAVO_PODCAST_OVERVIEW, 'parseHavoPodcastOverview', true);
+    if ($api !== null && $havo !== null) {
+        return [true, 'De catalogus is vernieuwd. Beschikbare podcasts staan bij de bijbehorende basisstoffen.', 'Podcasts bijgewerkt'];
+    }
+
+    $source = $api === null
+        ? ($havo === null ? 'de audio-API en het Havo-overzicht' : 'de audio-API')
+        : 'het Havo-overzicht';
+    return [false, 'De catalogus uit ' . $source . ' kon niet worden opgehaald of opgeslagen.', 'Podcasts niet volledig bijgewerkt'];
 }
 
 function indexPodcast(array &$catalogue, string $url, array $parsed = []): void

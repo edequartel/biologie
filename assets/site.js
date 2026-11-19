@@ -20,8 +20,20 @@
             try { localStorage.setItem(className, String(enabled)); } catch (_) {}
         });
     }
-    document.getElementById('pull-form')?.addEventListener('submit', () => {
-        document.querySelector('#pull-form button').disabled = true;
-        document.getElementById('pull-status').textContent = 'Bezig met bijwerken. Dit kan tot 30 seconden duren.';
+    document.getElementById('pull-form')?.addEventListener('submit', (event) => {
+        const status = document.getElementById('pull-status');
+        if (status.textContent) {
+            event.preventDefault();
+            return;
+        }
+        status.textContent = event.submitter?.value === 'podcasts'
+            ? 'Bezig met podcasts ophalen.'
+            : 'Bezig met bijwerken. Dit kan tot 30 seconden duren.';
+    });
+    window.addEventListener('pageshow', () => {
+        const status = document.getElementById('pull-status');
+        if (status) {
+            status.textContent = '';
+        }
     });
 })();

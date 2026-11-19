@@ -35,7 +35,11 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         http_response_code(403);
         $flash = [false, 'De update is niet toegestaan. Controleer het beheerderswachtwoord.'];
     } else {
-        $flash = pullRepository();
+        $flash = match ($_POST['action'] ?? 'git') {
+            'git' => pullRepository(),
+            'podcasts' => refreshLessonPodcasts(),
+            default => [false, 'Kies een geldige update.'],
+        };
     }
     $_SESSION['flash'] = $flash;
     header('Location: index.php', true, 303);
@@ -117,14 +121,14 @@ $home = !$catalogue && $page === 'README.md' && $selected
         </form>
         <details class="update-panel">
             <summary>Website bijwerken</summary>
-            <p>Haal de nieuwste bestanden op uit Git.</p>
             <form action="index.php" method="post" id="pull-form">
                 <input type="hidden" name="csrf" value="<?= escape($_SESSION['csrf']) ?>">
                 <?php if (getenv('BIOLOGIE_ADMIN_PASSWORD')): ?>
                 <label for="password">Beheerderswachtwoord</label>
                 <input class="form-control" type="password" name="password" id="password" autocomplete="current-password" required>
                 <?php endif; ?>
-                <button class="btn btn-outline-primary" type="submit" <?= canPull() ? '' : 'disabled' ?>>Git pull</button>
+                <button class="btn btn-outline-primary" type="submit" name="action" value="git" <?= canPull() ? '' : 'disabled' ?>>Git pull</button>
+                <button class="btn btn-outline-primary" type="submit" name="action" value="podcasts" <?= canPull() ? '' : 'disabled' ?>>Podcasts ophalen</button>
                 <?php if (!canPull()): ?><p class="small">De beheerder moet de updatefunctie op deze server inschakelen.</p><?php endif; ?>
                 <p id="pull-status" role="status"></p>
             </form>
@@ -133,7 +137,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
     <?php endif; ?>
     <main id="inhoud" tabindex="-1">
         <?php if ($flash): ?>
-        <div class="alert <?= $flash[0] ? 'alert-success' : 'alert-danger' ?>" role="status"><strong><?= $flash[0] ? 'Website bijgewerkt' : 'Bijwerken niet gelukt' ?></strong><pre><?= escape($flash[1]) ?></pre></div>
+        <div class="alert <?= $flash[0] ? 'alert-success' : 'alert-danger' ?>" role="status"><strong><?= escape($flash[2] ?? ($flash[0] ? 'Website bijgewerkt' : 'Bijwerken niet gelukt')) ?></strong><pre><?= escape($flash[1]) ?></pre></div>
         <?php endif; ?>
         <div class="card content-card"><div class="card-body">
         <?php if ($section !== '' && $home): ?>
