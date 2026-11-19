@@ -145,8 +145,9 @@ function lessonPodcast(string $page): string
     if ($episode !== null) {
         $url = escape($episode['url']);
         $title = escape($episode['title']);
+        $filename = escape(rawurldecode(basename($episode['url'])));
         $contents .= '<audio controls="controls" preload="none" aria-label="Podcast ' . $title . '" src="' . $url . '"></audio>'
-            . '<p><a href="' . $url . '">Open de audio voor ' . $title . '</a></p>';
+            . '<p><a href="' . $url . '">' . $filename . '</a></p>';
     } else {
         $contents .= $catalogue === null
             ? '<p>De podcast kon niet worden geladen.</p>'
