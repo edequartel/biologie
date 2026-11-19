@@ -2,6 +2,7 @@
 declare(strict_types=1);
 
 require_once __DIR__ . '/vendor/Parsedown.php';
+require_once __DIR__ . '/podcasts.php';
 
 function escape(string $value): string
 {
@@ -117,7 +118,7 @@ function localUrl(string $url, string $document): string
         . (isset($parts['fragment']) ? '#' . rawurlencode(rawurldecode($parts['fragment'])) : '');
 }
 
-function renderMarkdown(string $source, string $document): string
+function renderMarkdown(string $source, string $document, bool $withPodcast = false): string
 {
     // Hidden teacher answers and notes must never be included in the response.
     $source = preg_replace('/<!--.*?(?:-->|$)/s', '', $source);
@@ -149,6 +150,19 @@ function renderMarkdown(string $source, string $document): string
         $count = $ids[$slug] ?? 0;
         $ids[$slug] = $count + 1;
         $heading->setAttribute('id', $slug . ($count ? '-' . $count : ''));
+    }
+    if ($withPodcast) {
+        foreach ($dom->getElementsByTagName('h2') as $heading) {
+            if (preg_match('/^(?:Basisstof|Basistof|Basis)\h+\d+\b/i', $heading->textContent)) {
+                $podcast = lessonPodcast($document);
+                if ($podcast !== '') {
+                    $fragment = $dom->createDocumentFragment();
+                    $fragment->appendXML($podcast);
+                    $heading->parentNode->insertBefore($fragment, $heading->nextSibling);
+                }
+                break;
+            }
+        }
     }
     $output = '';
     foreach ($dom->getElementById('markdown-root')->childNodes as $node) {

@@ -37,6 +37,7 @@ h3 { font-size: 1.3rem; margin-top: 1.5rem; }
 .markdown p, .markdown ul, .markdown ol { margin-bottom: 1rem; }
 .markdown li { margin-block: .4rem; }
 .markdown img { max-width: 100%; height: auto; }
+.lesson-podcast audio { display: block; width: min(100%, 32rem); margin-bottom: .5rem; }
 .markdown table { display: block; overflow-x: auto; width: 100%; border-collapse: collapse; margin-block: 1.5rem; }
 .markdown th, .markdown td { border: 1px solid #bacbc0; padding: .7rem; min-width: 120px; }
 .markdown th { background: #edf4ee; }

@@ -2,6 +2,8 @@
 
 Vereist: PHP 8.1 of nieuwer, met DOM en mbstring. De Markdown-parser is meegeleverd.
 Tabler 1.4.0 wordt geladen via jsDelivr; voor de Tabler-opmaak is internet nodig.
+Voor podcasts heeft PHP met `allow_url_fopen` toegang nodig tot
+`https://www.tastenbraille.com`. De catalogus wordt een uur lokaal bewaard.
 Parsedown 1.7.4 is lokaal meegeleverd met twee nullable type-aanpassingen voor PHP 8.4+.
 
 Start vanuit de projectmap:
