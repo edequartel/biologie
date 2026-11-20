@@ -13,6 +13,16 @@
 
 [Download uitlegafbeeldingen GT (PDF, liggend A4)](../output/pdf/biologie-gt-uitlegafbeeldingen.pdf)
 
+#### Thema 11 Zintuigen ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
+
+- [Basisstof 1 - Het zintuigenstelsel](lessen/t11b1.md)
+- [Basisstof 2 - Tien zintuigen van de mens](lessen/t11b2.md)
+- [Basisstof 3 - De ogen](lessen/t11b3.md)
+- [Basisstof 4 - De iris en de ooglens](lessen/t11b4.md)
+- [Basisstof 5 - Het netvlies](lessen/t11b5.md)
+- [Basisstof 6 - De oren](lessen/t11b6.md)
+- [Samenvatting Thema 11](samenvattingen/T4_T11_Zintuigen_-_Samenvatting.pdf)
+
 #### Thema 10 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t10b1.md)

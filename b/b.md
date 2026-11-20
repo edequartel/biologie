@@ -4,6 +4,15 @@
 
 [Download uitlegafbeeldingen BBL (PDF, liggend A4)](../output/pdf/biologie-bbl-uitlegafbeeldingen.pdf)
 
+#### Thema 9 Zintuigen ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
+
+- [Basisstof 1 - Het zintuigenstelsel](lessen/t9b1.md)
+- [Basisstof 2 - Zien, horen en je evenwicht bewaren](lessen/t9b2.md)
+- [Basisstof 3 - Voelen, ruiken en proeven](lessen/t9b3.md)
+- [Basisstof 4 - De ogen](lessen/t9b4.md)
+- [Basisstof 5 - De oren](lessen/t9b5.md)
+- [Samenvatting Thema 9](samenvattingen/T9_Zintuigen.pdf)
+
 #### Thema 8 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1 - Het zenuwstelsel](lessen/t8b1.md)

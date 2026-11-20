@@ -3,7 +3,7 @@ declare(strict_types=1);
 require dirname(__DIR__) . '/website/functions.php';
 
 $pages = $overviews = [];
-foreach (['gt' => 59, 'b' => 49, 'k' => 49, 'havo' => 55] as $level => $minimum) {
+foreach (['gt' => 65, 'b' => 54, 'k' => 49, 'havo' => 55] as $level => $minimum) {
     $overviewPath = "$level/$level.md";
     $overviews[$level] = renderMarkdown((string) file_get_contents(contentPath($overviewPath)), $overviewPath);
     preg_match_all('~href="index\.php\?page=([^"]+)">Basisstof\b~i', $overviews[$level], $links);
@@ -16,7 +16,7 @@ foreach (['gt' => 59, 'b' => 49, 'k' => 49, 'havo' => 55] as $level => $minimum)
 $themeDirectories = [
     'organen-en-cellen', 'voortplanting-en-seksualiteit', 'erfelijkheid-en-evolutie',
     'ordening', 'stevigheid-en-beweging', 'ecologie', 'duurzaam-leven',
-    'planten', 'regeling', 'dna', 'stofwisseling-in-de-cel',
+    'planten', 'regeling', 'zintuigen', 'dna', 'stofwisseling-in-de-cel',
     'inleiding-in-de-biologie', 'genetica-en-erfelijkheid', 'evolutie',
     'waarneming-en-gedrag', 'ecologie-en-milieu',
 ];
@@ -84,7 +84,7 @@ $badge = contentPath('media/lesson-image-badge.png');
 if ($badge === null || !getimagesize($badge)) {
     throw new RuntimeException('Thema-icoon ontbreekt of is ongeldig.');
 }
-foreach ([1, 2, 3, 4, 5, 6, 7, 9, 10] as $theme) {
+foreach ([1, 2, 3, 4, 5, 6, 7, 9, 10, 11] as $theme) {
     if (!preg_match('~<h4 id="thema-' . $theme . '-[^"]+">[^<]*<img\b[^>]*alt="Met uitlegafbeeldingen"~', $overview)) {
         throw new RuntimeException('Toegankelijk icoon ontbreekt bij GT-thema ' . $theme);
     }
@@ -101,7 +101,7 @@ echo "OK: Alle havo-basisstoffen in het lesoverzicht hebben een uitlegafbeelding
 $basis = (string) file_get_contents(contentPath('b/b.md'));
 $kader = (string) file_get_contents(contentPath('k/k.md'));
 foreach ($overviews['b-lessons'] as $lesson) {
-    if (!str_starts_with($lesson, 'b/lessen/t8b') && !in_array($lesson, $overviews['k-lessons'], true)) {
+    if (!preg_match('~^b/lessen/t[89]b\d+\.md$~D', $lesson) && !in_array($lesson, $overviews['k-lessons'], true)) {
         throw new RuntimeException('Gedeelde basisstof ontbreekt in KBL: ' . $lesson);
     }
 }
