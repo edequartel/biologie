@@ -14,6 +14,15 @@
 
 [Download uitlegafbeeldingen havo (PDF, liggend A4)](../output/pdf/biologie-havo-uitlegafbeeldingen.pdf)
 
+## Thema 10 Voeding en vertering - Havo 5 ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
+
+- [Basisstof 1, Voedingsstoffen](lessen/t10b1.md)
+- [Basisstof 2, Het verteringsstelsel](lessen/t10b2.md)
+- [Basisstof 3, Chemische vertering](lessen/t10b3.md)
+- [Basisstof 4, Resorptie](lessen/t10b4.md)
+- [Basisstof 5, Gezonde voeding (SE)](lessen/t10b5.md)
+- [Samenvatting Thema 10 Voeding en vertering](samenvattingen/T10-Voeding-en-vertering-samenvatting.pdf)
+
 ## Thema 9 DNA - Havo 5 ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 - [Basisstof 1, Bouw en functies van DNA](lessen/t9b1.md)
@@ -178,5 +187,6 @@
 
 ### Samenvattingen (pdf)
 * [Havo 5 - Thema 9 DNA](samenvattingen/havo5%20T9%20DNA-samenvatting.pdf)
+* [Havo 5 - Thema 10 Voeding en vertering](samenvattingen/T10-Voeding-en-vertering-samenvatting.pdf)
 
 

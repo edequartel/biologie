@@ -3,7 +3,7 @@ declare(strict_types=1);
 require dirname(__DIR__) . '/website/functions.php';
 
 $pages = $overviews = [];
-foreach (['gt' => 65, 'b' => 54, 'k' => 49, 'havo' => 55] as $level => $minimum) {
+foreach (['gt' => 65, 'b' => 54, 'k' => 49, 'havo' => 60] as $level => $minimum) {
     $overviewPath = "$level/$level.md";
     $overviews[$level] = renderMarkdown((string) file_get_contents(contentPath($overviewPath)), $overviewPath);
     preg_match_all('~href="index\.php\?page=([^"]+)">Basisstof\b~i', $overviews[$level], $links);
@@ -16,7 +16,7 @@ foreach (['gt' => 65, 'b' => 54, 'k' => 49, 'havo' => 55] as $level => $minimum)
 $themeDirectories = [
     'organen-en-cellen', 'voortplanting-en-seksualiteit', 'erfelijkheid-en-evolutie',
     'ordening', 'stevigheid-en-beweging', 'ecologie', 'duurzaam-leven',
-    'planten', 'regeling', 'zintuigen', 'dna', 'stofwisseling-in-de-cel',
+    'planten', 'regeling', 'zintuigen', 'dna', 'stofwisseling-in-de-cel', 'voeding-en-vertering',
     'inleiding-in-de-biologie', 'genetica-en-erfelijkheid', 'evolutie',
     'waarneming-en-gedrag', 'ecologie-en-milieu',
 ];
@@ -60,7 +60,7 @@ foreach (array_unique($pages) as $page) {
         || !in_array($path[1], $themeDirectories, true)) {
         throw new RuntimeException('Afbeelding staat niet in een themamap: ' . $page);
     }
-    if (preg_match('~^havo/lessen/(t[123467]b\d+)\.md$~D', $page, $lesson)
+    if (preg_match('~^havo/lessen/(t(?:[123467]|10)b\d+)\.md$~D', $page, $lesson)
         && basename($file) !== 'havo-' . $lesson[1] . '-uitleg.png') {
         throw new RuntimeException('Eigen havo-afbeelding ontbreekt: ' . $page);
     }
@@ -91,7 +91,7 @@ foreach ([1, 2, 3, 4, 5, 6, 7, 9, 10, 11] as $theme) {
 }
 echo "OK: GT-thema's met uitlegafbeeldingen hebben een icoon met alt-tekst.\n";
 
-foreach (range(1, 9) as $theme) {
+foreach (range(1, 10) as $theme) {
     if (!preg_match('~<h2 id="thema-' . $theme . '-[^"]+">[^<]*<img\b[^>]*alt="Met uitlegafbeeldingen"~', $overviews['havo'])) {
         throw new RuntimeException('Toegankelijk icoon ontbreekt bij havo-thema ' . $theme);
     }
