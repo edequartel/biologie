@@ -75,5 +75,5 @@ body.high-contrast { background: #fff; color: #000; --bio-green: #003d24; --bio-
 [data-bs-theme="dark"] .high-contrast a { color: #b5ffcf; }
 [data-bs-theme="dark"] .high-contrast .nav-item[aria-current] { background: #b5ffcf; color: #000; }
 @media (max-width: 800px) { .site-layout { grid-template-columns: 1fr; gap: 1rem; padding-top: 1rem; } .sidebar nav { display: flex; flex-wrap: wrap; gap: .3rem; } .search-form { grid-template-columns: 1fr auto; margin-block: 1rem; } .search-form label { grid-column: 1 / -1; } .brand-detail { display: none; } footer { flex-direction: column; gap: .2rem; } }
-@media print { .navbar, .sidebar, footer, .skip-link, .page-heading { display: none; } .site-layout { display: block; } .content-card { border: 0; box-shadow: none; } body { background: white; } }
+@media print { .navbar, .sidebar, footer, .skip-link, .page-heading, .theme-sort { display: none; } .site-layout { display: block; } .content-card { border: 0; box-shadow: none; } body { background: white; } }
 @media print { [data-bs-theme="dark"] body, [data-bs-theme="dark"] .content-card { background: #fff !important; color: #000 !important; } [data-bs-theme="dark"] .markdown :is(h1, h2, h3, h4, h5, h6, a, pre, th, td, blockquote) { color: #000 !important; background: #fff !important; } }

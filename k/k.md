@@ -4,6 +4,8 @@
 
 [Download uitlegafbeeldingen KBL (PDF, liggend A4)](../output/pdf/biologie-kbl-uitlegafbeeldingen.pdf)
 
+De thema’s buiten Regeling worden gedeeld met Basis en volgen hier de Basis-indeling. Gebruik voor Kader de nummering in de samenvattingen en begrippenlijsten hieronder.
+
 ### Thema 9 Regeling ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 
 Regeling is bij Kader thema 9; bij Basis is dit thema 8.
@@ -17,10 +19,6 @@ Regeling is bij Kader thema 9; bij Basis is dit thema 8.
 - [Extra 7 - Diabetes (verdieping)](lessen/t9b7.md)
 - [Extra 8 - Hersenaandoeningen (verbreding)](lessen/t9b8.md)
 - [Onderzoek - Een interview voorbereiden en presenteren](lessen/t9o1.md)
-
-## Overige lessen, gedeeld met Basis
-
-De onderstaande lessen worden gedeeld met Basis. De themanummers in deze lessen volgen de Basis-indeling; gebruik voor Kader de nummering in de samenvattingen en begrippenlijsten hieronder.
 
 ### Planten ![Met uitlegafbeeldingen](../media/lesson-image-badge.png "Met uitlegafbeeldingen")
 

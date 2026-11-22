@@ -49,6 +49,7 @@ $flash = $_SESSION['flash'] ?? null;
 unset($_SESSION['flash']);
 $documents = documents();
 $page = movedContentPath(is_string($_GET['page'] ?? null) ? $_GET['page'] : 'README.md');
+$themesAscending = ($_GET['themas'] ?? null) === 'oplopend';
 $selected = $documents[$page] ?? null;
 $query = is_string($_GET['q'] ?? null) ? trim($_GET['q']) : '';
 $catalogue = isset($_GET['browse']) || $query !== '';
@@ -174,7 +175,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <?php endforeach; ?>
             <?php if (!$matches): ?><p>Geen bestanden gevonden. Probeer een andere zoekterm.</p><?php endif; ?>
         <?php elseif ($selected): ?>
-            <article class="markdown"><?= $home ? $home['content'] : renderMarkdown((string) file_get_contents(contentPath($page)), $page, $lesson) ?></article>
+            <article class="markdown"><?= $home ? $home['content'] : renderMarkdown((string) file_get_contents(contentPath($page)), $page, $lesson, $themesAscending) ?></article>
         <?php else: ?>
             <h1>Pagina niet gevonden</h1><p>Dit Markdown-bestand bestaat niet of is niet beschikbaar.</p><a href="index.php?browse=1">Bekijk alle lesmaterialen</a>
         <?php endif; ?>

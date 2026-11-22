@@ -118,7 +118,68 @@ function localUrl(string $url, string $document): string
         . (isset($parts['fragment']) ? '#' . rawurlencode(rawurldecode($parts['fragment'])) : '');
 }
 
-function renderMarkdown(string $source, string $document, bool $withPodcast = false): string
+function sortLessonThemes(DOMDocument $dom, string $document, bool $ascending): void
+{
+    $themeTag = ['b/b.md' => 'h4', 'gt/gt.md' => 'h4', 'havo/havo.md' => 'h2', 'k/k.md' => 'h3'][$document] ?? null;
+    $lessons = $dom->getElementById('lessen');
+    if ($themeTag === null || $lessons === null) {
+        return;
+    }
+
+    $themes = [];
+    for ($node = $lessons->nextElementSibling; $node !== null; $node = $node->nextElementSibling) {
+        if ($node->tagName === $themeTag && preg_match('/^Thema\h+(\d+)\b/i', $node->textContent, $match)) {
+            $themes[] = ['number' => (int) $match[1], 'nodes' => [$node]];
+        } elseif ($document === 'k/k.md' && $node->tagName === $themeTag) {
+            $themes[] = ['number' => null, 'nodes' => [$node]];
+        } elseif (preg_match('/^h[1-6]$/D', $node->tagName) && $node->tagName <= $themeTag) {
+            break;
+        } elseif ($themes) {
+            $themes[array_key_last($themes)]['nodes'][] = $node;
+        }
+    }
+    if (count($themes) < 2) {
+        return;
+    }
+
+    // Kader's shared themes get their numbers from the linked Basis lessons.
+    foreach ($themes as &$theme) {
+        if ($theme['number'] !== null) {
+            continue;
+        }
+        foreach ($theme['nodes'] as $element) {
+            foreach ($element->getElementsByTagName('a') as $link) {
+                if (preg_match('~^index\.php\?page=b/lessen/t(\d+)b\d+\.md(?:#|$)~', rawurldecode($link->getAttribute('href')), $match)) {
+                    $theme['number'] = (int) $match[1];
+                    break 2;
+                }
+            }
+        }
+    }
+    unset($theme);
+
+    $firstTheme = $themes[0]['nodes'][0];
+    $form = $dom->createDocumentFragment();
+    $form->appendXML('<form class="theme-sort" method="get" action="index.php#lessen">'
+        . '<input type="hidden" name="page" value="' . escape($document) . '" />'
+        . '<button class="btn btn-outline-primary" type="submit" name="themas" value="' . ($ascending ? 'aflopend' : 'oplopend') . '">'
+        . ($ascending ? 'Thema’s van hoog naar laag' : 'Thema’s van laag naar hoog') . '</button></form>');
+    $lessons->parentNode->insertBefore($form, $firstTheme);
+
+    usort($themes, static function (array $left, array $right) use ($ascending): int {
+        if ($left['number'] === null || $right['number'] === null) {
+            return ($left['number'] === null) <=> ($right['number'] === null);
+        }
+        return $ascending ? $left['number'] <=> $right['number'] : $right['number'] <=> $left['number'];
+    });
+    foreach ($themes as $theme) {
+        foreach ($theme['nodes'] as $element) {
+            $lessons->parentNode->insertBefore($element, $node);
+        }
+    }
+}
+
+function renderMarkdown(string $source, string $document, bool $withPodcast = false, bool $themesAscending = false): string
 {
     // Hidden teacher answers and notes must never be included in the response.
     $source = preg_replace('/<!--.*?(?:-->|$)/s', '', $source);
@@ -151,6 +212,7 @@ function renderMarkdown(string $source, string $document, bool $withPodcast = fa
         $ids[$slug] = $count + 1;
         $heading->setAttribute('id', $slug . ($count ? '-' . $count : ''));
     }
+    sortLessonThemes($dom, $document, $themesAscending);
     if ($withPodcast) {
         foreach ($dom->getElementsByTagName('h2') as $heading) {
             if (preg_match('/^(?:Basisstof|Basistof|Basis)\h+\d+\b/i', $heading->textContent)) {
