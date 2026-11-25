@@ -2,6 +2,12 @@
 declare(strict_types=1);
 require __DIR__ . '/website/functions.php';
 
+if (($_GET['section'] ?? null) === 'lesdoelen') {
+    $lessonCatalogFromHome = true;
+    require __DIR__ . '/lesvoorbereiding/index.php';
+    return;
+}
+
 header('X-Content-Type-Options: nosniff');
 header('Referrer-Policy: same-origin');
 header("Content-Security-Policy: default-src 'self'; style-src 'self' https://cdn.jsdelivr.net; script-src 'self'; img-src 'self' https: data:; media-src 'self' " . PODCAST_ORIGIN . "; font-src 'self' https://cdn.jsdelivr.net; frame-ancestors 'self'; base-uri 'self'; form-action 'self'");
@@ -110,6 +116,7 @@ $home = !$catalogue && $page === 'README.md' && $selected
             <?php foreach ($sectionNames as $key => $label): ?>
             <a class="nav-item" href="index.php?section=<?= escape($key) ?>" <?= $section === $key ? 'aria-current="page"' : '' ?>><?= escape($label) ?></a>
             <?php endforeach; ?>
+            <a class="nav-item" href="index.php?section=lesdoelen">Lesdoelen downloaden</a>
             <?php foreach (['openlessen/openlessen.md'] as $entry): ?>
             <?php if (isset($documents[$entry])): ?>
             <a class="nav-item" href="index.php?page=<?= rawurlencode($entry) ?>" <?= !$catalogue && $page === $entry ? 'aria-current="page"' : '' ?>><?= escape($groups[$documents[$entry]['group']] ?? $documents[$entry]['title']) ?></a>
