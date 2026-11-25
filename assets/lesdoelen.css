@@ -65,6 +65,17 @@
 }
 .library-total strong { font-size: 1.85rem; line-height: 1.15; }
 
+.library-bundles {
+    margin-block: 1rem;
+    padding: 1rem clamp(1rem, 3vw, 1.45rem);
+    border: 1px solid var(--library-line);
+    border-radius: .9rem;
+    background: var(--library-surface);
+}
+.lesson-library .library-bundles h2 { margin: 0 0 .55rem; color: var(--library-text); font-size: 1.1rem; }
+.library-bundles ul { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; padding: 0; margin: 0; }
+.library-bundles li { max-width: 100%; }
+
 .library-search {
     display: grid;
     grid-template-columns: minmax(0, 2.1fr) minmax(0, 1.18fr) minmax(0, 1fr) auto;

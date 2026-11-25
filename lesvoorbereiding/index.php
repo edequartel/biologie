@@ -17,6 +17,14 @@ $levels = [
     'GT' => ['Vmbo GT', ['gt/gt.md']],
     'BK' => ['Vmbo Basis & Kader', ['b/b.md', 'k/k.md']],
 ];
+$bundles = [];
+foreach ($levels as $level => [$label]) {
+    $filename = "Lesdoelen $level.docx";
+    $path = __DIR__ . '/' . $filename;
+    if (!is_link($path) && is_file($path) && is_readable($path)) {
+        $bundles[$level] = ['path' => $path, 'name' => $filename, 'label' => $label];
+    }
+}
 $themeTitles = [];
 $themes = [];
 $lessons = [];
@@ -70,8 +78,8 @@ foreach ($levels as $level => [$label, $indexes]) {
 
 if (isset($_GET['download'])) {
     $key = $_GET['download'];
-    $lesson = is_string($key) ? ($lessons[$key] ?? null) : null;
-    $file = $lesson ? @fopen($lesson['path'], 'rb') : false;
+    $download = is_string($key) ? ($bundles[$key] ?? $lessons[$key] ?? null) : null;
+    $file = $download ? @fopen($download['path'], 'rb') : false;
     if ($file === false) {
         http_response_code(404);
         header('Content-Type: text/plain; charset=UTF-8');
@@ -79,7 +87,7 @@ if (isset($_GET['download'])) {
     }
     $stat = fstat($file);
     header('Content-Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document');
-    header("Content-Disposition: attachment; filename*=UTF-8''" . rawurlencode($lesson['name']));
+    header("Content-Disposition: attachment; filename*=UTF-8''" . rawurlencode($download['name']));
     if ($stat !== false) {
         header('Content-Length: ' . $stat['size']);
     }
@@ -155,6 +163,21 @@ $countLabel = static fn (int $count): string => $count . ($count === 1 ? ' docum
         </div>
         <p class="library-total"><strong><?= count($lessons) ?></strong> Word-documenten</p>
     </div>
+
+    <?php if ($bundles): ?>
+        <section class="library-bundles" aria-labelledby="bundels">
+            <h2 id="bundels">Alle lessen per niveau</h2>
+            <ul>
+                <?php foreach ($bundles as $code => $bundle): ?>
+                    <li>
+                        <a class="library-download" href="<?= escape($downloadPrefix . $code) ?>">
+                            Download <?= escape($bundle['label']) ?> (.docx)
+                        </a>
+                    </li>
+                <?php endforeach; ?>
+            </ul>
+        </section>
+    <?php endif; ?>
 
     <form action="index.php#documenten" method="get" class="library-search" role="search" aria-label="Lesdoelen zoeken">
         <?php if ($fromMainSite): ?>
