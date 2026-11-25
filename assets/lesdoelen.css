@@ -149,6 +149,7 @@
 .library-list li + li { border-top: 1px solid var(--library-line); }
 .library-lesson-code { color: var(--library-muted); font-size: .875rem; font-weight: 700; }
 .library-lesson-title { font-weight: 630; overflow-wrap: anywhere; }
+.library-downloads { display: flex; flex-wrap: wrap; gap: .4rem; }
 .lesson-library .library-download {
     display: inline-flex;
     align-items: center;
@@ -203,7 +204,7 @@
 @media (max-width: 30rem) {
     .library-search { grid-template-columns: minmax(0, 1fr); }
     .library-list li { grid-template-columns: auto minmax(0, 1fr); }
-    .library-download { grid-column: 2; justify-self: start; }
+    .library-downloads { grid-column: 2; }
 }
 @media (forced-colors: active) {
     .library-field select { appearance: auto; }

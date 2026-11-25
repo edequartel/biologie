@@ -17,12 +17,21 @@ $levels = [
     'GT' => ['Vmbo GT', ['gt/gt.md']],
     'BK' => ['Vmbo Basis & Kader', ['b/b.md', 'k/k.md']],
 ];
+$downloads = [];
 $bundles = [];
 foreach ($levels as $level => [$label]) {
-    $filename = "Lesdoelen $level.docx";
-    $path = __DIR__ . '/' . $filename;
-    if (!is_link($path) && is_file($path) && is_readable($path)) {
-        $bundles[$level] = ['path' => $path, 'name' => $filename, 'label' => $label];
+    foreach (['', 'Les A', 'Les B'] as $variant) {
+        $suffix = $variant === '' ? '' : " $variant";
+        $key = $level . $suffix;
+        $filename = "Lesdoelen $key.docx";
+        $path = __DIR__ . '/' . $filename;
+        if (!is_link($path) && is_file($path) && is_readable($path)) {
+            $downloads[$key] = ['path' => $path, 'name' => $filename];
+            $bundles[$level][$variant] = ['key' => $key, 'label' => $label . $suffix];
+        }
+    }
+    if (isset($bundles[$level]['Les A'], $bundles[$level]['Les B'])) {
+        unset($bundles[$level]['']);
     }
 }
 $themeTitles = [];
@@ -58,19 +67,24 @@ foreach ($levels as $level => [$label, $indexes]) {
         foreach ($paths as $path) {
             $name = basename($path);
             $prefix = preg_quote("$level $theme ", '/');
-            if (!preg_match('/^' . $prefix . '([A-Z][1-9][0-9]*) (.+) lesdoel\.docx$/Du', $name, $parts)
+            if (!preg_match('/^' . $prefix . '([A-Z][1-9][0-9]*) (.+) lesdoel(?: (Les [AB]))?\.docx$/Du', $name, $parts)
                 || is_link($path) || !is_file($path) || !is_readable($path)) {
                 continue;
             }
             $key = "$level/$theme/$name";
-            $lessons[$key] = [
-                'path' => $path,
-                'name' => $name,
+            $downloads[$key] = ['path' => $path, 'name' => $name];
+            $variant = $parts[3] ?? '';
+            $basename = "$level $theme {$parts[1]} {$parts[2]} lesdoel.docx";
+            $lessonKey = "$level/$theme/$basename";
+            $lessons[$lessonKey] ??= [
+                'name' => $basename,
                 'level' => $level,
                 'theme' => $theme,
                 'code' => $parts[1],
                 'title' => $parts[2],
+                'files' => [],
             ];
+            $lessons[$lessonKey]['files'][$variant] = $key;
             $themes[$theme] = true;
         }
     }
@@ -78,7 +92,7 @@ foreach ($levels as $level => [$label, $indexes]) {
 
 if (isset($_GET['download'])) {
     $key = $_GET['download'];
-    $download = is_string($key) ? ($bundles[$key] ?? $lessons[$key] ?? null) : null;
+    $download = is_string($key) ? ($downloads[$key] ?? null) : null;
     $file = $download ? @fopen($download['path'], 'rb') : false;
     if ($file === false) {
         http_response_code(404);
@@ -104,8 +118,13 @@ $terms = preg_split('/[^\p{L}\p{N}]+/u', mb_strtolower($query), -1, PREG_SPLIT_N
 $filtered = $levelFilter !== '' || $themeFilter !== '' || $query !== '';
 $groups = [];
 $resultCount = 0;
+$documentCount = 0;
 
 foreach ($lessons as $key => $lesson) {
+    if (isset($lesson['files']['Les A'], $lesson['files']['Les B'])) {
+        unset($lesson['files']['']);
+    }
+    $documentCount += count($lesson['files']);
     $level = $lesson['level'];
     $theme = $lesson['theme'];
     if (($levelFilter !== '' && $level !== $levelFilter) || ($themeFilter !== '' && $theme !== $themeFilter)) {
@@ -126,7 +145,7 @@ foreach ($lessons as $key => $lesson) {
     $resultCount++;
 }
 
-$countLabel = static fn (int $count): string => $count . ($count === 1 ? ' document' : ' documenten');
+$countLabel = static fn (int $count): string => $count . ($count === 1 ? ' les' : ' lessen');
 ?>
 <!doctype html>
 <html lang="nl">
@@ -159,21 +178,23 @@ $countLabel = static fn (int $count): string => $count . ($count === 1 ? ' docum
         <div>
             <p class="library-context">Lesvoorbereiding biologie</p>
             <h1>Lesdoelen downloaden</h1>
-            <p>Vind het Word-document voor je les op naam, niveau of themacode.</p>
+            <p>Les A gebruikt de website. In les B kijk je de boekopgaven na.</p>
         </div>
-        <p class="library-total"><strong><?= count($lessons) ?></strong> Word-documenten</p>
+        <p class="library-total"><strong><?= $documentCount ?></strong> Word-documenten</p>
     </div>
 
     <?php if ($bundles): ?>
         <section class="library-bundles" aria-labelledby="bundels">
             <h2 id="bundels">Alle lessen per niveau</h2>
             <ul>
-                <?php foreach ($bundles as $code => $bundle): ?>
-                    <li>
-                        <a class="library-download" href="<?= escape($downloadPrefix . $code) ?>">
-                            Download <?= escape($bundle['label']) ?> (.docx)
-                        </a>
-                    </li>
+                <?php foreach ($bundles as $variants): ?>
+                    <?php foreach ($variants as $bundle): ?>
+                        <li>
+                            <a class="library-download" href="<?= escape($downloadPrefix . rawurlencode($bundle['key'])) ?>">
+                                Download <?= escape($bundle['label']) ?> (.docx)
+                            </a>
+                        </li>
+                    <?php endforeach; ?>
                 <?php endforeach; ?>
             </ul>
         </section>
@@ -233,11 +254,16 @@ $countLabel = static fn (int $count): string => $count . ($count === 1 ? ' docum
                         <span><?= $countLabel(count($items)) ?></span>
                     </header>
                     <ul class="library-list">
-                        <?php foreach ($items as $key => $lesson): ?>
+                        <?php foreach ($items as $lesson): ?>
                             <li>
                                 <span class="library-lesson-code"><?= $lesson['code'] ?></span>
                                 <span class="library-lesson-title"><?= escape($lesson['title']) ?></span>
-                                <a class="library-download" href="<?= escape($downloadPrefix . rawurlencode($key)) ?>" aria-label="<?= escape('Download .docx: ' . $lesson['title'] . ', ' . "$level $theme " . $lesson['code']) ?>">Download .docx</a>
+                                <div class="library-downloads">
+                                    <?php foreach ($lesson['files'] as $variant => $key): ?>
+                                        <?php $linkLabel = $variant === '' ? 'Download .docx' : "$variant (.docx)"; ?>
+                                        <a class="library-download" href="<?= escape($downloadPrefix . rawurlencode($key)) ?>" aria-label="<?= escape($linkLabel . ' – ' . $lesson['title'] . ', ' . "$level $theme " . $lesson['code']) ?>"><?= escape($linkLabel) ?></a>
+                                    <?php endforeach; ?>
+                                </div>
                             </li>
                         <?php endforeach; ?>
                     </ul>
